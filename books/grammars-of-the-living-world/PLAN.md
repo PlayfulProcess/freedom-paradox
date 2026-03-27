@@ -94,15 +94,15 @@ The Trap of Solving must justify why the book doesn't offer a solution while sim
 
 | Chapter | Status | Words |
 |---------|--------|-------|
-| Ch 1: When Stories Lose Their Homes | **DRAFTED** | ~2,700 |
-| Ch 2: The Degradation of the Hearth | **DRAFTED** | ~1,550 |
-| Ch 3: The Polarization of the Polis | Blocked (needs research) | — |
+| Ch 1: When Stories Lose Their Homes | **DRAFTED** | ~2,695 |
+| Ch 2: The Degradation of the Hearth | **DRAFTED** | ~1,995 |
+| Ch 3: The Polarization of the Polis | **DRAFTED** | ~1,825 |
 | Ch 4: Machines for Constructing Stories | **DRAFTED** | ~1,564 |
-| Ch 5: Survival | **DRAFTED** | ~1,391 |
+| Ch 5: Survival | **DRAFTED** | ~1,695 |
 | Ch 6: Tarot's Double Life | **DRAFTED** | ~1,714 |
-| Ch 7: The Living Cosmos | **DRAFTED** | ~1,164 |
+| Ch 7: The Living Cosmos | **DRAFTED** | ~1,477 |
 | Ch 8: The Trap of Solving | **DRAFTED** | ~1,510 |
 | Ch 9: Grammars of the Living World | **DRAFTED** | ~1,634 |
-| **TOTAL** | **8 of 9 drafted** | **~13,221** |
+| **TOTAL** | **9 of 9 drafted** | **~16,109** |
 
 *Plan updated: 2026-03-27*

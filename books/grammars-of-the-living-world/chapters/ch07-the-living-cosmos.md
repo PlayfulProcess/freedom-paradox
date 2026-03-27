@@ -24,6 +24,16 @@ The most explicit bridge between astrology and tantra runs through the Dashamaha
 
 The concept of *Kala* — both "time" and "death" — may be the deepest bridge. *Mahakala*, Great Time, is a form of Shiva representing eternity beyond cyclic time. *Mahakali* is his Shakti counterpart. Manifest time — *kala* — is what Jyotish maps. Unmanifest time — Mahakala — is what tantric realization aims to penetrate. The astrologer reads the clock. The tantric practitioner asks who is doing the reading.
 
+This matters for the book's argument because it reveals what was lost when astrology was disenchanted. Modern Western astrology reads the clock and calls it insight. Jyotish reads the clock and asks about the nature of time itself. The grammar is the same — planets, houses, aspects, transits — but the depth of the inquiry is different by orders of magnitude. One produces a horoscope. The other produces a contemplative practice.
+
+---
+
+The *kriya/karma* distinction makes this operational. In non-dual Shaiva Tantra, *kriyā-śakti* is one of the five powers of absolute Consciousness — "the Power of Acting." When this power operates through the contracted individual self — the ego believing itself to be a separate agent — the result is *karma*: bound, effortful action that creates impressions and binds awareness to the past. When the same power operates through an individual who has "recognized" their identity with the whole, the result is *kriya*: spontaneous, frictionless, divinely-aligned action that does not bind.
+
+Parker Palmer reaches the same structural insight from within the Quaker tradition. His core thesis: "Before you tell your life what you intend to do with it, listen for what it intends to do with you." Palmer's concept of "functional atheism" — the belief that ultimate responsibility for everything rests with us, "a conviction held even by people who talk a good game about God" — is *karma* dressed in Western clothes. The ego believes it is the sole agent. Palmer's alternative — listening to what life wants to do through you — is *kriya* in Quaker language.
+
+This convergence — a tenth-century Kashmiri philosopher, a twentieth-century American Quaker, a living tradition of Vedic astrology — is not coincidence. It is the grammars pointing at the same thing from different positions. The cosmos is alive. The appropriate response to a living cosmos is not prediction or control but attention and recognition. The grammar is the technology for making that attention structured and repeatable.
+
 ---
 
 Christopher Wallis, who holds an MPhil from Oxford and a PhD from Berkeley in Sanskrit, provides the metaphysical architecture for what the mathematics and the mythology point toward. His teaching, drawn from Abhinavagupta's *Tantraloka*, is that *svātantrya-śakti* — the Power of Autonomy — is the one fundamental quality of Consciousness, and it belongs exclusively to the whole, not to individual parts.

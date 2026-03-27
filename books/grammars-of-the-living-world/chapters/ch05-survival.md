@@ -42,6 +42,16 @@ And when Pamela Colman Smith illustrated the Rider-Waite-Smith deck in 1909, cre
 
 ---
 
+The Maya codices provide the counterexample — what total destruction looks like. Of the thousands of books produced by Maya civilization — bark-paper manuscripts recording astronomy, history, ritual, and prophecy — exactly four survive. The rest were burned by Spanish friars, most notably Diego de Landa, who in July 1562 ordered the destruction of Maya manuscripts and images at Maní. His stated justification: they "contained nothing in which there were not to be seen superstition and lies of the devil." An entire civilization's written record, reduced to four fragments preserved in European libraries named after the cities where they ended up — Dresden, Paris, Madrid, and a fourth discovered in 2016.
+
+The Maya had grammars. The Long Count calendar was a combinatorial system of extraordinary mathematical sophistication — base-20 arithmetic generating cycles within cycles, mapping time across thousands of years. The *Tzolk'in* ritual calendar combined twenty day-names with thirteen numbers to produce a 260-day cycle used for divination and ceremony. These systems had the five properties this book defined in Chapter 4: finite vocabulary, combinatorial generation, randomness as portal, practitioner as participant, modeling of change.
+
+They did not survive. The manuscripts that encoded them were burned. The priests who carried them were killed or forcibly converted. The languages that gave them meaning were suppressed. What remains are fragments — reconstructed by modern scholars from the four surviving codices, from inscriptions on stone monuments, from colonial-era transcriptions like the *Popol Vuh* that were filtered through Christian frameworks.
+
+The lesson is brutal. The grammars that survive are those that do not depend on institutions, manuscripts, or temples. The I Ching survived because a bureaucrat misclassified it. Ifá survived because it lived in memory. Tarot survived because it had no authority to execute. The Maya grammars were embedded in manuscripts, temples, and a priesthood — all of which could be targeted and destroyed.
+
+---
+
 Each grammar's survival strategy teaches a different lesson. The I Ching: classification determines survival — be useful to the powerful, even if your true significance lies elsewhere. Ifá: orality is resilient — what lives in memory cannot be confiscated. Tarot: structural openness is its own defense — a system with no center cannot be decapitated.
 
 Together, they demonstrate that the grammars which endure are those that can be compressed into the human body: memorized, carried, played, practiced. The manuscript can be hidden in a wall or burned in a palace. The oral tradition can cross an ocean in the mind of a single practitioner. The card deck can travel in a pocket. The grammar that depends on infrastructure — on temples, institutions, state support — is the grammar most vulnerable to destruction. The grammar that depends only on human beings is the grammar that survives.
