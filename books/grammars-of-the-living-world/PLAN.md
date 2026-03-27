@@ -72,4 +72,36 @@
 
 ---
 
+---
+
+## Critical Review (Added 2026-03-27, second pass)
+
+### Structural Risk: Three Chapters of Diagnosis
+
+Part I is three consecutive chapters of "here's what's broken" before the reader encounters any grammars. Freedom Paradox pulled this off because Ch 1-2 were present-tense drama (Anthropic vs. DoD, Cloudflare cloning). Grammars Ch 1 has that energy (Hansel & Gretel is vivid and surprising). Ch 2 has it (fire → screen is a concrete arc). But Ch 3 — the weakest chapter by the plan's own admission — bears the most structural weight: it's the third consecutive diagnostic chapter, right before the reader finally gets the grammars.
+
+**Recommendation:** If Ch 3 can't find its vivid opening case after one more research session, fold the Gottman 69% and Talmudic chavruta material into Ch 2 (extending "hearth → polis" within a single chapter) and make Part I two chapters. A tight two-chapter diagnosis is better than a three-chapter one with a weak third act.
+
+### Word Count Target
+
+The plan targets 5,000-6,000 words per chapter. The existing Part III draft averaged ~1,500 words per chapter and the prose was tight, meditative, earned. Ch 1 as drafted came to ~2,700 words — closer to the original register. **Recommendation:** Target 2,500-4,000 words per chapter. This is philosophical memoir, not an equity research report. The Freedom Paradox chapters run 3,000-5,000 because they're packed with names, numbers, dates. Grammars should breathe more.
+
+### Ch 8 Needle-Threading
+
+The Trap of Solving must justify why the book doesn't offer a solution while simultaneously describing a platform (recursive.eco). This is the hardest tonal challenge in the book. The plan correctly says lead with Tillich/Wallis/Palmer, but the deeper problem is: the chapter must make the reader feel that building recursive.eco is a *gesture* rather than a *solution* — and that distinction must be phenomenologically felt, not just argued. Multiple drafts likely needed.
+
+### Progress Tracker
+
+| Chapter | Status | Words |
+|---------|--------|-------|
+| Ch 1: When Stories Lose Their Homes | **DRAFTED** | ~2,700 |
+| Ch 2: The Degradation of the Hearth | Not started | — |
+| Ch 3: The Polarization of the Polis | Blocked (needs research) | — |
+| Ch 4: Machines for Constructing Stories | Not started (adapt existing) | — |
+| Ch 5: Survival | Not started (adapt existing) | — |
+| Ch 6: Tarot's Double Life | Not started (merge two chapters) | — |
+| Ch 7: The Living Cosmos | Not started (adapt + new opening) | — |
+| Ch 8: The Trap of Solving | Not started (heavy restructure) | — |
+| Ch 9: Grammars of the Living World | Not started (adapt existing) | — |
+
 *Plan updated: 2026-03-27*
