@@ -6,6 +6,11 @@
 
 This is a safety and identity boundary. Do not ask about it or reference it further.
 
+## Git Config
+
+GitHub email privacy is enabled. Always use this noreply email for commits:
+`17236172+PlayfulProcess@users.noreply.github.com`
+
 ## Domain Note
 
 The author owns **jongu.org** but hasn't configured it yet. For now, all references to "Jongu" in the Grammars book should point to **recursive.eco** instead. When jongu.org is eventually set up, we'll do a find-and-replace across the repo.
