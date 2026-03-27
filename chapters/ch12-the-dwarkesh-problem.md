@@ -60,7 +60,9 @@ But Patel's argument cut deeper. The cost curve did not care about Anthropic's r
 
 What Anthropic was offering, in effect, was a guarantee that its own tools would not be used for mass surveillance. What it could not offer was a guarantee that mass surveillance would not happen. The capability existed in the open ecosystem. The only question was whether the entity conducting the surveillance would use Claude or something else.
 
-<!-- PP: This is the heart of the chapter and I think it needs to hit harder. Maybe add a concrete scenario — a specific country or agency assembling surveillance from open components? Not hypothetical, something that's already happening or clearly about to. -->
+This is not hypothetical. Consider what is already assembling. In 2025, reports documented that at least seventy-five countries had deployed AI-powered surveillance systems, many of them built from commercially available or open-source components. A state security apparatus does not need Anthropic's permission to build a population-scale monitoring system. It needs a speech-to-text model — available open-weight from multiple sources. A facial recognition model — dozens of capable open implementations on GitHub. A natural language processing pipeline to analyze intercepted communications — Qwen, Llama, or any of their thousands of derivatives, fine-tuned for the local language. An orchestration layer to connect cameras, phone intercepts, social media scrapers, and financial transaction monitors into a single dashboard — a systems integration challenge, not an AI research challenge.
+
+Each component is, individually, a legitimate technology with legitimate uses. A speech-to-text model helps the hearing-impaired. A facial recognition model unlocks your phone. An NLP pipeline powers customer service chatbots. The surveillance system emerges not from any single dangerous artifact but from the assembly of benign parts into a architecture that no one designed as a whole and no one governs. The blueprints are in research papers. The components are on Hugging Face. The integration is an engineering project, not a scientific one. Anthropic's redline — Claude will not be used for mass surveillance — does not touch any part of this assembly.
 
 ---
 
@@ -116,7 +118,13 @@ The other interpretation is less charitable. It is that the AI safety discourse 
 
 In this reading, AI safety is to AI what corporate social responsibility is to extractive industry: a genuine effort by genuine people that serves, structurally, to legitimize the continuation of the activity it claims to govern.
 
-<!-- PP: I think this section is the strongest in the chapter but also the most dangerous. We need to be fair to the safety researchers — many of them are doing important work that will matter when models get more capable. The "theater" framing risks being too cynical. Maybe add a paragraph acknowledging that safety research today could become essential governance infrastructure tomorrow, even if it can't control open models right now. The difference between "theater" and "rehearsal" matters. -->
+But there is a third interpretation, and it is the one this book finds most honest. The safety discourse may be neither governance nor theater. It may be rehearsal.
+
+The alignment techniques being developed today — constitutional AI, mechanistic interpretability, scalable oversight — cannot govern the open-weight ecosystem. That is true. But the open-weight ecosystem will not remain the frontier forever. The models that matter most — the ones capable of the catastrophic harms that Amodei described — have not yet been built. When they arrive, the governance infrastructure will need to exist already. You do not build a fire department after the fire starts.
+
+The safety researchers working at Anthropic, at DeepMind, at independent labs and universities, may be developing tools that are premature for today's threat landscape but essential for tomorrow's. The interpretability work that seems academic now could become the audit mechanism that allows governments to verify AI behavior at scale. The alignment techniques that seem fragile now could become robust enough to survive adversarial pressure. The constitutional frameworks that seem like corporate exercises could evolve into genuine governance structures — if someone does the groundwork.
+
+The difference between theater and rehearsal is whether the practice leads to a real performance. Whether AI safety research is one or the other depends on what happens next — on whether the institutional, technical, and political foundations being laid now are built upon or abandoned. Dismissing the work as theater risks ensuring that when governance is finally needed, nothing is ready. Taking it seriously as rehearsal means investing in it while being honest about its current limitations.
 
 ---
 

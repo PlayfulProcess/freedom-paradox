@@ -1,8 +1,26 @@
 # Chapter 3: Free as in Freedom
 
-The previous chapter ended with a programmer at MIT who was very angry about a printer. It is time to meet the anger — and the extraordinary thing it built.
+The printer jammed again.
 
-Before there was a movement, there was a culture. And before there was a culture war, the culture was so uniform that no one bothered to name it. In the 1950s, 1960s, and well into the 1970s, sharing software was not an ideology. It was simply how computing worked — the way sharing recipes is how cooking works, or sharing case law is how the legal profession works. The notion that someone would write a useful program and then prevent other people from reading, modifying, or learning from it would have struck most programmers of that era as bizarre. Like a mathematician publishing a theorem but refusing to show the proof.
+It was sometime around 1980, in the MIT Artificial Intelligence Laboratory — one of the most creative computing environments on Earth. Richard Stallman, a programmer at the lab, walked to the Xerox machine and found it stuck. Paper crumpled in the feed mechanism. Print jobs backed up in the queue. Colleagues waiting.
+
+In the old days, this wouldn't have been a problem. Stallman had fixed the lab's previous printer himself — adding a few lines of code to the driver so it would alert users when their jobs finished or when paper jammed. A small hack. A shared improvement. The way things worked at the AI Lab, where source code circulated as freely as conversation and knowledge shared was knowledge multiplied.
+
+But this Xerox printer came with a catch. Its software was proprietary. The source code was locked behind a license agreement. No reading. No modifying. No fixing. When Stallman tracked down a researcher at Carnegie Mellon who had access to the code and asked for a copy, the researcher refused. He had signed a non-disclosure agreement.
+
+Stallman was stunned. Not by the jam — paper jams are trivial. By the refusal. A colleague, a fellow programmer, had been contractually prohibited from sharing knowledge. The tools they both depended on had been enclosed. The code that could fix a simple, daily frustration was right there, in a building a few hundred miles away, and a legal document had made it unreachable.
+
+[QUOTE NEEDED: Stallman's account of this moment — from Sam Williams's *Free as in Freedom* (2002), Chapter 1]
+
+The printer was small. What it revealed was not. All around Stallman, the AI Lab was being hollowed out. The best hackers were being hired away by Symbolics and other companies, taking their skills into closed environments. The community that had sustained the lab's culture — the radical openness, the shared code, the assumption that if a program broke you fixed it — was dissolving. Stallman saw, with painful precision, what was being lost. Not just convenience. A way of life. A way of relating to technology that treated the user as a peer, not a consumer. A world where you could look under the hood of any machine you used and understand, modify, or improve it.
+
+He refused to accept it. In 1983, he announced the GNU Project: an audacious effort to build a complete, free operating system from scratch. Not free as in price — free as in freedom. The distinction would define everything that followed.
+
+But to understand the scale of what Stallman was reacting to, you have to understand what came before. Before there was a movement, there was a culture. And before there was a culture war, the culture was so uniform that no one bothered to name it.
+
+---
+
+In the 1950s, 1960s, and well into the 1970s, sharing software was not an ideology. It was simply how computing worked — the way sharing recipes is how cooking works, or sharing case law is how the legal profession works. The notion that someone would write a useful program and then prevent other people from reading, modifying, or learning from it would have struck most programmers of that era as bizarre. Like a mathematician publishing a theorem but refusing to show the proof.
 
 The SHARE users group — its name says everything — was founded in 1955 by users of IBM's 704 mainframe. It began distributing free software that same year, making it one of the oldest collaborative institutions in computing history. SHARE was not a radical organization. It was a practical one. IBM's machines were expensive. The software that ran on them was primitive. If you wrote a sorting algorithm that worked, why wouldn't you share it? Your colleague down the hall needed one too. The cost of sharing was zero. The benefit was mutual.
 
@@ -18,19 +36,7 @@ A series of legal decisions in the late 1970s and early 1980s established that s
 
 What had been the default — sharing — became the exception. What had been the exception — restriction — became the default. And the speed of the reversal was astonishing. In the space of a decade, the culture of computing flipped. A generation of programmers who had learned their craft by reading other people's code suddenly found that other people's code was off-limits.
 
-Richard Stallman was at the center of this reversal, and he felt it with a clarity that bordered on rage.
-
-Stallman was a programmer at MIT's Artificial Intelligence Laboratory — one of the most creative computing environments on Earth. The AI Lab ran on a culture of radical openness. If a program broke, you fixed it. If someone wrote something useful, they shared it. Source code circulated freely, because knowledge shared is knowledge multiplied.
-
-Then the lab got a new printer. A Xerox machine. It jammed constantly, and in the old culture, that wouldn't have been a problem — someone would simply look at the source code for the printer driver, find the bug, and fix it. Stallman had done exactly this with a previous printer, adding code that alerted users when their print jobs were done or when paper was jammed. A small hack. A shared improvement. The way things worked.
-
-But the Xerox printer came with a catch. Its software was proprietary. The source code was locked. When Stallman asked a researcher at Carnegie Mellon for a copy — someone who had access — the researcher refused. He had signed a non-disclosure agreement.
-
-[QUOTE NEEDED: Stallman's account of this moment — what he felt, what it crystallized]
-
-This was not an isolated incident. It was a symptom. All around Stallman, the AI Lab was being hollowed out. The best hackers were being hired away by Symbolics and other companies, taking their skills into closed environments. The community that had sustained the lab's culture was dissolving. Stallman saw, with painful precision, what was being lost — not just convenience, but a way of life. A way of relating to technology that treated the user as a peer, not a consumer. A world where you could look under the hood of any machine you used and understand, modify, or improve it.
-
-He refused to accept it. In 1983, he announced the GNU Project: an audacious effort to build a complete, free operating system from scratch. Not free as in price — free as in freedom. The distinction would define everything that followed.
+This was the world that Stallman's printer crystallized. The Xerox NDA was not an isolated incident. It was a symptom of a structural transformation — the enclosure of a commons that had existed since the earliest days of computing. And Stallman's response was not merely technical. It was moral.
 
 ---
 

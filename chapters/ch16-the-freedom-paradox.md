@@ -120,7 +120,7 @@ Maximum negative liberty — open-source everything, no restrictions, no gatekee
 
 This is the freedom paradox. Not a debating point. A structural condition.
 
-<!-- PP: This is the philosophical core of the entire book. I want to make sure it doesn't read as anti-open-source — it should read as pro-honesty. The open-source movement has been the best thing to happen to technology in the last half century. But it was built for a different world. Acknowledging that is not betrayal. It's intellectual maturity. -->
+Naming it is not an attack on the open-source movement. The movement has been the best thing to happen to technology in the last half century — a claim this book has documented across fifteen chapters, with genuine admiration. But the movement was built for a different world, and acknowledging that is not betrayal. It is the kind of honesty that a movement this important deserves.
 
 ---
 
@@ -242,8 +242,3 @@ The epilogue returns to the scene that opened this book. Anthropic said no. The 
 
 That is not a system. That is an accident of biography. And the question this book has been building toward — the question that outlasts any administration, any company, any technology — is how to build something better.
 
-<!-- PP: This chapter is the one I've been working toward since page one. A few things I want to make sure land:
-1. It should NOT feel anti-open-source. It should feel like the book loves the movement and is honest about its limits. The way you'd talk to a friend you respect.
-2. The Berlin/Sen stuff is essential but should feel earned, not grafted on. The reader should feel like the philosophy was always implied in the earlier chapters and is now being made explicit.
-3. "Openness is not a value — it is a strategy" is the thesis sentence. It needs to land like a verdict, not a provocation.
-4. I want the closing to be tight. The image of the printer at the beginning and end should create a frame. The movement started with a tool. It now faces an agent. That's the arc. -->

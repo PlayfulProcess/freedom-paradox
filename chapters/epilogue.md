@@ -120,4 +120,3 @@ Stallman was right about the printer. The user should be able to fix the tool.
 
 The question we face now is what happens when the tool can fix itself.
 
-<!-- PP: The ending needs to land like a closing argument, not a lecture. I want the last line to stay with the reader. "What happens when the tool can fix itself" — does that work? It brings us back to the tool/agent distinction from Ch16. The printer couldn't fix itself. AI can. That's the whole book in one sentence. But let me know if you think there's something better. -->
