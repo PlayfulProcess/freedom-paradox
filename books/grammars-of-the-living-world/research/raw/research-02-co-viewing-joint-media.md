@@ -81,7 +81,7 @@ A 2017 study in Boa Vista, Brazil (566 parent-child dyads in 12 childcare cluste
 
 A February 2026 study recruited 38 families in Virginia with children ages 6–8. After just 14 bedtimes of reading together, children showed significant improvement in cognitive empathy and creative thinking — regardless of whether parents paused to ask questions or read straight through. The act of shared reading itself was the active ingredient, not the specific pedagogical technique. The neuroscientist-author noted: "These 15 minutes of reading aren't just about preparing kids to sleep or teaching them to decode words. They're building neural pathways for understanding others and imagining possibilities."
 
-**Key insight for the book:** Reading aloud is not merely an educational activity. It is a contemplative practice — a shared encounter with story that exercises the child's capacity for empathy, imagination, and social cognition. The brain evidence confirms what Rogers and McFarland intuited: the medium matters less than the relational context. A screen with a present parent may work; a screen without a parent activates different neural systems entirely. This is the neurological basis for Jongu's design philosophy of shared practice over passive consumption.
+**Key insight for the book:** Reading aloud is not merely an educational activity. It is a contemplative practice — a shared encounter with story that exercises the child's capacity for empathy, imagination, and social cognition. The brain evidence confirms what Rogers and McFarland intuited: the medium matters less than the relational context. A screen with a present parent may work; a screen without a parent activates different neural systems entirely. This is the neurological basis for Recursive.eco's design philosophy of shared practice over passive consumption.
 
 ---
 
@@ -149,7 +149,7 @@ This is the central question Research 2 was designed to address — and the rese
 
 3. **The medium must not displace the relationship.** The technoference research is unambiguous: when the device becomes the primary attentional object rather than the shared practice, developmental harm follows.
 
-### **Design Principles for Jongu**
+### **Design Principles for Recursive.eco**
 
 The research suggests that a curated, shared grammar playlist could function as family ritual if it satisfies these conditions:
 
@@ -176,7 +176,7 @@ When shared reading declines, what is lost is not merely literacy preparation. I
 * **The neural architecture for empathy.** The 2025 fNIRS study shows that the social brain networks recruited by live shared reading are not activated by solitary screen use. The decline of read-aloud is not just a cultural loss but a neurological one.  
 * **Ritual structure.** Bedtime reading has the structure of ritual — repeated, bounded, embodied, shared. When it disappears, what replaces it? Usually, individual screen use in separate rooms.
 
-**Key insight for the book:** The decline of shared family narrative is not a separate phenomenon from the crisis of mythic belonging. It is the same crisis, experienced at the smallest scale. If a civilization cannot maintain shared stories at the level of a single family's bedtime, what hope does it have for maintaining them at the level of a community, a nation, or a species? Jongu's "shared grammar playlists" are an attempt to provide infrastructure for this most fundamental practice — not as a replacement for books and bedtime, but as a complementary practice that extends the ritual logic of shared reading into the digital medium.
+**Key insight for the book:** The decline of shared family narrative is not a separate phenomenon from the crisis of mythic belonging. It is the same crisis, experienced at the smallest scale. If a civilization cannot maintain shared stories at the level of a single family's bedtime, what hope does it have for maintaining them at the level of a community, a nation, or a species? Recursive.eco's "shared grammar playlists" are an attempt to provide infrastructure for this most fundamental practice — not as a replacement for books and bedtime, but as a complementary practice that extends the ritual logic of shared reading into the digital medium.
 
 ---
 

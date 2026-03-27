@@ -40,9 +40,9 @@ An investigative report by *The Intercept* revealed that during the Congressiona
 
 Brazil's Digital ECA embodies the Radesky evolution: from "what can parents do?" to "what should platforms be required to do?" The law explicitly rejects placing the burden on families — as researcher Maria Mello of the Alana Institute argues, "monitoring children's and adolescents' online access cannot fall solely on families." Senator Zilda Barbosa pointed to the impossibility for many single mothers working multiple jobs to supervise their children's digital lives.
 
-For Jongu specifically: the law's principles — best interest of the child, prevention of compulsive use, ban on profiling and manipulative advertising, default privacy settings — are already embodied in Jongu's architecture. The platform doesn't need to comply with the Digital ECA because it never adopted the practices the law prohibits. No ads, no algorithm, no notifications, no tracking, no loot boxes, no profiling. Jongu's design is what the law tries to force the attention economy to become.
+For Recursive.eco specifically: the law's principles — best interest of the child, prevention of compulsive use, ban on profiling and manipulative advertising, default privacy settings — are already embodied in Recursive.eco's architecture. The platform doesn't need to comply with the Digital ECA because it never adopted the practices the law prohibits. No ads, no algorithm, no notifications, no tracking, no loot boxes, no profiling. Recursive.eco's design is what the law tries to force the attention economy to become.
 
-Brazil also ranks second worldwide in average daily screen time and fifth in social media use, with 92% of children ages 9–17 online and 85% with social media profiles. The country where Jongu's founder lives and where the Jongo dance originates is simultaneously the country most aggressively legislating against the attention economy.
+Brazil also ranks second worldwide in average daily screen time and fifth in social media use, with 92% of children ages 9–17 online and 85% with social media profiles. The country where Recursive.eco's founder lives and where the Jongo dance originates is simultaneously the country most aggressively legislating against the attention economy.
 
 ---
 
@@ -108,7 +108,7 @@ The book's skeleton doesn't address this comparison, but it matters for platform
 
 **Discord** is comparatively riskier because: communication is private by default; moderation is decentralized (server owners, not Discord); the platform enables direct voice/video calls with strangers; friend requests are open by default; and the gaming pipeline provides a ready supply of child users.
 
-The design lesson for Jongu: **the absence of engagement optimization does not automatically make a platform safe for children.** Discord proves that a platform can lack algorithmic feeds, likes, and infinite scroll while still enabling harm through private communication channels and inadequate moderation. Jongu's safety architecture must address both the attention economy's design harms (which it already does) and the communication-channel risks that platforms like Discord demonstrate. Privacy by default is essential — but so is preventing unmoderated private contact between strangers and minors.
+The design lesson for Recursive.eco: **the absence of engagement optimization does not automatically make a platform safe for children.** Discord proves that a platform can lack algorithmic feeds, likes, and infinite scroll while still enabling harm through private communication channels and inadequate moderation. Recursive.eco's safety architecture must address both the attention economy's design harms (which it already does) and the communication-channel risks that platforms like Discord demonstrate. Privacy by default is essential — but so is preventing unmoderated private contact between strangers and minors.
 
 ---
 
@@ -142,9 +142,9 @@ The Meta verdict — the first jury finding a platform liable for harm to childr
 
 ### **For Chapter 8 (The Commons)**
 
-The legislative landscape creates a powerful context for Jongu's design philosophy. The platform doesn't need to be forced to comply with child safety legislation because it never adopted the harmful practices the legislation targets:
+The legislative landscape creates a powerful context for Recursive.eco's design philosophy. The platform doesn't need to be forced to comply with child safety legislation because it never adopted the harmful practices the legislation targets:
 
-| What the law requires | Jongu's existing design |
+| What the law requires | Recursive.eco's existing design |
 | ----- | ----- |
 | Ban self-declaration for age verification | No accounts required at all |
 | Default settings preventing compulsive use | No notifications, no autoplay, no infinite scroll |
@@ -153,11 +153,11 @@ The legislative landscape creates a powerful context for Jongu's design philosop
 | Transparency reports on moderation | Open-source code; everything is transparent |
 | Content appropriate for age groups | Grammars curated by humans, not algorithms |
 
-Jongu's architecture is what the Digital ECA, the UK Age Appropriate Design Code, and the Kids Online Safety Act are collectively trying to force the attention economy to become. The platform is not ahead of regulation — it simply started from a different premise. Not: "How do we maximize engagement and then add safety features?" But: "How do we serve contemplative practice?" The safety follows from the premise.
+Recursive.eco's architecture is what the Digital ECA, the UK Age Appropriate Design Code, and the Kids Online Safety Act are collectively trying to force the attention economy to become. The platform is not ahead of regulation — it simply started from a different premise. Not: "How do we maximize engagement and then add safety features?" But: "How do we serve contemplative practice?" The safety follows from the premise.
 
 ### **The Discord Lesson**
 
-Discord's troubles demonstrate that safety-by-design requires more than the absence of engagement optimization. A platform must also address communication risks — particularly private contact between strangers and minors. Jongu's architecture (privacy by default, optional AI that is always opt-in, community-curated content, no private DMs between strangers) addresses both the attention economy's harms and the communication-channel risks.
+Discord's troubles demonstrate that safety-by-design requires more than the absence of engagement optimization. A platform must also address communication risks — particularly private contact between strangers and minors. Recursive.eco's architecture (privacy by default, optional AI that is always opt-in, community-curated content, no private DMs between strangers) addresses both the attention economy's harms and the communication-channel risks.
 
 ---
 

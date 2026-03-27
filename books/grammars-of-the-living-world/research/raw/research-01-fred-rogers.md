@@ -20,7 +20,7 @@ This ecumenical formation matters for the book's argument. Rogers did not approa
 
 The Fred Rogers Institute states it plainly: "Fred Rogers had a profoundly unique commission as an ordained minister: to serve children and families through public media." Rogers himself said: "When I was ordained, it was for a special ministry, that of serving children and families through television. I consider that what I do through Mister Rogers' Neighborhood is my ministry. A ministry doesn't have to be only through a church, or even through an ordination."
 
-**Key insight for the book:** Rogers never pastored a brick-and-mortar church. His parish was the television screen. This is directly analogous to what Jongu/Recursive.eco attempts — using a digital medium as the infrastructure for contemplative practice. Rogers proved that a technological medium could serve the inner life rather than exploit it. The question the book asks is whether a platform can do the same for grammars.
+**Key insight for the book:** Rogers never pastored a brick-and-mortar church. His parish was the television screen. This is directly analogous to what Recursive.eco/Recursive.eco attempts — using a digital medium as the infrastructure for contemplative practice. Rogers proved that a technological medium could serve the inner life rather than exploit it. The question the book asks is whether a platform can do the same for grammars.
 
 ---
 
@@ -84,7 +84,7 @@ McFarland received her PhD from Columbia University, taught in Melbourne, and re
 
 Rogers and McFarland met weekly — sometimes daily — from the late 1950s until her death in 1988\. She reviewed every script. She helped him understand the developmental dimensions of each topic he wanted to address. Rogers took extensive handwritten notes and recorded their conversations on audiocassettes — recordings that survive in the Fred Rogers Archive at Saint Vincent College.
 
-**The fire story is essential for the book.** Rogers wanted to do a program about fire. McFarland "helped me to realize that it was essential to deal with control of fluids before even introducing anything about fire. I learned, for instance, that most children's dreams about fire center around their control of their own body fluids\!" This is the kind of developmental depth that no algorithm can replicate — and the kind of care that Jongu's architecture must find a way to honor.
+**The fire story is essential for the book.** Rogers wanted to do a program about fire. McFarland "helped me to realize that it was essential to deal with control of fluids before even introducing anything about fire. I learned, for instance, that most children's dreams about fire center around their control of their own body fluids\!" This is the kind of developmental depth that no algorithm can replicate — and the kind of care that Recursive.eco's architecture must find a way to honor.
 
 ### **Her Teaching Philosophy**
 
@@ -92,7 +92,7 @@ McFarland believed that children "caught" attitudes from teachers rather than be
 
 She also originated the phrase that Rogers made famous: "Anything human is mentionable, and anything mentionable is manageable." This became the philosophical spine of the Neighborhood.
 
-**The "never to Fred; always with Fred" line** (from King's biography, quoting McFarland's conversational style) captures something essential about how she modeled relational presence. She did not lecture Rogers. She thought alongside him. This is the quality that distinguishes contemplative dialogue from instruction — and the quality that Jongu's "grammars" attempt to hold space for.
+**The "never to Fred; always with Fred" line** (from King's biography, quoting McFarland's conversational style) captures something essential about how she modeled relational presence. She did not lecture Rogers. She thought alongside him. This is the quality that distinguishes contemplative dialogue from instruction — and the quality that Recursive.eco's "grammars" attempt to hold space for.
 
 ---
 
@@ -141,7 +141,7 @@ A subsequent study (published in *Media Psychology*, 2018\) found that children 
 
 ### **The Critical Takeaway**
 
-**The parental presence finding is the most important result for the book.** It confirms what Rogers and McFarland understood intuitively: media cannot substitute for relationship. The medium serves the child only when it is embedded in a relational context — a parent who watches, discusses, reinforces. This directly supports Jongu's design philosophy of co-viewing, co-creation, and shared practice rather than passive consumption. The grammar is the space where the meeting happens — but only if someone else is in the room.
+**The parental presence finding is the most important result for the book.** It confirms what Rogers and McFarland understood intuitively: media cannot substitute for relationship. The medium serves the child only when it is embedded in a relational context — a parent who watches, discusses, reinforces. This directly supports Recursive.eco's design philosophy of co-viewing, co-creation, and shared practice rather than passive consumption. The grammar is the space where the meeting happens — but only if someone else is in the room.
 
 As Rasmussen said: "It's not enough to just plop your kid in front of the TV and hope they're going to develop these social and emotional skills. There has to be a certain level of involvement in kids' TV viewing experiences."
 
@@ -159,7 +159,7 @@ This is the exact logic that Recursive.eco applies to digital platforms:
 
 Rogers's own use of the word "modulations" is uncanny in the context of Kelty's theoretical framework. In the opening scene of the documentary *Won't You Be My Neighbor?*, a young Rogers sits at a piano and explains: "It seems to me that there are different themes in life. And one of my main jobs, it seems to me, is to help, through the mass media for children, to help children through some of the difficult modulations of life. Because it's easy for instance to go from C to F. But there are some modulations that aren't so easy. For instance, to go from F to F\#, you've got to weave through all sorts of things. And it seems to me if you've got somebody to help you, as you weave…"
 
-**Rogers was describing modulation in the musical and developmental sense — but the word resonates with Kelty's use of "modulation" to describe what happens when the practices of free software are extended into new domains.** Jongu/Recursive.eco is a modulation of both: it takes Rogers's modulation of television into care and Kelty's modulation of software into commons and asks what happens when both are applied to contemplative practice.
+**Rogers was describing modulation in the musical and developmental sense — but the word resonates with Kelty's use of "modulation" to describe what happens when the practices of free software are extended into new domains.** Recursive.eco/Recursive.eco is a modulation of both: it takes Rogers's modulation of television into care and Kelty's modulation of software into commons and asks what happens when both are applied to contemplative practice.
 
 ---
 
@@ -167,7 +167,7 @@ Rogers's own use of the word "modulations" is uncanny in the context of Kelty's 
 
 Hedda Sharapan was Rogers's longtime associate at Family Communications, Inc. (now Fred Rogers Productions), working with him for over 30 years. She has served as the primary keeper of his production philosophy in the years since his death, articulating the principles that guided every creative decision on the show.
 
-The production philosophy can be summarized in several principles that map directly onto Jongu's design:
+The production philosophy can be summarized in several principles that map directly onto Recursive.eco's design:
 
 1. **Respect the child's pace.** Never rush. Never condescend. Never assume the child cannot handle real feelings.  
 2. **Make the invisible visible.** Show processes. Show how things are made. Show what happens inside people when they feel things.  
@@ -185,11 +185,11 @@ Rogers serves as the positive pole in a chapter that documents the crisis. If th
 
 ### **For Chapter 8 (The Commons / Grammars of the Living World)**
 
-Rogers is the emotional and structural model for Jongu's design philosophy. The book's closing chapter should open with the Kelty concept of the recursive public, but it should *feel* like Rogers — warm, serious, respectful of the reader's intelligence, unwilling to simplify. The closing line from Kelty — "If we succeed, we will disappear" — maps onto Rogers's invisibility. He did not build a brand. He built a presence. The goal of the platform is the same: infrastructure so fundamental it becomes invisible.
+Rogers is the emotional and structural model for Recursive.eco's design philosophy. The book's closing chapter should open with the Kelty concept of the recursive public, but it should *feel* like Rogers — warm, serious, respectful of the reader's intelligence, unwilling to simplify. The closing line from Kelty — "If we succeed, we will disappear" — maps onto Rogers's invisibility. He did not build a brand. He built a presence. The goal of the platform is the same: infrastructure so fundamental it becomes invisible.
 
 ### **The "Modulations" Connection**
 
-Rogers using the word "modulations" to describe his work with children, and Kelty using the same word to describe how free software practices extend into new domains, is a remarkable convergence. The book should let this resonate without forcing it. Rogers was modulating television. Kelty was modulating software. Jongu modulates both into contemplative practice. The grammars are the source code. The commons is the license. The community is the public. Everything else is practice.
+Rogers using the word "modulations" to describe his work with children, and Kelty using the same word to describe how free software practices extend into new domains, is a remarkable convergence. The book should let this resonate without forcing it. Rogers was modulating television. Kelty was modulating software. Recursive.eco modulates both into contemplative practice. The grammars are the source code. The commons is the license. The community is the public. Everything else is practice.
 
 ---
 

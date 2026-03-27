@@ -26,7 +26,7 @@ Andreotti identifies five orientations that modernity produces in its subjects: 
 
 ### **The Exercises**
 
-*Hospicing Modernity* is part philosophical treatise, part workbook. It includes numerous "check your bus" exercises — invitations for the reader to examine their own complicity in the structures they critique. This pedagogical method is directly relevant to Jongu's design: the platform holds your question without answering it. The grammar is a contemplative technology for sitting with, not solving.
+*Hospicing Modernity* is part philosophical treatise, part workbook. It includes numerous "check your bus" exercises — invitations for the reader to examine their own complicity in the structures they critique. This pedagogical method is directly relevant to Recursive.eco's design: the platform holds your question without answering it. The grammar is a contemplative technology for sitting with, not solving.
 
 ---
 
@@ -110,7 +110,7 @@ Ngũgĩ enacted his argument: he abandoned English in his fiction writing and co
 
 *Decolonizing Methodologies: Research and Indigenous Peoples* (1999, 3rd ed. 2021\) is the foundational text on indigenous research methodology. A Māori scholar at the University of Auckland, Tuhiwai Smith builds on Ngũgĩ's thesis to argue that "decolonization is a long-term process involving the cultural, linguistic and psychological divesting of colonial parameters." The Western tradition of knowledge is grounded in positivism — the notion that research is objective and value-free. Tuhiwai Smith introduces Kaupapa Māori as an alternative epistemology: "We have a different epistemological tradition which frames the way we see the world."
 
-**Relevance for the book:** Tuhiwai Smith provides the methodological framework for what ethical engagement with indigenous knowledge systems looks like in practice — exactly the question Jongu faces with initiated traditions like Ifá. Her concept of research accountability to indigenous communities maps onto the CARE Principles the book already uses.
+**Relevance for the book:** Tuhiwai Smith provides the methodological framework for what ethical engagement with indigenous knowledge systems looks like in practice — exactly the question Recursive.eco faces with initiated traditions like Ifá. Her concept of research accountability to indigenous communities maps onto the CARE Principles the book already uses.
 
 ### **Boaventura de Sousa Santos (b. 1940\)**
 
@@ -124,7 +124,7 @@ Ngũgĩ enacted his argument: he abandoned English in his fiction writing and co
 
 ### **Where It Applies**
 
-Andreotti and Akomolafe's critique applies powerfully to Jongu in several ways:
+Andreotti and Akomolafe's critique applies powerfully to Recursive.eco in several ways:
 
 **The platform cannot solve the crisis of mythic belonging without reproducing the logic that created it.** If modernity's deepest reflex is problem → solution → implementation, then building a platform to "solve" the meaning crisis is already caught in the trap. The book's Chapter 7 argument — that the impulse to solve is part of the problem — draws directly from Akomolafe's question.
 
@@ -134,11 +134,11 @@ Andreotti and Akomolafe's critique applies powerfully to Jongu in several ways:
 
 ### **Where It Doesn't Fully Apply**
 
-**The recursive public is already the answer to the critique.** Kelty's concept — a community that builds and maintains the very infrastructure through which it makes meaning — is precisely the kind of practice-based, non-solutionist, continuously modifiable approach that both Andreotti and Akomolafe call for. Jongu doesn't claim to have the answer. It creates conditions and sees what the community does with them.
+**The recursive public is already the answer to the critique.** Kelty's concept — a community that builds and maintains the very infrastructure through which it makes meaning — is precisely the kind of practice-based, non-solutionist, continuously modifiable approach that both Andreotti and Akomolafe call for. Recursive.eco doesn't claim to have the answer. It creates conditions and sees what the community does with them.
 
 **The "gesture" framing.** The book already uses the term "gesture toward adaptive futures" — borrowed from the same intellectual milieu — to describe what the platform attempts. Not a solution but a wager. Not certainty but courage.
 
-**Some things need to be built.** The deepest tension between Akomolafe/Andreotti and Jongu is that the platform requires building — writing code, designing interfaces, making decisions, deploying infrastructure. Postactivism can become a kind of philosophical paralysis when taken to its extreme: if every response to the crisis is part of the crisis, then no response is possible. The book's answer (drawing on Tillich, Palmer, Wallis) is that inaction is also an action, and that the courage to build something imperfect — treating every version as a draft — is itself a contemplative practice.
+**Some things need to be built.** The deepest tension between Akomolafe/Andreotti and Recursive.eco is that the platform requires building — writing code, designing interfaces, making decisions, deploying infrastructure. Postactivism can become a kind of philosophical paralysis when taken to its extreme: if every response to the crisis is part of the crisis, then no response is possible. The book's answer (drawing on Tillich, Palmer, Wallis) is that inaction is also an action, and that the courage to build something imperfect — treating every version as a draft — is itself a contemplative practice.
 
 ---
 

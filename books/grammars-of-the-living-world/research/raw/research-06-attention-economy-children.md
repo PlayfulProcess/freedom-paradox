@@ -145,7 +145,7 @@
 
 *When applied to children, surveillance capitalism means: children's attention, behavior, and emotional responses are raw material. Every tap, scroll, pause, and reaction is extracted as behavioral data. This data trains algorithms that predict how to capture more attention, producing design features (autoplay, infinite scroll, push notifications) that are optimized specifically for the developing brain's vulnerabilities.*
 
-*The book's argument: Jongu's architecture — no ads, no algorithm, no notifications, no tracking, privacy by default, everything exportable and deletable — is not merely a design preference. It is a structural refusal of surveillance capitalism's extraction logic. The platform does not monetize attention. It does not extract behavioral data. It holds your question without answering it — and without selling your question to the highest bidder.*
+*The book's argument: Recursive.eco's architecture — no ads, no algorithm, no notifications, no tracking, privacy by default, everything exportable and deletable — is not merely a design preference. It is a structural refusal of surveillance capitalism's extraction logic. The platform does not monetize attention. It does not extract behavioral data. It holds your question without answering it — and without selling your question to the highest bidder.*
 
 ---
 
@@ -165,7 +165,7 @@
 
 ### ***The Book's Integration***
 
-*The book should acknowledge these counterarguments honestly. The position is not that social media is purely harmful but that the design paradigm — engagement optimization through surveillance capitalism — is structurally incompatible with contemplative practice, developmental wellbeing, and the formation of shared symbolic worlds. You can use a smartphone to cast an I Ching hexagram and journal about it with your child. The problem is not the technology but the economic logic that shapes how technology is designed. Jongu's alternative is not anti-technology but pro-ritual — Fred Rogers for the platform age.*
+*The book should acknowledge these counterarguments honestly. The position is not that social media is purely harmful but that the design paradigm — engagement optimization through surveillance capitalism — is structurally incompatible with contemplative practice, developmental wellbeing, and the formation of shared symbolic worlds. You can use a smartphone to cast an I Ching hexagram and journal about it with your child. The problem is not the technology but the economic logic that shapes how technology is designed. Recursive.eco's alternative is not anti-technology but pro-ritual — Fred Rogers for the platform age.*
 
 ---
 

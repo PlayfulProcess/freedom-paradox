@@ -138,13 +138,39 @@ If a system's openness is both its vulnerability to colonial capture and its ava
 
 ---
 
+#### **Chapter 7: The Living Cosmos**
+
+*Drawn from the original draft chapter + Research 8 (cosmic topology).*
+
+**Core argument:** The grammars are not dead symbol systems waiting to be decoded. They are invitations to enter living relationship with a responsive cosmos. Modern astrology reduced planets to psychological functions (Mars = aggression, Venus = love) — a disenchantment that stripped the cosmos of its aliveness. The recovery of that aliveness is happening now, across Jyotish, nondual Shaiva Tantra, and the phenomenology of contemplative practice.
+
+**Movement of the chapter:**
+
+* The Greek *zoidia* — "living things." The zodiac as circle of living beings. How modern astrology performed a disenchantment.
+
+* Jyotish as the grammar that never lost its living relationship. Graha as "seizers" — beings with consciousness, agency, and the power to deliver karmic results. The Nakshatras and their Shaktis. Mantra, gemstone, fasting as relational acts, not psychological exercises.
+
+* The Dashamahavidya bridge: ten Wisdom Goddesses mapped to planetary bodies in the Todala Tantra. Tantric sadhana as remedial measure for planetary afflictions — qualitatively different from standard Vedic remedies.
+
+* Christopher Wallis's nondual Shaiva Tantra: all phenomena — including planetary influences — are expressions of Cit-Shakti (consciousness-power). The planets are not external forces controlling us but aspects of awareness to recognize within ourselves. Pratyabhijña (recognition) rather than propitiation.
+
+* The phenomenological claim: when you attend to Saturn — in your chart, in the sky, in your experience of limitation and discipline — something responds. Not because Saturn beams influence. Because consciousness, attending to a quality of itself, recognizes what was always already there. Compatible with Bohm, Merleau-Ponty, Csordas.
+
+* The design implication: grammars as contemplative mirrors rather than predictive instruments. This resolves the ethical tension between insight and superstition for any digital platform.
+
+**Closing questions:**
+
+If the grammars are alive — if they invite relationship rather than mere interpretation — what does it mean to host them on a digital platform? Can a screen mediate a living encounter with the cosmos, or does the medium inevitably flatten the relationship into information consumption? Is there a difference between casting the I Ching with yarrow stalks in silence and tapping a button on a phone — and if so, is that difference essential or accidental? What would it mean to design technology that serves the aliveness of the grammars rather than domesticating them?
+
+---
+
 ### **PART III: THE HINGE**
 
 **One chapter that changes the terms of the argument.**
 
 ---
 
-#### **Chapter 7: The Trap of Solving**
+#### **Chapter 8: The Trap of Solving**
 
 **Core argument:** Modernity's deepest reflex is to identify a problem and solve it. This reflex — problem → diagnosis → solution → implementation → evaluation — is so deeply embedded in Western thought that it operates even (especially) in movements that claim to critique modernity. The crisis of mythic belonging cannot be "solved" in this way without reproducing the very structures that created it. But this does not mean nothing can be done. It means what can be done is a gesture, not a fix.
 
@@ -176,7 +202,7 @@ Is it possible to build a technological platform without reproducing the technol
 
 ---
 
-#### **Chapter 8: Grammars of the Living World**
+#### **Chapter 9: Grammars of the Living World**
 
 *Draws on the existing recursive public chapter, restructured.*
 

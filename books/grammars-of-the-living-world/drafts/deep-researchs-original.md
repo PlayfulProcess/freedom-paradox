@@ -323,7 +323,7 @@ The CC BY-SA license and the colophon acknowledging AI collaboration are essenti
 
 # Living World
 
-*The Philosophical Foundations of Jongu*  
+*The Philosophical Foundations of Recursive.eco*  
 playfulProcess  
 Creative Commons Attribution-ShareAlike 4.0 International  
 01 Grammars  
@@ -609,7 +609,7 @@ The hinge between liberation and bondage turns on a single variable: *who holds 
 
 Systems that concentrate authority in the reader, the app, or the tradition tend toward bondage. Systems that distribute authority to the querent — inviting them to make meaning rather than receive it — tend toward liberation.
 
-This is the design principle for Jongu. The platform should be a mirror, not an oracle. It should hold your question without answering it. It should provide the grammar — the finite vocabulary, the combinatorial syntax, the technology of randomness — and then step back. The meaning is yours to make.
+This is the design principle for Recursive.eco. The platform should be a mirror, not an oracle. It should hold your question without answering it. It should provide the grammar — the finite vocabulary, the combinatorial syntax, the technology of randomness — and then step back. The meaning is yours to make.
 
 This is not a design choice made from philosophical preference. It is made from the evidence. Gottman's sixty-nine percent teaches that most of life's essential tensions are permanent. The contemplative traditions teach that sitting with tension — rather than resolving it — is the practice. The psychology of divination teaches that the value lies in the exercise of interpretation, not in the interpretation itself.
 
@@ -679,7 +679,7 @@ I am asking the same question for contemplative practice.
 · · ·  
 The five components, modulated:
 
-*Sharing grammars* modulates sharing source code. The grammars — tarot decks, I Ching hexagrams, Nakshatras, Dhammapada verses, children's stories, wellness exercises — are the "source code" of Jongu. They are created by people, not algorithms. They are shareable, forkable, modifiable. Anyone can create a grammar. Anyone can contribute to an existing one. The platform makes every grammar publicly and freely available.
+*Sharing grammars* modulates sharing source code. The grammars — tarot decks, I Ching hexagrams, Nakshatras, Dhammapada verses, children's stories, wellness exercises — are the "source code" of Recursive.eco. They are created by people, not algorithms. They are shareable, forkable, modifiable. Anyone can create a grammar. Anyone can contribute to an existing one. The platform makes every grammar publicly and freely available.
 
 *Conceiving openness in sacred systems* modulates conceiving open systems. This is the hardest modulation. "Open" means something different when the content is a Yoruba divination system transmitted through initiated lineages than when it is a software protocol. The CARE Principles for Indigenous Data Governance — Collective Benefit, Authority to Control, Responsibility, Ethics — provide the ethical framework. Some grammars are structurally open (tarot, I Ching) and belong in the commons. Others are initiated, oral, and lineage-dependent (Ifá) and should be represented on the platform only with the explicit involvement and authority of tradition-holders. The principle is: gateway building, not gatekeeping — but the gateway must be built with the community's consent.
 
@@ -696,14 +696,14 @@ The alternative is the attention economy. Co-Star sending push notifications des
 
 A commons is compassionate because it makes meaning-making infrastructure available to everyone — not as a product to consume but as a practice to participate in. A ten-dollar tool feels very different to someone in Brazil than to someone in Silicon Valley. When access isn't tied to purchasing power, people can focus on genuine contribution rather than financial transactions.
 
-Jongu's architecture already embodies this. No ads. No algorithm. No notifications. No tracking. Privacy by design — you can use every tool without creating an account. Optional AI — assistance is always opt-in, never required. Donation-sustained access — one hundred percent free, sustained by voluntary contribution. Everything exportable, everything deletable, everything yours.
+Recursive.eco's architecture already embodies this. No ads. No algorithm. No notifications. No tracking. Privacy by design — you can use every tool without creating an account. Optional AI — assistance is always opt-in, never required. Donation-sustained access — one hundred percent free, sustained by voluntary contribution. Everything exportable, everything deletable, everything yours.
 
 The platform does not monetize attention. It does not gamify practice. It does not claim authority over your experience. It holds your question without answering it.
 
 · · ·  
 Kelty quotes Creative Commons with the phrase "If we succeed, we will disappear." The idea is that if the licenses work — if they become the default infrastructure through which culture is shared — then the organization that created them becomes invisible. The licenses are just there, like plumbing.
 
-The same applies to Jongu. The goal is not to build a company. The goal is not even to build a platform. The goal is to build an infrastructure that becomes so fundamental it becomes invisible — the way Wikipedia became invisible, the way Linux became invisible, the way the protocols that run the Internet became invisible. Not noticed, not branded, not owned. Just there. Available. Modifiable. Maintained by the community that uses it.
+The same applies to Recursive.eco. The goal is not to build a company. The goal is not even to build a platform. The goal is to build an infrastructure that becomes so fundamental it becomes invisible — the way Wikipedia became invisible, the way Linux became invisible, the way the protocols that run the Internet became invisible. Not noticed, not branded, not owned. Just there. Available. Modifiable. Maintained by the community that uses it.
 
 Kelty called this "adaptability over planning." The commitment to remain modifiable — to build in the capacity to be changed by the community — rather than to plan a fixed product and defend it. This is the opposite of how platforms are normally built. Normally you plan the product, build it in secret, launch it, defend it, scale it, sell it. The recursive public does something different. It builds the infrastructure in public. It invites modification. It treats every version as a draft. It privileges the community's capacity to adapt over the founder's capacity to plan.
 
@@ -739,7 +739,7 @@ If the energy was spent, let the knowledge be shared.
 
 The book that describes the recursive public should itself be recursively public.
 
-*jongu.org  ·  recursive.eco  ·  playfulprocess.com*
+*recursive.eco.org  ·  recursive.eco  ·  playfulprocess.com*
 
 # Research 1
 
@@ -763,7 +763,7 @@ This ecumenical formation matters for the book's argument. Rogers did not approa
 
 The Fred Rogers Institute states it plainly: "Fred Rogers had a profoundly unique commission as an ordained minister: to serve children and families through public media." Rogers himself said: "When I was ordained, it was for a special ministry, that of serving children and families through television. I consider that what I do through Mister Rogers' Neighborhood is my ministry. A ministry doesn't have to be only through a church, or even through an ordination."
 
-**Key insight for the book:** Rogers never pastored a brick-and-mortar church. His parish was the television screen. This is directly analogous to what Jongu/Recursive.eco attempts — using a digital medium as the infrastructure for contemplative practice. Rogers proved that a technological medium could serve the inner life rather than exploit it. The question the book asks is whether a platform can do the same for grammars.
+**Key insight for the book:** Rogers never pastored a brick-and-mortar church. His parish was the television screen. This is directly analogous to what Recursive.eco/Recursive.eco attempts — using a digital medium as the infrastructure for contemplative practice. Rogers proved that a technological medium could serve the inner life rather than exploit it. The question the book asks is whether a platform can do the same for grammars.
 
 ---
 
@@ -827,7 +827,7 @@ McFarland received her PhD from Columbia University, taught in Melbourne, and re
 
 Rogers and McFarland met weekly — sometimes daily — from the late 1950s until her death in 1988\. She reviewed every script. She helped him understand the developmental dimensions of each topic he wanted to address. Rogers took extensive handwritten notes and recorded their conversations on audiocassettes — recordings that survive in the Fred Rogers Archive at Saint Vincent College.
 
-**The fire story is essential for the book.** Rogers wanted to do a program about fire. McFarland "helped me to realize that it was essential to deal with control of fluids before even introducing anything about fire. I learned, for instance, that most children's dreams about fire center around their control of their own body fluids\!" This is the kind of developmental depth that no algorithm can replicate — and the kind of care that Jongu's architecture must find a way to honor.
+**The fire story is essential for the book.** Rogers wanted to do a program about fire. McFarland "helped me to realize that it was essential to deal with control of fluids before even introducing anything about fire. I learned, for instance, that most children's dreams about fire center around their control of their own body fluids\!" This is the kind of developmental depth that no algorithm can replicate — and the kind of care that Recursive.eco's architecture must find a way to honor.
 
 ### **Her Teaching Philosophy**
 
@@ -835,7 +835,7 @@ McFarland believed that children "caught" attitudes from teachers rather than be
 
 She also originated the phrase that Rogers made famous: "Anything human is mentionable, and anything mentionable is manageable." This became the philosophical spine of the Neighborhood.
 
-**The "never to Fred; always with Fred" line** (from King's biography, quoting McFarland's conversational style) captures something essential about how she modeled relational presence. She did not lecture Rogers. She thought alongside him. This is the quality that distinguishes contemplative dialogue from instruction — and the quality that Jongu's "grammars" attempt to hold space for.
+**The "never to Fred; always with Fred" line** (from King's biography, quoting McFarland's conversational style) captures something essential about how she modeled relational presence. She did not lecture Rogers. She thought alongside him. This is the quality that distinguishes contemplative dialogue from instruction — and the quality that Recursive.eco's "grammars" attempt to hold space for.
 
 ---
 
@@ -884,7 +884,7 @@ A subsequent study (published in *Media Psychology*, 2018\) found that children 
 
 ### **The Critical Takeaway**
 
-**The parental presence finding is the most important result for the book.** It confirms what Rogers and McFarland understood intuitively: media cannot substitute for relationship. The medium serves the child only when it is embedded in a relational context — a parent who watches, discusses, reinforces. This directly supports Jongu's design philosophy of co-viewing, co-creation, and shared practice rather than passive consumption. The grammar is the space where the meeting happens — but only if someone else is in the room.
+**The parental presence finding is the most important result for the book.** It confirms what Rogers and McFarland understood intuitively: media cannot substitute for relationship. The medium serves the child only when it is embedded in a relational context — a parent who watches, discusses, reinforces. This directly supports Recursive.eco's design philosophy of co-viewing, co-creation, and shared practice rather than passive consumption. The grammar is the space where the meeting happens — but only if someone else is in the room.
 
 As Rasmussen said: "It's not enough to just plop your kid in front of the TV and hope they're going to develop these social and emotional skills. There has to be a certain level of involvement in kids' TV viewing experiences."
 
@@ -902,7 +902,7 @@ This is the exact logic that Recursive.eco applies to digital platforms:
 
 Rogers's own use of the word "modulations" is uncanny in the context of Kelty's theoretical framework. In the opening scene of the documentary *Won't You Be My Neighbor?*, a young Rogers sits at a piano and explains: "It seems to me that there are different themes in life. And one of my main jobs, it seems to me, is to help, through the mass media for children, to help children through some of the difficult modulations of life. Because it's easy for instance to go from C to F. But there are some modulations that aren't so easy. For instance, to go from F to F\#, you've got to weave through all sorts of things. And it seems to me if you've got somebody to help you, as you weave…"
 
-**Rogers was describing modulation in the musical and developmental sense — but the word resonates with Kelty's use of "modulation" to describe what happens when the practices of free software are extended into new domains.** Jongu/Recursive.eco is a modulation of both: it takes Rogers's modulation of television into care and Kelty's modulation of software into commons and asks what happens when both are applied to contemplative practice.
+**Rogers was describing modulation in the musical and developmental sense — but the word resonates with Kelty's use of "modulation" to describe what happens when the practices of free software are extended into new domains.** Recursive.eco/Recursive.eco is a modulation of both: it takes Rogers's modulation of television into care and Kelty's modulation of software into commons and asks what happens when both are applied to contemplative practice.
 
 ---
 
@@ -910,7 +910,7 @@ Rogers's own use of the word "modulations" is uncanny in the context of Kelty's 
 
 Hedda Sharapan was Rogers's longtime associate at Family Communications, Inc. (now Fred Rogers Productions), working with him for over 30 years. She has served as the primary keeper of his production philosophy in the years since his death, articulating the principles that guided every creative decision on the show.
 
-The production philosophy can be summarized in several principles that map directly onto Jongu's design:
+The production philosophy can be summarized in several principles that map directly onto Recursive.eco's design:
 
 1. **Respect the child's pace.** Never rush. Never condescend. Never assume the child cannot handle real feelings.  
 2. **Make the invisible visible.** Show processes. Show how things are made. Show what happens inside people when they feel things.  
@@ -928,11 +928,11 @@ Rogers serves as the positive pole in a chapter that documents the crisis. If th
 
 ### **For Chapter 8 (The Commons / Grammars of the Living World)**
 
-Rogers is the emotional and structural model for Jongu's design philosophy. The book's closing chapter should open with the Kelty concept of the recursive public, but it should *feel* like Rogers — warm, serious, respectful of the reader's intelligence, unwilling to simplify. The closing line from Kelty — "If we succeed, we will disappear" — maps onto Rogers's invisibility. He did not build a brand. He built a presence. The goal of the platform is the same: infrastructure so fundamental it becomes invisible.
+Rogers is the emotional and structural model for Recursive.eco's design philosophy. The book's closing chapter should open with the Kelty concept of the recursive public, but it should *feel* like Rogers — warm, serious, respectful of the reader's intelligence, unwilling to simplify. The closing line from Kelty — "If we succeed, we will disappear" — maps onto Rogers's invisibility. He did not build a brand. He built a presence. The goal of the platform is the same: infrastructure so fundamental it becomes invisible.
 
 ### **The "Modulations" Connection**
 
-Rogers using the word "modulations" to describe his work with children, and Kelty using the same word to describe how free software practices extend into new domains, is a remarkable convergence. The book should let this resonate without forcing it. Rogers was modulating television. Kelty was modulating software. Jongu modulates both into contemplative practice. The grammars are the source code. The commons is the license. The community is the public. Everything else is practice.
+Rogers using the word "modulations" to describe his work with children, and Kelty using the same word to describe how free software practices extend into new domains, is a remarkable convergence. The book should let this resonate without forcing it. Rogers was modulating television. Kelty was modulating software. Recursive.eco modulates both into contemplative practice. The grammars are the source code. The commons is the license. The community is the public. Everything else is practice.
 
 ---
 
@@ -1035,7 +1035,7 @@ A 2017 study in Boa Vista, Brazil (566 parent-child dyads in 12 childcare cluste
 
 A February 2026 study recruited 38 families in Virginia with children ages 6–8. After just 14 bedtimes of reading together, children showed significant improvement in cognitive empathy and creative thinking — regardless of whether parents paused to ask questions or read straight through. The act of shared reading itself was the active ingredient, not the specific pedagogical technique. The neuroscientist-author noted: "These 15 minutes of reading aren't just about preparing kids to sleep or teaching them to decode words. They're building neural pathways for understanding others and imagining possibilities."
 
-**Key insight for the book:** Reading aloud is not merely an educational activity. It is a contemplative practice — a shared encounter with story that exercises the child's capacity for empathy, imagination, and social cognition. The brain evidence confirms what Rogers and McFarland intuited: the medium matters less than the relational context. A screen with a present parent may work; a screen without a parent activates different neural systems entirely. This is the neurological basis for Jongu's design philosophy of shared practice over passive consumption.
+**Key insight for the book:** Reading aloud is not merely an educational activity. It is a contemplative practice — a shared encounter with story that exercises the child's capacity for empathy, imagination, and social cognition. The brain evidence confirms what Rogers and McFarland intuited: the medium matters less than the relational context. A screen with a present parent may work; a screen without a parent activates different neural systems entirely. This is the neurological basis for Recursive.eco's design philosophy of shared practice over passive consumption.
 
 ---
 
@@ -1103,7 +1103,7 @@ This is the central question Research 2 was designed to address — and the rese
 
 3. **The medium must not displace the relationship.** The technoference research is unambiguous: when the device becomes the primary attentional object rather than the shared practice, developmental harm follows.
 
-### **Design Principles for Jongu**
+### **Design Principles for Recursive.eco**
 
 The research suggests that a curated, shared grammar playlist could function as family ritual if it satisfies these conditions:
 
@@ -1130,7 +1130,7 @@ When shared reading declines, what is lost is not merely literacy preparation. I
 * **The neural architecture for empathy.** The 2025 fNIRS study shows that the social brain networks recruited by live shared reading are not activated by solitary screen use. The decline of read-aloud is not just a cultural loss but a neurological one.  
 * **Ritual structure.** Bedtime reading has the structure of ritual — repeated, bounded, embodied, shared. When it disappears, what replaces it? Usually, individual screen use in separate rooms.
 
-**Key insight for the book:** The decline of shared family narrative is not a separate phenomenon from the crisis of mythic belonging. It is the same crisis, experienced at the smallest scale. If a civilization cannot maintain shared stories at the level of a single family's bedtime, what hope does it have for maintaining them at the level of a community, a nation, or a species? Jongu's "shared grammar playlists" are an attempt to provide infrastructure for this most fundamental practice — not as a replacement for books and bedtime, but as a complementary practice that extends the ritual logic of shared reading into the digital medium.
+**Key insight for the book:** The decline of shared family narrative is not a separate phenomenon from the crisis of mythic belonging. It is the same crisis, experienced at the smallest scale. If a civilization cannot maintain shared stories at the level of a single family's bedtime, what hope does it have for maintaining them at the level of a community, a nation, or a species? Recursive.eco's "shared grammar playlists" are an attempt to provide infrastructure for this most fundamental practice — not as a replacement for books and bedtime, but as a complementary practice that extends the ritual logic of shared reading into the digital medium.
 
 ---
 
@@ -1179,7 +1179,7 @@ The closing image: a parent and child, sitting together, casting a tarot card or
 ✓ Logged in as PlayfulProcess  
 \! You were already logged in to this account  
 faga\_alves@cloudshell:\~$   
-faga\_alves@cloudshell:\~$ cd /tmp && rm \-rf repo-clean && git clone \--bare https://github.com/PlayfulProcess/Jongu-2.0.git repo-clean && cd repo-clean && echo 'faga.alves@gmail.com==\>REDACTED' \> /tmp/replace-text.txt && printf 'PlayfulProcess \<17236172+PlayfulProcess@users.noreply.github.com\> \<faga.alves@gmail.com\>\\n' \> /tmp/mailmap.txt && git filter-repo \--mailmap /tmp/mailmap.txt \--replace-text /tmp/replace-text.txt \--replace-message /tmp/replace-text.txt \--force && git remote add origin https://github.com/PlayfulProcess/Jongu-2.0.git && git push origin \--mirror \--force  
+faga\_alves@cloudshell:\~$ cd /tmp && rm \-rf repo-clean && git clone \--bare https://github.com/PlayfulProcess/Recursive.eco-2.0.git repo-clean && cd repo-clean && echo 'faga.alves@gmail.com==\>REDACTED' \> /tmp/replace-text.txt && printf 'PlayfulProcess \<17236172+PlayfulProcess@users.noreply.github.com\> \<faga.alves@gmail.com\>\\n' \> /tmp/mailmap.txt && git filter-repo \--mailmap /tmp/mailmap.txt \--replace-text /tmp/replace-text.txt \--replace-message /tmp/replace-text.txt \--force && git remote add origin https://github.com/PlayfulProcess/Recursive.eco-2.0.git && git push origin \--mirror \--force  
 Cloning into bare repository 'repo-clean'...
 
 remote: Enumerating objects: 233, done.  
@@ -1190,7 +1190,7 @@ Receiving objects: 100% (233/233), 233.91 KiB | 5.20 MiB/s, done.
 Resolving deltas: 100% (52/52), done.  
 NOTICE: Removing 'origin' remote; see 'Why is my origin removed?'  
         in the manual if you want to push back there.  
-        (was https://github.com/PlayfulProcess/Jongu-2.0.git)  
+        (was https://github.com/PlayfulProcess/Recursive.eco-2.0.git)  
 Parsed 11 commits  
 New history written in 0.07 seconds; now repacking/cleaning...  
 Repacking your repo and cleaning out old unneeded objects  
@@ -1206,10 +1206,10 @@ Enumerating objects: 233, done.
 Writing objects: 100% (233/233), 234.37 KiB | 117.19 MiB/s, done.  
 Total 233 (delta 0), reused 0 (delta 0), pack-reused 233  
 remote: Resolving deltas: 100% (51/51), done.  
-To https://github.com/PlayfulProcess/Jongu-2.0.git  
+To https://github.com/PlayfulProcess/Recursive.eco-2.0.git  
  \+ 0b16407...c2724fb main \-\> main (forced update)  
 faga\_alves@cloudshell:/tmp/repo-clean$   
-faga\_alves@cloudshell:/tmp/repo-clean$ cd /tmp && rm \-rf repo-clean && git clone \--bare https://github.com/PlayfulProcess/jongu-7rays-visualization.git repo-clean && cd repo-clean && echo 'faga.alves@gmail.com==\>REDACTED' \> /tmp/replace-text.txt && echo 'julia.alves@pepsico.com==\>REDACTED' \>\> /tmp/replace-text.txt && echo 'juliamtisdale@gmail.com==\>REDACTED' \>\> /tmp/replace-text.txt && printf 'PlayfulProcess \<17236172+PlayfulProcess@users.noreply.github.com\> \<faga.alves@gmail.com\>\\n' \> /tmp/mailmap.txt && git filter-repo \--mailmap /tmp/mailmap.txt \--replace-text /tmp/replace-text.txt \--replace-message /tmp/replace-text.txt \--force && git remote add origin https://github.com/PlayfulProcess/jongu-7rays-visualization.git && git push origin \--mirror \--force  
+faga\_alves@cloudshell:/tmp/repo-clean$ cd /tmp && rm \-rf repo-clean && git clone \--bare https://github.com/PlayfulProcess/recursive.eco-7rays-visualization.git repo-clean && cd repo-clean && echo 'faga.alves@gmail.com==\>REDACTED' \> /tmp/replace-text.txt && echo 'julia.alves@pepsico.com==\>REDACTED' \>\> /tmp/replace-text.txt && echo 'juliamtisdale@gmail.com==\>REDACTED' \>\> /tmp/replace-text.txt && printf 'PlayfulProcess \<17236172+PlayfulProcess@users.noreply.github.com\> \<faga.alves@gmail.com\>\\n' \> /tmp/mailmap.txt && git filter-repo \--mailmap /tmp/mailmap.txt \--replace-text /tmp/replace-text.txt \--replace-message /tmp/replace-text.txt \--force && git remote add origin https://github.com/PlayfulProcess/recursive.eco-7rays-visualization.git && git push origin \--mirror \--force  
 Cloning into bare repository 'repo-clean'...  
 remote: Enumerating objects: 259, done.  
 remote: Counting objects: 100% (76/76), done.  
@@ -1219,7 +1219,7 @@ Receiving objects: 100% (259/259), 157.89 MiB | 1.72 MiB/s, done.
 Resolving deltas: 100% (56/56), done.  
 NOTICE: Removing 'origin' remote; see 'Why is my origin removed?'  
         in the manual if you want to push back there.  
-        (was https://github.com/PlayfulProcess/jongu-7rays-visualization.git)  
+        (was https://github.com/PlayfulProcess/recursive.eco-7rays-visualization.git)  
 Parsed 30 commits  
 New history written in 2.87 seconds; now repacking/cleaning...  
 Repacking your repo and cleaning out old unneeded objects  
@@ -1237,7 +1237,7 @@ cd /tmp && rm \-rf repo-clean && git clone \--bare https://github.com/PlayfulPro
 Writing objects: 100% (259/259), 157.89 MiB | 1.02 MiB/s, done.  
 Total 259 (delta 0), reused 0 (delta 0), pack-reused 259  
 remote: Resolving deltas: 100% (58/58), done.  
-To https://github.com/PlayfulProcess/jongu-7rays-visualization.git  
+To https://github.com/PlayfulProcess/recursive.eco-7rays-visualization.git  
  \+ b56cc62...c50da5f 7rays-visualization \-\> 7rays-visualization (forced update)  
  \+ be14103...be8cee7 dev \-\> dev (forced update)  
  \+ 220fabb...c38982c dev-phase1-templates \-\> dev-phase1-templates (forced update)  
@@ -1305,7 +1305,7 @@ Andreotti identifies five orientations that modernity produces in its subjects: 
 
 ### **The Exercises**
 
-*Hospicing Modernity* is part philosophical treatise, part workbook. It includes numerous "check your bus" exercises — invitations for the reader to examine their own complicity in the structures they critique. This pedagogical method is directly relevant to Jongu's design: the platform holds your question without answering it. The grammar is a contemplative technology for sitting with, not solving.
+*Hospicing Modernity* is part philosophical treatise, part workbook. It includes numerous "check your bus" exercises — invitations for the reader to examine their own complicity in the structures they critique. This pedagogical method is directly relevant to Recursive.eco's design: the platform holds your question without answering it. The grammar is a contemplative technology for sitting with, not solving.
 
 ---
 
@@ -1389,7 +1389,7 @@ Ngũgĩ enacted his argument: he abandoned English in his fiction writing and co
 
 *Decolonizing Methodologies: Research and Indigenous Peoples* (1999, 3rd ed. 2021\) is the foundational text on indigenous research methodology. A Māori scholar at the University of Auckland, Tuhiwai Smith builds on Ngũgĩ's thesis to argue that "decolonization is a long-term process involving the cultural, linguistic and psychological divesting of colonial parameters." The Western tradition of knowledge is grounded in positivism — the notion that research is objective and value-free. Tuhiwai Smith introduces Kaupapa Māori as an alternative epistemology: "We have a different epistemological tradition which frames the way we see the world."
 
-**Relevance for the book:** Tuhiwai Smith provides the methodological framework for what ethical engagement with indigenous knowledge systems looks like in practice — exactly the question Jongu faces with initiated traditions like Ifá. Her concept of research accountability to indigenous communities maps onto the CARE Principles the book already uses.
+**Relevance for the book:** Tuhiwai Smith provides the methodological framework for what ethical engagement with indigenous knowledge systems looks like in practice — exactly the question Recursive.eco faces with initiated traditions like Ifá. Her concept of research accountability to indigenous communities maps onto the CARE Principles the book already uses.
 
 ### **Boaventura de Sousa Santos (b. 1940\)**
 
@@ -1403,7 +1403,7 @@ Ngũgĩ enacted his argument: he abandoned English in his fiction writing and co
 
 ### **Where It Applies**
 
-Andreotti and Akomolafe's critique applies powerfully to Jongu in several ways:
+Andreotti and Akomolafe's critique applies powerfully to Recursive.eco in several ways:
 
 **The platform cannot solve the crisis of mythic belonging without reproducing the logic that created it.** If modernity's deepest reflex is problem → solution → implementation, then building a platform to "solve" the meaning crisis is already caught in the trap. The book's Chapter 7 argument — that the impulse to solve is part of the problem — draws directly from Akomolafe's question.
 
@@ -1413,11 +1413,11 @@ Andreotti and Akomolafe's critique applies powerfully to Jongu in several ways:
 
 ### **Where It Doesn't Fully Apply**
 
-**The recursive public is already the answer to the critique.** Kelty's concept — a community that builds and maintains the very infrastructure through which it makes meaning — is precisely the kind of practice-based, non-solutionist, continuously modifiable approach that both Andreotti and Akomolafe call for. Jongu doesn't claim to have the answer. It creates conditions and sees what the community does with them.
+**The recursive public is already the answer to the critique.** Kelty's concept — a community that builds and maintains the very infrastructure through which it makes meaning — is precisely the kind of practice-based, non-solutionist, continuously modifiable approach that both Andreotti and Akomolafe call for. Recursive.eco doesn't claim to have the answer. It creates conditions and sees what the community does with them.
 
 **The "gesture" framing.** The book already uses the term "gesture toward adaptive futures" — borrowed from the same intellectual milieu — to describe what the platform attempts. Not a solution but a wager. Not certainty but courage.
 
-**Some things need to be built.** The deepest tension between Akomolafe/Andreotti and Jongu is that the platform requires building — writing code, designing interfaces, making decisions, deploying infrastructure. Postactivism can become a kind of philosophical paralysis when taken to its extreme: if every response to the crisis is part of the crisis, then no response is possible. The book's answer (drawing on Tillich, Palmer, Wallis) is that inaction is also an action, and that the courage to build something imperfect — treating every version as a draft — is itself a contemplative practice.
+**Some things need to be built.** The deepest tension between Akomolafe/Andreotti and Recursive.eco is that the platform requires building — writing code, designing interfaces, making decisions, deploying infrastructure. Postactivism can become a kind of philosophical paralysis when taken to its extreme: if every response to the crisis is part of the crisis, then no response is possible. The book's answer (drawing on Tillich, Palmer, Wallis) is that inaction is also an action, and that the courage to build something imperfect — treating every version as a draft — is itself a contemplative practice.
 
 ---
 
@@ -1470,13 +1470,13 @@ The indigenous traditions, particularly Tupi-speaking peoples of the Amazon and 
 
 The African dimension is essential for the book. The Griô (griot) figure in Brazil carries the West African oral tradition, adapted through 400 years of slavery (1530–1888). A Griô is not merely a storyteller but "a musician, poet, organizer, conciliator or emissary who intermediates communication among ethnic groups." Critically, "Griô is not a 'position' chosen as a lifestyle or a profession. One is born as a griô and thus is part of a family of griôs." The Griô is an artisan of words who "conducts the ritual of listening, seeing, imagining, and participating in the memory of a place."
 
-This maps directly onto the book's argument about grammars: the Griô tradition is a grammar — a finite symbolic vocabulary (the oral corpus) maintained through practice (the performance) by a community (the listeners). What distinguishes it from Jongu's digital commons is that it is lineage-based and initiated — precisely the kind of tradition that the CARE Principles are designed to protect.
+This maps directly onto the book's argument about grammars: the Griô tradition is a grammar — a finite symbolic vocabulary (the oral corpus) maintained through practice (the performance) by a community (the listeners). What distinguishes it from Recursive.eco's digital commons is that it is lineage-based and initiated — precisely the kind of tradition that the CARE Principles are designed to protect.
 
 ### **Contemporary Practice**
 
 Brazilian academic research on *contação de histórias* emphasizes that storytelling "contributes to the constitution of subjects, as it stimulates imagination, develops linguistic skills and promotes cultural values, empathy and understanding of the world." The major academic collection, *Contação de Histórias: Tradição, Poéticas e Interfaces* (544 pages, 89 authors), describes it as "the germ of the soul of these artistic expressions" rooted in "the relation with the other, in a kind of mirror effect."
 
-**Key insight for the book:** The Brazilian tradition demonstrates how storytelling survives cultural violence — slavery, colonization, displacement — by embedding itself in community practice. The stories adapt, blend, recombine (indigenous \+ African \+ Portuguese), but the structure of the practice persists: adults gathering children, transmitting values through narrative, creating shared symbolic reference points. This is what Jongu attempts to digitize — not the content (which varies) but the structure (gathering, sharing, reflecting).
+**Key insight for the book:** The Brazilian tradition demonstrates how storytelling survives cultural violence — slavery, colonization, displacement — by embedding itself in community practice. The stories adapt, blend, recombine (indigenous \+ African \+ Portuguese), but the structure of the practice persists: adults gathering children, transmitting values through narrative, creating shared symbolic reference points. This is what Recursive.eco attempts to digitize — not the content (which varies) but the structure (gathering, sharing, reflecting).
 
 ---
 
@@ -1498,7 +1498,7 @@ Japan also has the *kamishibai* tradition — "paper theater" — where a storyt
 
 A 2001 Japanese study documented growing reading movements including *animación a la lectura* (reading animation programs imported from Spain), "ten-minutes reading in the morning" programs in schools, and organized *yomikikase* by parents. These movements represent a deliberate cultural effort to maintain shared reading as a communal practice in the face of digital displacement.
 
-**Key insight for the book:** Japan demonstrates that read-aloud culture can be institutionally supported without losing its relational quality. The school-based *yomikikase* program normalizes shared reading as a community responsibility, not just a parental one. This is relevant to Jongu's design: the platform should support not just individual or family practice but community curation — groups of people selecting, sharing, and maintaining grammars together.
+**Key insight for the book:** Japan demonstrates that read-aloud culture can be institutionally supported without losing its relational quality. The school-based *yomikikase* program normalizes shared reading as a community responsibility, not just a parental one. This is relevant to Recursive.eco's design: the platform should support not just individual or family practice but community curation — groups of people selecting, sharing, and maintaining grammars together.
 
 ---
 
@@ -1522,7 +1522,7 @@ The griot tradition is directly relevant to the book's discussion of initiated v
 
 In Yoruba communities of Nigeria, storytelling nights bring families and neighbors together under the stars. Elders lead sessions imparting moral lessons through tales of gods, spirits, and ancestors. A Yoruba saying captures the epistemology: *"The elders see sitting down what a child cannot see standing up."* These gatherings foster intergenerational respect and a sense of communal identity.
 
-**Key insight for the book:** The West African evening storytelling tradition is the clearest example of what the book calls a "shared grammar" operating at the community level. It has all the structural features: finite symbolic vocabulary (the tales), randomness (which tale is told depends on the occasion), interpretation (the moral emerges through discussion), repetition (children hear the same tales across years), and relational context (the telling requires human presence). What Jongu attempts is not a replacement for this but a structural analog for communities that no longer gather by moonlight.
+**Key insight for the book:** The West African evening storytelling tradition is the clearest example of what the book calls a "shared grammar" operating at the community level. It has all the structural features: finite symbolic vocabulary (the tales), randomness (which tale is told depends on the occasion), interpretation (the moral emerges through discussion), repetition (children hear the same tales across years), and relational context (the telling requires human presence). What Recursive.eco attempts is not a replacement for this but a structural analog for communities that no longer gather by moonlight.
 
 ---
 
@@ -1536,7 +1536,7 @@ Mason's criteria for living books map remarkably onto what the book identifies a
 
 ### **Narration as Contemplative Practice**
 
-Mason's method of narration — having the child "tell back" what they've read — is structurally identical to what the book describes as "casting and reflecting." The child encounters the text (casting), then articulates their interpretation (reflecting). The adult does not tell the child what the text means. The meaning emerges through the practice of retelling. This is exactly the design philosophy Jongu embodies: "It does not tell you what the card means. It does not predict your future. It does not claim authority over your experience. It holds your question without answering it."
+Mason's method of narration — having the child "tell back" what they've read — is structurally identical to what the book describes as "casting and reflecting." The child encounters the text (casting), then articulates their interpretation (reflecting). The adult does not tell the child what the text means. The meaning emerges through the practice of retelling. This is exactly the design philosophy Recursive.eco embodies: "It does not tell you what the card means. It does not predict your future. It does not claim authority over your experience. It holds your question without answering it."
 
 ### **The "Story Diet" Concept**
 
@@ -1544,7 +1544,7 @@ The book's research plan asks whether families can "intentionally curate their n
 
 Contemporary Charlotte Mason practitioners use the term "morning basket" for a curated collection of readings that the family engages with together each day — poems, scripture passages, living books, nature study. This is functionally a "grammar playlist" before the concept existed.
 
-**Key insight for the book:** Charlotte Mason's "living books" pedagogy is the Western educational tradition's closest analog to what Jongu proposes. Replace "living books" with "grammars" and "narration" with "casting and reflecting," and the philosophical architecture is nearly identical. The key difference is that Mason's framework is family-centered and curated by the parent, while Jongu extends this to community curation and digital accessibility. The "story diet" concept — intentional curation of narrative intake — is the practical bridge between Mason's pedagogy and Jongu's design.
+**Key insight for the book:** Charlotte Mason's "living books" pedagogy is the Western educational tradition's closest analog to what Recursive.eco proposes. Replace "living books" with "grammars" and "narration" with "casting and reflecting," and the philosophical architecture is nearly identical. The key difference is that Mason's framework is family-centered and curated by the parent, while Recursive.eco extends this to community curation and digital accessibility. The "story diet" concept — intentional curation of narrative intake — is the practical bridge between Mason's pedagogy and Recursive.eco's design.
 
 ---
 
@@ -1562,7 +1562,7 @@ Waldorf (Steiner) education, founded by Rudolf Steiner in 1919, takes an explici
 
 Waldorf education is notable for its deliberate restriction of screen media, particularly for young children. Steiner schools typically recommend no screens before age 7 and limited screen use through adolescence. The rationale is not technophobia but developmental — young children need direct sensory experience, movement, and human relationship, not the "overstimulation and hinder\[ing\] of neural synapses" that Christakis's research documents.
 
-This approach resonates with the book's argument but also complicates it: if Waldorf is right that screens are developmentally inappropriate for young children, then a digital platform hosting grammars faces a tension. Jongu's design response — no notifications, no autoplay, no engagement optimization, contemplation-designed rather than engagement-designed — attempts to create a digital environment that serves the developmental needs Waldorf identifies rather than undermining them.
+This approach resonates with the book's argument but also complicates it: if Waldorf is right that screens are developmentally inappropriate for young children, then a digital platform hosting grammars faces a tension. Recursive.eco's design response — no notifications, no autoplay, no engagement optimization, contemplation-designed rather than engagement-designed — attempts to create a digital environment that serves the developmental needs Waldorf identifies rather than undermining them.
 
 ---
 
@@ -1580,7 +1580,7 @@ Across indigenous cultures worldwide — from Australian Aboriginal "Dreamtime" 
 
 ### **The Digital Tension**
 
-Indigenous storytelling traditions present the sharpest challenge to Jongu's commons model. Many indigenous stories are sacred, initiated, seasonal, or gender-specific — they are not "content" to be made freely available but knowledge systems governed by protocols of access. The book already addresses this through the CARE Principles and the "gateway not gatekeeper" framework, but the Research 5 material reinforces why this distinction matters.
+Indigenous storytelling traditions present the sharpest challenge to Recursive.eco's commons model. Many indigenous stories are sacred, initiated, seasonal, or gender-specific — they are not "content" to be made freely available but knowledge systems governed by protocols of access. The book already addresses this through the CARE Principles and the "gateway not gatekeeper" framework, but the Research 5 material reinforces why this distinction matters.
 
 The Griô is born, not trained. The Babalawo is initiated, not certified. The Aboriginal elder's authority to tell certain stories comes from ceremonial qualification, not interest. A platform that makes "everything freely available" without distinguishing between structurally open systems (tarot, I Ching) and initiated systems (Ifá, Griô traditions, Aboriginal Dreamtime) risks epistemicide — Santos's term for the destruction of non-Western ways of knowing.
 
@@ -1606,7 +1606,7 @@ What varies across cultures is: which stories are told when (Waldorf's developme
 
 The question the book asks — can families intentionally curate their narrative intake? — receives a resounding yes from every tradition examined. The Brazilian *contação de histórias*, the Japanese *yomikikase*, the West African moonlight tales, Charlotte Mason's living books, Waldorf's developmental staging — all represent intentional curation of narrative. The question is not whether curation is possible but whether it can survive the algorithmic disruption of the attention economy.
 
-Jongu's answer: provide infrastructure for human curation (not algorithmic recommendation) of grammars that families and communities can share, repeat, and return to — treating each grammar the way a Charlotte Mason family treats a living book or a West African family treats a moonlight tale.
+Recursive.eco's answer: provide infrastructure for human curation (not algorithmic recommendation) of grammars that families and communities can share, repeat, and return to — treating each grammar the way a Charlotte Mason family treats a living book or a West African family treats a moonlight tale.
 
 ---
 
@@ -1622,7 +1622,7 @@ The decline of every tradition documented here — from the Griô figure displac
 
 ### **For Chapter 8 (The Commons)**
 
-The "shared grammar playlist" concept arrives here as the synthesis. The design principles drawn from across cultures: human curation (not algorithms), developmental appropriateness (Waldorf staging), communal engagement (not individual consumption), repetition built in (the same grammars returned to), respect for initiated traditions (CARE Principles), and the practice of narration/reflection (Charlotte Mason's "tell back," Jongu's "cast and reflect"). The platform doesn't replace moonlight. It provides infrastructure for communities that no longer gather by moonlight to create shared symbolic worlds through intentional practice.
+The "shared grammar playlist" concept arrives here as the synthesis. The design principles drawn from across cultures: human curation (not algorithms), developmental appropriateness (Waldorf staging), communal engagement (not individual consumption), repetition built in (the same grammars returned to), respect for initiated traditions (CARE Principles), and the practice of narration/reflection (Charlotte Mason's "tell back," Recursive.eco's "cast and reflect"). The platform doesn't replace moonlight. It provides infrastructure for communities that no longer gather by moonlight to create shared symbolic worlds through intentional practice.
 
 ---
 
@@ -1787,7 +1787,7 @@ The "shared grammar playlist" concept arrives here as the synthesis. The design 
 
 *When applied to children, surveillance capitalism means: children's attention, behavior, and emotional responses are raw material. Every tap, scroll, pause, and reaction is extracted as behavioral data. This data trains algorithms that predict how to capture more attention, producing design features (autoplay, infinite scroll, push notifications) that are optimized specifically for the developing brain's vulnerabilities.*
 
-*The book's argument: Jongu's architecture — no ads, no algorithm, no notifications, no tracking, privacy by default, everything exportable and deletable — is not merely a design preference. It is a structural refusal of surveillance capitalism's extraction logic. The platform does not monetize attention. It does not extract behavioral data. It holds your question without answering it — and without selling your question to the highest bidder.*
+*The book's argument: Recursive.eco's architecture — no ads, no algorithm, no notifications, no tracking, privacy by default, everything exportable and deletable — is not merely a design preference. It is a structural refusal of surveillance capitalism's extraction logic. The platform does not monetize attention. It does not extract behavioral data. It holds your question without answering it — and without selling your question to the highest bidder.*
 
 ---
 
@@ -1807,7 +1807,7 @@ The "shared grammar playlist" concept arrives here as the synthesis. The design 
 
 ### ***The Book's Integration***
 
-*The book should acknowledge these counterarguments honestly. The position is not that social media is purely harmful but that the design paradigm — engagement optimization through surveillance capitalism — is structurally incompatible with contemplative practice, developmental wellbeing, and the formation of shared symbolic worlds. You can use a smartphone to cast an I Ching hexagram and journal about it with your child. The problem is not the technology but the economic logic that shapes how technology is designed. Jongu's alternative is not anti-technology but pro-ritual — Fred Rogers for the platform age.*
+*The book should acknowledge these counterarguments honestly. The position is not that social media is purely harmful but that the design paradigm — engagement optimization through surveillance capitalism — is structurally incompatible with contemplative practice, developmental wellbeing, and the formation of shared symbolic worlds. You can use a smartphone to cast an I Ching hexagram and journal about it with your child. The problem is not the technology but the economic logic that shapes how technology is designed. Recursive.eco's alternative is not anti-technology but pro-ritual — Fred Rogers for the platform age.*
 
 ---
 
@@ -1959,9 +1959,9 @@ An investigative report by *The Intercept* revealed that during the Congressiona
 
 Brazil's Digital ECA embodies the Radesky evolution: from "what can parents do?" to "what should platforms be required to do?" The law explicitly rejects placing the burden on families — as researcher Maria Mello of the Alana Institute argues, "monitoring children's and adolescents' online access cannot fall solely on families." Senator Zilda Barbosa pointed to the impossibility for many single mothers working multiple jobs to supervise their children's digital lives.
 
-For Jongu specifically: the law's principles — best interest of the child, prevention of compulsive use, ban on profiling and manipulative advertising, default privacy settings — are already embodied in Jongu's architecture. The platform doesn't need to comply with the Digital ECA because it never adopted the practices the law prohibits. No ads, no algorithm, no notifications, no tracking, no loot boxes, no profiling. Jongu's design is what the law tries to force the attention economy to become.
+For Recursive.eco specifically: the law's principles — best interest of the child, prevention of compulsive use, ban on profiling and manipulative advertising, default privacy settings — are already embodied in Recursive.eco's architecture. The platform doesn't need to comply with the Digital ECA because it never adopted the practices the law prohibits. No ads, no algorithm, no notifications, no tracking, no loot boxes, no profiling. Recursive.eco's design is what the law tries to force the attention economy to become.
 
-Brazil also ranks second worldwide in average daily screen time and fifth in social media use, with 92% of children ages 9–17 online and 85% with social media profiles. The country where Jongu's founder lives and where the Jongo dance originates is simultaneously the country most aggressively legislating against the attention economy.
+Brazil also ranks second worldwide in average daily screen time and fifth in social media use, with 92% of children ages 9–17 online and 85% with social media profiles. The country where Recursive.eco's founder lives and where the Jongo dance originates is simultaneously the country most aggressively legislating against the attention economy.
 
 ---
 
@@ -2027,7 +2027,7 @@ The book's skeleton doesn't address this comparison, but it matters for platform
 
 **Discord** is comparatively riskier because: communication is private by default; moderation is decentralized (server owners, not Discord); the platform enables direct voice/video calls with strangers; friend requests are open by default; and the gaming pipeline provides a ready supply of child users.
 
-The design lesson for Jongu: **the absence of engagement optimization does not automatically make a platform safe for children.** Discord proves that a platform can lack algorithmic feeds, likes, and infinite scroll while still enabling harm through private communication channels and inadequate moderation. Jongu's safety architecture must address both the attention economy's design harms (which it already does) and the communication-channel risks that platforms like Discord demonstrate. Privacy by default is essential — but so is preventing unmoderated private contact between strangers and minors.
+The design lesson for Recursive.eco: **the absence of engagement optimization does not automatically make a platform safe for children.** Discord proves that a platform can lack algorithmic feeds, likes, and infinite scroll while still enabling harm through private communication channels and inadequate moderation. Recursive.eco's safety architecture must address both the attention economy's design harms (which it already does) and the communication-channel risks that platforms like Discord demonstrate. Privacy by default is essential — but so is preventing unmoderated private contact between strangers and minors.
 
 ---
 
@@ -2061,9 +2061,9 @@ The Meta verdict — the first jury finding a platform liable for harm to childr
 
 ### **For Chapter 8 (The Commons)**
 
-The legislative landscape creates a powerful context for Jongu's design philosophy. The platform doesn't need to be forced to comply with child safety legislation because it never adopted the harmful practices the legislation targets:
+The legislative landscape creates a powerful context for Recursive.eco's design philosophy. The platform doesn't need to be forced to comply with child safety legislation because it never adopted the harmful practices the legislation targets:
 
-| What the law requires | Jongu's existing design |
+| What the law requires | Recursive.eco's existing design |
 | ----- | ----- |
 | Ban self-declaration for age verification | No accounts required at all |
 | Default settings preventing compulsive use | No notifications, no autoplay, no infinite scroll |
@@ -2072,11 +2072,11 @@ The legislative landscape creates a powerful context for Jongu's design philosop
 | Transparency reports on moderation | Open-source code; everything is transparent |
 | Content appropriate for age groups | Grammars curated by humans, not algorithms |
 
-Jongu's architecture is what the Digital ECA, the UK Age Appropriate Design Code, and the Kids Online Safety Act are collectively trying to force the attention economy to become. The platform is not ahead of regulation — it simply started from a different premise. Not: "How do we maximize engagement and then add safety features?" But: "How do we serve contemplative practice?" The safety follows from the premise.
+Recursive.eco's architecture is what the Digital ECA, the UK Age Appropriate Design Code, and the Kids Online Safety Act are collectively trying to force the attention economy to become. The platform is not ahead of regulation — it simply started from a different premise. Not: "How do we maximize engagement and then add safety features?" But: "How do we serve contemplative practice?" The safety follows from the premise.
 
 ### **The Discord Lesson**
 
-Discord's troubles demonstrate that safety-by-design requires more than the absence of engagement optimization. A platform must also address communication risks — particularly private contact between strangers and minors. Jongu's architecture (privacy by default, optional AI that is always opt-in, community-curated content, no private DMs between strangers) addresses both the attention economy's harms and the communication-channel risks.
+Discord's troubles demonstrate that safety-by-design requires more than the absence of engagement optimization. A platform must also address communication risks — particularly private contact between strangers and minors. Recursive.eco's architecture (privacy by default, optional AI that is always opt-in, community-curated content, no private DMs between strangers) addresses both the attention economy's harms and the communication-channel risks.
 
 ---
 
@@ -2114,7 +2114,7 @@ Discord's troubles demonstrate that safety-by-design requires more than the abse
 
 Sesame Workshop (formerly the Children's Television Workshop) is the single largest informal educator of children in the world, reaching over 150 million children in more than 150 countries. Founded in 1969 against the backdrop of the Civil Rights movement, it was conceived to close school-readiness gaps between advantaged and disadvantaged children through the then-revolutionary medium of television.
 
-What makes Sesame Workshop's model uniquely relevant for Jongu is not the content but the *localization architecture* — the process by which a universal framework is adapted to produce fully local expressions.
+What makes Sesame Workshop's model uniquely relevant for Recursive.eco is not the content but the *localization architecture* — the process by which a universal framework is adapted to produce fully local expressions.
 
 ### **The Localization Process**
 
@@ -2131,11 +2131,11 @@ Researcher Tamara Kay spent nearly a decade observing Sesame Workshop's global p
 
 Every co-production follows a three-phase research model: formative research (testing prototypes with children and caregivers to gauge comprehension and cultural relevance), process research (monitoring production), and summative evaluation (assessing post-launch impact). This evidence-based approach has produced measurable results: a 1974 study in Mexico showed significant cognitive improvements in children who watched *Plaza Sésamo*.
 
-### **What Jongu Can Learn**
+### **What Recursive.eco Can Learn**
 
-Sesame Workshop demonstrates that a universal framework (shared values, research methodology, educational goals) can produce genuinely local expressions (unique characters, culturally specific content, language-appropriate delivery) without homogenizing culture. This is exactly the challenge Jongu faces: the I Ching is not tarot is not Ifá is not Dhammapada, but they share structural properties (finite vocabulary, randomness, interpretation, practice). The platform provides the framework; communities create the grammars.
+Sesame Workshop demonstrates that a universal framework (shared values, research methodology, educational goals) can produce genuinely local expressions (unique characters, culturally specific content, language-appropriate delivery) without homogenizing culture. This is exactly the challenge Recursive.eco faces: the I Ching is not tarot is not Ifá is not Dhammapada, but they share structural properties (finite vocabulary, randomness, interpretation, practice). The platform provides the framework; communities create the grammars.
 
-The key difference: Sesame Workshop is top-down (expert-designed, professionally produced) while Jongu aims to be bottom-up (community-created, peer-curated). Sesame's model is "we create for you"; Jongu's model is "you create with each other." But the localization principle — universal framework, local expression — transfers directly.
+The key difference: Sesame Workshop is top-down (expert-designed, professionally produced) while Recursive.eco aims to be bottom-up (community-created, peer-curated). Sesame's model is "we create for you"; Recursive.eco's model is "you create with each other." But the localization principle — universal framework, local expression — transfers directly.
 
 ### **The Vulnerability**
 
@@ -2159,11 +2159,11 @@ The curriculum covers the full developmental spectrum: foundational literacy (ph
 
 Khan Academy's nonprofit structure means: no pressure to monetize attention; no incentive to add engagement-optimizing features; no risk of being acquired and degraded. As Common Sense Education noted, what's "especially rare among competitors — but is baked in to Khan Academy Kids — is a balance between more restricted, multiple-choice activities that help aid recall and more engaging and skills-building activities."
 
-### **What Jongu Can Learn**
+### **What Recursive.eco Can Learn**
 
 Khan Academy Kids proves that a free, ad-free, nonprofit-sustained model can achieve massive scale (21 million users) and critical acclaim while maintaining pedagogical integrity. The key architectural lesson: the absence of a commercial business model *is* the feature. When you remove the profit incentive, the design naturally gravitates toward serving the child rather than capturing the child's attention.
 
-The limitation for Jongu: Khan Academy Kids is expert-designed, not community-curated. Users consume content; they don't create it. Jongu's "community as co-creator" model goes further — but Khan Academy Kids demonstrates that the nonprofit, ad-free, evidence-based approach works at scale.
+The limitation for Recursive.eco: Khan Academy Kids is expert-designed, not community-curated. Users consume content; they don't create it. Recursive.eco's "community as co-creator" model goes further — but Khan Academy Kids demonstrates that the nonprofit, ad-free, evidence-based approach works at scale.
 
 ---
 
@@ -2183,12 +2183,12 @@ As O'Nolan writes: "The primary purpose of the non-profit structure is to protec
 
 ### **Why Ghost Matters for the Book**
 
-Ghost is the closest structural analog to what Jongu should become. The parallels:
+Ghost is the closest structural analog to what Recursive.eco should become. The parallels:
 
-* **Open-source core, service layer for revenue:** Ghost's code is free; Ghost Pro is paid. Jongu's grammars are free; optional AI assistance could be pay-as-you-go.  
-* **Nonprofit foundation preventing acquisition:** Ghost cannot be sold, pivoted, or pressured by shareholders. Jongu needs the same legal protection.  
-* **Community governance:** O'Nolan has announced plans to expand Ghost's governance beyond the two founders, moving toward community representation on the board. Jongu's recursive public model demands similar community governance.  
-* **Transparency:** Ghost publishes live financial data. Jongu's open-source commitment should include the same financial transparency.  
+* **Open-source core, service layer for revenue:** Ghost's code is free; Ghost Pro is paid. Recursive.eco's grammars are free; optional AI assistance could be pay-as-you-go.  
+* **Nonprofit foundation preventing acquisition:** Ghost cannot be sold, pivoted, or pressured by shareholders. Recursive.eco needs the same legal protection.  
+* **Community governance:** O'Nolan has announced plans to expand Ghost's governance beyond the two founders, moving toward community representation on the board. Recursive.eco's recursive public model demands similar community governance.  
+* **Transparency:** Ghost publishes live financial data. Recursive.eco's open-source commitment should include the same financial transparency.  
 * **"Adaptability over planning":** O'Nolan describes Ghost's approach as building in public, inviting modification, treating every version as a draft. This is exactly Kelty's "adaptability over planning" — "the commitment to remain modifiable rather than to plan a fixed product and defend it."
 
 ### **The O'Nolan Philosophy**
@@ -2209,9 +2209,9 @@ The African Storybook project (africanstorybook.org) provides open-access digita
 
 Storymoja is a Kenyan publisher and digital platform that creates and distributes African children's stories. As noted in Research 5's digital storytelling sources, Storymoja and African Storybook represent "promising examples" of balancing digital distribution with cultural preservation — "digitizing traditional tales in various African languages, ensuring they remain accessible to future generations."
 
-### **What Jongu Can Learn**
+### **What Recursive.eco Can Learn**
 
-These platforms demonstrate that the digital commons model works for cultural content, not just software or academic publications. Critically, they use Creative Commons licensing — the same CC BY-SA framework the book advocates. The challenge they face (sustainability without commercial revenue) is the same challenge Jongu faces, and the solution (donation-sustained, community-contributed, institutionally partnered) is similar.
+These platforms demonstrate that the digital commons model works for cultural content, not just software or academic publications. Critically, they use Creative Commons licensing — the same CC BY-SA framework the book advocates. The challenge they face (sustainability without commercial revenue) is the same challenge Recursive.eco faces, and the solution (donation-sustained, community-contributed, institutionally partnered) is similar.
 
 ---
 
@@ -2221,27 +2221,27 @@ Across all successful models examined, a consistent set of design principles eme
 
 ### **Principle 1: Mission Protection Through Legal Structure**
 
-Ghost's nonprofit foundation (can never be sold), Khan Academy's 501(c)(3) status, Sesame Workshop's nonprofit structure — all protect the mission from commercial pressure. Jongu needs equivalent legal protection. The book's skeleton already identifies this: "The mission is protected by the legal structure — a nonprofit foundation, in Ghost's case, that legally prevents being sold, pivoted, or pressured by shareholders."
+Ghost's nonprofit foundation (can never be sold), Khan Academy's 501(c)(3) status, Sesame Workshop's nonprofit structure — all protect the mission from commercial pressure. Recursive.eco needs equivalent legal protection. The book's skeleton already identifies this: "The mission is protected by the legal structure — a nonprofit foundation, in Ghost's case, that legally prevents being sold, pivoted, or pressured by shareholders."
 
 ### **Principle 2: Free Core, Optional Services**
 
-Ghost (free code, paid hosting), Khan Academy (free app, institutional partnerships), Sesame Workshop (free broadcast, institutional funding) — all provide the core offering for free while generating revenue through complementary services. Jongu's architecture (100% free tools, donation-sustained, optional AI assistance) follows this pattern.
+Ghost (free code, paid hosting), Khan Academy (free app, institutional partnerships), Sesame Workshop (free broadcast, institutional funding) — all provide the core offering for free while generating revenue through complementary services. Recursive.eco's architecture (100% free tools, donation-sustained, optional AI assistance) follows this pattern.
 
 ### **Principle 3: Universal Framework, Local Expression**
 
-Sesame Workshop's localization model — universal research methodology and values, culturally specific characters and content — is the gold standard. Jongu's version: universal platform architecture (casting, reflecting, journaling, sharing), culturally specific grammars (created by communities, not by the platform).
+Sesame Workshop's localization model — universal research methodology and values, culturally specific characters and content — is the gold standard. Recursive.eco's version: universal platform architecture (casting, reflecting, journaling, sharing), culturally specific grammars (created by communities, not by the platform).
 
 ### **Principle 4: Evidence-Based Design**
 
-Sesame Workshop's three-phase research model, Khan Academy Kids' Stanford collaboration, Ghost's transparent metrics — all ground design decisions in evidence rather than intuition or commercial pressure. Jongu's design should be grounded in the developmental science documented in Research 1 (Rogers/McFarland), Research 2 (co-viewing/family ritual), and Research 6 (attention economy mechanisms).
+Sesame Workshop's three-phase research model, Khan Academy Kids' Stanford collaboration, Ghost's transparent metrics — all ground design decisions in evidence rather than intuition or commercial pressure. Recursive.eco's design should be grounded in the developmental science documented in Research 1 (Rogers/McFarland), Research 2 (co-viewing/family ritual), and Research 6 (attention economy mechanisms).
 
 ### **Principle 5: Community as Participant, Not Consumer**
 
-This is where Jongu goes further than any existing model. Sesame Workshop creates for children. Khan Academy Kids teaches children. Ghost empowers publishers. Jongu invites communities to create, curate, and maintain the grammars through which they make meaning. The community is not the audience — it is the recursive public that builds and maintains the very infrastructure through which it makes meaning.
+This is where Recursive.eco goes further than any existing model. Sesame Workshop creates for children. Khan Academy Kids teaches children. Ghost empowers publishers. Recursive.eco invites communities to create, curate, and maintain the grammars through which they make meaning. The community is not the audience — it is the recursive public that builds and maintains the very infrastructure through which it makes meaning.
 
 ### **Principle 6: Absence of Harmful Design Patterns**
 
-Khan Academy Kids (no ads, no subscriptions, no in-app purchases), Ghost (no algorithmic feed, no engagement metrics for users), and Sesame Workshop (educational content designed for developmental benefit, not engagement) all refuse the attention economy's design playbook. Jongu makes this refusal architectural and explicit: no ads, no algorithm, no notifications, no tracking, privacy by default, everything exportable and deletable.
+Khan Academy Kids (no ads, no subscriptions, no in-app purchases), Ghost (no algorithmic feed, no engagement metrics for users), and Sesame Workshop (educational content designed for developmental benefit, not engagement) all refuse the attention economy's design playbook. Recursive.eco makes this refusal architectural and explicit: no ads, no algorithm, no notifications, no tracking, privacy by default, everything exportable and deletable.
 
 ---
 
@@ -2261,9 +2261,9 @@ As the book's existing research notes: "No major platform currently bridges the 
 
 None of these platforms treat their content as commons. None are open-source. None invite community curation of the content itself. None use CC BY-SA licensing. None are structured as nonprofit foundations that can never be sold.
 
-### **What Jongu Provides**
+### **What Recursive.eco Provides**
 
-Jongu occupies the space that none of these platforms fills: a commons-based, open-source, community-curated platform for contemplative practice that refuses the attention economy's design paradigm. It is Sesame Workshop's localization model applied to grammars, Khan Academy's nonprofit ad-free ethos applied to contemplative practice, and Ghost's legal structure applied to a platform for meaning-making.
+Recursive.eco occupies the space that none of these platforms fills: a commons-based, open-source, community-curated platform for contemplative practice that refuses the attention economy's design paradigm. It is Sesame Workshop's localization model applied to grammars, Khan Academy's nonprofit ad-free ethos applied to contemplative practice, and Ghost's legal structure applied to a platform for meaning-making.
 
 The closest analog is not a technology platform at all — it's Wikipedia. A community-maintained, freely available, continuously modifiable knowledge commons that "became so fundamental it became invisible." Kelty's closing line: "If we succeed, we will disappear."
 
@@ -2271,14 +2271,14 @@ The closest analog is not a technology platform at all — it's Wikipedia. A com
 
 ## **7\. Connections to Chapter 8**
 
-Chapter 8 should present these models not as competitors to Jongu but as structural precedents — proof that the underlying principles work:
+Chapter 8 should present these models not as competitors to Recursive.eco but as structural precedents — proof that the underlying principles work:
 
 * **Ghost proves** that a nonprofit, open-source, community-sustained platform can generate $7.5M in annual revenue and remain independent for 12+ years.  
 * **Sesame Workshop proves** that a universal framework can produce genuinely local expressions across 150+ countries without homogenizing culture.  
 * **Khan Academy Kids proves** that a free, ad-free, evidence-based children's platform can reach 21 million users while maintaining pedagogical integrity.  
 * **African Storybook proves** that Creative Commons licensing works for cultural content in the Global South.
 
-What none of them proves — because none has attempted it — is that a community can build, maintain, and govern the contemplative grammars through which it makes meaning, using digital infrastructure held as commons. That is Jongu's experiment. The proof is in the practice.
+What none of them proves — because none has attempted it — is that a community can build, maintain, and govern the contemplative grammars through which it makes meaning, using digital infrastructure held as commons. That is Recursive.eco's experiment. The proof is in the practice.
 
 ---
 
@@ -2460,7 +2460,7 @@ The philosophical traditions converge: the contracted self trying to solve from 
 
 The book's final part is called "The Gesture" — not "The Solution" or "The Answer." A gesture is an action that expresses something without claiming to resolve it. A bow. An offering. A casting. A question held without being answered. The seven traditions converge on this: the most powerful action is the one that arises from recognition of the whole, not from the contracted self's attempt to control outcomes.
 
-Jongu is a gesture. The book is a gesture. The recursive public that builds and maintains the commons is a gesture. None of these claim to solve the crisis of the attention economy. They demonstrate what becomes possible when you stop trying to solve it and start practicing something else.
+Recursive.eco is a gesture. The book is a gesture. The recursive public that builds and maintains the commons is a gesture. None of these claim to solve the crisis of the attention economy. They demonstrate what becomes possible when you stop trying to solve it and start practicing something else.
 
 ---
 
@@ -4023,9 +4023,9 @@ The vision is a platform where pulling a daily nakshatra card becomes as natural
 
 # Social Media
 
-# **Structured Disagreement: A Complete Research Foundation for Jongu Commons**
+# **Structured Disagreement: A Complete Research Foundation for Recursive.eco Commons**
 
-**The most important insight across 2,500 years of structured dialogue is this: roughly 69% of human conflicts are perpetual and unsolvable.** The traditions surveyed here — from Socratic dialectic to Tibetan monastic debate to Gottman's Love Lab — converge on a radical implication for Jongu Commons. The purpose of a dialogue platform should not be resolving disagreements but teaching people to *hold* disagreement with skill, curiosity, and grace. This report maps the full landscape of formats, frameworks, and intellectual traditions that support this vision, organized from ancient to digital, therapeutic to political, and theoretical to applied.
+**The most important insight across 2,500 years of structured dialogue is this: roughly 69% of human conflicts are perpetual and unsolvable.** The traditions surveyed here — from Socratic dialectic to Tibetan monastic debate to Gottman's Love Lab — converge on a radical implication for Recursive.eco Commons. The purpose of a dialogue platform should not be resolving disagreements but teaching people to *hold* disagreement with skill, curiosity, and grace. This report maps the full landscape of formats, frameworks, and intellectual traditions that support this vision, organized from ancient to digital, therapeutic to political, and theoretical to applied.
 
 ---
 
@@ -4039,7 +4039,7 @@ The vision is a platform where pulling a daily nakshatra card becomes as natural
 
 Socrates developed the **elenctic method** — a systematic cross-examination through questioning — in the streets and agora of Athens. He wrote nothing; his student Plato documented the approach across dozens of dialogues (*Euthyphro*, *Meno*, *Gorgias*, *Republic*). The structure follows a precise cycle: an interlocutor asserts a claim, Socrates secures agreement to additional premises through questioning, then demonstrates that these premises contradict the original claim, forcing a revised understanding. Socrates called this "midwifery" (*maieusis*) — helping others give birth to ideas they already carried within.
 
-The method's power lies in its refusal to argue *for* anything. Socrates insisted he possessed no wisdom; the Delphic oracle's pronouncement that no one was wiser was, he argued, proof that his only advantage was knowing what he didn't know. This radical intellectual humility makes the Socratic method uniquely relevant to Jongu's vision. Its weakness is equally revealing: it works only with a willing interlocutor. Aristophanes satirized Socrates in *The Clouds* as a manipulative sophist, and Plato's own dialogues show interlocutors sometimes reduced to yes-men. The method can become adversarial or intimidating — a pattern any modern dialogue platform must guard against.
+The method's power lies in its refusal to argue *for* anything. Socrates insisted he possessed no wisdom; the Delphic oracle's pronouncement that no one was wiser was, he argued, proof that his only advantage was knowing what he didn't know. This radical intellectual humility makes the Socratic method uniquely relevant to Recursive.eco's vision. Its weakness is equally revealing: it works only with a willing interlocutor. Aristophanes satirized Socrates in *The Clouds* as a manipulative sophist, and Plato's own dialogues show interlocutors sometimes reduced to yes-men. The method can become adversarial or intimidating — a pattern any modern dialogue platform must guard against.
 
 **Modern adaptations** include Socratic seminars in education (students discuss texts in concentric circles), **Leonard Nelson's Neo-Socratic Dialogue** (a group-based adaptation developed in Germany in 1922, where participants work from personal experiences toward abstract principles without the facilitator leading), and **street epistemology** (Peter Boghossian's contemporary method of questioning how people know what they claim to know).
 
@@ -4099,7 +4099,7 @@ The **World Café** was born accidentally in 1995 when rain disrupted a planned 
 
 Developed by **Harville Hendrix and Helen LaKelly Hunt** in 1980 and published in the 1988 bestseller *Getting the Love You Want*, Imago Dialogue has a deceptively simple three-step structure that rewires how people process conflict. **Step 1: Mirroring** — the Receiver paraphrases back what the Sender says ("Let me see if I got you...") and asks "Is there more?" until the Sender is complete. **Step 2: Validating** — the Receiver acknowledges the logic of the Sender's perspective ("You make sense, and what makes sense is..."), crucially without requiring agreement. **Step 3: Empathizing** — the Receiver imagines and names the Sender's feelings ("I can imagine you might be feeling...").
 
-The genius is structural: by forcing the Receiver to mirror before responding, the process **interrupts the amygdala hijack** — the automatic defensive reaction that short-circuits listening. Over 2,000 certified Imago therapists now practice in 50+ countries. The method's relevance to Jongu Commons is direct: it demonstrates that structure alone can transform the quality of disagreement. An optional fourth step — the Receiver making a specific positive behavior change request — hints at how the format might bridge from understanding to action.
+The genius is structural: by forcing the Receiver to mirror before responding, the process **interrupts the amygdala hijack** — the automatic defensive reaction that short-circuits listening. Over 2,000 certified Imago therapists now practice in 50+ countries. The method's relevance to Recursive.eco Commons is direct: it demonstrates that structure alone can transform the quality of disagreement. An optional fourth step — the Receiver making a specific positive behavior change request — hints at how the format might bridge from understanding to action.
 
 ### **Nonviolent Communication: observations, feelings, needs, requests**
 
@@ -4111,7 +4111,7 @@ NVC has been used in conflict zones including Israel/Palestine, Serbia, Rwanda, 
 
 Physicist **David Bohm** (1917–1992), influenced by conversations with Jiddu Krishnamurti, conceived a form of group dialogue that dispenses with agenda, leader, and predetermined purpose. Published posthumously as *On Dialogue* (1996), the format seats **15–40 participants in a circle** with instructions to practice **suspension of assumptions** — not suppressing reactions but holding them up for observation, neither believing nor disbelieving them. Bohm's most distinctive concept is **proprioception of thought**: just as the body has proprioception (awareness of its own position), thought needs to become aware of its own processes. He argued thought lacks this and creates problems unconsciously. The dialogue circle serves as mirrors reflecting thought back to itself.
 
-Bohm distinguished dialogue (*dia* \= through, *logos* \= meaning — "meaning flowing through") from discussion (Latin root related to "percussion" — "breaking apart"). Discussion analyzes; dialogue creates shared meaning. This distinction is foundational for Jongu's design philosophy.
+Bohm distinguished dialogue (*dia* \= through, *logos* \= meaning — "meaning flowing through") from discussion (Latin root related to "percussion" — "breaking apart"). Discussion analyzes; dialogue creates shared meaning. This distinction is foundational for Recursive.eco's design philosophy.
 
 ### **Open Dialogue: the Finnish approach that treats psychosis with conversation**
 
@@ -4133,7 +4133,7 @@ The central principle for dialogue design is that **"the way you relate to your 
 
 Rooted in the Religious Society of Friends, clearness committees have origins in the 1660s. **Parker Palmer** is the most prominent modern documentarian. The format is stringent: a **focus person** prepares a written statement about a decision; **5–6 committee members** gather for 2–3 uninterrupted hours; and committee members may **only ask honest, open questions** — absolutely no advice, no "Why don't you...?", no "That happened to me...," no amateur psychoanalysis. Silence is welcomed. Strict double confidentiality applies.
 
-The core conviction: **"Each of us has an inner teacher, a voice of truth."** The committee's function is "not to give advice or 'fix' people from the outside in but rather to help people remove the interference so that they can discover their own wisdom from the inside out." The format's power — and its radicalism — lies in its absolute prohibition of the human impulse to fix. For Jongu, this offers a template for a mode of engagement where the goal is not solving someone's problem but helping them hear themselves more clearly.
+The core conviction: **"Each of us has an inner teacher, a voice of truth."** The committee's function is "not to give advice or 'fix' people from the outside in but rather to help people remove the interference so that they can discover their own wisdom from the inside out." The format's power — and its radicalism — lies in its absolute prohibition of the human impulse to fix. For Recursive.eco, this offers a template for a mode of engagement where the goal is not solving someone's problem but helping them hear themselves more clearly.
 
 ### **Tibetan Buddhist debate: clapping toward enlightenment**
 
@@ -4147,13 +4147,13 @@ The Talmudic tradition of **chavruta** (Aramaic for "friendship") — two studen
 
 The tradition's most powerful concept is **machloket l'shem shamayim** — "argument for the sake of heaven" (Pirkei Avot 5:17). The exemplar is **Hillel and Shammai**, two schools that disagreed on hundreds of cases of Jewish law during the Tannaitic period. The Talmud declares **"Both these and these are the words of the living God"** — yet the law follows Hillel because they were "agreeable and forbearing, they studied not only their own rulings but also those of Beit Shammai, and they taught the words of Beit Shammai before their own." Despite profound disagreements, the two schools continued to marry into each other's families.
 
-Most remarkable: the Talmud **preserves minority opinions alongside majority rulings**. Shammai's positions remain recorded even when overruled, because the minority view may become relevant in future circumstances, and because truth is understood as multifaceted. This principle — that disagreement is not merely tolerated but sacred when motivated by truth-seeking rather than ego — is perhaps the single most relevant ancient tradition for Jongu Commons.
+Most remarkable: the Talmud **preserves minority opinions alongside majority rulings**. Shammai's positions remain recorded even when overruled, because the minority view may become relevant in future circumstances, and because truth is understood as multifaceted. This principle — that disagreement is not merely tolerated but sacred when motivated by truth-seeking rather than ego — is perhaps the single most relevant ancient tradition for Recursive.eco Commons.
 
 ### **Ignatian discernment: navigating decisions through consolation and desolation**
 
 **Ignatius of Loyola** (1491–1556) developed his discernment methodology while convalescing from a war wound in 1521, noticing that daydreams about saintly service left lasting peace while chivalric fantasies left emptiness. Formalized in *The Spiritual Exercises* (1548), the method distinguishes **consolation** (interior movements drawing one toward deeper engagement — love, hope, faith, energy) from **desolation** (darkness, turmoil, restlessness, inclination toward what is "low and earthly"). The key question: "Where is the movement coming from, and where is it leading me?"
 
-The communal discernment process requires all members to practice **Ignatian indifference** — inner freedom and openness without inclining toward any particular option. Where disagreement occurs, participants make a special effort to "see with the other person's eyes." Deliberation continues until unity is reached, confirmed by a **shared sense of contentment and peace**. The method offers Jongu a model for group decision-making that integrates emotional intelligence with rational deliberation.
+The communal discernment process requires all members to practice **Ignatian indifference** — inner freedom and openness without inclining toward any particular option. Where disagreement occurs, participants make a special effort to "see with the other person's eyes." Deliberation continues until unity is reached, confirmed by a **shared sense of contentment and peace**. The method offers Recursive.eco a model for group decision-making that integrates emotional intelligence with rational deliberation.
 
 ---
 
@@ -4161,7 +4161,7 @@ The communal discernment process requires all members to practice **Ignatian ind
 
 ### **Town halls: a format that rewards outrage**
 
-New England town meetings date to the **1630s** — among the earliest forms of direct democracy in America. The modern "angry town hall" phenomenon demonstrates what happens when a dialogue format lacks structural safeguards: vocal minorities dominate, performative outrage displaces deliberation, organized groups astroturf participation, politicians avoid the events entirely, and media coverage amplifies conflict. The 2009 Tea Party and 2017 anti-ACA town halls exemplified these failure modes. Town halls persist because they symbolize democratic access, but they offer Jongu a clear negative example of what unstructured public dialogue produces.
+New England town meetings date to the **1630s** — among the earliest forms of direct democracy in America. The modern "angry town hall" phenomenon demonstrates what happens when a dialogue format lacks structural safeguards: vocal minorities dominate, performative outrage displaces deliberation, organized groups astroturf participation, politicians avoid the events entirely, and media coverage amplifies conflict. The 2009 Tea Party and 2017 anti-ACA town halls exemplified these failure modes. Town halls persist because they symbolize democratic access, but they offer Recursive.eco a clear negative example of what unstructured public dialogue produces.
 
 ### **Deliberative polls and citizens juries**
 
@@ -4211,7 +4211,7 @@ Urban then scales this to collective entities: **Idea Labs** are environments of
 
 **Critical reception splits sharply.** Praise focused on the accessibility of the Ladder framework, its humor, and its insistence that the vertical axis matters more than the horizontal. Albert Wenger (USV) called it "the most important contribution...drawing a clear distinction between horizontal and vertical politics." Criticism was pointed: the book spends roughly **48 pages on right-wing extremism versus \~353 pages on left-wing extremism** — a 7:1 ratio that undercuts its claim of even-handedness. Robin Hanson noted it "never gets to root causes—stuck pointing at symptoms." Eric Nehrlich argued Urban "fails Charlie Munger's test of knowing the other side's argument better than they do." Most trenchantly, critics observed that the framework itself can become an Echo Chamber tool: labeling someone a "low-rung thinker" functions identically to tribal dismissal. The book's concrete proposals occupy only \~10 pages and are fairly generic: self-awareness, questioning beliefs, humanizing opponents.
 
-For Jongu, Urban's framework offers a powerful diagnostic vocabulary — particularly the distinction between idea labs and echo chambers, and the focus on *how* rather than *what* — while also serving as a cautionary tale about the difficulty of practicing what you preach.
+For Recursive.eco, Urban's framework offers a powerful diagnostic vocabulary — particularly the distinction between idea labs and echo chambers, and the focus on *how* rather than *what* — while also serving as a cautionary tale about the difficulty of practicing what you preach.
 
 ---
 
@@ -4241,7 +4241,7 @@ Daniel Kahneman's dual-process model (*Thinking, Fast and Slow*, 2011\) distingu
 
 **Brené Brown's** research on vulnerability establishes that admitting "I might be wrong" requires tremendous courage because it exposes people to shame — and shame shuts down dialogue by triggering defensive armoring. Her **BRAVING framework** for trust includes Generosity — assuming the most generous interpretation of others' words — a principle directly applicable to dialogue platform design.
 
-**Adam Grant** (*Think Again*, 2021\) identifies four modes — Preacher, Prosecutor, Politician, and Scientist — and argues that the scientist mode (forming hypotheses, being willing to revise) is dramatically underused. His concept of **challenge networks** — deliberately surrounding yourself with people who push back — is essentially a design specification for Jongu Commons. Italian research he cites found entrepreneurs with a scientist mindset generated **40× more revenue**.
+**Adam Grant** (*Think Again*, 2021\) identifies four modes — Preacher, Prosecutor, Politician, and Scientist — and argues that the scientist mode (forming hypotheses, being willing to revise) is dramatically underused. His concept of **challenge networks** — deliberately surrounding yourself with people who push back — is essentially a design specification for Recursive.eco Commons. Italian research he cites found entrepreneurs with a scientist mindset generated **40× more revenue**.
 
 **Julia Galef** (*The Scout Mindset*, 2021\) distinguishes **soldier mindset** (reasoning as defense of beliefs) from **scout mindset** (reasoning as mapping reality accurately). Her critical insight: the root cause of soldier mindset is emotional and social, not cognitive. People defend beliefs because those beliefs serve identity, belonging, and self-esteem. Therefore, explaining biases won't fix them — you must address the emotional needs that make truth-seeking feel dangerous. **"Holding identity lightly"** — keeping beliefs separate from self — is the prerequisite. Communities shape mindsets: "One of the biggest things you can do to change your thinking is to change the people you surround yourself with."
 
@@ -4251,9 +4251,9 @@ Daniel Kahneman's dual-process model (*Thinking, Fast and Slow*, 2011\) distingu
 
 ---
 
-## **The bridging insight: Jongu Commons as a practice space, not an answer machine**
+## **The bridging insight: Recursive.eco Commons as a practice space, not an answer machine**
 
-The convergence of these frameworks points toward a specific design philosophy for Jongu Commons. The threads weave together like this:
+The convergence of these frameworks points toward a specific design philosophy for Recursive.eco Commons. The threads weave together like this:
 
 **Gottman's perpetual problems** establish that roughly two-thirds of human conflicts are permanent. This is not a failure of communication — it is a structural feature of relationships between different people. If 69% of conflicts are perpetual between two people who love each other, permanent disagreement in diverse societies is not a bug but a defining characteristic of shared life.
 
@@ -4263,9 +4263,9 @@ The convergence of these frameworks points toward a specific design philosophy f
 
 **Kahneman** explains why argument alone fails: System 1 fires first, and System 2 mostly rationalizes. **Brown** explains why vulnerability — the willingness to say "I might be wrong" — is the bottleneck: it requires exposing yourself to shame. **Galef** shows that the root is emotional, not cognitive: beliefs serve identity and belonging. **Grant** provides the constructive frame: thinking like a scientist — forming hypotheses and being delighted to disprove them — is a learnable skill, especially in challenge networks.
 
-Together, these frameworks suggest that **the goal of Jongu Commons should not be to resolve disagreements but to help people practice holding disagreement well** — agreeing on *how* to disagree rather than *what* to believe. This is the shift from solvable-problem thinking (there's a right answer; find it) to perpetual-problem thinking (there's a permanent tension; develop the skill to live inside it with respect, humor, and curiosity).
+Together, these frameworks suggest that **the goal of Recursive.eco Commons should not be to resolve disagreements but to help people practice holding disagreement well** — agreeing on *how* to disagree rather than *what* to believe. This is the shift from solvable-problem thinking (there's a right answer; find it) to perpetual-problem thinking (there's a permanent tension; develop the skill to live inside it with respect, humor, and curiosity).
 
-The existing Jongu manifesto already articulates this vision. Its core principles — "Process Over Certainty," "Constructive Conflict and Resolution," engaging with "difference as creative fuel," drawing on NVC and EFT, even the Socratic dialogue imagined between Julia and Socrates — are already aligned with the architecture these frameworks suggest. What this research provides is the intellectual scaffolding: **the specific mechanisms** by which structured formats prevent the Four Horsemen, activate System 2, create psychological safety for vulnerability, surface consensus rather than amplify division, and honor the sacred nature of disagreement as a path to understanding.
+The existing Recursive.eco manifesto already articulates this vision. Its core principles — "Process Over Certainty," "Constructive Conflict and Resolution," engaging with "difference as creative fuel," drawing on NVC and EFT, even the Socratic dialogue imagined between Julia and Socrates — are already aligned with the architecture these frameworks suggest. What this research provides is the intellectual scaffolding: **the specific mechanisms** by which structured formats prevent the Four Horsemen, activate System 2, create psychological safety for vulnerability, surface consensus rather than amplify division, and honor the sacred nature of disagreement as a path to understanding.
 
 The practical design implications form a clear pattern: structure slows reactive processing (Imago's mirroring, NVC's four steps, Bohm's suspension of assumptions), measurable feedback reinforces productive behavior (Polis's consensus mapping, CMV's delta system, Intelligence Squared's pre/post voting), community norms shape individual mindsets (LessWrong's Bayesian culture, Braver Angels' workshop rituals, chavruta's "argument for the sake of heaven"), and removing the reply button — whether literally (Polis) or functionally (Quaker clearness committees where you can only ask questions) — transforms discourse from combat to inquiry.
 

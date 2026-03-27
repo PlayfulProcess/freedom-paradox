@@ -76,7 +76,7 @@ This order front-loads adaptable material (getting 4 chapters done quickly), the
 
 1. **The Living Cosmos (old Ch 7)**: The Jyotish/tantra/Nakshatra material is beautiful but orphaned. Options: (a) weave key pieces into Ch 4 as another grammar example, (b) make it a long appendix/bonus chapter, (c) save for a future book on Jyotish specifically. What do you want?
 
-2. **Jongu vs. recursive.eco in text**: The draft refers to both "Jongu" and "recursive.eco." Per CLAUDE.md, using recursive.eco for now. Should the book text use a more poetic name (Jongu) or the actual domain (recursive.eco)?
+2. **Recursive.eco vs. recursive.eco in text**: The draft refers to both "Recursive.eco" and "recursive.eco." Per CLAUDE.md, using recursive.eco for now. Should the book text use a more poetic name (Recursive.eco) or the actual domain (recursive.eco)?
 
 3. **Research gaps for Ch 1 and Ch 3**: Should we conduct deep research sessions for these before drafting, or draft from the outline + what we have and fill gaps later?
 

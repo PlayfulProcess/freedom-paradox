@@ -12,7 +12,7 @@
 
 Sesame Workshop (formerly the Children's Television Workshop) is the single largest informal educator of children in the world, reaching over 150 million children in more than 150 countries. Founded in 1969 against the backdrop of the Civil Rights movement, it was conceived to close school-readiness gaps between advantaged and disadvantaged children through the then-revolutionary medium of television.
 
-What makes Sesame Workshop's model uniquely relevant for Jongu is not the content but the *localization architecture* — the process by which a universal framework is adapted to produce fully local expressions.
+What makes Sesame Workshop's model uniquely relevant for Recursive.eco is not the content but the *localization architecture* — the process by which a universal framework is adapted to produce fully local expressions.
 
 ### **The Localization Process**
 
@@ -29,11 +29,11 @@ Researcher Tamara Kay spent nearly a decade observing Sesame Workshop's global p
 
 Every co-production follows a three-phase research model: formative research (testing prototypes with children and caregivers to gauge comprehension and cultural relevance), process research (monitoring production), and summative evaluation (assessing post-launch impact). This evidence-based approach has produced measurable results: a 1974 study in Mexico showed significant cognitive improvements in children who watched *Plaza Sésamo*.
 
-### **What Jongu Can Learn**
+### **What Recursive.eco Can Learn**
 
-Sesame Workshop demonstrates that a universal framework (shared values, research methodology, educational goals) can produce genuinely local expressions (unique characters, culturally specific content, language-appropriate delivery) without homogenizing culture. This is exactly the challenge Jongu faces: the I Ching is not tarot is not Ifá is not Dhammapada, but they share structural properties (finite vocabulary, randomness, interpretation, practice). The platform provides the framework; communities create the grammars.
+Sesame Workshop demonstrates that a universal framework (shared values, research methodology, educational goals) can produce genuinely local expressions (unique characters, culturally specific content, language-appropriate delivery) without homogenizing culture. This is exactly the challenge Recursive.eco faces: the I Ching is not tarot is not Ifá is not Dhammapada, but they share structural properties (finite vocabulary, randomness, interpretation, practice). The platform provides the framework; communities create the grammars.
 
-The key difference: Sesame Workshop is top-down (expert-designed, professionally produced) while Jongu aims to be bottom-up (community-created, peer-curated). Sesame's model is "we create for you"; Jongu's model is "you create with each other." But the localization principle — universal framework, local expression — transfers directly.
+The key difference: Sesame Workshop is top-down (expert-designed, professionally produced) while Recursive.eco aims to be bottom-up (community-created, peer-curated). Sesame's model is "we create for you"; Recursive.eco's model is "you create with each other." But the localization principle — universal framework, local expression — transfers directly.
 
 ### **The Vulnerability**
 
@@ -57,11 +57,11 @@ The curriculum covers the full developmental spectrum: foundational literacy (ph
 
 Khan Academy's nonprofit structure means: no pressure to monetize attention; no incentive to add engagement-optimizing features; no risk of being acquired and degraded. As Common Sense Education noted, what's "especially rare among competitors — but is baked in to Khan Academy Kids — is a balance between more restricted, multiple-choice activities that help aid recall and more engaging and skills-building activities."
 
-### **What Jongu Can Learn**
+### **What Recursive.eco Can Learn**
 
 Khan Academy Kids proves that a free, ad-free, nonprofit-sustained model can achieve massive scale (21 million users) and critical acclaim while maintaining pedagogical integrity. The key architectural lesson: the absence of a commercial business model *is* the feature. When you remove the profit incentive, the design naturally gravitates toward serving the child rather than capturing the child's attention.
 
-The limitation for Jongu: Khan Academy Kids is expert-designed, not community-curated. Users consume content; they don't create it. Jongu's "community as co-creator" model goes further — but Khan Academy Kids demonstrates that the nonprofit, ad-free, evidence-based approach works at scale.
+The limitation for Recursive.eco: Khan Academy Kids is expert-designed, not community-curated. Users consume content; they don't create it. Recursive.eco's "community as co-creator" model goes further — but Khan Academy Kids demonstrates that the nonprofit, ad-free, evidence-based approach works at scale.
 
 ---
 
@@ -81,12 +81,12 @@ As O'Nolan writes: "The primary purpose of the non-profit structure is to protec
 
 ### **Why Ghost Matters for the Book**
 
-Ghost is the closest structural analog to what Jongu should become. The parallels:
+Ghost is the closest structural analog to what Recursive.eco should become. The parallels:
 
-* **Open-source core, service layer for revenue:** Ghost's code is free; Ghost Pro is paid. Jongu's grammars are free; optional AI assistance could be pay-as-you-go.  
-* **Nonprofit foundation preventing acquisition:** Ghost cannot be sold, pivoted, or pressured by shareholders. Jongu needs the same legal protection.  
-* **Community governance:** O'Nolan has announced plans to expand Ghost's governance beyond the two founders, moving toward community representation on the board. Jongu's recursive public model demands similar community governance.  
-* **Transparency:** Ghost publishes live financial data. Jongu's open-source commitment should include the same financial transparency.  
+* **Open-source core, service layer for revenue:** Ghost's code is free; Ghost Pro is paid. Recursive.eco's grammars are free; optional AI assistance could be pay-as-you-go.  
+* **Nonprofit foundation preventing acquisition:** Ghost cannot be sold, pivoted, or pressured by shareholders. Recursive.eco needs the same legal protection.  
+* **Community governance:** O'Nolan has announced plans to expand Ghost's governance beyond the two founders, moving toward community representation on the board. Recursive.eco's recursive public model demands similar community governance.  
+* **Transparency:** Ghost publishes live financial data. Recursive.eco's open-source commitment should include the same financial transparency.  
 * **"Adaptability over planning":** O'Nolan describes Ghost's approach as building in public, inviting modification, treating every version as a draft. This is exactly Kelty's "adaptability over planning" — "the commitment to remain modifiable rather than to plan a fixed product and defend it."
 
 ### **The O'Nolan Philosophy**
@@ -107,9 +107,9 @@ The African Storybook project (africanstorybook.org) provides open-access digita
 
 Storymoja is a Kenyan publisher and digital platform that creates and distributes African children's stories. As noted in Research 5's digital storytelling sources, Storymoja and African Storybook represent "promising examples" of balancing digital distribution with cultural preservation — "digitizing traditional tales in various African languages, ensuring they remain accessible to future generations."
 
-### **What Jongu Can Learn**
+### **What Recursive.eco Can Learn**
 
-These platforms demonstrate that the digital commons model works for cultural content, not just software or academic publications. Critically, they use Creative Commons licensing — the same CC BY-SA framework the book advocates. The challenge they face (sustainability without commercial revenue) is the same challenge Jongu faces, and the solution (donation-sustained, community-contributed, institutionally partnered) is similar.
+These platforms demonstrate that the digital commons model works for cultural content, not just software or academic publications. Critically, they use Creative Commons licensing — the same CC BY-SA framework the book advocates. The challenge they face (sustainability without commercial revenue) is the same challenge Recursive.eco faces, and the solution (donation-sustained, community-contributed, institutionally partnered) is similar.
 
 ---
 
@@ -119,27 +119,27 @@ Across all successful models examined, a consistent set of design principles eme
 
 ### **Principle 1: Mission Protection Through Legal Structure**
 
-Ghost's nonprofit foundation (can never be sold), Khan Academy's 501(c)(3) status, Sesame Workshop's nonprofit structure — all protect the mission from commercial pressure. Jongu needs equivalent legal protection. The book's skeleton already identifies this: "The mission is protected by the legal structure — a nonprofit foundation, in Ghost's case, that legally prevents being sold, pivoted, or pressured by shareholders."
+Ghost's nonprofit foundation (can never be sold), Khan Academy's 501(c)(3) status, Sesame Workshop's nonprofit structure — all protect the mission from commercial pressure. Recursive.eco needs equivalent legal protection. The book's skeleton already identifies this: "The mission is protected by the legal structure — a nonprofit foundation, in Ghost's case, that legally prevents being sold, pivoted, or pressured by shareholders."
 
 ### **Principle 2: Free Core, Optional Services**
 
-Ghost (free code, paid hosting), Khan Academy (free app, institutional partnerships), Sesame Workshop (free broadcast, institutional funding) — all provide the core offering for free while generating revenue through complementary services. Jongu's architecture (100% free tools, donation-sustained, optional AI assistance) follows this pattern.
+Ghost (free code, paid hosting), Khan Academy (free app, institutional partnerships), Sesame Workshop (free broadcast, institutional funding) — all provide the core offering for free while generating revenue through complementary services. Recursive.eco's architecture (100% free tools, donation-sustained, optional AI assistance) follows this pattern.
 
 ### **Principle 3: Universal Framework, Local Expression**
 
-Sesame Workshop's localization model — universal research methodology and values, culturally specific characters and content — is the gold standard. Jongu's version: universal platform architecture (casting, reflecting, journaling, sharing), culturally specific grammars (created by communities, not by the platform).
+Sesame Workshop's localization model — universal research methodology and values, culturally specific characters and content — is the gold standard. Recursive.eco's version: universal platform architecture (casting, reflecting, journaling, sharing), culturally specific grammars (created by communities, not by the platform).
 
 ### **Principle 4: Evidence-Based Design**
 
-Sesame Workshop's three-phase research model, Khan Academy Kids' Stanford collaboration, Ghost's transparent metrics — all ground design decisions in evidence rather than intuition or commercial pressure. Jongu's design should be grounded in the developmental science documented in Research 1 (Rogers/McFarland), Research 2 (co-viewing/family ritual), and Research 6 (attention economy mechanisms).
+Sesame Workshop's three-phase research model, Khan Academy Kids' Stanford collaboration, Ghost's transparent metrics — all ground design decisions in evidence rather than intuition or commercial pressure. Recursive.eco's design should be grounded in the developmental science documented in Research 1 (Rogers/McFarland), Research 2 (co-viewing/family ritual), and Research 6 (attention economy mechanisms).
 
 ### **Principle 5: Community as Participant, Not Consumer**
 
-This is where Jongu goes further than any existing model. Sesame Workshop creates for children. Khan Academy Kids teaches children. Ghost empowers publishers. Jongu invites communities to create, curate, and maintain the grammars through which they make meaning. The community is not the audience — it is the recursive public that builds and maintains the very infrastructure through which it makes meaning.
+This is where Recursive.eco goes further than any existing model. Sesame Workshop creates for children. Khan Academy Kids teaches children. Ghost empowers publishers. Recursive.eco invites communities to create, curate, and maintain the grammars through which they make meaning. The community is not the audience — it is the recursive public that builds and maintains the very infrastructure through which it makes meaning.
 
 ### **Principle 6: Absence of Harmful Design Patterns**
 
-Khan Academy Kids (no ads, no subscriptions, no in-app purchases), Ghost (no algorithmic feed, no engagement metrics for users), and Sesame Workshop (educational content designed for developmental benefit, not engagement) all refuse the attention economy's design playbook. Jongu makes this refusal architectural and explicit: no ads, no algorithm, no notifications, no tracking, privacy by default, everything exportable and deletable.
+Khan Academy Kids (no ads, no subscriptions, no in-app purchases), Ghost (no algorithmic feed, no engagement metrics for users), and Sesame Workshop (educational content designed for developmental benefit, not engagement) all refuse the attention economy's design playbook. Recursive.eco makes this refusal architectural and explicit: no ads, no algorithm, no notifications, no tracking, privacy by default, everything exportable and deletable.
 
 ---
 
@@ -159,9 +159,9 @@ As the book's existing research notes: "No major platform currently bridges the 
 
 None of these platforms treat their content as commons. None are open-source. None invite community curation of the content itself. None use CC BY-SA licensing. None are structured as nonprofit foundations that can never be sold.
 
-### **What Jongu Provides**
+### **What Recursive.eco Provides**
 
-Jongu occupies the space that none of these platforms fills: a commons-based, open-source, community-curated platform for contemplative practice that refuses the attention economy's design paradigm. It is Sesame Workshop's localization model applied to grammars, Khan Academy's nonprofit ad-free ethos applied to contemplative practice, and Ghost's legal structure applied to a platform for meaning-making.
+Recursive.eco occupies the space that none of these platforms fills: a commons-based, open-source, community-curated platform for contemplative practice that refuses the attention economy's design paradigm. It is Sesame Workshop's localization model applied to grammars, Khan Academy's nonprofit ad-free ethos applied to contemplative practice, and Ghost's legal structure applied to a platform for meaning-making.
 
 The closest analog is not a technology platform at all — it's Wikipedia. A community-maintained, freely available, continuously modifiable knowledge commons that "became so fundamental it became invisible." Kelty's closing line: "If we succeed, we will disappear."
 
@@ -169,14 +169,14 @@ The closest analog is not a technology platform at all — it's Wikipedia. A com
 
 ## **7\. Connections to Chapter 8**
 
-Chapter 8 should present these models not as competitors to Jongu but as structural precedents — proof that the underlying principles work:
+Chapter 8 should present these models not as competitors to Recursive.eco but as structural precedents — proof that the underlying principles work:
 
 * **Ghost proves** that a nonprofit, open-source, community-sustained platform can generate $7.5M in annual revenue and remain independent for 12+ years.  
 * **Sesame Workshop proves** that a universal framework can produce genuinely local expressions across 150+ countries without homogenizing culture.  
 * **Khan Academy Kids proves** that a free, ad-free, evidence-based children's platform can reach 21 million users while maintaining pedagogical integrity.  
 * **African Storybook proves** that Creative Commons licensing works for cultural content in the Global South.
 
-What none of them proves — because none has attempted it — is that a community can build, maintain, and govern the contemplative grammars through which it makes meaning, using digital infrastructure held as commons. That is Jongu's experiment. The proof is in the practice.
+What none of them proves — because none has attempted it — is that a community can build, maintain, and govern the contemplative grammars through which it makes meaning, using digital infrastructure held as commons. That is Recursive.eco's experiment. The proof is in the practice.
 
 ---
 

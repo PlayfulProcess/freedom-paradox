@@ -163,7 +163,7 @@ The philosophical traditions converge: the contracted self trying to solve from 
 
 The book's final part is called "The Gesture" — not "The Solution" or "The Answer." A gesture is an action that expresses something without claiming to resolve it. A bow. An offering. A casting. A question held without being answered. The seven traditions converge on this: the most powerful action is the one that arises from recognition of the whole, not from the contracted self's attempt to control outcomes.
 
-Jongu is a gesture. The book is a gesture. The recursive public that builds and maintains the commons is a gesture. None of these claim to solve the crisis of the attention economy. They demonstrate what becomes possible when you stop trying to solve it and start practicing something else.
+Recursive.eco is a gesture. The book is a gesture. The recursive public that builds and maintains the commons is a gesture. None of these claim to solve the crisis of the attention economy. They demonstrate what becomes possible when you stop trying to solve it and start practicing something else.
 
 ---
 
@@ -1726,9 +1726,9 @@ The vision is a platform where pulling a daily nakshatra card becomes as natural
 
 # Social Media
 
-# **Structured Disagreement: A Complete Research Foundation for Jongu Commons**
+# **Structured Disagreement: A Complete Research Foundation for Recursive.eco Commons**
 
-**The most important insight across 2,500 years of structured dialogue is this: roughly 69% of human conflicts are perpetual and unsolvable.** The traditions surveyed here — from Socratic dialectic to Tibetan monastic debate to Gottman's Love Lab — converge on a radical implication for Jongu Commons. The purpose of a dialogue platform should not be resolving disagreements but teaching people to *hold* disagreement with skill, curiosity, and grace. This report maps the full landscape of formats, frameworks, and intellectual traditions that support this vision, organized from ancient to digital, therapeutic to political, and theoretical to applied.
+**The most important insight across 2,500 years of structured dialogue is this: roughly 69% of human conflicts are perpetual and unsolvable.** The traditions surveyed here — from Socratic dialectic to Tibetan monastic debate to Gottman's Love Lab — converge on a radical implication for Recursive.eco Commons. The purpose of a dialogue platform should not be resolving disagreements but teaching people to *hold* disagreement with skill, curiosity, and grace. This report maps the full landscape of formats, frameworks, and intellectual traditions that support this vision, organized from ancient to digital, therapeutic to political, and theoretical to applied.
 
 ---
 
@@ -1742,7 +1742,7 @@ The vision is a platform where pulling a daily nakshatra card becomes as natural
 
 Socrates developed the **elenctic method** — a systematic cross-examination through questioning — in the streets and agora of Athens. He wrote nothing; his student Plato documented the approach across dozens of dialogues (*Euthyphro*, *Meno*, *Gorgias*, *Republic*). The structure follows a precise cycle: an interlocutor asserts a claim, Socrates secures agreement to additional premises through questioning, then demonstrates that these premises contradict the original claim, forcing a revised understanding. Socrates called this "midwifery" (*maieusis*) — helping others give birth to ideas they already carried within.
 
-The method's power lies in its refusal to argue *for* anything. Socrates insisted he possessed no wisdom; the Delphic oracle's pronouncement that no one was wiser was, he argued, proof that his only advantage was knowing what he didn't know. This radical intellectual humility makes the Socratic method uniquely relevant to Jongu's vision. Its weakness is equally revealing: it works only with a willing interlocutor. Aristophanes satirized Socrates in *The Clouds* as a manipulative sophist, and Plato's own dialogues show interlocutors sometimes reduced to yes-men. The method can become adversarial or intimidating — a pattern any modern dialogue platform must guard against.
+The method's power lies in its refusal to argue *for* anything. Socrates insisted he possessed no wisdom; the Delphic oracle's pronouncement that no one was wiser was, he argued, proof that his only advantage was knowing what he didn't know. This radical intellectual humility makes the Socratic method uniquely relevant to Recursive.eco's vision. Its weakness is equally revealing: it works only with a willing interlocutor. Aristophanes satirized Socrates in *The Clouds* as a manipulative sophist, and Plato's own dialogues show interlocutors sometimes reduced to yes-men. The method can become adversarial or intimidating — a pattern any modern dialogue platform must guard against.
 
 **Modern adaptations** include Socratic seminars in education (students discuss texts in concentric circles), **Leonard Nelson's Neo-Socratic Dialogue** (a group-based adaptation developed in Germany in 1922, where participants work from personal experiences toward abstract principles without the facilitator leading), and **street epistemology** (Peter Boghossian's contemporary method of questioning how people know what they claim to know).
 
@@ -1802,7 +1802,7 @@ The **World Café** was born accidentally in 1995 when rain disrupted a planned 
 
 Developed by **Harville Hendrix and Helen LaKelly Hunt** in 1980 and published in the 1988 bestseller *Getting the Love You Want*, Imago Dialogue has a deceptively simple three-step structure that rewires how people process conflict. **Step 1: Mirroring** — the Receiver paraphrases back what the Sender says ("Let me see if I got you...") and asks "Is there more?" until the Sender is complete. **Step 2: Validating** — the Receiver acknowledges the logic of the Sender's perspective ("You make sense, and what makes sense is..."), crucially without requiring agreement. **Step 3: Empathizing** — the Receiver imagines and names the Sender's feelings ("I can imagine you might be feeling...").
 
-The genius is structural: by forcing the Receiver to mirror before responding, the process **interrupts the amygdala hijack** — the automatic defensive reaction that short-circuits listening. Over 2,000 certified Imago therapists now practice in 50+ countries. The method's relevance to Jongu Commons is direct: it demonstrates that structure alone can transform the quality of disagreement. An optional fourth step — the Receiver making a specific positive behavior change request — hints at how the format might bridge from understanding to action.
+The genius is structural: by forcing the Receiver to mirror before responding, the process **interrupts the amygdala hijack** — the automatic defensive reaction that short-circuits listening. Over 2,000 certified Imago therapists now practice in 50+ countries. The method's relevance to Recursive.eco Commons is direct: it demonstrates that structure alone can transform the quality of disagreement. An optional fourth step — the Receiver making a specific positive behavior change request — hints at how the format might bridge from understanding to action.
 
 ### **Nonviolent Communication: observations, feelings, needs, requests**
 
@@ -1814,7 +1814,7 @@ NVC has been used in conflict zones including Israel/Palestine, Serbia, Rwanda, 
 
 Physicist **David Bohm** (1917–1992), influenced by conversations with Jiddu Krishnamurti, conceived a form of group dialogue that dispenses with agenda, leader, and predetermined purpose. Published posthumously as *On Dialogue* (1996), the format seats **15–40 participants in a circle** with instructions to practice **suspension of assumptions** — not suppressing reactions but holding them up for observation, neither believing nor disbelieving them. Bohm's most distinctive concept is **proprioception of thought**: just as the body has proprioception (awareness of its own position), thought needs to become aware of its own processes. He argued thought lacks this and creates problems unconsciously. The dialogue circle serves as mirrors reflecting thought back to itself.
 
-Bohm distinguished dialogue (*dia* \= through, *logos* \= meaning — "meaning flowing through") from discussion (Latin root related to "percussion" — "breaking apart"). Discussion analyzes; dialogue creates shared meaning. This distinction is foundational for Jongu's design philosophy.
+Bohm distinguished dialogue (*dia* \= through, *logos* \= meaning — "meaning flowing through") from discussion (Latin root related to "percussion" — "breaking apart"). Discussion analyzes; dialogue creates shared meaning. This distinction is foundational for Recursive.eco's design philosophy.
 
 ### **Open Dialogue: the Finnish approach that treats psychosis with conversation**
 
@@ -1836,7 +1836,7 @@ The central principle for dialogue design is that **"the way you relate to your 
 
 Rooted in the Religious Society of Friends, clearness committees have origins in the 1660s. **Parker Palmer** is the most prominent modern documentarian. The format is stringent: a **focus person** prepares a written statement about a decision; **5–6 committee members** gather for 2–3 uninterrupted hours; and committee members may **only ask honest, open questions** — absolutely no advice, no "Why don't you...?", no "That happened to me...," no amateur psychoanalysis. Silence is welcomed. Strict double confidentiality applies.
 
-The core conviction: **"Each of us has an inner teacher, a voice of truth."** The committee's function is "not to give advice or 'fix' people from the outside in but rather to help people remove the interference so that they can discover their own wisdom from the inside out." The format's power — and its radicalism — lies in its absolute prohibition of the human impulse to fix. For Jongu, this offers a template for a mode of engagement where the goal is not solving someone's problem but helping them hear themselves more clearly.
+The core conviction: **"Each of us has an inner teacher, a voice of truth."** The committee's function is "not to give advice or 'fix' people from the outside in but rather to help people remove the interference so that they can discover their own wisdom from the inside out." The format's power — and its radicalism — lies in its absolute prohibition of the human impulse to fix. For Recursive.eco, this offers a template for a mode of engagement where the goal is not solving someone's problem but helping them hear themselves more clearly.
 
 ### **Tibetan Buddhist debate: clapping toward enlightenment**
 
@@ -1850,13 +1850,13 @@ The Talmudic tradition of **chavruta** (Aramaic for "friendship") — two studen
 
 The tradition's most powerful concept is **machloket l'shem shamayim** — "argument for the sake of heaven" (Pirkei Avot 5:17). The exemplar is **Hillel and Shammai**, two schools that disagreed on hundreds of cases of Jewish law during the Tannaitic period. The Talmud declares **"Both these and these are the words of the living God"** — yet the law follows Hillel because they were "agreeable and forbearing, they studied not only their own rulings but also those of Beit Shammai, and they taught the words of Beit Shammai before their own." Despite profound disagreements, the two schools continued to marry into each other's families.
 
-Most remarkable: the Talmud **preserves minority opinions alongside majority rulings**. Shammai's positions remain recorded even when overruled, because the minority view may become relevant in future circumstances, and because truth is understood as multifaceted. This principle — that disagreement is not merely tolerated but sacred when motivated by truth-seeking rather than ego — is perhaps the single most relevant ancient tradition for Jongu Commons.
+Most remarkable: the Talmud **preserves minority opinions alongside majority rulings**. Shammai's positions remain recorded even when overruled, because the minority view may become relevant in future circumstances, and because truth is understood as multifaceted. This principle — that disagreement is not merely tolerated but sacred when motivated by truth-seeking rather than ego — is perhaps the single most relevant ancient tradition for Recursive.eco Commons.
 
 ### **Ignatian discernment: navigating decisions through consolation and desolation**
 
 **Ignatius of Loyola** (1491–1556) developed his discernment methodology while convalescing from a war wound in 1521, noticing that daydreams about saintly service left lasting peace while chivalric fantasies left emptiness. Formalized in *The Spiritual Exercises* (1548), the method distinguishes **consolation** (interior movements drawing one toward deeper engagement — love, hope, faith, energy) from **desolation** (darkness, turmoil, restlessness, inclination toward what is "low and earthly"). The key question: "Where is the movement coming from, and where is it leading me?"
 
-The communal discernment process requires all members to practice **Ignatian indifference** — inner freedom and openness without inclining toward any particular option. Where disagreement occurs, participants make a special effort to "see with the other person's eyes." Deliberation continues until unity is reached, confirmed by a **shared sense of contentment and peace**. The method offers Jongu a model for group decision-making that integrates emotional intelligence with rational deliberation.
+The communal discernment process requires all members to practice **Ignatian indifference** — inner freedom and openness without inclining toward any particular option. Where disagreement occurs, participants make a special effort to "see with the other person's eyes." Deliberation continues until unity is reached, confirmed by a **shared sense of contentment and peace**. The method offers Recursive.eco a model for group decision-making that integrates emotional intelligence with rational deliberation.
 
 ---
 
@@ -1864,7 +1864,7 @@ The communal discernment process requires all members to practice **Ignatian ind
 
 ### **Town halls: a format that rewards outrage**
 
-New England town meetings date to the **1630s** — among the earliest forms of direct democracy in America. The modern "angry town hall" phenomenon demonstrates what happens when a dialogue format lacks structural safeguards: vocal minorities dominate, performative outrage displaces deliberation, organized groups astroturf participation, politicians avoid the events entirely, and media coverage amplifies conflict. The 2009 Tea Party and 2017 anti-ACA town halls exemplified these failure modes. Town halls persist because they symbolize democratic access, but they offer Jongu a clear negative example of what unstructured public dialogue produces.
+New England town meetings date to the **1630s** — among the earliest forms of direct democracy in America. The modern "angry town hall" phenomenon demonstrates what happens when a dialogue format lacks structural safeguards: vocal minorities dominate, performative outrage displaces deliberation, organized groups astroturf participation, politicians avoid the events entirely, and media coverage amplifies conflict. The 2009 Tea Party and 2017 anti-ACA town halls exemplified these failure modes. Town halls persist because they symbolize democratic access, but they offer Recursive.eco a clear negative example of what unstructured public dialogue produces.
 
 ### **Deliberative polls and citizens juries**
 
@@ -1914,7 +1914,7 @@ Urban then scales this to collective entities: **Idea Labs** are environments of
 
 **Critical reception splits sharply.** Praise focused on the accessibility of the Ladder framework, its humor, and its insistence that the vertical axis matters more than the horizontal. Albert Wenger (USV) called it "the most important contribution...drawing a clear distinction between horizontal and vertical politics." Criticism was pointed: the book spends roughly **48 pages on right-wing extremism versus \~353 pages on left-wing extremism** — a 7:1 ratio that undercuts its claim of even-handedness. Robin Hanson noted it "never gets to root causes—stuck pointing at symptoms." Eric Nehrlich argued Urban "fails Charlie Munger's test of knowing the other side's argument better than they do." Most trenchantly, critics observed that the framework itself can become an Echo Chamber tool: labeling someone a "low-rung thinker" functions identically to tribal dismissal. The book's concrete proposals occupy only \~10 pages and are fairly generic: self-awareness, questioning beliefs, humanizing opponents.
 
-For Jongu, Urban's framework offers a powerful diagnostic vocabulary — particularly the distinction between idea labs and echo chambers, and the focus on *how* rather than *what* — while also serving as a cautionary tale about the difficulty of practicing what you preach.
+For Recursive.eco, Urban's framework offers a powerful diagnostic vocabulary — particularly the distinction between idea labs and echo chambers, and the focus on *how* rather than *what* — while also serving as a cautionary tale about the difficulty of practicing what you preach.
 
 ---
 
@@ -1944,7 +1944,7 @@ Daniel Kahneman's dual-process model (*Thinking, Fast and Slow*, 2011\) distingu
 
 **Brené Brown's** research on vulnerability establishes that admitting "I might be wrong" requires tremendous courage because it exposes people to shame — and shame shuts down dialogue by triggering defensive armoring. Her **BRAVING framework** for trust includes Generosity — assuming the most generous interpretation of others' words — a principle directly applicable to dialogue platform design.
 
-**Adam Grant** (*Think Again*, 2021\) identifies four modes — Preacher, Prosecutor, Politician, and Scientist — and argues that the scientist mode (forming hypotheses, being willing to revise) is dramatically underused. His concept of **challenge networks** — deliberately surrounding yourself with people who push back — is essentially a design specification for Jongu Commons. Italian research he cites found entrepreneurs with a scientist mindset generated **40× more revenue**.
+**Adam Grant** (*Think Again*, 2021\) identifies four modes — Preacher, Prosecutor, Politician, and Scientist — and argues that the scientist mode (forming hypotheses, being willing to revise) is dramatically underused. His concept of **challenge networks** — deliberately surrounding yourself with people who push back — is essentially a design specification for Recursive.eco Commons. Italian research he cites found entrepreneurs with a scientist mindset generated **40× more revenue**.
 
 **PlayfulProcess Galef** (*The Scout Mindset*, 2021\) distinguishes **soldier mindset** (reasoning as defense of beliefs) from **scout mindset** (reasoning as mapping reality accurately). Her critical insight: the root cause of soldier mindset is emotional and social, not cognitive. People defend beliefs because those beliefs serve identity, belonging, and self-esteem. Therefore, explaining biases won't fix them — you must address the emotional needs that make truth-seeking feel dangerous. **"Holding identity lightly"** — keeping beliefs separate from self — is the prerequisite. Communities shape mindsets: "One of the biggest things you can do to change your thinking is to change the people you surround yourself with."
 
@@ -1954,9 +1954,9 @@ Daniel Kahneman's dual-process model (*Thinking, Fast and Slow*, 2011\) distingu
 
 ---
 
-## **The bridging insight: Jongu Commons as a practice space, not an answer machine**
+## **The bridging insight: Recursive.eco Commons as a practice space, not an answer machine**
 
-The convergence of these frameworks points toward a specific design philosophy for Jongu Commons. The threads weave together like this:
+The convergence of these frameworks points toward a specific design philosophy for Recursive.eco Commons. The threads weave together like this:
 
 **Gottman's perpetual problems** establish that roughly two-thirds of human conflicts are permanent. This is not a failure of communication — it is a structural feature of relationships between different people. If 69% of conflicts are perpetual between two people who love each other, permanent disagreement in diverse societies is not a bug but a defining characteristic of shared life.
 
@@ -1966,9 +1966,9 @@ The convergence of these frameworks points toward a specific design philosophy f
 
 **Kahneman** explains why argument alone fails: System 1 fires first, and System 2 mostly rationalizes. **Brown** explains why vulnerability — the willingness to say "I might be wrong" — is the bottleneck: it requires exposing yourself to shame. **Galef** shows that the root is emotional, not cognitive: beliefs serve identity and belonging. **Grant** provides the constructive frame: thinking like a scientist — forming hypotheses and being delighted to disprove them — is a learnable skill, especially in challenge networks.
 
-Together, these frameworks suggest that **the goal of Jongu Commons should not be to resolve disagreements but to help people practice holding disagreement well** — agreeing on *how* to disagree rather than *what* to believe. This is the shift from solvable-problem thinking (there's a right answer; find it) to perpetual-problem thinking (there's a permanent tension; develop the skill to live inside it with respect, humor, and curiosity).
+Together, these frameworks suggest that **the goal of Recursive.eco Commons should not be to resolve disagreements but to help people practice holding disagreement well** — agreeing on *how* to disagree rather than *what* to believe. This is the shift from solvable-problem thinking (there's a right answer; find it) to perpetual-problem thinking (there's a permanent tension; develop the skill to live inside it with respect, humor, and curiosity).
 
-The existing Jongu manifesto already articulates this vision. Its core principles — "Process Over Certainty," "Constructive Conflict and Resolution," engaging with "difference as creative fuel," drawing on NVC and EFT, even the Socratic dialogue imagined between PlayfulProcess and Socrates — are already aligned with the architecture these frameworks suggest. What this research provides is the intellectual scaffolding: **the specific mechanisms** by which structured formats prevent the Four Horsemen, activate System 2, create psychological safety for vulnerability, surface consensus rather than amplify division, and honor the sacred nature of disagreement as a path to understanding.
+The existing Recursive.eco manifesto already articulates this vision. Its core principles — "Process Over Certainty," "Constructive Conflict and Resolution," engaging with "difference as creative fuel," drawing on NVC and EFT, even the Socratic dialogue imagined between PlayfulProcess and Socrates — are already aligned with the architecture these frameworks suggest. What this research provides is the intellectual scaffolding: **the specific mechanisms** by which structured formats prevent the Four Horsemen, activate System 2, create psychological safety for vulnerability, surface consensus rather than amplify division, and honor the sacred nature of disagreement as a path to understanding.
 
 The practical design implications form a clear pattern: structure slows reactive processing (Imago's mirroring, NVC's four steps, Bohm's suspension of assumptions), measurable feedback reinforces productive behavior (Polis's consensus mapping, CMV's delta system, Intelligence Squared's pre/post voting), community norms shape individual mindsets (LessWrong's Bayesian culture, Braver Angels' workshop rituals, chavruta's "argument for the sake of heaven"), and removing the reply button — whether literally (Polis) or functionally (Quaker clearness committees where you can only ask questions) — transforms discourse from combat to inquiry.
 

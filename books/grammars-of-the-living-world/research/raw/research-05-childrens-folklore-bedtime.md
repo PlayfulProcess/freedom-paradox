@@ -18,13 +18,13 @@ The indigenous traditions, particularly Tupi-speaking peoples of the Amazon and 
 
 The African dimension is essential for the book. The Griô (griot) figure in Brazil carries the West African oral tradition, adapted through 400 years of slavery (1530–1888). A Griô is not merely a storyteller but "a musician, poet, organizer, conciliator or emissary who intermediates communication among ethnic groups." Critically, "Griô is not a 'position' chosen as a lifestyle or a profession. One is born as a griô and thus is part of a family of griôs." The Griô is an artisan of words who "conducts the ritual of listening, seeing, imagining, and participating in the memory of a place."
 
-This maps directly onto the book's argument about grammars: the Griô tradition is a grammar — a finite symbolic vocabulary (the oral corpus) maintained through practice (the performance) by a community (the listeners). What distinguishes it from Jongu's digital commons is that it is lineage-based and initiated — precisely the kind of tradition that the CARE Principles are designed to protect.
+This maps directly onto the book's argument about grammars: the Griô tradition is a grammar — a finite symbolic vocabulary (the oral corpus) maintained through practice (the performance) by a community (the listeners). What distinguishes it from Recursive.eco's digital commons is that it is lineage-based and initiated — precisely the kind of tradition that the CARE Principles are designed to protect.
 
 ### **Contemporary Practice**
 
 Brazilian academic research on *contação de histórias* emphasizes that storytelling "contributes to the constitution of subjects, as it stimulates imagination, develops linguistic skills and promotes cultural values, empathy and understanding of the world." The major academic collection, *Contação de Histórias: Tradição, Poéticas e Interfaces* (544 pages, 89 authors), describes it as "the germ of the soul of these artistic expressions" rooted in "the relation with the other, in a kind of mirror effect."
 
-**Key insight for the book:** The Brazilian tradition demonstrates how storytelling survives cultural violence — slavery, colonization, displacement — by embedding itself in community practice. The stories adapt, blend, recombine (indigenous \+ African \+ Portuguese), but the structure of the practice persists: adults gathering children, transmitting values through narrative, creating shared symbolic reference points. This is what Jongu attempts to digitize — not the content (which varies) but the structure (gathering, sharing, reflecting).
+**Key insight for the book:** The Brazilian tradition demonstrates how storytelling survives cultural violence — slavery, colonization, displacement — by embedding itself in community practice. The stories adapt, blend, recombine (indigenous \+ African \+ Portuguese), but the structure of the practice persists: adults gathering children, transmitting values through narrative, creating shared symbolic reference points. This is what Recursive.eco attempts to digitize — not the content (which varies) but the structure (gathering, sharing, reflecting).
 
 ---
 
@@ -46,7 +46,7 @@ Japan also has the *kamishibai* tradition — "paper theater" — where a storyt
 
 A 2001 Japanese study documented growing reading movements including *animación a la lectura* (reading animation programs imported from Spain), "ten-minutes reading in the morning" programs in schools, and organized *yomikikase* by parents. These movements represent a deliberate cultural effort to maintain shared reading as a communal practice in the face of digital displacement.
 
-**Key insight for the book:** Japan demonstrates that read-aloud culture can be institutionally supported without losing its relational quality. The school-based *yomikikase* program normalizes shared reading as a community responsibility, not just a parental one. This is relevant to Jongu's design: the platform should support not just individual or family practice but community curation — groups of people selecting, sharing, and maintaining grammars together.
+**Key insight for the book:** Japan demonstrates that read-aloud culture can be institutionally supported without losing its relational quality. The school-based *yomikikase* program normalizes shared reading as a community responsibility, not just a parental one. This is relevant to Recursive.eco's design: the platform should support not just individual or family practice but community curation — groups of people selecting, sharing, and maintaining grammars together.
 
 ---
 
@@ -70,7 +70,7 @@ The griot tradition is directly relevant to the book's discussion of initiated v
 
 In Yoruba communities of Nigeria, storytelling nights bring families and neighbors together under the stars. Elders lead sessions imparting moral lessons through tales of gods, spirits, and ancestors. A Yoruba saying captures the epistemology: *"The elders see sitting down what a child cannot see standing up."* These gatherings foster intergenerational respect and a sense of communal identity.
 
-**Key insight for the book:** The West African evening storytelling tradition is the clearest example of what the book calls a "shared grammar" operating at the community level. It has all the structural features: finite symbolic vocabulary (the tales), randomness (which tale is told depends on the occasion), interpretation (the moral emerges through discussion), repetition (children hear the same tales across years), and relational context (the telling requires human presence). What Jongu attempts is not a replacement for this but a structural analog for communities that no longer gather by moonlight.
+**Key insight for the book:** The West African evening storytelling tradition is the clearest example of what the book calls a "shared grammar" operating at the community level. It has all the structural features: finite symbolic vocabulary (the tales), randomness (which tale is told depends on the occasion), interpretation (the moral emerges through discussion), repetition (children hear the same tales across years), and relational context (the telling requires human presence). What Recursive.eco attempts is not a replacement for this but a structural analog for communities that no longer gather by moonlight.
 
 ---
 
@@ -84,7 +84,7 @@ Mason's criteria for living books map remarkably onto what the book identifies a
 
 ### **Narration as Contemplative Practice**
 
-Mason's method of narration — having the child "tell back" what they've read — is structurally identical to what the book describes as "casting and reflecting." The child encounters the text (casting), then articulates their interpretation (reflecting). The adult does not tell the child what the text means. The meaning emerges through the practice of retelling. This is exactly the design philosophy Jongu embodies: "It does not tell you what the card means. It does not predict your future. It does not claim authority over your experience. It holds your question without answering it."
+Mason's method of narration — having the child "tell back" what they've read — is structurally identical to what the book describes as "casting and reflecting." The child encounters the text (casting), then articulates their interpretation (reflecting). The adult does not tell the child what the text means. The meaning emerges through the practice of retelling. This is exactly the design philosophy Recursive.eco embodies: "It does not tell you what the card means. It does not predict your future. It does not claim authority over your experience. It holds your question without answering it."
 
 ### **The "Story Diet" Concept**
 
@@ -92,7 +92,7 @@ The book's research plan asks whether families can "intentionally curate their n
 
 Contemporary Charlotte Mason practitioners use the term "morning basket" for a curated collection of readings that the family engages with together each day — poems, scripture passages, living books, nature study. This is functionally a "grammar playlist" before the concept existed.
 
-**Key insight for the book:** Charlotte Mason's "living books" pedagogy is the Western educational tradition's closest analog to what Jongu proposes. Replace "living books" with "grammars" and "narration" with "casting and reflecting," and the philosophical architecture is nearly identical. The key difference is that Mason's framework is family-centered and curated by the parent, while Jongu extends this to community curation and digital accessibility. The "story diet" concept — intentional curation of narrative intake — is the practical bridge between Mason's pedagogy and Jongu's design.
+**Key insight for the book:** Charlotte Mason's "living books" pedagogy is the Western educational tradition's closest analog to what Recursive.eco proposes. Replace "living books" with "grammars" and "narration" with "casting and reflecting," and the philosophical architecture is nearly identical. The key difference is that Mason's framework is family-centered and curated by the parent, while Recursive.eco extends this to community curation and digital accessibility. The "story diet" concept — intentional curation of narrative intake — is the practical bridge between Mason's pedagogy and Recursive.eco's design.
 
 ---
 
@@ -110,7 +110,7 @@ Waldorf (Steiner) education, founded by Rudolf Steiner in 1919, takes an explici
 
 Waldorf education is notable for its deliberate restriction of screen media, particularly for young children. Steiner schools typically recommend no screens before age 7 and limited screen use through adolescence. The rationale is not technophobia but developmental — young children need direct sensory experience, movement, and human relationship, not the "overstimulation and hinder\[ing\] of neural synapses" that Christakis's research documents.
 
-This approach resonates with the book's argument but also complicates it: if Waldorf is right that screens are developmentally inappropriate for young children, then a digital platform hosting grammars faces a tension. Jongu's design response — no notifications, no autoplay, no engagement optimization, contemplation-designed rather than engagement-designed — attempts to create a digital environment that serves the developmental needs Waldorf identifies rather than undermining them.
+This approach resonates with the book's argument but also complicates it: if Waldorf is right that screens are developmentally inappropriate for young children, then a digital platform hosting grammars faces a tension. Recursive.eco's design response — no notifications, no autoplay, no engagement optimization, contemplation-designed rather than engagement-designed — attempts to create a digital environment that serves the developmental needs Waldorf identifies rather than undermining them.
 
 ---
 
@@ -128,7 +128,7 @@ Across indigenous cultures worldwide — from Australian Aboriginal "Dreamtime" 
 
 ### **The Digital Tension**
 
-Indigenous storytelling traditions present the sharpest challenge to Jongu's commons model. Many indigenous stories are sacred, initiated, seasonal, or gender-specific — they are not "content" to be made freely available but knowledge systems governed by protocols of access. The book already addresses this through the CARE Principles and the "gateway not gatekeeper" framework, but the Research 5 material reinforces why this distinction matters.
+Indigenous storytelling traditions present the sharpest challenge to Recursive.eco's commons model. Many indigenous stories are sacred, initiated, seasonal, or gender-specific — they are not "content" to be made freely available but knowledge systems governed by protocols of access. The book already addresses this through the CARE Principles and the "gateway not gatekeeper" framework, but the Research 5 material reinforces why this distinction matters.
 
 The Griô is born, not trained. The Babalawo is initiated, not certified. The Aboriginal elder's authority to tell certain stories comes from ceremonial qualification, not interest. A platform that makes "everything freely available" without distinguishing between structurally open systems (tarot, I Ching) and initiated systems (Ifá, Griô traditions, Aboriginal Dreamtime) risks epistemicide — Santos's term for the destruction of non-Western ways of knowing.
 
@@ -154,7 +154,7 @@ What varies across cultures is: which stories are told when (Waldorf's developme
 
 The question the book asks — can families intentionally curate their narrative intake? — receives a resounding yes from every tradition examined. The Brazilian *contação de histórias*, the Japanese *yomikikase*, the West African moonlight tales, Charlotte Mason's living books, Waldorf's developmental staging — all represent intentional curation of narrative. The question is not whether curation is possible but whether it can survive the algorithmic disruption of the attention economy.
 
-Jongu's answer: provide infrastructure for human curation (not algorithmic recommendation) of grammars that families and communities can share, repeat, and return to — treating each grammar the way a Charlotte Mason family treats a living book or a West African family treats a moonlight tale.
+Recursive.eco's answer: provide infrastructure for human curation (not algorithmic recommendation) of grammars that families and communities can share, repeat, and return to — treating each grammar the way a Charlotte Mason family treats a living book or a West African family treats a moonlight tale.
 
 ---
 
@@ -170,7 +170,7 @@ The decline of every tradition documented here — from the Griô figure displac
 
 ### **For Chapter 8 (The Commons)**
 
-The "shared grammar playlist" concept arrives here as the synthesis. The design principles drawn from across cultures: human curation (not algorithms), developmental appropriateness (Waldorf staging), communal engagement (not individual consumption), repetition built in (the same grammars returned to), respect for initiated traditions (CARE Principles), and the practice of narration/reflection (Charlotte Mason's "tell back," Jongu's "cast and reflect"). The platform doesn't replace moonlight. It provides infrastructure for communities that no longer gather by moonlight to create shared symbolic worlds through intentional practice.
+The "shared grammar playlist" concept arrives here as the synthesis. The design principles drawn from across cultures: human curation (not algorithms), developmental appropriateness (Waldorf staging), communal engagement (not individual consumption), repetition built in (the same grammars returned to), respect for initiated traditions (CARE Principles), and the practice of narration/reflection (Charlotte Mason's "tell back," Recursive.eco's "cast and reflect"). The platform doesn't replace moonlight. It provides infrastructure for communities that no longer gather by moonlight to create shared symbolic worlds through intentional practice.
 
 ---
 
