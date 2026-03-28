@@ -62,7 +62,7 @@ Who benefits? The derivative developers, genuinely. And Alibaba's cloud business
 
 Who benefits? If the safety argument is correct — and the evidence for catastrophic misuse risk is not trivial — then the answer is potentially everyone. A world in which frontier AI models cannot be freely downloaded and stripped of safety training is a world in which the barriers to mass harm remain at least partially intact.
 
-But Anthropic also benefits. A closed model is a model that generates revenue through API access. A safety-justified monopoly is still a monopoly. The company that builds the bomb while warning about the blast is also the company that charges for access to the bomb. The RSP v3.0 revision — removing the hard pause commitment under competitive pressure — demonstrated that even the strongest safety commitments erode when the market demands it.
+But Anthropic also benefits. A closed model is a model that generates revenue through API access — revenue that has reached an annualized $19 billion by early 2026, up from roughly $1 billion just fifteen months earlier. A safety-justified monopoly is still a monopoly. The company that builds the bomb while warning about the blast is also the company that charges for access to the bomb. The RSP v3.0 revision — removing the hard pause commitment under competitive pressure — demonstrated that even the strongest safety commitments erode when the market demands it.
 
 The Electronic Frontier Foundation put it with characteristic precision: the problem is not that Anthropic said no to the Pentagon. The problem is that one person, running one company, was the only thing standing between mass surveillance and the American public.
 
