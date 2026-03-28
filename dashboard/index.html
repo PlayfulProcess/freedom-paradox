@@ -274,6 +274,84 @@
   </section>
 
   <!-- ============================================ -->
+  <!-- LENS 1B: COMPUTE ECONOMICS                  -->
+  <!-- ============================================ -->
+  <section class="lens-section">
+    <div class="lens-header">
+      <span class="lens-number">Lens I-B</span>
+      <span class="lens-title">The Compute Barrier</span>
+      <span class="lens-question">When "free" software costs $100M to run, what does freedom mean?</span>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat-card">
+        <div class="stat-value red">$285B</div>
+        <div class="stat-label">Big Tech AI capex in 2025<br><small>Microsoft + Google + Meta + Amazon</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value orange">$500M</div>
+        <div class="stat-label">Estimated GPT-5 training cost<br><small>[VERIFY]</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value green">$5.6M</div>
+        <div class="stat-label">DeepSeek-V3 claimed training cost<br><small>The disruption</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value purple">$150K+</div>
+        <div class="stat-label">Hardware to self-host Llama 405B<br><small>8x A100 GPUs minimum</small></div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>The Cost of "Open"</h3>
+        <p class="subtitle">Estimated training cost for AI models over time &mdash; the new barrier to entry</p>
+        <div class="chart-container">
+          <canvas id="trainingCostChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Book argument (Ch. 2, 9, 12):</strong> Open source freed code when code was the scarce resource. AI shifted scarcity to compute. "Open weights" gives you the recipe but not the kitchen. Retraining Llama 3 405B costs ~$30M. The freedom to fork is meaningless without the resources to run what you've forked.
+        </div>
+        <p class="source-note">Sources: Press reports, analyst estimates. All figures approximate. [VERIFY]</p>
+      </div>
+
+      <div class="chart-card">
+        <h3>Who Can Afford to Play</h3>
+        <p class="subtitle">Annual AI compute spending by company &mdash; the new concentration of power</p>
+        <div class="chart-container">
+          <canvas id="capexChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>The $285B question:</strong> Four companies will spend more on AI infrastructure in 2025 than the GDP of most countries. Even "open" AI (Meta's Llama) is produced by organizations with $60B compute budgets. The commons requires a cathedral to enter.
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <h3>The Self-Hosting Ladder</h3>
+        <p class="subtitle">Hardware cost to run "free" open-weight AI models yourself</p>
+        <div class="chart-container">
+          <canvas id="selfHostChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>The access gradient:</strong> An 8B model on a $1,600 GPU is genuinely accessible. A 405B model requires $150K+. Retraining a frontier model requires $300M+. "Open" exists on a spectrum from "hobbyist accessible" to "nation-state only."
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <h3>The Surveillance Cost Curve</h3>
+        <p class="subtitle">Amodei's estimated cost trajectory for AI-powered mass domestic surveillance</p>
+        <div class="chart-container">
+          <canvas id="surveillanceCostChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Book argument (Ch. 1, 10, 12):</strong> When surveillance costs drop below $1B, open-weight models become a governance crisis. The Dwarkesh Problem meets the cost curve: if capable models are freely available AND the compute to run them is affordable, Anthropic's ethical commitments become irrelevant. Anyone can strip guardrails.
+        </div>
+        <p class="source-note">Source: Dario Amodei, "Adolescence of Technology" (2025). [VERIFY exact trajectory]</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
   <!-- LENS 2: WHO BUILDS                          -->
   <!-- ============================================ -->
   <section class="lens-section">
@@ -522,6 +600,184 @@ new Chart(document.getElementById('businessModelChart'), {
             return ctx.label + ': ' + ctx.raw + ' companies in dataset';
           }
         }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 1B: Training Cost Over Time
+// ========================================
+const trainingData = [
+  { model: 'GPT-2 (2019)', cost: 0.05, open: true },
+  { model: 'LLaMA 1 (2023)', cost: 2.4, open: true },
+  { model: 'GPT-3 (2020)', cost: 4.6, open: false },
+  { model: 'Llama 2 (2023)', cost: 5, open: true },
+  { model: 'DeepSeek-V3 (2024)', cost: 5.6, open: true },
+  { model: 'Llama 3 405B (2024)', cost: 30, open: true },
+  { model: 'GPT-4 (2023)', cost: 100, open: false },
+  { model: 'Gemini Ultra (2024)', cost: 190, open: false },
+  { model: 'GPT-5 (2025)', cost: 500, open: false },
+];
+
+new Chart(document.getElementById('trainingCostChart'), {
+  type: 'bar',
+  data: {
+    labels: trainingData.map(d => d.model),
+    datasets: [{
+      label: 'Estimated Training Cost ($M)',
+      data: trainingData.map(d => d.cost),
+      backgroundColor: trainingData.map(d => d.open ? '#3fb950' : '#f85149'),
+      borderRadius: 4,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    indexAxis: 'y',
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            const d = trainingData[ctx.dataIndex];
+            return '$' + d.cost + 'M — ' + (d.open ? 'Open weights' : 'Proprietary');
+          }
+        }
+      }
+    },
+    scales: {
+      x: {
+        type: 'logarithmic',
+        title: { display: true, text: 'Training Cost (log scale, $M)' },
+        min: 0.01,
+        ticks: {
+          callback: function(val) {
+            if (val >= 1) return '$' + val + 'M';
+            return '$' + (val * 1000) + 'K';
+          }
+        }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 1B: AI Capex Chart
+// ========================================
+new Chart(document.getElementById('capexChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Microsoft', 'Google', 'Amazon', 'Meta'],
+    datasets: [{
+      label: '2025 AI Capex ($B)',
+      data: [80, 75, 70, 60],
+      backgroundColor: ['#58a6ff', '#3fb950', '#d29922', '#f778ba'],
+      borderRadius: 4,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: { label: ctx => '$' + ctx.raw + 'B' }
+      }
+    },
+    scales: {
+      y: {
+        title: { display: true, text: 'Annual AI Infrastructure Spend ($B)' },
+        ticks: { callback: v => '$' + v + 'B' }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 1B: Self-Hosting Ladder
+// ========================================
+new Chart(document.getElementById('selfHostChart'), {
+  type: 'bar',
+  data: {
+    labels: [
+      'Llama 3 8B\n(1x RTX 4090)',
+      'Llama 3 70B\n(2x A100 80GB)',
+      'Llama 3 405B\n(8x A100 80GB)',
+      'Frontier retrain\n(10,000+ H100s)'
+    ],
+    datasets: [{
+      label: 'Hardware Cost',
+      data: [1600, 30000, 150000, 300000000],
+      backgroundColor: ['#3fb950', '#d29922', '#f85149', '#f85149'],
+      borderRadius: 4,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            const val = ctx.raw;
+            if (val >= 1000000) return '$' + (val / 1000000) + 'M';
+            if (val >= 1000) return '$' + (val / 1000) + 'K';
+            return '$' + val;
+          }
+        }
+      }
+    },
+    scales: {
+      y: {
+        type: 'logarithmic',
+        title: { display: true, text: 'Hardware Cost (log scale)' },
+        ticks: {
+          callback: function(val) {
+            if (val >= 1000000) return '$' + (val / 1000000) + 'M';
+            if (val >= 1000) return '$' + (val / 1000) + 'K';
+            return '$' + val;
+          }
+        }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 1B: Surveillance Cost Curve
+// ========================================
+new Chart(document.getElementById('surveillanceCostChart'), {
+  type: 'line',
+  data: {
+    labels: ['2024', '2026', '2028', '2030'],
+    datasets: [{
+      label: 'Cost of Mass Domestic Surveillance ($B)',
+      data: [30, 10, 3, 1],
+      borderColor: '#f85149',
+      backgroundColor: 'rgba(248, 81, 73, 0.15)',
+      fill: true,
+      tension: 0.3,
+      pointRadius: 6,
+      pointHoverRadius: 10,
+      pointBackgroundColor: '#f85149',
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: { label: ctx => '$' + ctx.raw + 'B' }
+      }
+    },
+    scales: {
+      y: {
+        title: { display: true, text: 'Estimated Cost ($B)' },
+        ticks: { callback: v => '$' + v + 'B' },
+        min: 0
       }
     }
   }
