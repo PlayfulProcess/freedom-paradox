@@ -43,12 +43,19 @@
 - Supabase: https://supabase.com
 - Vercel: https://vercel.com
 
-## Financial Data Sources
-- [VERIFY: Supabase $5B valuation — source and date]
-- [VERIFY: Vercel $9.3B valuation — source and date]
-- [VERIFY: HashiCorp/IBM $6.4B acquisition — February 2025]
-- [VERIFY: Anthropic $380B valuation — February 2026 Series G]
-- [VERIFY: Anthropic $7B ARR by end of 2025]
+## Financial Data Sources (Verified 2026-03-28)
+- Supabase $5B valuation: Series E, October 2025. Source: TechCrunch (2025-10-03), Fortune (2025-10-03). $100M raised, led by Accel and Peak XV. Total funding $543M. ARR ~$70M (Sacra, mid-2025).
+- Vercel $9.3B valuation: Series F, September 2025. Source: Vercel blog, GIC Newsroom. Next.js ~27M weekly npm downloads (NOT 200M — earlier figure was wrong).
+- HashiCorp/IBM $6.4B acquisition at $35/share: Announced April 24, 2024; closed February 27, 2025. Source: IBM Newsroom, CNBC, SEC filings.
+- Anthropic $380B valuation: Series G ($30B raised), February 12, 2026. Source: CNBC, Anthropic press release, Crunchbase. Led by GIC and Coatue. Total funding $67.3B from 90 investors.
+- Anthropic ARR: ~$19B as of March 2026 (Bloomberg, Yahoo Finance). Growth trajectory: ~$1B (late 2024) → $10B (end 2025) → $14B (Feb 2026) → $19B (Mar 2026). Claude Code alone ~$2.5B ARR.
+- GitLab FY2025 revenue: $759M (ended Jan 31, 2025). FY2026 guided ~$939M. Market cap ~$3.5B (Mar 2026, down from ~$9B). Source: GitLab IR.
+- MongoDB FY2025 revenue: $2.01B (ended Jan 31, 2025). FY2026 revenue: $2.46B. Market cap ~$20B (volatile). Source: MongoDB IR.
+- Elastic FY2025 revenue: $1.48B (ended Apr 30, 2025). FY2026 guided ~$1.72B. Source: Elastic IR. (Note: fiscal year ends April 30.)
+- GPT-5 training cost: $500M–$2.5B estimated (HSBC, press). Released August 7, 2025.
+- DeepSeek-V3 training cost: $5.58M for final training run only (2.79M GPU hours at $2/hr on 2,048 H800s). Total investment ~$1.3B including hardware (SemiAnalysis estimate). Source: DeepSeek technical paper, Weights & Biases, SemiAnalysis.
+- Big Tech AI capex 2025: ~$380B+ combined (Amazon $125B, Google $91-93B, Microsoft $80B, Meta $72B). 2026 projection ~$700B. Source: CNBC (2025-10-31), IEEE ComSoc, CreditSights.
+- Harvard Business School OSS value: $8.8 trillion demand-side value. Source: Hoffmann, Nagle, Zhou, HBS Working Paper 24-038, January 2024.
 
 ## Chapter 1 Sources (Deep Research, March 2026)
 

@@ -136,7 +136,7 @@ The Electronic Frontier Foundation — the digital rights organization that had 
 
 Sit with that for a moment. The EFF was not criticizing Amodei for refusing the Pentagon. It was criticizing the structural arrangement that made his refusal the only thing standing between mass surveillance and the American public. The problem wasn't the decision. The problem was that the decision rested with one person, running one company, whose values happened to include a commitment to civil liberties.
 
-What if the next CEO didn't share those values? What if Anthropic's board, under pressure from investors who had poured $67 billion into the company, decided that Pentagon contracts were too lucrative to refuse? What if the $380 billion valuation made the company too big to stand on principle? [VERIFY: total investment figure]
+What if the next CEO didn't share those values? What if Anthropic's board, under pressure from investors who had poured $67 billion into the company, decided that Pentagon contracts were too lucrative to refuse? What if the $380 billion valuation — and annualized revenue approaching $19 billion — made the company too big to stand on principle?
 
 This is the paradox at the center of the safety argument, and it maps precisely onto the paradox that has run through this entire book.
 

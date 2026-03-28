@@ -10,7 +10,7 @@ Five days later, on August 15, a group of developers and companies published the
 
 By September 20, the Linux Foundation had accepted the fork. OpenTF was renamed OpenTofu. By January 2024, it had shipped its first stable release. The Cloud Native Computing Foundation, which required all tools in its ecosystem to be fully open source, could no longer use Terraform. HashiCorp's product was alive and well — but so was a community-owned alternative that would develop independently, forever.
 
-In 2025, IBM acquired HashiCorp for approximately $6.4 billion. [VERIFY: acquisition price and close date — announced April 2024]
+In February 2025, IBM completed its acquisition of HashiCorp for $6.4 billion at thirty-five dollars per share — a deal announced in April 2024.
 
 Thirty-three thousand stars on a document about software licensing. That number deserves a moment of attention. These were not casual clicks. Each star was a developer registering a position — publicly, under their real GitHub identity — on a question that most people would find staggeringly boring. What license should a piece of infrastructure software carry?
 

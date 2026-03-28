@@ -1,6 +1,6 @@
 # Chapter 2: When Code Could Clone Itself
 
-On February 24, 2026, Cloudflare published a blog post with a matter-of-fact title and an extraordinary claim. Steve Faulkner, an engineering manager at the company, had rebuilt Next.js — the most widely used React framework on the internet, the core product of a company valued at $9.3 billion — in under a week. [VERIFY: Vercel's most recent valuation]
+On February 24, 2026, Cloudflare published a blog post with a matter-of-fact title and an extraordinary claim. Steve Faulkner, an engineering manager at the company, had rebuilt Next.js — the most widely used React framework on the internet, the core product of a company valued at $9.3 billion — in under a week.
 
 He had not done it alone, exactly. He had done it with Claude, Anthropic's AI, running through an open-source coding tool called OpenCode. Eight hundred sessions. About $1,100 in API tokens. The result was vinext, a drop-in replacement for Next.js built on top of Vite, the fast build tool created by Evan You. It implemented ninety-four percent of the Next.js API surface. It compiled 4.4 times faster. Its client bundles were fifty-seven percent smaller. [VERIFY: all performance figures from Cloudflare blog]
 
@@ -8,7 +8,7 @@ Faulkner open-sourced it under the MIT license and put it on GitHub. Cloudflare 
 
 The developer community reacted as though someone had detonated a small bomb in the middle of a dinner party. The Register ran the headline under the phrase "vibe codes." Hacker News threads accumulated hundreds of comments. The word people kept using was *unprecedented* — not because someone had built a Next.js alternative (there were dozens), but because of the economics. One person. One week. Eleven hundred dollars.
 
-Next.js represents years of engineering by hundreds of contributors. Vercel, the company that maintains it, has raised over a billion dollars in venture capital. Its entire business model depends on Next.js being the framework developers choose — the open-source project is free, and Vercel monetizes through hosting, deployment tools, and developer experience features built around it. [VERIFY: total Vercel funding]
+Next.js represents years of engineering by hundreds of contributors. Vercel, the company that maintains it, has raised over half a billion dollars in venture capital and is valued at $9.3 billion. Its entire business model depends on Next.js being the framework developers choose — the open-source project is free, and Vercel monetizes through hosting, deployment tools, and developer experience features built around it.
 
 Cloudflare did not copy a single line of Next.js code. It did not need to. The AI read the documentation, understood the API surface, and wrote a clean implementation from scratch. The MIT license that governs Next.js was, in a legal sense, irrelevant. There was nothing to license. The code was new.
 

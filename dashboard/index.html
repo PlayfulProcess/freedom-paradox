@@ -270,6 +270,29 @@
           <strong>Key finding:</strong> "Open core" dominates venture-backed OSS. The pattern: open the base layer to build community, close the value layer to capture revenue. Platform plays (Google) open what commoditizes competitors and close what monetizes users.
         </div>
       </div>
+
+      <div class="chart-card">
+        <h3>The Anthropic Curve</h3>
+        <p class="subtitle">Revenue trajectory of the company that chose NOT to open source &mdash; $1B to $19B in 15 months</p>
+        <div class="chart-container">
+          <canvas id="anthropicRevenueChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Book argument (Ch. 11):</strong> The proprietary path is not just viable &mdash; it's dominant. Claude Code alone generates ~$2.5B ARR. A company that chose safety over openness is growing faster than any open-source AI company. Does this prove that safety requires closure, or that closure is simply more profitable?
+        </div>
+        <p class="source-note">Sources: Bloomberg, SaaStr, Anthropic press releases.</p>
+      </div>
+
+      <div class="chart-card">
+        <h3>Open Source Revenue by Business Model</h3>
+        <p class="subtitle">Annual revenue of public &amp; private open-source companies &mdash; verified figures</p>
+        <div class="chart-container">
+          <canvas id="revenueByModelChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>The revenue hierarchy:</strong> MongoDB ($2.01B) and Elastic ($1.48B) generate more revenue than GitLab ($759M), Vercel ($200M), and Supabase ($70M) combined. The SSPL/license-change companies are the biggest revenue generators &mdash; the most commercially successful open-source companies are the ones that restricted their licenses.
+        </div>
+      </div>
     </div>
   </section>
 
@@ -598,6 +621,96 @@ new Chart(document.getElementById('businessModelChart'), {
         callbacks: {
           label: function(ctx) {
             return ctx.label + ': ' + ctx.raw + ' companies in dataset';
+          }
+        }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 1: Anthropic Revenue Curve
+// ========================================
+new Chart(document.getElementById('anthropicRevenueChart'), {
+  type: 'line',
+  data: {
+    labels: ['Q3 2024', 'Q4 2024', 'Q1 2025', 'Q2 2025', 'Q3 2025', 'Q4 2025', 'Jan 2026', 'Feb 2026', 'Mar 2026'],
+    datasets: [{
+      label: 'Anthropic ARR ($B)',
+      data: [0.5, 1.0, 2.0, 4.0, 7.0, 10.0, 14.0, 16.5, 19.0],
+      borderColor: '#f85149',
+      backgroundColor: 'rgba(248, 81, 73, 0.1)',
+      fill: true,
+      tension: 0.3,
+      pointRadius: 5,
+      pointHoverRadius: 8,
+      pointBackgroundColor: '#f85149',
+    },
+    {
+      label: 'Claude Code ARR ($B)',
+      data: [null, null, null, null, 0.3, 0.8, 1.5, 2.0, 2.5],
+      borderColor: '#bc8cff',
+      backgroundColor: 'rgba(188, 140, 255, 0.05)',
+      fill: true,
+      tension: 0.3,
+      pointRadius: 4,
+      pointBackgroundColor: '#bc8cff',
+      borderDash: [5, 5],
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { labels: { usePointStyle: true } },
+      tooltip: { callbacks: { label: ctx => ctx.dataset.label + ': $' + ctx.raw + 'B' } }
+    },
+    scales: {
+      y: {
+        title: { display: true, text: 'Annualized Revenue ($B)' },
+        ticks: { callback: v => '$' + v + 'B' },
+        min: 0
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 1: Revenue by Business Model
+// ========================================
+new Chart(document.getElementById('revenueByModelChart'), {
+  type: 'bar',
+  data: {
+    labels: ['MongoDB\n(SSPL)', 'Elastic\n(SSPL→AGPL)', 'GitLab\n(Open Core)', 'Vercel\n(Open Core)', 'Supabase\n(Open Core)', 'Ghost\n(Nonprofit)'],
+    datasets: [{
+      label: 'Annual Revenue ($M)',
+      data: [2010, 1483, 759, 200, 70, 8],
+      backgroundColor: ['#f85149', '#f85149', '#58a6ff', '#58a6ff', '#58a6ff', '#3fb950'],
+      borderRadius: 4,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            const val = ctx.raw;
+            if (val >= 1000) return '$' + (val/1000).toFixed(2) + 'B';
+            return '$' + val + 'M';
+          }
+        }
+      }
+    },
+    scales: {
+      y: {
+        title: { display: true, text: 'Annual Revenue' },
+        ticks: {
+          callback: function(val) {
+            if (val >= 1000) return '$' + (val/1000) + 'B';
+            return '$' + val + 'M';
           }
         }
       }

@@ -22,7 +22,7 @@ Let us be systematic about it.
 
 Who benefits? Every browser that adopted Chromium got a world-class rendering engine for free. Developers got a more consistent web platform. Users got faster, more compatible browsers. These are real benefits, genuinely created, widely distributed.
 
-And Google got a world in which eighty percent of web browsing happens inside software that defaults to Google Search, that ships with Google's JavaScript runtime, that implements the standards Google proposes. The advertising revenue that flows through this dominance exceeded three hundred billion dollars in 2024. [VERIFY: exact 2024 Alphabet ad revenue] The open-source browser engine was not a gift. It was the foundation of the most profitable advertising business in human history.
+And Google got a world in which eighty percent of web browsing happens inside software that defaults to Google Search, that ships with Google's JavaScript runtime, that implements the standards Google proposes. The advertising revenue that flows through this dominance exceeded three hundred billion dollars in 2024. The open-source browser engine was not a gift. It was the foundation of the most profitable advertising business in human history.
 
 The same logic, applied at planetary scale, produced Android. The operating system is open source under the Apache 2.0 license. Any manufacturer can take the code and build a phone. Hundreds have. The result is 3.9 billion devices, seventy-two percent of the global mobile market, and internet access for billions of people who would otherwise be priced out of the digital world. A farmer in Uttar Pradesh checking crop prices. A student in Lagos accessing educational materials. A seamstress in Jakarta managing her business on WhatsApp. Android made this possible because no proprietary operating system could have achieved this distribution at this price point.
 
@@ -30,7 +30,7 @@ Who benefits? The farmer, the student, the seamstress — genuinely. And Google,
 
 ---
 
-**Meta** open-sourced Llama, and Mark Zuckerberg told us exactly why. His open letter accompanying the Llama 3.1 release was startling in its candor: Apple had spent a decade constraining what Meta could build on iOS, taxing Meta's revenue through the App Store, and destroying an estimated ten billion dollars in annual advertising income through App Tracking Transparency. [VERIFY: $10B ATT impact figure] Zuckerberg was not open-sourcing AI because he believed in the commons. He was open-sourcing AI because he had experienced captivity.
+**Meta** open-sourced Llama, and Mark Zuckerberg told us exactly why. His open letter accompanying the Llama 3.1 release was startling in its candor: Apple had spent a decade constraining what Meta could build on iOS, taxing Meta's revenue through the App Store, and destroying an estimated ten billion dollars in annual advertising income through App Tracking Transparency. Zuckerberg was not open-sourcing AI because he believed in the commons. He was open-sourcing AI because he had experienced captivity.
 
 The strategy worked — for a while. Llama reached 1.2 billion downloads. Over 140,000 derivative models appeared on Hugging Face. Meta hosted LlamaCon, awarded impact grants, built an API. The ecosystem was real, vast, and growing.
 
