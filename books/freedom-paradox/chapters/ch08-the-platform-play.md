@@ -86,7 +86,7 @@ That version of the story is true. It is also incomplete.
 
 The economics of Android are counterintuitive until you understand what Google is actually selling.
 
-Apple's iOS holds roughly twenty-eight percent of the global mobile market. But the App Store generates sixty-seven percent of global app spending — approximately eighty-five billion dollars per year. Google Play, serving a market nearly three times as large, generates forty-eight billion. The average iOS user spends ten dollars and forty cents per month on apps. The average Android user spends a dollar forty. [VERIFY: exact 2025/2026 revenue figures — multiple sources give slightly different numbers]
+Apple's iOS holds roughly twenty-nine percent of the global mobile market. But the App Store generates roughly two-thirds of global app spending — more than one hundred billion dollars per year in 2024. Google Play, serving a market nearly three times as large, generates forty-seven billion. The ratio is staggering: iOS captures more than twice the revenue from less than a third of the users.
 
 Some of this gap is explained by demographics. The average iPhone user earns fifty-three thousand dollars a year. The average Android user earns thirty-seven thousand. iOS dominates the United States, Japan, and the premium segment globally — the markets where consumers have the most disposable income. Android dominates everywhere else.
 

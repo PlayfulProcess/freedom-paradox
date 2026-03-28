@@ -48,7 +48,7 @@ The convergence was striking. When every major competitor in an industry indepen
 
 ## Commoditize Your Complement
 
-In 2002, the software entrepreneur Joel Spolsky wrote an essay explaining a strategy that would define the technology industry for the next two decades. The core idea was simple: every product has complements — other products that increase demand for it. If you can make those complements cheaper, you increase demand for your own product. The most aggressive version of the strategy is to make the complement free. [VERIFY: exact Spolsky essay title and date]
+In June 2002, the software entrepreneur Joel Spolsky published "Strategy Letter V," an essay explaining a strategy that would define the technology industry for the next two decades. The core idea was simple: every product has complements — other products that increase demand for it. If you can make those complements cheaper, you increase demand for your own product. The most aggressive version of the strategy is to make the complement free.
 
 Google understood this better than anyone. Search is complemented by web browsing — so Google released Chrome as a free browser and open-sourced its rendering engine. Search is complemented by mobile internet access — so Google released Android as a free operating system and open-sourced its core. In both cases, the open-source layer was not the business. The business was the proprietary service that ran on top of it: Search, Ads, Maps, Gmail, the entire Google ecosystem that users accessed through the free platform.
 
@@ -74,7 +74,7 @@ On the AIME 2024 mathematics competition, R1 scored 79.8 percent — slightly hi
 
 DeepSeek had done what no major Western AI lab was willing to do: release a genuinely frontier model as open source. Not behind the frontier. At it.
 
-The reaction was immediate and telling. Markets dropped. Nvidia lost nearly six hundred billion dollars in market capitalization in a single day — the largest one-day loss for any company in stock market history. [VERIFY: exact Nvidia market cap loss figure and whether it was the largest single-day loss ever] Altman posted his "wrong side of history" concession twelve days later. Within six months, OpenAI had rushed GPT-OSS to market.
+The reaction was immediate and telling. Markets dropped. Nvidia lost $589 billion in market capitalization in a single day — the largest single-day loss for any company in U.S. stock market history. Altman posted his "wrong side of history" concession twelve days later. Within six months, OpenAI had rushed GPT-OSS to market.
 
 Yann LeCun, Meta's chief AI scientist, offered the most pointed interpretation. Writing on Threads and X in January 2025, he argued that the correct reading of DeepSeek's achievement was not that China was surpassing the United States in AI. The correct reading, he said, was that open-source models were surpassing proprietary ones. DeepSeek had built on open research — PyTorch and Llama from Meta, published papers from labs around the world — and had produced something that matched the output of companies spending tens of billions of dollars on closed development.
 

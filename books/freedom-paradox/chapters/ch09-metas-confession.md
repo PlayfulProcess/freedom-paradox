@@ -84,7 +84,7 @@ The internal fallout was severe. Zuckerberg, according to reporting by The Infor
 
 Behemoth — the roughly two-trillion-parameter model that was supposed to be the crown jewel of the Llama 4 family — was postponed from its planned early summer release. Then postponed again, to fall. Then indefinitely. It never became generally available. The largest and most ambitious open-weights model Meta had ever attempted remained in "limited preview," a monument to ambitions that exceeded capabilities.
 
-In June 2025, Zuckerberg made a move that signaled a fundamental strategic shift. Meta invested $14.3 billion for a 49 percent stake in Scale AI, and its founder, Alexandr Wang, became Meta's first-ever Chief AI Officer. Wang was tasked with leading a new entity: Meta Superintelligence Labs, an elite group of roughly fifty researchers that Zuckerberg had personally recruited at his homes in Lake Tahoe and Palo Alto.
+In June 2025, Zuckerberg made a move that signaled a fundamental strategic shift. Meta invested $14.3 billion for a 49 percent stake in Scale AI, and its founder, Alexandr Wang, left Scale AI to lead Meta Superintelligence Labs, an elite group of roughly fifty researchers that Zuckerberg had personally recruited at his homes in Lake Tahoe and Palo Alto.
 
 The new lab was developing a model codenamed Avocado. And Avocado, according to multiple reports, might not be open source.
 
@@ -94,7 +94,7 @@ The irony was exquisite. The company that had positioned itself as open source's
 
 By December 2025, the confusion was visible from outside the company. CNBC reported that Meta's shifting AI strategy was causing internal disarray, with engineers unsure whether the future was open or closed. Avocado's release, originally targeted for the first quarter of 2026, was postponed again. Internal tests reportedly showed it lagging behind the latest models from Google, OpenAI, and Anthropic. There were even reports that Meta had considered licensing Google's Gemini model as a fallback — the AI equivalent of admitting that your homegrown strategy had failed and you needed to buy from the competition.
 
-The capital expenditure numbers told the story of escalating commitment. Meta's 2025 capex reached $70 to $72 billion, roughly seventy percent higher than the previous year. The guidance for 2026 was $115 to $135 billion. Zuckerberg projected at least $600 billion in US data center and infrastructure spending by 2028. These were not the budgets of a company confident in the efficiency of open-source development. They were the budgets of a company trying to brute-force its way to the frontier through sheer capital deployment.
+The capital expenditure numbers told the story of escalating commitment. Meta's 2025 capex reached $70 to $72 billion, roughly eighty percent higher than the previous year. The guidance for 2026 was $115 to $135 billion. Zuckerberg projected at least $600 billion in US data center and infrastructure spending by 2028. These were not the budgets of a company confident in the efficiency of open-source development. They were the budgets of a company trying to brute-force its way to the frontier through sheer capital deployment.
 
 ---
 
