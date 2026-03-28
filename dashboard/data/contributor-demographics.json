@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "description": "Aggregate demographic data on open-source contributors from published surveys and research",
+    "last_updated": "2026-03-28",
+    "sources": [
+      "Stack Overflow Developer Survey 2024",
+      "GitHub Octoverse 2024",
+      "Linux Foundation Contributor Survey 2024",
+      "Tidelift State of the Open Source Maintainer 2024",
+      "Vasilescu et al. 2015 (Gender and Tenure in GitHub)",
+      "Terrell et al. 2017 (Gender Differences in PRs)"
+    ],
+    "caveats": "All demographic data has significant limitations. Survey data is self-selected. Name-based gender inference has ~70-85% accuracy and is binary/Western-biased. Geographic data from profiles is self-reported (~60-70% fill rate)."
+  },
+  "gender_distribution": {
+    "source": "Stack Overflow Developer Survey 2024",
+    "data": {
+      "man": 89.4,
+      "woman": 5.2,
+      "non_binary": 1.3,
+      "prefer_not_to_say": 4.1
+    },
+    "notes": "Self-reported. Survey has known selection bias toward English-speaking, professional developers.",
+    "trend": [
+      { "year": 2018, "pct_women": 6.9 },
+      { "year": 2019, "pct_women": 7.5 },
+      { "year": 2020, "pct_women": 5.6 },
+      { "year": 2021, "pct_women": 5.3 },
+      { "year": 2022, "pct_women": 5.2 },
+      { "year": 2023, "pct_women": 5.0 },
+      { "year": 2024, "pct_women": 5.2 }
+    ],
+    "notes_on_trend": "Essentially flat since 2020. The 2018-2019 higher numbers may reflect survey methodology changes, not real gains. [VERIFY: exact percentages from each year's survey]"
+  },
+  "geographic_distribution": {
+    "source": "GitHub Octoverse 2024 + Stack Overflow 2024",
+    "top_contributor_countries": [
+      { "country": "United States", "pct_of_contributors": 22.7, "pct_of_world_pop": 4.2 },
+      { "country": "India", "pct_of_contributors": 13.9, "pct_of_world_pop": 17.7 },
+      { "country": "Germany", "pct_of_contributors": 5.4, "pct_of_world_pop": 1.1 },
+      { "country": "China", "pct_of_contributors": 5.1, "pct_of_world_pop": 17.5 },
+      { "country": "United Kingdom", "pct_of_contributors": 4.8, "pct_of_world_pop": 0.9 },
+      { "country": "Brazil", "pct_of_contributors": 4.2, "pct_of_world_pop": 2.7 },
+      { "country": "Canada", "pct_of_contributors": 3.1, "pct_of_world_pop": 0.5 },
+      { "country": "France", "pct_of_contributors": 2.9, "pct_of_world_pop": 0.8 },
+      { "country": "Japan", "pct_of_contributors": 2.3, "pct_of_world_pop": 1.6 },
+      { "country": "Russia", "pct_of_contributors": 2.1, "pct_of_world_pop": 1.8 },
+      { "country": "Australia", "pct_of_contributors": 1.9, "pct_of_world_pop": 0.3 },
+      { "country": "Netherlands", "pct_of_contributors": 1.8, "pct_of_world_pop": 0.2 },
+      { "country": "Poland", "pct_of_contributors": 1.6, "pct_of_world_pop": 0.5 },
+      { "country": "South Korea", "pct_of_contributors": 1.4, "pct_of_world_pop": 0.7 },
+      { "country": "Nigeria", "pct_of_contributors": 1.2, "pct_of_world_pop": 2.8 }
+    ],
+    "notes": "[VERIFY: all percentages from 2024 Octoverse]. Key insight: US 5x overrepresented, India 1.3x underrepresented, Africa massively underrepresented (2x in Nigeria, much worse elsewhere)."
+  },
+  "corporate_vs_volunteer": {
+    "source": "Linux Foundation / Tidelift surveys",
+    "linux_kernel": {
+      "corporate_employed_pct": 90,
+      "volunteer_pct": 10,
+      "notes": "Most kernel developers are employed by Intel, Red Hat, Google, Samsung, etc."
+    },
+    "general_oss_maintainers": {
+      "paid_to_maintain_pct": 26,
+      "unpaid_volunteer_pct": 74,
+      "notes": "Tidelift 2024: 74% of maintainers are unpaid. But 90% of Linux kernel contributors are paid. The gap tells the whole story."
+    },
+    "key_finding": "Critical infrastructure is funded. Everything else is volunteer labor."
+  },
+  "pr_acceptance_research": {
+    "source": "Terrell et al. 2017, PeerJ Computer Science",
+    "finding": "Women's PRs accepted at higher rate (78.6%) than men's (74.6%) when gender is NOT identifiable from profile. When gender IS identifiable, women's acceptance rate drops to 62.5%.",
+    "sample_size": "3000000+ PRs from 330000+ users",
+    "notes": "Landmark study on gender bias in code review. Widely cited but also criticized for methodological choices in gender inference."
+  },
+  "mobile_os_market_share": {
+    "source": "StatCounter GlobalStats 2024-2025",
+    "global": { "android": 72, "ios": 28 },
+    "by_region": [
+      { "region": "Africa", "android": 84, "ios": 15 },
+      { "region": "South America", "android": 85, "ios": 14 },
+      { "region": "Asia", "android": 78, "ios": 21 },
+      { "region": "Europe", "android": 68, "ios": 31 },
+      { "region": "North America", "android": 45, "ios": 55 },
+      { "region": "Oceania", "android": 42, "ios": 57 }
+    ],
+    "insight": "Android (open source) dominates where incomes are lower. iOS dominates in wealthy countries. Open source literally provides mobile computing to billions who couldn't afford proprietary alternatives.",
+    "notes": "[VERIFY: 2024 percentages per region]"
+  },
+  "maintainer_burnout": {
+    "source": "Tidelift 2024 + GitHub 2024 surveys",
+    "considered_quitting_pct": 60,
+    "experienced_harassment_pct": 46,
+    "average_hours_per_week_unpaid": 10,
+    "notes": "[VERIFY: exact percentages from 2024 surveys]"
+  }
+}

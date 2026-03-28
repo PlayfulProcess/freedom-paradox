@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Freedom Paradox — Open Source Metrics Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #8b949e;
+    --accent-blue: #58a6ff;
+    --accent-green: #3fb950;
+    --accent-orange: #d29922;
+    --accent-red: #f85149;
+    --accent-purple: #bc8cff;
+    --accent-pink: #f778ba;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 2rem 3rem;
+    background: linear-gradient(135deg, #0d1117 0%, #1a1e2e 100%);
+  }
+
+  header h1 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  header p {
+    color: var(--text-muted);
+    margin-top: 0.5rem;
+    font-size: 0.95rem;
+    max-width: 800px;
+  }
+
+  .dashboard {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .lens-section {
+    margin-bottom: 3rem;
+  }
+
+  .lens-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--border);
+  }
+
+  .lens-number {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--accent-blue);
+    white-space: nowrap;
+  }
+
+  .lens-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+  }
+
+  .lens-question {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    font-style: italic;
+    margin-left: auto;
+  }
+
+  .chart-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .chart-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.5rem;
+  }
+
+  .chart-card h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+
+  .chart-card .subtitle {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+  }
+
+  .chart-container {
+    position: relative;
+    width: 100%;
+    height: 350px;
+  }
+
+  .chart-container.tall {
+    height: 500px;
+  }
+
+  .insight-box {
+    margin-top: 1rem;
+    padding: 0.75rem 1rem;
+    background: rgba(88, 166, 255, 0.08);
+    border-left: 3px solid var(--accent-blue);
+    border-radius: 0 4px 4px 0;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+  }
+
+  .insight-box strong {
+    color: var(--text);
+  }
+
+  .stat-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.25rem;
+    text-align: center;
+  }
+
+  .stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--accent-blue);
+  }
+
+  .stat-value.green { color: var(--accent-green); }
+  .stat-value.orange { color: var(--accent-orange); }
+  .stat-value.red { color: var(--accent-red); }
+  .stat-value.purple { color: var(--accent-purple); }
+
+  .stat-label {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 0.25rem;
+  }
+
+  .source-note {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-align: right;
+    margin-top: 0.5rem;
+    opacity: 0.7;
+  }
+
+  .methodology-note {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  .methodology-note h3 {
+    color: var(--text);
+    margin-bottom: 0.5rem;
+  }
+
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem 3rem;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+  }
+
+  @media (max-width: 600px) {
+    .chart-grid { grid-template-columns: 1fr; }
+    .lens-header { flex-direction: column; }
+    .lens-question { margin-left: 0; }
+    header { padding: 1.5rem; }
+    .dashboard { padding: 1rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>The Freedom Paradox &mdash; Open Source Metrics</h1>
+  <p>Who builds open source, who profits from it, who uses it, and who's left out. Four lenses on the political economy of "free" software.</p>
+</header>
+
+<div class="dashboard">
+
+  <!-- ============================================ -->
+  <!-- LENS 1: VALUE CREATION vs VALUE CAPTURE      -->
+  <!-- ============================================ -->
+  <section class="lens-section">
+    <div class="lens-header">
+      <span class="lens-number">Lens I</span>
+      <span class="lens-title">Value Creation vs. Value Capture</span>
+      <span class="lens-question">How much value does open source create, and who captures it?</span>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat-card">
+        <div class="stat-value">$8.8T</div>
+        <div class="stat-label">Estimated demand-side value of OSS<br><small>Harvard/Linux Foundation 2024</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value green">$5.7B</div>
+        <div class="stat-label">Largest OSS acquisition (HashiCorp&rarr;IBM)<br><small>2024</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value orange">200M</div>
+        <div class="stat-label">Next.js weekly npm downloads<br><small>Value created (free)</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value purple">$9.3B</div>
+        <div class="stat-label">Vercel valuation<br><small>Value captured (private)</small></div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>The Value Gap</h3>
+        <p class="subtitle">Company valuation vs. business model &mdash; who captures the value of "free" software?</p>
+        <div class="chart-container">
+          <canvas id="valueGapChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Book argument (Ch. 7):</strong> Open core companies capture billions while the community that built the foundation captures nothing. Ghost ($8M, nonprofit) is the counterpoint. PostgreSQL and SQLite prove community governance works &mdash; but can't pay maintainers.
+        </div>
+        <p class="source-note">Sources: Crunchbase, SEC filings, press reports. [VERIFY flags in data]</p>
+      </div>
+
+      <div class="chart-card">
+        <h3>Business Model Landscape</h3>
+        <p class="subtitle">How open-source companies monetize &mdash; and what it reveals about "openness"</p>
+        <div class="chart-container">
+          <canvas id="businessModelChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Key finding:</strong> "Open core" dominates venture-backed OSS. The pattern: open the base layer to build community, close the value layer to capture revenue. Platform plays (Google) open what commoditizes competitors and close what monetizes users.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- LENS 2: WHO BUILDS                          -->
+  <!-- ============================================ -->
+  <section class="lens-section">
+    <div class="lens-header">
+      <span class="lens-number">Lens II</span>
+      <span class="lens-title">Who Builds</span>
+      <span class="lens-question">Are "community projects" actually community-built?</span>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat-card">
+        <div class="stat-value red">74%</div>
+        <div class="stat-label">OSS maintainers who are unpaid<br><small>Tidelift 2024</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value green">90%</div>
+        <div class="stat-label">Linux kernel devs employed to contribute<br><small>Linux Foundation</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value orange">60%</div>
+        <div class="stat-label">Maintainers who considered quitting<br><small>Tidelift 2024</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value purple">46%</div>
+        <div class="stat-label">Maintainers who experienced harassment<br><small>GitHub/Tidelift 2024</small></div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>The Paid vs. Unpaid Divide</h3>
+        <p class="subtitle">Critical infrastructure gets funded. Everything else is volunteer labor.</p>
+        <div class="chart-container">
+          <canvas id="paidUnpaidChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Book argument (Ch. 5, 13):</strong> The "bazaar" (Raymond) was always more like a "stadium" (Eghbal) &mdash; a few maintainers performing for many watchers. When the performers burn out, critical infrastructure fails (Heartbleed, xz-utils, Log4j).
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <h3>The Gender Bias in Code Review</h3>
+        <p class="subtitle">PR acceptance rates when contributor gender is visible vs. hidden</p>
+        <div class="chart-container">
+          <canvas id="genderBiasChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Data from Terrell et al. 2017:</strong> Women's PRs are accepted at higher rates than men's &mdash; <em>until</em> gender is identifiable from the profile. Then acceptance drops 16 percentage points. Open source is a meritocracy only when identity is invisible.
+        </div>
+        <p class="source-note">Source: Terrell et al. 2017, PeerJ CS. 3M+ PRs, 330K+ users.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- LENS 3: WHO USES                            -->
+  <!-- ============================================ -->
+  <section class="lens-section">
+    <div class="lens-header">
+      <span class="lens-number">Lens III</span>
+      <span class="lens-title">Who Uses</span>
+      <span class="lens-question">Does open source democratize access, or serve wealthy countries?</span>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat-card">
+        <div class="stat-value green">3.9B</div>
+        <div class="stat-label">Active Android devices<br><small>Open source mobile OS</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">72%</div>
+        <div class="stat-label">Global mobile market share<br><small>Android (OSS)</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value orange">84%</div>
+        <div class="stat-label">Android share in Africa<br><small>Where incomes are lowest</small></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value purple">140K+</div>
+        <div class="stat-label">Llama derivative models<br><small>On Hugging Face</small></div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>The Digital Divide Map</h3>
+        <p class="subtitle">Android (open source) vs. iOS market share by region &mdash; open source goes where money doesn't</p>
+        <div class="chart-container">
+          <canvas id="mobileShareChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Book argument (Ch. 8):</strong> Android is open source's greatest democratization story &mdash; and also its greatest platform play. Google gave away the OS to capture the data. Farmers in Uttar Pradesh get smartphones; Google gets their attention.
+        </div>
+        <p class="source-note">Source: StatCounter GlobalStats 2024-2025. [VERIFY]</p>
+      </div>
+
+      <div class="chart-card">
+        <h3>Contribution vs. Consumption</h3>
+        <p class="subtitle">Countries' share of open-source contributors vs. share of world population</p>
+        <div class="chart-container tall">
+          <canvas id="contributionConsumptionChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Key finding:</strong> The US is 5.4x overrepresented in contributors relative to population. India is roughly proportional. Africa and South America are dramatically underrepresented as <em>builders</em> even while consuming open-source software.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- LENS 4: DEMOGRAPHICS & POWER               -->
+  <!-- ============================================ -->
+  <section class="lens-section">
+    <div class="lens-header">
+      <span class="lens-number">Lens IV</span>
+      <span class="lens-title">Demographics &amp; Power</span>
+      <span class="lens-question">How inclusive is open source, really?</span>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>Gender in Open Source Over Time</h3>
+        <p class="subtitle">Percentage of women in Stack Overflow developer surveys, 2018&ndash;2024</p>
+        <div class="chart-container">
+          <canvas id="genderTrendChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>The stasis:</strong> Despite a decade of "diversity initiatives," women's representation in the developer community has barely moved. The ~5% figure has been essentially flat since 2020. Open source reproduces tech's existing demographic patterns rather than disrupting them.
+        </div>
+        <p class="source-note">Source: Stack Overflow Annual Developer Survey. Self-reported. [VERIFY exact %]</p>
+      </div>
+
+      <div class="chart-card">
+        <h3>Governance Models</h3>
+        <p class="subtitle">How power is distributed in major open-source projects</p>
+        <div class="chart-container">
+          <canvas id="governanceChart"></canvas>
+        </div>
+        <div class="insight-box">
+          <strong>Book argument (Ch. 14&ndash;15):</strong> Ostrom's principles for governing commons included <em>boundaries</em> and <em>sanctions</em>. Open source resisted both. The result: corporate governance dressed in community language. Ghost and PostgreSQL show alternatives exist.
+        </div>
+      </div>
+    </div>
+
+    <div class="methodology-note">
+      <h3>Methodological Honesty</h3>
+      <p>This dashboard uses the best publicly available data, but every metric here carries caveats. Gender inference from names is reductive and Western-biased. Geographic data is self-reported. "Inclusivity" cannot be reduced to a single number. Survey data is self-selected toward English-speaking professional developers.</p>
+      <p style="margin-top: 0.5rem;">The point is not precision but pattern: open source creates enormous value, distributes it asymmetrically, reproduces existing demographic inequalities, and concentrates governance power despite its rhetoric of openness. These patterns are robust even when individual numbers are approximate.</p>
+      <p style="margin-top: 0.5rem;">Items marked [VERIFY] require primary source confirmation before publication.</p>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <p>Research dashboard for <em>The Freedom Paradox</em> by PlayfulProcess &mdash; Data from public sources, surveys, and academic research</p>
+</footer>
+
+<script>
+// Chart.js global config for dark theme
+Chart.defaults.color = '#8b949e';
+Chart.defaults.borderColor = '#30363d';
+Chart.defaults.font.family = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif";
+
+// ========================================
+// LENS 1: Value Gap Chart
+// ========================================
+new Chart(document.getElementById('valueGapChart'), {
+  type: 'bar',
+  data: {
+    labels: [
+      'Anthropic', 'Vercel', 'Automattic', 'HashiCorp→IBM',
+      'Supabase', 'MongoDB', 'GitLab', 'Elastic', 'Ghost', 'PostgreSQL', 'SQLite'
+    ],
+    datasets: [{
+      label: 'Valuation / Market Cap ($B)',
+      data: [380, 9.3, 7.5, 5.7, 5.0, 14.0, 8.0, 7.0, 0.008, 0, 0],
+      backgroundColor: [
+        '#f85149', // Anthropic (proprietary - red)
+        '#58a6ff', '#58a6ff', '#58a6ff', '#58a6ff', // open core - blue
+        '#58a6ff', '#58a6ff', '#58a6ff',
+        '#3fb950', // Ghost nonprofit - green
+        '#bc8cff', '#bc8cff'  // community - purple
+      ],
+      borderRadius: 4,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    indexAxis: 'y',
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            const val = ctx.raw;
+            if (val >= 1) return '$' + val + 'B';
+            if (val > 0) return '$' + (val * 1000) + 'M';
+            return '$0 (community / public domain)';
+          }
+        }
+      }
+    },
+    scales: {
+      x: {
+        type: 'logarithmic',
+        title: { display: true, text: 'Valuation / Market Cap (log scale, $B)' },
+        min: 0.001,
+        ticks: {
+          callback: function(val) {
+            if (val >= 1) return '$' + val + 'B';
+            return '$' + (val * 1000) + 'M';
+          }
+        }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 1: Business Model Chart
+// ========================================
+new Chart(document.getElementById('businessModelChart'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Open Core', 'Platform Play', 'Strategic OSS', 'Nonprofit', 'Pure Community', 'Proprietary (counterpoint)'],
+    datasets: [{
+      data: [7, 2, 1, 1, 2, 1],
+      backgroundColor: ['#58a6ff', '#d29922', '#f778ba', '#3fb950', '#bc8cff', '#f85149'],
+      borderColor: '#161b22',
+      borderWidth: 3,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        position: 'right',
+        labels: { padding: 15, usePointStyle: true }
+      },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            return ctx.label + ': ' + ctx.raw + ' companies in dataset';
+          }
+        }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 2: Paid vs Unpaid
+// ========================================
+new Chart(document.getElementById('paidUnpaidChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Linux Kernel', 'Kubernetes', 'General OSS Maintainers', 'Long-tail Projects'],
+    datasets: [
+      {
+        label: 'Paid / Corporate',
+        data: [90, 75, 26, 5],
+        backgroundColor: '#3fb950',
+        borderRadius: 4,
+      },
+      {
+        label: 'Unpaid / Volunteer',
+        data: [10, 25, 74, 95],
+        backgroundColor: '#f85149',
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { labels: { usePointStyle: true } }
+    },
+    scales: {
+      x: { stacked: true },
+      y: {
+        stacked: true,
+        max: 100,
+        title: { display: true, text: '% of contributors' },
+        ticks: { callback: v => v + '%' }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 2: Gender Bias in Code Review
+// ========================================
+new Chart(document.getElementById('genderBiasChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Gender NOT visible', 'Gender IS visible'],
+    datasets: [
+      {
+        label: 'Women PR acceptance rate',
+        data: [78.6, 62.5],
+        backgroundColor: '#f778ba',
+        borderRadius: 4,
+      },
+      {
+        label: 'Men PR acceptance rate',
+        data: [74.6, 73.8],
+        backgroundColor: '#58a6ff',
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { labels: { usePointStyle: true } }
+    },
+    scales: {
+      y: {
+        min: 50,
+        max: 85,
+        title: { display: true, text: 'PR Acceptance Rate (%)' },
+        ticks: { callback: v => v + '%' }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 3: Mobile Market Share by Region
+// ========================================
+new Chart(document.getElementById('mobileShareChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Africa', 'South America', 'Asia', 'Europe', 'North America', 'Oceania'],
+    datasets: [
+      {
+        label: 'Android (open source)',
+        data: [84, 85, 78, 68, 45, 42],
+        backgroundColor: '#3fb950',
+        borderRadius: 4,
+      },
+      {
+        label: 'iOS (proprietary)',
+        data: [15, 14, 21, 31, 55, 57],
+        backgroundColor: '#8b949e',
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { labels: { usePointStyle: true } }
+    },
+    scales: {
+      x: {},
+      y: {
+        max: 100,
+        title: { display: true, text: 'Market Share (%)' },
+        ticks: { callback: v => v + '%' }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 3: Contribution vs Consumption
+// ========================================
+const countries = ['US', 'India', 'Germany', 'China', 'UK', 'Brazil', 'Canada', 'France', 'Japan', 'Russia', 'Australia', 'Netherlands', 'Poland', 'South Korea', 'Nigeria'];
+const contribPct = [22.7, 13.9, 5.4, 5.1, 4.8, 4.2, 3.1, 2.9, 2.3, 2.1, 1.9, 1.8, 1.6, 1.4, 1.2];
+const popPct = [4.2, 17.7, 1.1, 17.5, 0.9, 2.7, 0.5, 0.8, 1.6, 1.8, 0.3, 0.2, 0.5, 0.7, 2.8];
+
+new Chart(document.getElementById('contributionConsumptionChart'), {
+  type: 'bar',
+  data: {
+    labels: countries,
+    datasets: [
+      {
+        label: '% of OSS contributors',
+        data: contribPct,
+        backgroundColor: '#58a6ff',
+        borderRadius: 4,
+      },
+      {
+        label: '% of world population',
+        data: popPct,
+        backgroundColor: '#d29922',
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    indexAxis: 'y',
+    plugins: {
+      legend: {
+        labels: { usePointStyle: true }
+      },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            const ratio = (contribPct[ctx.dataIndex] / popPct[ctx.dataIndex]).toFixed(1);
+            return ctx.dataset.label + ': ' + ctx.raw + '% (ratio: ' + ratio + 'x)';
+          }
+        }
+      }
+    },
+    scales: {
+      x: {
+        title: { display: true, text: 'Percentage (%)' },
+        ticks: { callback: v => v + '%' }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 4: Gender Trend
+// ========================================
+new Chart(document.getElementById('genderTrendChart'), {
+  type: 'line',
+  data: {
+    labels: ['2018', '2019', '2020', '2021', '2022', '2023', '2024'],
+    datasets: [{
+      label: '% Women (Stack Overflow Survey)',
+      data: [6.9, 7.5, 5.6, 5.3, 5.2, 5.0, 5.2],
+      borderColor: '#f778ba',
+      backgroundColor: 'rgba(247, 120, 186, 0.1)',
+      fill: true,
+      tension: 0.3,
+      pointRadius: 5,
+      pointHoverRadius: 8,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false }
+    },
+    scales: {
+      y: {
+        min: 0,
+        max: 15,
+        title: { display: true, text: '% Women respondents' },
+        ticks: { callback: v => v + '%' }
+      }
+    }
+  }
+});
+
+// ========================================
+// LENS 4: Governance Models
+// ========================================
+const projects = [
+  'Linux', 'Kubernetes', 'React', 'Next.js', 'Android',
+  'Chromium', 'Llama', 'Supabase', 'Ghost', 'PostgreSQL',
+  'SQLite', 'Terraform→OpenTofu', 'WordPress', 'Rust'
+];
+const govTypes = ['Corporate', 'Foundation', 'Community', 'BDFL', 'Nonprofit'];
+const govColors = ['#f85149', '#d29922', '#3fb950', '#bc8cff', '#58a6ff'];
+
+// Encode governance as position on spectrum (0 = most corporate, 4 = most community)
+const govScores = [
+  { project: 'Llama', type: 'Corporate', score: 0 },
+  { project: 'Android', type: 'Corporate', score: 0 },
+  { project: 'Chromium', type: 'Corporate', score: 0 },
+  { project: 'React', type: 'Corporate', score: 0.5 },
+  { project: 'Next.js', type: 'Corporate', score: 0.5 },
+  { project: 'Supabase', type: 'Corporate', score: 1 },
+  { project: 'Terraform', type: 'Corporate', score: 0.5 },
+  { project: 'WordPress', type: 'Foundation+Corp', score: 2 },
+  { project: 'Kubernetes', type: 'Foundation', score: 2.5 },
+  { project: 'Linux', type: 'Foundation', score: 2.5 },
+  { project: 'Rust', type: 'Foundation', score: 3 },
+  { project: 'Ghost', type: 'Nonprofit', score: 3.5 },
+  { project: 'PostgreSQL', type: 'Community', score: 4 },
+  { project: 'SQLite', type: 'BDFL/Consortium', score: 3.5 },
+];
+
+new Chart(document.getElementById('governanceChart'), {
+  type: 'bar',
+  data: {
+    labels: govScores.map(g => g.project),
+    datasets: [{
+      label: 'Governance spectrum (0=corporate, 4=community)',
+      data: govScores.map(g => g.score),
+      backgroundColor: govScores.map(g => {
+        if (g.score <= 1) return '#f85149';
+        if (g.score <= 2) return '#d29922';
+        if (g.score <= 3) return '#58a6ff';
+        return '#3fb950';
+      }),
+      borderRadius: 4,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    indexAxis: 'y',
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: function(ctx) {
+            return govScores[ctx.dataIndex].type;
+          }
+        }
+      }
+    },
+    scales: {
+      x: {
+        min: 0,
+        max: 4.5,
+        ticks: {
+          callback: function(val) {
+            const labels = { 0: 'Corporate', 1: '', 2: 'Foundation', 3: '', 4: 'Community' };
+            return labels[val] || '';
+          }
+        }
+      }
+    }
+  }
+});
+</script>
+</body>
+</html>
