@@ -17,7 +17,7 @@
       { "model": "Llama 3 (405B)", "org": "Meta", "year": 2024, "params_B": 405, "estimated_cost_usd": 30000000, "open": true },
       { "model": "Gemini Ultra", "org": "Google", "year": 2024, "params_B": null, "estimated_cost_usd": 190000000, "open": false },
       { "model": "GPT-5", "org": "OpenAI", "year": 2025, "params_B": null, "estimated_cost_usd": 500000000, "estimated_cost_range_usd": [500000000, 2500000000], "open": false, "notes": "VERIFIED: $500M–$2.5B range. HSBC estimates $1.7–2.5B. Released Aug 7, 2025. Context: 400K tokens, API pricing $1.25/$10 per 1M tokens. Sources: HSBC, Fanatical Futurist." },
-      { "model": "DeepSeek-V3", "org": "DeepSeek", "year": 2024, "params_B": 671, "estimated_cost_usd": 5600000, "open": true, "notes": "Claimed $5.6M on H800s. Disrupted cost assumptions. [VERIFY]" },
+      { "model": "DeepSeek-V3", "org": "DeepSeek", "year": 2024, "params_B": 671, "estimated_cost_usd": 5580000, "estimated_total_investment_usd": 1300000000, "open": true, "notes": "VERIFIED: $5.58M claimed for FINAL TRAINING RUN ONLY (2.79M GPU hours at $2/hr on 2,048 H800s). Excludes prior research, ablation experiments, infrastructure, hardware acquisition. SemiAnalysis estimates total investment ~$1.3B including hardware CapEx. Source: DeepSeek technical paper, Weights & Biases, SemiAnalysis." },
       { "model": "GPT-OSS", "org": "OpenAI", "year": 2025, "params_B": null, "estimated_cost_usd": null, "open": true, "notes": "Previous-gen model released 2 days before GPT-5. Cost to train: sunk. Value to OpenAI: ecosystem lock-in." }
     ]
   },
@@ -80,8 +80,9 @@
       "Chinese labs working under US export controls (H800 instead of H100) found workarounds",
       "Challenges the '$100M+ to train a frontier model' narrative that protects incumbents",
       "But: DeepSeek still required 2048 GPUs — not accessible to individuals or small orgs",
-      "The real question: is the cost floor $5M or $500M? The policy implications are very different."
+      "The real question: is the cost floor $5M or $500M? The policy implications are very different.",
+      "CRITICAL CAVEAT: $5.6M is final run only. SemiAnalysis estimates ~$1.3B total investment including hardware. The headline figure is misleading without this context."
     ],
-    "notes": "[VERIFY: $5.6M figure, H800 hardware, benchmark claims]"
+    "notes": "VERIFIED: $5.58M final training run confirmed. But total investment ~$1.3B (SemiAnalysis). The gap between these numbers is itself a finding: the marginal cost of a training run is low, but the infrastructure cost is enormous."
   }
 }
