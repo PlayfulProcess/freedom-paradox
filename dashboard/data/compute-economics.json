@@ -16,7 +16,7 @@
       { "model": "Claude 3 Opus", "org": "Anthropic", "year": 2024, "params_B": null, "estimated_cost_usd": null, "open": false, "notes": "Cost not disclosed" },
       { "model": "Llama 3 (405B)", "org": "Meta", "year": 2024, "params_B": 405, "estimated_cost_usd": 30000000, "open": true },
       { "model": "Gemini Ultra", "org": "Google", "year": 2024, "params_B": null, "estimated_cost_usd": 190000000, "open": false },
-      { "model": "GPT-5", "org": "OpenAI", "year": 2025, "params_B": null, "estimated_cost_usd": 500000000, "open": false, "notes": "[VERIFY: widely cited estimate]" },
+      { "model": "GPT-5", "org": "OpenAI", "year": 2025, "params_B": null, "estimated_cost_usd": 500000000, "estimated_cost_range_usd": [500000000, 2500000000], "open": false, "notes": "VERIFIED: $500M–$2.5B range. HSBC estimates $1.7–2.5B. Released Aug 7, 2025. Context: 400K tokens, API pricing $1.25/$10 per 1M tokens. Sources: HSBC, Fanatical Futurist." },
       { "model": "DeepSeek-V3", "org": "DeepSeek", "year": 2024, "params_B": 671, "estimated_cost_usd": 5600000, "open": true, "notes": "Claimed $5.6M on H800s. Disrupted cost assumptions. [VERIFY]" },
       { "model": "GPT-OSS", "org": "OpenAI", "year": 2025, "params_B": null, "estimated_cost_usd": null, "open": true, "notes": "Previous-gen model released 2 days before GPT-5. Cost to train: sunk. Value to OpenAI: ecosystem lock-in." }
     ]
@@ -43,18 +43,19 @@
     "description": "Capital expenditure on AI compute by major players (annual)",
     "notes": "[VERIFY: from earnings calls and press reports]",
     "spending": [
-      { "company": "Microsoft", "year": 2025, "capex_usd": 80000000000, "notes": "Includes Azure AI + OpenAI partnership infra" },
-      { "company": "Google/Alphabet", "year": 2025, "capex_usd": 75000000000 },
-      { "company": "Meta", "year": 2025, "capex_usd": 60000000000, "notes": "Massive GPU cluster for Llama training" },
-      { "company": "Amazon/AWS", "year": 2025, "capex_usd": 70000000000 },
+      { "company": "Amazon/AWS", "year": 2025, "capex_usd": 125000000000, "capex_2026_usd": 200000000000, "notes": "CORRECTED: $125B (up from prior $118B forecast). 2026 guided at $200B." },
+      { "company": "Google/Alphabet", "year": 2025, "capex_usd": 92000000000, "notes": "CORRECTED: $91-93B (boosted from prior $75-85B range)." },
+      { "company": "Microsoft", "year": 2025, "capex_usd": 80000000000, "notes": "Total capex incl. capital leases ~$140B, up 58% YoY, triple from FY2024." },
+      { "company": "Meta", "year": 2025, "capex_usd": 72000000000, "capex_2026_usd": 100000000000, "notes": "CORRECTED: $72B (nearly doubled from last year). 2026 guided ~$100B." },
       { "company": "Anthropic", "year": 2025, "capex_usd": null, "notes": "Uses AWS/Google cloud. Total compute spend estimated $2-4B/year" }
     ],
-    "total_bigtech_ai_capex_2025": 285000000000,
-    "insight": "The four largest tech companies will spend ~$285B on AI infrastructure in 2025 alone. This is the new barrier to entry. 'Open source' AI requires access to compute that only a handful of organizations on Earth can afford."
+    "total_bigtech_ai_capex_2025": 380000000000,
+    "total_bigtech_ai_capex_2026_projected": 700000000000,
+    "insight": "CORRECTED: The four largest tech companies will spend ~$380B+ on AI infrastructure in 2025 (not $285B). Combined 2026 projection approaches $700B. Amazon alone: $125B (2025) → $200B (2026). ~75% of hyperscaler spending is directly tied to AI infrastructure. Sources: CNBC, IEEE ComSoc, CreditSights."
   },
   "surveillance_cost_trajectory": {
     "description": "Amodei's mass surveillance cost estimates over time",
-    "source": "Dario Amodei, 'Adolescence of Technology' (2025)",
+    "source": "[RESEARCH NEEDED: specific source for cost trajectory figures. Amodei's 'Adolescence of Technology' (Jan 2026) discusses surveillance qualitatively but specific dollar trajectory ($30B→$1B) not confirmed from essay text. May be from book's own research synthesis or another source.]",
     "data": [
       { "year": 2024, "cost_usd": 30000000000, "notes": "Current cost of mass domestic surveillance using AI" },
       { "year": 2026, "cost_usd": 10000000000, "notes": "Projected" },

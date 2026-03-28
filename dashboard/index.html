@@ -234,11 +234,11 @@
         <div class="stat-label">Estimated demand-side value of OSS<br><small>Harvard/Linux Foundation 2024</small></div>
       </div>
       <div class="stat-card">
-        <div class="stat-value green">$5.7B</div>
-        <div class="stat-label">Largest OSS acquisition (HashiCorp&rarr;IBM)<br><small>2024</small></div>
+        <div class="stat-value green">$6.4B</div>
+        <div class="stat-label">Largest OSS acquisition (HashiCorp&rarr;IBM)<br><small>2024&ndash;2025</small></div>
       </div>
       <div class="stat-card">
-        <div class="stat-value orange">200M</div>
+        <div class="stat-value orange">27M</div>
         <div class="stat-label">Next.js weekly npm downloads<br><small>Value created (free)</small></div>
       </div>
       <div class="stat-card">
@@ -285,8 +285,8 @@
 
     <div class="stat-row">
       <div class="stat-card">
-        <div class="stat-value red">$285B</div>
-        <div class="stat-label">Big Tech AI capex in 2025<br><small>Microsoft + Google + Meta + Amazon</small></div>
+        <div class="stat-value red">$380B+</div>
+        <div class="stat-label">Big Tech AI capex in 2025<br><small>Amazon + Google + Microsoft + Meta</small></div>
       </div>
       <div class="stat-card">
         <div class="stat-value orange">$500M</div>
@@ -322,7 +322,7 @@
           <canvas id="capexChart"></canvas>
         </div>
         <div class="insight-box">
-          <strong>The $285B question:</strong> Four companies will spend more on AI infrastructure in 2025 than the GDP of most countries. Even "open" AI (Meta's Llama) is produced by organizations with $60B compute budgets. The commons requires a cathedral to enter.
+          <strong>The $380B question:</strong> Four companies will spend more on AI infrastructure in 2025 than the GDP of most countries. Approaching $700B in 2026. Even "open" AI (Meta's Llama) is produced by organizations with $72B compute budgets. The commons requires a cathedral to enter.
         </div>
       </div>
 
@@ -363,8 +363,8 @@
 
     <div class="stat-row">
       <div class="stat-card">
-        <div class="stat-value red">74%</div>
-        <div class="stat-label">OSS maintainers who are unpaid<br><small>Tidelift 2024</small></div>
+        <div class="stat-value red">60%</div>
+        <div class="stat-label">OSS maintainers: unpaid hobbyists<br><small>Tidelift 2024</small></div>
       </div>
       <div class="stat-card">
         <div class="stat-value green">90%</div>
@@ -375,8 +375,8 @@
         <div class="stat-label">Maintainers who considered quitting<br><small>Tidelift 2024</small></div>
       </div>
       <div class="stat-card">
-        <div class="stat-value purple">46%</div>
-        <div class="stat-label">Maintainers who experienced harassment<br><small>GitHub/Tidelift 2024</small></div>
+        <div class="stat-value purple">48%</div>
+        <div class="stat-label">Maintainers who feel underappreciated<br><small>Tidelift 2024</small></div>
       </div>
     </div>
 
@@ -394,12 +394,12 @@
 
       <div class="chart-card">
         <h3>The Gender Bias in Code Review</h3>
-        <p class="subtitle">PR acceptance rates when contributor gender is visible vs. hidden</p>
+        <p class="subtitle">PR acceptance rates for outsiders: gender-neutral vs. identifiable profiles</p>
         <div class="chart-container">
           <canvas id="genderBiasChart"></canvas>
         </div>
         <div class="insight-box">
-          <strong>Data from Terrell et al. 2017:</strong> Women's PRs are accepted at higher rates than men's &mdash; <em>until</em> gender is identifiable from the profile. Then acceptance drops 16 percentage points. Open source is a meritocracy only when identity is invisible.
+          <strong>Corrected data from Terrell et al. 2017:</strong> For outside contributors, women's PRs are accepted at similar rates to men's when profiles are gender-neutral (71.8% vs 73.8%). When gender is identifiable, women's rate drops 9 points to 62.5% while men's stays flat. The bias emerges at the identity layer, not the code layer.
         </div>
         <p class="source-note">Source: Terrell et al. 2017, PeerJ CS. 3M+ PRs, 330K+ users.</p>
       </div>
@@ -422,11 +422,11 @@
         <div class="stat-label">Active Android devices<br><small>Open source mobile OS</small></div>
       </div>
       <div class="stat-card">
-        <div class="stat-value">72%</div>
+        <div class="stat-value">71%</div>
         <div class="stat-label">Global mobile market share<br><small>Android (OSS)</small></div>
       </div>
       <div class="stat-card">
-        <div class="stat-value orange">84%</div>
+        <div class="stat-value orange">85%</div>
         <div class="stat-label">Android share in Africa<br><small>Where incomes are lowest</small></div>
       </div>
       <div class="stat-card">
@@ -523,16 +523,16 @@ new Chart(document.getElementById('valueGapChart'), {
   type: 'bar',
   data: {
     labels: [
-      'Anthropic', 'Vercel', 'Automattic', 'HashiCorp→IBM',
-      'Supabase', 'MongoDB', 'GitLab', 'Elastic', 'Ghost', 'PostgreSQL', 'SQLite'
+      'Anthropic', 'MongoDB', 'Vercel', 'Automattic', 'HashiCorp→IBM',
+      'Supabase', 'GitLab', 'Elastic', 'Ghost', 'PostgreSQL', 'SQLite'
     ],
     datasets: [{
       label: 'Valuation / Market Cap ($B)',
-      data: [380, 9.3, 7.5, 5.7, 5.0, 14.0, 8.0, 7.0, 0.008, 0, 0],
+      data: [380, 20.0, 9.3, 7.5, 6.4, 5.0, 3.5, 7.0, 0.008, 0, 0],
       backgroundColor: [
         '#f85149', // Anthropic (proprietary - red)
         '#58a6ff', '#58a6ff', '#58a6ff', '#58a6ff', // open core - blue
-        '#58a6ff', '#58a6ff', '#58a6ff',
+        '#58a6ff', '#58a6ff', '#58a6ff', // open core cont.
         '#3fb950', // Ghost nonprofit - green
         '#bc8cff', '#bc8cff'  // community - purple
       ],
@@ -668,11 +668,11 @@ new Chart(document.getElementById('trainingCostChart'), {
 new Chart(document.getElementById('capexChart'), {
   type: 'bar',
   data: {
-    labels: ['Microsoft', 'Google', 'Amazon', 'Meta'],
+    labels: ['Amazon', 'Google', 'Microsoft', 'Meta'],
     datasets: [{
       label: '2025 AI Capex ($B)',
-      data: [80, 75, 70, 60],
-      backgroundColor: ['#58a6ff', '#3fb950', '#d29922', '#f778ba'],
+      data: [125, 92, 80, 72],
+      backgroundColor: ['#d29922', '#3fb950', '#58a6ff', '#f778ba'],
       borderRadius: 4,
     }]
   },
@@ -793,13 +793,13 @@ new Chart(document.getElementById('paidUnpaidChart'), {
     datasets: [
       {
         label: 'Paid / Corporate',
-        data: [90, 75, 26, 5],
+        data: [90, 75, 40, 5],
         backgroundColor: '#3fb950',
         borderRadius: 4,
       },
       {
         label: 'Unpaid / Volunteer',
-        data: [10, 25, 74, 95],
+        data: [10, 25, 60, 95],
         backgroundColor: '#f85149',
         borderRadius: 4,
       }
@@ -829,17 +829,17 @@ new Chart(document.getElementById('paidUnpaidChart'), {
 new Chart(document.getElementById('genderBiasChart'), {
   type: 'bar',
   data: {
-    labels: ['Gender NOT visible', 'Gender IS visible'],
+    labels: ['Gender-neutral profile', 'Gender identifiable'],
     datasets: [
       {
-        label: 'Women PR acceptance rate',
-        data: [78.6, 62.5],
+        label: 'Women outsider PR acceptance',
+        data: [71.8, 62.5],
         backgroundColor: '#f778ba',
         borderRadius: 4,
       },
       {
-        label: 'Men PR acceptance rate',
-        data: [74.6, 73.8],
+        label: 'Men outsider PR acceptance',
+        data: [73.8, 73.8],
         backgroundColor: '#58a6ff',
         borderRadius: 4,
       }
@@ -872,13 +872,13 @@ new Chart(document.getElementById('mobileShareChart'), {
     datasets: [
       {
         label: 'Android (open source)',
-        data: [84, 85, 78, 68, 45, 42],
+        data: [85, 87, 78, 68, 45, 42],
         backgroundColor: '#3fb950',
         borderRadius: 4,
       },
       {
         label: 'iOS (proprietary)',
-        data: [15, 14, 21, 31, 55, 57],
+        data: [14, 13, 21, 31, 55, 57],
         backgroundColor: '#8b949e',
         borderRadius: 4,
       }

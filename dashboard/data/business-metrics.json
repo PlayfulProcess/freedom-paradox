@@ -2,7 +2,8 @@
   "metadata": {
     "description": "Curated business metrics for open-source companies discussed in The Freedom Paradox",
     "last_updated": "2026-03-28",
-    "notes": "All figures from public sources. [VERIFY] flags indicate figures needing primary source confirmation."
+    "verified": "2026-03-28 via web search",
+    "notes": "Figures verified against public sources on 2026-03-28. Remaining [VERIFY] flags indicate figures still needing primary source confirmation."
   },
   "companies": [
     {
@@ -12,17 +13,17 @@
       "business_model": "open_core",
       "governance": "corporate",
       "valuation_usd": 5000000000,
-      "valuation_date": "2025",
+      "valuation_date": "2025-10",
       "arr_usd": 70000000,
-      "arr_date": "2025",
-      "funding_total_usd": 226000000,
+      "arr_date": "2025-Q3",
+      "funding_total_usd": 543000000,
       "developers": 4000000,
       "databases_hosted": 1000000,
       "github_stars": 78000,
       "license": "Apache-2.0",
       "founded": 2020,
       "status": "private",
-      "notes": "[VERIFY: $5B valuation, $70M ARR]"
+      "notes": "VERIFIED: $5B valuation (Series E, Oct 2025, TechCrunch/Fortune). $70M ARR (Sacra estimate mid-2025, likely higher now given 250% YoY growth). Total funding $543M (PitchBook)."
     },
     {
       "name": "Vercel",
@@ -31,16 +32,16 @@
       "business_model": "open_core",
       "governance": "corporate",
       "valuation_usd": 9300000000,
-      "valuation_date": "2024",
+      "valuation_date": "2025-09",
       "arr_usd": 200000000,
       "arr_date": "2024",
       "funding_total_usd": 563000000,
-      "npm_weekly_downloads": 200000000,
-      "github_stars": 130000,
+      "npm_weekly_downloads": 27000000,
+      "github_stars": 138000,
       "license": "MIT",
       "founded": 2015,
       "status": "private",
-      "notes": "[VERIFY: $9.3B valuation, 200M weekly downloads]"
+      "notes": "VERIFIED: $9.3B valuation (Series F, Sep 2025, Vercel blog/GIC). CORRECTED: Next.js weekly downloads ~27M (npm), NOT 200M. Previous figure was off by ~10x."
     },
     {
       "name": "GitLab",
@@ -48,16 +49,17 @@
       "chapter": 7,
       "business_model": "open_core",
       "governance": "corporate",
-      "revenue_usd": 955000000,
+      "revenue_usd": 759000000,
       "revenue_date": "FY2025",
-      "market_cap_usd": 8000000000,
-      "market_cap_date": "2025-03",
+      "revenue_fy2026_guided_usd": 939000000,
+      "market_cap_usd": 3500000000,
+      "market_cap_date": "2026-03",
       "github_stars": 24000,
       "license": "MIT (CE) / Proprietary (EE)",
       "founded": 2011,
       "status": "public",
       "ticker": "GTLB",
-      "notes": "[VERIFY: $955M revenue FY2025]"
+      "notes": "CORRECTED: FY2025 revenue was $759M (not $955M). FY2026 guided ~$939M. Market cap dropped from ~$9B to ~$3.5B (-61% over past year). Source: GitLab IR."
     },
     {
       "name": "Ghost",
@@ -80,15 +82,16 @@
       "chapter": 7,
       "business_model": "open_core",
       "governance": "corporate",
-      "revenue_usd": 1900000000,
+      "revenue_usd": 2010000000,
       "revenue_date": "FY2025",
-      "market_cap_usd": 14000000000,
-      "market_cap_date": "2025-03",
+      "revenue_fy2026_usd": 2460000000,
+      "market_cap_usd": 20000000000,
+      "market_cap_date": "2026-03",
       "license": "SSPL",
       "founded": 2007,
       "status": "public",
       "ticker": "MDB",
-      "notes": "Changed from AGPL to SSPL in 2018. [VERIFY: FY2025 revenue]"
+      "notes": "CORRECTED: FY2025 revenue $2.01B (not $1.9B). FY2026 revenue $2.46B. Market cap ~$19-25B (volatile, was $14B in early 2025). Source: MongoDB IR."
     },
     {
       "name": "Elastic",
@@ -96,15 +99,16 @@
       "chapter": 6,
       "business_model": "open_core",
       "governance": "corporate",
-      "revenue_usd": 1300000000,
+      "revenue_usd": 1483000000,
       "revenue_date": "FY2025",
+      "revenue_fy2026_guided_usd": 1718000000,
       "market_cap_usd": 7000000000,
       "market_cap_date": "2025-03",
-      "license": "SSPL + Elastic License",
+      "license": "SSPL + Elastic License (returned to AGPL 2024)",
       "founded": 2012,
       "status": "public",
       "ticker": "ESTC",
-      "notes": "Changed license, AWS forked as OpenSearch. Returned to AGPL 2024. [VERIFY: revenue]"
+      "notes": "CORRECTED: FY2025 revenue $1.48B (not $1.3B — that was FY2024). FY2026 guided ~$1.72B. Fiscal year ends April 30. Source: Elastic IR, MacroTrends."
     },
     {
       "name": "HashiCorp",
@@ -112,15 +116,15 @@
       "chapter": 6,
       "business_model": "open_core",
       "governance": "corporate",
-      "acquisition_usd": 5700000000,
+      "acquisition_usd": 6400000000,
       "acquirer": "IBM",
-      "acquisition_date": "2024",
+      "acquisition_date": "2024-04 announced, 2025-02 closed",
       "revenue_usd": 600000000,
       "revenue_date": "FY2024",
       "license": "BSL 1.1 (was MPL-2.0)",
       "founded": 2012,
       "status": "acquired",
-      "notes": "Changed to BSL, community forked OpenTofu. Acquired by IBM. [VERIFY: acquisition price]"
+      "notes": "CORRECTED: Acquisition was $6.4B at $35/share (not $5.7B). Deal announced Apr 2024, closed Feb 2025. Source: IBM press release, SEC filings."
     },
     {
       "name": "Automattic (WordPress)",
@@ -161,7 +165,7 @@
       "governance": "corporate",
       "parent_company": "Alphabet",
       "devices": 3900000000,
-      "global_mobile_market_share_pct": 72,
+      "global_mobile_market_share_pct": 71,
       "license": "Apache-2.0",
       "founded": 2008,
       "status": "corporate_oss",
@@ -190,12 +194,14 @@
       "governance": "pbc_corporate",
       "valuation_usd": 380000000000,
       "valuation_date": "2026-02",
-      "arr_usd": 7000000000,
-      "arr_date": "2025",
+      "arr_usd": 19000000000,
+      "arr_date": "2026-03",
+      "funding_round": "Series G, $30B raised",
+      "total_funding_usd": 67300000000,
       "license": "Proprietary",
       "founded": 2021,
       "status": "private",
-      "notes": "Public Benefit Corporation. Counterpoint: chose NOT to open source. [VERIFY: $380B valuation]"
+      "notes": "VERIFIED: $380B valuation (Series G, Feb 2026, CNBC/Anthropic). CORRECTED: ARR ~$19B (Mar 2026, Bloomberg), not $7B. Growth: $1B ARR (late 2024) → $10B (end 2025) → $19B (Mar 2026). Claude Code alone ~$2.5B ARR."
     },
     {
       "name": "PostgreSQL",

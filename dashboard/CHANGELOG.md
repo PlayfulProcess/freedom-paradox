@@ -1,5 +1,76 @@
 # Dashboard Changelog & Research Notes
 
+## 2026-03-28 — Live Verification Pass (Web Search)
+
+### Verification Results
+
+Ran 3 parallel research agents + direct web searches to verify all [VERIFY] flags against live sources. **Major corrections found.**
+
+#### Confirmed (correct as-is)
+- Supabase $5B valuation (Series E, Oct 2025) — TechCrunch, Fortune
+- Supabase $70M ARR (Sacra estimate mid-2025, likely higher now)
+- Vercel $9.3B valuation (Series F, Sep 2025) — Vercel blog, GIC
+- Anthropic $380B valuation (Series G, Feb 2026) — CNBC, Anthropic press
+- Harvard/Linux Foundation $8.8T OSS demand-side value — HBS Working Paper 24-038
+- Tidelift 60% quit or considered quitting — confirmed
+- Android dominance in Global South — confirmed (Africa 85%, S. America 87%)
+
+#### Corrected (wrong or outdated)
+
+| Figure | Old Value | Corrected Value | Source |
+|--------|-----------|-----------------|--------|
+| Next.js weekly downloads | 200M | **~27M** (off by ~10x!) | npm registry |
+| Anthropic ARR | $7B | **~$19B** (nearly 3x higher) | Bloomberg, Yahoo Finance |
+| GitLab FY2025 revenue | $955M | **$759M** | GitLab IR |
+| GitLab market cap | $8B | **~$3.5B** (stock dropped 61%) | CompaniesMarketCap |
+| MongoDB FY2025 revenue | $1.9B | **$2.01B** | MongoDB IR |
+| MongoDB market cap | $14B | **~$20B** | MacroTrends |
+| Elastic FY2025 revenue | $1.3B | **$1.48B** (1.3B was FY2024) | Elastic IR |
+| HashiCorp acquisition | $5.7B | **$6.4B** at $35/share | IBM press release |
+| Big Tech AI capex 2025 | $285B | **$380B+** | CNBC (Oct 2025) |
+| Tidelift unpaid % | 74% | **60%** unpaid hobbyists | Tidelift 2024 report |
+| Tidelift harassment 46% | 46% | **NOT from Tidelift** — source unknown | [RESEARCH NEEDED] |
+| Terrell et al. framing | 78.6% "when hidden" | 78.6% is **overall**, not "when hidden" | PeerJ CS 3:e111 |
+| Supabase total funding | $226M | **$543M** | PitchBook |
+| GPT-5 training cost | $500M | **$500M–$2.5B** range (HSBC) | HSBC, press |
+
+#### Flagged (needs further research)
+
+| Figure | Issue |
+|--------|-------|
+| Surveillance cost trajectory ($30B→$1B) | **NOT from Amodei essay** — essay discusses surveillance qualitatively but no dollar trajectory found. Source unknown. |
+| Stack Overflow gender percentages | Interactive JS charts, not scrapable. Need to check CSV download. |
+| 2023 SO survey | **Gender question was dropped entirely** — gap in trend line |
+| Ghost $8M ARR | Not verified — couldn't find confirmation |
+| Automattic $7.5B / $500M ARR | Not verified this pass |
+
+#### New findings not in original data
+
+| Finding | Source | Book Relevance |
+|---------|--------|----------------|
+| Anthropic total funding: $67.3B from 90 investors | Crunchbase | Ch. 1, 10 — scale of safety investment |
+| Anthropic ARR trajectory: $1B (late 2024) → $10B (end 2025) → $19B (Mar 2026) | Bloomberg, SaaStr | Ch. 11 — proprietary AI can grow faster |
+| Claude Code alone: ~$2.5B ARR | Anthropic press | Ch. 2 — AI-generated code economics |
+| India overtook US as largest GitHub contributor base (Octoverse 2025) | GitHub Octoverse 2025 | Ch. 5, 8 — shifts the geography narrative |
+| 180M+ total developers on GitHub | Octoverse 2025 | Scale context |
+| Big Tech AI capex 2026 projection: ~$700B | CNBC, CreditSights | Compute barrier thesis |
+| Amazon alone: $125B (2025) → $200B (2026) capex | CNBC | Compute concentration |
+| GPT-5 released Aug 7, 2025; 400K context; $1.25/$10 per 1M tokens | OpenAI | Ch. 11 — pricing of "openness" |
+| Anthropic preparing potential IPO (2026), hired Wilson Sonsini | TechCrunch | Epilogue — what happens when safety goes public? |
+
+### Book Notes from Verification
+
+#### India Overtaking the US (NEW — Major)
+> The Octoverse 2025 report delivers a finding that reframes the entire geographic narrative: **India has overtaken the United States as the largest open-source contributor base on GitHub**. India added 5.2 million developers in one year, accounting for 14% of all new accounts. This doesn't invalidate the contribution-vs-consumption gap — India remains underrepresented relative to its population share — but it changes the trajectory. The question is no longer "will the Global South participate?" but "on whose terms?"
+
+#### Anthropic's Revenue Curve (NEW — Ch. 11)
+> Anthropic's revenue trajectory is itself an argument about open source: $1B ARR in late 2024, $10B by end of 2025, $19B by March 2026. A company that chose *not* to open-source its models is growing faster than any open-source AI company. Claude Code alone generates ~$2.5B ARR — roughly what it would cost to retrain a frontier model. The proprietary path is not just viable; it's dominant. The question for the open-source movement: does this prove that safety requires closure, or that closure is simply more profitable?
+
+#### The $380B Capex Correction (Strengthens Compute Thesis)
+> The original $285B figure was wrong — the actual 2025 combined AI capex is $380B+, with 2026 projections approaching $700B. Amazon alone will spend $200B in 2026. This strengthens the compute barrier argument considerably: the gap between "hobbyist accessible" and "frontier competitive" is not narrowing — it's widening exponentially. When four companies spend more on AI infrastructure than the GDP of all but ~20 countries, "openness" becomes a question of physics, not philosophy.
+
+---
+
 ## 2026-03-28 — Compute Economics Layer Added
 
 ### What Was Done
