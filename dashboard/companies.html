@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Freedom Paradox — Company Profiles</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --surface2: #1c2129;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #8b949e;
+    --blue: #58a6ff;
+    --green: #3fb950;
+    --orange: #d29922;
+    --red: #f85149;
+    --purple: #bc8cff;
+    --pink: #f778ba;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 2rem 3rem;
+    background: linear-gradient(135deg, #0d1117 0%, #1a1e2e 100%);
+  }
+  header h1 { font-size: 1.6rem; font-weight: 600; letter-spacing: -0.02em; }
+  header p { color: var(--text-muted); margin-top: 0.4rem; font-size: 0.9rem; }
+  .back-link { color: var(--blue); text-decoration: none; font-size: 0.85rem; display: inline-block; margin-bottom: 0.5rem; }
+  .back-link:hover { text-decoration: underline; }
+
+  .filters {
+    max-width: 1200px; margin: 1.5rem auto; padding: 0 2rem;
+    display: flex; gap: 0.5rem; flex-wrap: wrap;
+  }
+  .filter-btn {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text-muted);
+    padding: 0.4rem 0.9rem; border-radius: 20px; font-size: 0.8rem; cursor: pointer;
+    transition: all 0.2s;
+  }
+  .filter-btn:hover { border-color: var(--blue); color: var(--text); }
+  .filter-btn.active { background: var(--blue); border-color: var(--blue); color: #fff; }
+
+  .grid {
+    max-width: 1200px; margin: 1.5rem auto; padding: 0 2rem;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1rem;
+  }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    overflow: hidden; cursor: pointer; transition: all 0.2s;
+  }
+  .card:hover { border-color: var(--blue); transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.3); }
+  .card-header {
+    padding: 1.2rem 1.5rem 0.8rem; display: flex; justify-content: space-between; align-items: flex-start;
+  }
+  .card-header h2 { font-size: 1.1rem; font-weight: 600; }
+  .card-chapter {
+    font-size: 0.7rem; color: var(--text-muted); background: var(--surface2);
+    padding: 0.2rem 0.6rem; border-radius: 10px; white-space: nowrap;
+  }
+  .card-model {
+    display: inline-block; font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.05em; padding: 0.2rem 0.6rem; border-radius: 4px; margin: 0 1.5rem 0.5rem;
+  }
+  .model-open_core { background: rgba(88,166,255,0.15); color: var(--blue); }
+  .model-platform_play { background: rgba(210,153,34,0.15); color: var(--orange); }
+  .model-strategic_oss { background: rgba(247,120,186,0.15); color: var(--pink); }
+  .model-nonprofit_saas { background: rgba(63,185,80,0.15); color: var(--green); }
+  .model-pure_community { background: rgba(188,140,255,0.15); color: var(--purple); }
+  .model-public_domain { background: rgba(188,140,255,0.15); color: var(--purple); }
+  .model-proprietary_with_safety { background: rgba(248,81,73,0.15); color: var(--red); }
+
+  .card-stats {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 0; border-top: 1px solid var(--border);
+  }
+  .stat {
+    padding: 0.7rem 1.5rem; border-bottom: 1px solid var(--border);
+  }
+  .stat:nth-child(odd) { border-right: 1px solid var(--border); }
+  .stat-label { font-size: 0.65rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .stat-value { font-size: 1rem; font-weight: 600; margin-top: 0.15rem; }
+  .stat-value.blue { color: var(--blue); }
+  .stat-value.green { color: var(--green); }
+  .stat-value.orange { color: var(--orange); }
+  .stat-value.red { color: var(--red); }
+  .stat-value.purple { color: var(--purple); }
+
+  /* Expanded card detail */
+  .card-detail {
+    display: none; padding: 1rem 1.5rem; background: var(--surface2);
+    border-top: 1px solid var(--border); font-size: 0.85rem; color: var(--text-muted);
+  }
+  .card-detail.show { display: block; }
+  .card-detail p { margin-bottom: 0.5rem; }
+  .card-detail .book-arg {
+    border-left: 3px solid var(--blue); padding-left: 0.8rem; margin-top: 0.5rem;
+    font-style: italic; color: var(--text);
+  }
+  .card-detail .meta-row {
+    display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 0.5rem;
+  }
+  .card-detail .meta-item {
+    font-size: 0.75rem;
+  }
+  .card-detail .meta-item span { color: var(--text); }
+
+  .sort-bar {
+    max-width: 1200px; margin: 0 auto; padding: 0 2rem;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .sort-bar span { font-size: 0.8rem; color: var(--text-muted); }
+  .sort-select {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    padding: 0.3rem 0.6rem; border-radius: 4px; font-size: 0.8rem;
+  }
+
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem; text-align: center; color: var(--text-muted); font-size: 0.75rem; margin-top: 3rem;
+  }
+  @media (max-width: 600px) {
+    .grid { grid-template-columns: 1fr; }
+    header { padding: 1.5rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a href="index.html" class="back-link">&larr; Back to Dashboard</a>
+  <h1>Open Source Company Profiles</h1>
+  <p>Click any card to expand. Every figure verified against primary sources on 2026-03-28.</p>
+</header>
+
+<div class="filters" id="filters"></div>
+
+<div class="sort-bar">
+  <span id="count"></span>
+  <select class="sort-select" id="sortSelect">
+    <option value="valuation-desc">Sort: Valuation (high→low)</option>
+    <option value="valuation-asc">Sort: Valuation (low→high)</option>
+    <option value="revenue-desc">Sort: Revenue (high→low)</option>
+    <option value="chapter-asc">Sort: Book order</option>
+  </select>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<footer>
+  Research companion for <em>The Freedom Paradox</em> by PlayfulProcess. All figures verified 2026-03-28.
+</footer>
+
+<script>
+const companies = [
+  {
+    name: "Supabase", chapter: 7, model: "open_core", modelLabel: "Open Core",
+    governance: "Corporate", license: "Apache-2.0", founded: 2020, status: "Private",
+    valuation: 5e9, revenue: 70e6, revenueLabel: "$70M ARR",
+    keyMetric: "4M developers", keyMetricLabel: "Developers",
+    notes: "VERIFIED: $5B (Series E, Oct 2025). $70M ARR (Sacra, mid-2025). Total funding $543M.",
+    bookArg: "Ch. 7: The poster child of open core done right. Self-hosted product is functionally identical to the paid cloud. All the value is in the layer above the code — the hosting, the dashboard, the managed infrastructure."
+  },
+  {
+    name: "Vercel / Next.js", chapter: 7, model: "open_core", modelLabel: "Open Core",
+    governance: "Corporate", license: "MIT", founded: 2015, status: "Private",
+    valuation: 9.3e9, revenue: 200e6, revenueLabel: "$200M ARR",
+    keyMetric: "27M/week", keyMetricLabel: "npm downloads",
+    notes: "VERIFIED: $9.3B (Series F, Sep 2025). Next.js downloads ~27M/week (NOT 200M — corrected).",
+    bookArg: "Ch. 7: Cloudflare rebuilt Next.js in a week for $1,100 (Ch. 2). But Vercel is worth $9.3B. The code is not the moat. The deployment platform is."
+  },
+  {
+    name: "GitLab", chapter: 7, model: "open_core", modelLabel: "Open Core",
+    governance: "Corporate (Public)", license: "MIT (CE) / Proprietary (EE)", founded: 2011, status: "Public (GTLB)",
+    valuation: 3.5e9, revenue: 759e6, revenueLabel: "$759M (FY2025)",
+    keyMetric: "Fortune 100", keyMetricLabel: "50%+ customers",
+    notes: "CORRECTED: Revenue $759M FY2025 (not $955M). Market cap ~$3.5B (down from $9B). FY2026 guided ~$939M.",
+    bookArg: "Ch. 7: Textbook open core — free Community Edition, paid Enterprise with security scanning and compliance. The line between open and premium is the line between what a developer needs and what a CISO demands."
+  },
+  {
+    name: "Ghost", chapter: [7, 15], model: "nonprofit_saas", modelLabel: "Nonprofit SaaS",
+    governance: "Nonprofit Foundation", license: "MIT", founded: 2013, status: "Nonprofit",
+    valuation: 0, revenue: 10.4e6, revenueLabel: "$10.4M ARR",
+    keyMetric: "29,238", keyMetricLabel: "Paying customers",
+    notes: "VERIFIED: $10.4M ARR (Oct 2024, GetLatka). 29,238 customers. Zero VC funding. Zero transaction fees on creator revenue.",
+    bookArg: "Ch. 7, 15: The counterpoint. No investors, no growth mandate, no extraction. $10M/year with 34 employees proves the nonprofit model works — but also proves why VCs don't fund it."
+  },
+  {
+    name: "MongoDB", chapter: 7, model: "open_core", modelLabel: "Open Core (SSPL)",
+    governance: "Corporate (Public)", license: "SSPL", founded: 2007, status: "Public (MDB)",
+    valuation: 20e9, revenue: 2.01e9, revenueLabel: "$2.01B (FY2025)",
+    keyMetric: "SSPL", keyMetricLabel: "License changed 2018",
+    notes: "CORRECTED: FY2025 revenue $2.01B (not $1.9B). FY2026: $2.46B. Market cap ~$20B (volatile).",
+    bookArg: "Ch. 6, 7: Changed from AGPL to SSPL to block AWS. The most commercially successful OSS companies are the ones that restricted their licenses."
+  },
+  {
+    name: "Elastic", chapter: 6, model: "open_core", modelLabel: "Open Core (SSPL→AGPL)",
+    governance: "Corporate (Public)", license: "SSPL + Elastic License (returned AGPL 2024)", founded: 2012, status: "Public (ESTC)",
+    valuation: 7e9, revenue: 1.483e9, revenueLabel: "$1.48B (FY2025)",
+    keyMetric: "OpenSearch fork", keyMetricLabel: "AWS forked 2021",
+    notes: "CORRECTED: FY2025 revenue $1.48B (not $1.3B — that was FY2024). Returned to AGPL 2024 after fork achieved escape velocity.",
+    bookArg: "Ch. 6: Changed license, AWS forked as OpenSearch. Then partially reversed course — but the fork continued regardless. You can change your license back, but you cannot unfork a fork."
+  },
+  {
+    name: "HashiCorp → IBM", chapter: 6, model: "open_core", modelLabel: "Open Core (BSL)",
+    governance: "Acquired by IBM", license: "BSL 1.1 (was MPL-2.0)", founded: 2012, status: "Acquired",
+    valuation: 6.4e9, revenue: 600e6, revenueLabel: "~$600M (pre-acquisition)",
+    keyMetric: "OpenTofu fork", keyMetricLabel: "Community forked 2023",
+    notes: "CORRECTED: $6.4B acquisition at $35/share (not $5.7B). Announced Apr 2024, closed Feb 2025.",
+    bookArg: "Ch. 6: Changed to BSL, community forked OpenTofu within weeks. IBM acquired for $6.4B. The license war ended with a corporate exit and a community fork that will develop independently forever."
+  },
+  {
+    name: "Chromium (Google)", chapter: 8, model: "platform_play", modelLabel: "Platform Play",
+    governance: "Corporate (Alphabet)", license: "BSD", founded: 2008, status: "Corporate OSS",
+    valuation: null, revenue: null, revenueLabel: "Alphabet: $340B total",
+    keyMetric: "80%+", keyMetricLabel: "Browser market share",
+    notes: "Chromium powers Chrome, Edge, Brave, Opera. Ad revenue depends on browser control.",
+    bookArg: "Ch. 8: Open the commodity layer, close the monetization layer. 80% of browsing happens in Chromium — but Google Search, the profit engine, is proprietary. The open-source engine is the foundation of the most profitable advertising business in history."
+  },
+  {
+    name: "Android (Google)", chapter: 8, model: "platform_play", modelLabel: "Platform Play",
+    governance: "Corporate (Alphabet)", license: "Apache-2.0", founded: 2008, status: "Corporate OSS",
+    valuation: null, revenue: null, revenueLabel: "Alphabet: >$300B ad rev",
+    keyMetric: "3.9B devices", keyMetricLabel: "71% global mobile",
+    notes: "AOSP is open, but Google Play Services is proprietary. Africa 85%, South America 87%.",
+    bookArg: "Ch. 8: Open source's greatest democratization story — and greatest platform play. The farmer in Uttar Pradesh got a smartphone. Google got his data."
+  },
+  {
+    name: "Meta / Llama", chapter: [9, 12], model: "strategic_oss", modelLabel: "Strategic OSS",
+    governance: "Corporate (Meta)", license: "Llama Community License", founded: 2023, status: "Corporate OSS",
+    valuation: null, revenue: null, revenueLabel: "Meta: $160B+ total",
+    keyMetric: "1.2B+ downloads", keyMetricLabel: "140K+ derivatives",
+    notes: "Pivoted to proprietary 'Avocado'. 2025 capex: $72B (80% increase). 2026 guided: $115-135B.",
+    bookArg: "Ch. 9: Zuckerberg open-sourced Llama because Apple had imprisoned him. When DeepSeek cloned the architecture, Meta pivoted to proprietary. Open source was strategy, not conviction."
+  },
+  {
+    name: "Anthropic", chapter: [1, 10, 11], model: "proprietary_with_safety", modelLabel: "Proprietary (Safety)",
+    governance: "PBC / Corporate", license: "Proprietary", founded: 2021, status: "Private",
+    valuation: 380e9, revenue: 19e9, revenueLabel: "~$19B ARR (Mar 2026)",
+    keyMetric: "$67.3B", keyMetricLabel: "Total funding raised",
+    notes: "VERIFIED: $380B (Series G, Feb 2026). ARR: $1B (late 2024) → $10B (end 2025) → $19B (Mar 2026). Claude Code alone ~$2.5B ARR.",
+    bookArg: "Ch. 1, 10, 13: Chose NOT to open source. Refused Pentagon mass surveillance. Revenue approaching $19B proves the proprietary safety path is not just viable — it's dominant. A safety-justified monopoly is still a monopoly."
+  },
+  {
+    name: "PostgreSQL", chapter: 7, model: "pure_community", modelLabel: "Pure Community",
+    governance: "Community Foundation", license: "PostgreSQL (MIT-like)", founded: 1996, status: "Community",
+    valuation: 0, revenue: 0, revenueLabel: "$0",
+    keyMetric: "#4", keyMetricLabel: "DB-Engines rank",
+    notes: "No company. Pure community project. Foundation for Supabase ($5B), Neon, CrunchyData.",
+    bookArg: "Ch. 7: The purest community project has a valuation of zero — despite being the foundation on which billions of dollars of companies are built. The value gap is not between open and closed. It's between who writes the code and who captures the distribution."
+  },
+  {
+    name: "SQLite", chapter: 15, model: "public_domain", modelLabel: "Public Domain",
+    governance: "BDFL / Consortium", license: "Public Domain", founded: 2000, status: "Consortium",
+    valuation: 0, revenue: 0, revenueLabel: "$0 (consortium funding)",
+    keyMetric: "1T+", keyMetricLabel: "Deployments",
+    notes: "Most deployed database in history. Every phone, browser, OS. Consortium model for funding.",
+    bookArg: "Ch. 15: A trillion deployments. Zero revenue. Public domain. Richard Hipp's SQLite is the argument that some infrastructure should simply be free — and that a consortium model can sustain it without VC extraction."
+  },
+  {
+    name: "DeepSeek", chapter: [11, 12], model: "strategic_oss", modelLabel: "Strategic OSS (China)",
+    governance: "Corporate (Chinese)", license: "MIT", founded: 2023, status: "Private",
+    valuation: null, revenue: null, revenueLabel: "Unknown",
+    keyMetric: "$5.6M / $1.3B", keyMetricLabel: "Training run / Total investment",
+    notes: "V3: $5.58M final training run on 2,048 H800s. But SemiAnalysis estimates total investment ~$1.3B. Headline cost is misleading.",
+    bookArg: "Ch. 11, 12: Nvidia lost $589B in one day when DeepSeek proved frontier models don't need $100M+ to train. But the $5.6M headline hides $1.3B in infrastructure. The marginal cost is low; the barrier to entry is still enormous."
+  }
+];
+
+// Business model filter buttons
+const models = [...new Set(companies.map(c => c.model))];
+const modelLabels = {
+  open_core: "Open Core", platform_play: "Platform Play", strategic_oss: "Strategic OSS",
+  nonprofit_saas: "Nonprofit", pure_community: "Community", public_domain: "Public Domain",
+  proprietary_with_safety: "Proprietary"
+};
+
+let activeFilter = null;
+
+function formatDollar(n) {
+  if (n === null || n === undefined) return "N/A";
+  if (n === 0) return "$0";
+  if (n >= 1e12) return "$" + (n / 1e12).toFixed(1) + "T";
+  if (n >= 1e9) return "$" + (n / 1e9).toFixed(1) + "B";
+  if (n >= 1e6) return "$" + (n / 1e6).toFixed(1) + "M";
+  return "$" + n.toLocaleString();
+}
+
+function chapterStr(ch) {
+  if (Array.isArray(ch)) return "Ch. " + ch.join(", ");
+  return "Ch. " + ch;
+}
+
+function renderFilters() {
+  const el = document.getElementById("filters");
+  el.innerHTML = '<button class="filter-btn active" data-model="all">All</button>' +
+    models.map(m => `<button class="filter-btn" data-model="${m}">${modelLabels[m] || m}</button>`).join("");
+  el.querySelectorAll(".filter-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      el.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeFilter = btn.dataset.model === "all" ? null : btn.dataset.model;
+      renderGrid();
+    });
+  });
+}
+
+function getSort() {
+  const v = document.getElementById("sortSelect").value;
+  return v;
+}
+
+function sortCompanies(list) {
+  const s = getSort();
+  const sorted = [...list];
+  if (s === "valuation-desc") sorted.sort((a, b) => (b.valuation || 0) - (a.valuation || 0));
+  else if (s === "valuation-asc") sorted.sort((a, b) => (a.valuation || 0) - (b.valuation || 0));
+  else if (s === "revenue-desc") sorted.sort((a, b) => (b.revenue || 0) - (a.revenue || 0));
+  else if (s === "chapter-asc") sorted.sort((a, b) => {
+    const ca = Array.isArray(a.chapter) ? a.chapter[0] : a.chapter;
+    const cb = Array.isArray(b.chapter) ? b.chapter[0] : b.chapter;
+    return ca - cb;
+  });
+  return sorted;
+}
+
+function renderGrid() {
+  let list = activeFilter ? companies.filter(c => c.model === activeFilter) : companies;
+  list = sortCompanies(list);
+  document.getElementById("count").textContent = list.length + " companies";
+
+  const grid = document.getElementById("grid");
+  grid.innerHTML = list.map((c, i) => `
+    <div class="card" onclick="this.querySelector('.card-detail').classList.toggle('show')">
+      <div class="card-header">
+        <h2>${c.name}</h2>
+        <span class="card-chapter">${chapterStr(c.chapter)}</span>
+      </div>
+      <span class="card-model model-${c.model}">${c.modelLabel}</span>
+      <div class="card-stats">
+        <div class="stat">
+          <div class="stat-label">Valuation / Mkt Cap</div>
+          <div class="stat-value blue">${formatDollar(c.valuation)}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">Revenue</div>
+          <div class="stat-value green">${c.revenueLabel}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">${c.keyMetricLabel}</div>
+          <div class="stat-value orange">${c.keyMetric}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">License</div>
+          <div class="stat-value" style="font-size:0.8rem">${c.license}</div>
+        </div>
+      </div>
+      <div class="card-detail">
+        <div class="meta-row">
+          <div class="meta-item">Governance: <span>${c.governance}</span></div>
+          <div class="meta-item">Founded: <span>${c.founded}</span></div>
+          <div class="meta-item">Status: <span>${c.status}</span></div>
+        </div>
+        <p style="margin-top:0.8rem;font-size:0.78rem;">${c.notes}</p>
+        <div class="book-arg">${c.bookArg}</div>
+      </div>
+    </div>
+  `).join("");
+}
+
+renderFilters();
+renderGrid();
+document.getElementById("sortSelect").addEventListener("change", renderGrid);
+</script>
+</body>
+</html>

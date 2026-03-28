@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Freedom Paradox — License Wars Timeline</title>
+<style>
+  :root {
+    --bg: #0d1117; --surface: #161b22; --surface2: #1c2129; --border: #30363d;
+    --text: #e6edf3; --text-muted: #8b949e;
+    --blue: #58a6ff; --green: #3fb950; --orange: #d29922;
+    --red: #f85149; --purple: #bc8cff; --pink: #f778ba;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6;
+  }
+  header {
+    border-bottom: 1px solid var(--border); padding: 2rem 3rem;
+    background: linear-gradient(135deg, #0d1117 0%, #1a1e2e 100%);
+  }
+  header h1 { font-size: 1.6rem; font-weight: 600; }
+  header p { color: var(--text-muted); margin-top: 0.4rem; font-size: 0.9rem; max-width: 700px; }
+  .back-link { color: var(--blue); text-decoration: none; font-size: 0.85rem; display: inline-block; margin-bottom: 0.5rem; }
+
+  .legend {
+    max-width: 900px; margin: 1.5rem auto 0; padding: 0 2rem;
+    display: flex; gap: 1.5rem; flex-wrap: wrap;
+  }
+  .legend-item { display: flex; align-items: center; gap: 0.4rem; font-size: 0.78rem; color: var(--text-muted); }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+
+  .timeline {
+    max-width: 900px; margin: 2rem auto; padding: 0 2rem; position: relative;
+  }
+
+  .year-header {
+    font-size: 1.3rem; font-weight: 700; color: var(--text-muted);
+    padding: 1.5rem 0 0.5rem; border-bottom: 1px solid var(--border);
+    margin-bottom: 1rem;
+  }
+
+  .event {
+    display: grid; grid-template-columns: 100px 16px 1fr; gap: 0 1rem;
+    margin-bottom: 1.2rem; align-items: start; cursor: pointer;
+  }
+  .event:hover .event-card { border-color: var(--blue); }
+
+  .event-date { font-size: 0.8rem; color: var(--text-muted); text-align: right; padding-top: 0.8rem; }
+  .event-dot {
+    width: 12px; height: 12px; border-radius: 50%; margin-top: 0.85rem;
+    border: 2px solid var(--border); position: relative;
+  }
+  .event-dot.license-change { background: var(--red); border-color: var(--red); }
+  .event-dot.fork { background: var(--green); border-color: var(--green); }
+  .event-dot.acquisition { background: var(--purple); border-color: var(--purple); }
+  .event-dot.reversal { background: var(--orange); border-color: var(--orange); }
+  .event-dot.release { background: var(--blue); border-color: var(--blue); }
+  .event-dot.governance { background: var(--pink); border-color: var(--pink); }
+
+  .event-card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    padding: 0.8rem 1rem; transition: border-color 0.2s;
+  }
+  .event-card h3 { font-size: 0.9rem; font-weight: 600; margin-bottom: 0.2rem; }
+  .event-card .tag {
+    display: inline-block; font-size: 0.65rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.04em; padding: 0.15rem 0.5rem; border-radius: 3px; margin-bottom: 0.4rem;
+  }
+  .tag-license { background: rgba(248,81,73,0.15); color: var(--red); }
+  .tag-fork { background: rgba(63,185,80,0.15); color: var(--green); }
+  .tag-acquisition { background: rgba(188,140,255,0.15); color: var(--purple); }
+  .tag-reversal { background: rgba(210,153,34,0.15); color: var(--orange); }
+  .tag-release { background: rgba(88,166,255,0.15); color: var(--blue); }
+  .tag-governance { background: rgba(247,120,186,0.15); color: var(--pink); }
+
+  .event-card p { font-size: 0.82rem; color: var(--text-muted); }
+  .event-detail {
+    display: none; margin-top: 0.6rem; padding-top: 0.6rem;
+    border-top: 1px solid var(--border); font-size: 0.8rem; color: var(--text-muted);
+  }
+  .event-detail.show { display: block; }
+  .event-detail .book-ref { color: var(--blue); font-style: italic; margin-top: 0.3rem; }
+
+  .thesis-box {
+    max-width: 700px; margin: 2rem auto; padding: 1.5rem 2rem;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    border-left: 3px solid var(--orange);
+  }
+  .thesis-box h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+  .thesis-box p { color: var(--text-muted); font-size: 0.88rem; }
+
+  footer {
+    border-top: 1px solid var(--border); padding: 2rem; text-align: center;
+    color: var(--text-muted); font-size: 0.75rem; margin-top: 2rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a href="index.html" class="back-link">&larr; Back to Dashboard</a>
+  <h1>The License Wars</h1>
+  <p>A timeline of the open-source license changes, community forks, and corporate acquisitions that revealed what "open" actually means. Click any event to expand.</p>
+</header>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:var(--red)"></div> License Change</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--green)"></div> Community Fork</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--purple)"></div> Acquisition</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--orange)"></div> License Reversal</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--blue)"></div> Release / Launch</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--pink)"></div> Governance</div>
+</div>
+
+<div class="timeline" id="timeline"></div>
+
+<div class="thesis-box">
+  <h3>The Pattern (Ch. 6)</h3>
+  <p>Every license change followed the same arc: company changes license to block cloud providers from offering the software as a service. Community forks within weeks. Fork achieves escape velocity. Company either gets acquired or reverses course. But the fork continues regardless.</p>
+  <p style="margin-top:0.5rem;">You can change your license back, but you cannot unfork a fork. The community that left has built its own home, and it has no reason to return.</p>
+</div>
+
+<footer>
+  Research companion for <em>The Freedom Paradox</em> by PlayfulProcess.
+</footer>
+
+<script>
+const events = [
+  { year: 2018, date: "Oct 2018", type: "license-change", tag: "License Change", tagClass: "tag-license",
+    title: "MongoDB: AGPL → SSPL",
+    summary: "MongoDB changes from AGPL to Server Side Public License, targeting AWS.",
+    detail: "MongoDB's SSPL requires anyone offering the software as a service to open-source their entire stack — a poison pill for cloud providers. The OSI refused to approve SSPL as an open-source license. MongoDB argued it was protecting community innovation. Critics called it corporate protectionism.",
+    bookRef: "Ch. 6: The License Wars" },
+
+  { year: 2019, date: "Feb 2019", type: "license-change", tag: "License Change", tagClass: "tag-license",
+    title: "Elastic: Apache 2.0 → SSPL + Elastic License",
+    summary: "Elasticsearch changes license to block AWS Elasticsearch Service.",
+    detail: "Elastic accused AWS of taking its open-source software, offering it as a managed service, and contributing nothing back. AWS responded by forking.",
+    bookRef: "Ch. 6" },
+
+  { year: 2021, date: "Apr 2021", type: "fork", tag: "Community Fork", tagClass: "tag-fork",
+    title: "AWS forks Elasticsearch → OpenSearch",
+    summary: "Amazon creates OpenSearch from the last Apache-licensed Elasticsearch.",
+    detail: "AWS didn't just fork — it committed engineering resources, hired contributors, and built an independent ecosystem. OpenSearch now has its own roadmap, release schedule, and contributor community. The fork achieved escape velocity.",
+    bookRef: "Ch. 6" },
+
+  { year: 2023, date: "Mar 2023", type: "license-change", tag: "License Change", tagClass: "tag-license",
+    title: "Redis: BSD → dual SSPL/RSALv2",
+    summary: "Redis Labs restricts Redis licensing, ending its BSD-licensed era.",
+    detail: "Redis had been BSD-licensed since its creation. The change meant cloud providers could no longer offer Redis as a service without a commercial agreement. The community reacted swiftly.",
+    bookRef: "Ch. 6" },
+
+  { year: 2023, date: "Apr 2023", type: "fork", tag: "Community Fork", tagClass: "tag-fork",
+    title: "Linux Foundation adopts Valkey (Redis fork)",
+    summary: "Community forks Redis as Valkey under the Linux Foundation.",
+    detail: "Backed by AWS, Google Cloud, and Oracle. By the time Redis reversed course, Valkey had its own community, roadmap, and release cadence. It reached version 9 with independent features.",
+    bookRef: "Ch. 6" },
+
+  { year: 2023, date: "Aug 2023", type: "license-change", tag: "License Change", tagClass: "tag-license",
+    title: "HashiCorp: MPL-2.0 → BSL 1.1",
+    summary: "Terraform, Vault, and other HashiCorp tools switch to Business Source License.",
+    detail: "The BSL allows code viewing and modification but prohibits competing commercial use. The open-source community felt betrayed — HashiCorp had built its ecosystem on the promise of openness. The response came within days.",
+    bookRef: "Ch. 6" },
+
+  { year: 2023, date: "Sep 2023", type: "fork", tag: "Community Fork", tagClass: "tag-fork",
+    title: "OpenTofu forks Terraform",
+    summary: "Community forks Terraform within weeks. Linux Foundation accepts the project.",
+    detail: "OpenTofu shipped its first stable release by January 2024. The CNCF, which required fully open-source tools, could no longer use Terraform. The fork was not just a protest — it was a functioning alternative.",
+    bookRef: "Ch. 6" },
+
+  { year: 2024, date: "Apr 2024", type: "acquisition", tag: "Acquisition", tagClass: "tag-acquisition",
+    title: "IBM announces HashiCorp acquisition ($6.4B)",
+    summary: "IBM to acquire HashiCorp at $35/share. Deal closes February 2025.",
+    detail: "The license war ended with a corporate exit. HashiCorp shareholders got $6.4 billion. The community got OpenTofu. The question the book asks: who won?",
+    bookRef: "Ch. 6, 7" },
+
+  { year: 2024, date: "Aug 2024", type: "reversal", tag: "License Reversal", tagClass: "tag-reversal",
+    title: "Elastic adds AGPL as third option",
+    summary: "Elastic partially returns to open source, adding AGPLv3 alongside SSPL.",
+    detail: "A partial reversal acknowledging the community cost of the SSPL switch. But OpenSearch continued regardless. You can change your license back, but you cannot unfork a fork.",
+    bookRef: "Ch. 6" },
+
+  { year: 2025, date: "Feb 2025", type: "acquisition", tag: "Acquisition", tagClass: "tag-acquisition",
+    title: "IBM completes HashiCorp acquisition",
+    summary: "$6.4B deal closes. OpenTofu development continues independently.",
+    detail: "HashiCorp became an IBM product. OpenTofu became a Linux Foundation project. The fork and the original now develop on parallel tracks — forever.",
+    bookRef: "Ch. 6" },
+
+  { year: 2025, date: "May 2025", type: "reversal", tag: "License Reversal", tagClass: "tag-reversal",
+    title: "Redis adds AGPLv3 option",
+    summary: "Redis partially returns to open source after Antirez rejoins the project.",
+    detail: "Salvatore Sanfilippo (Antirez), Redis's original creator, returned and advocated for the reversal. But Valkey did not fold — it had its own community, roadmap, and release cadence by then.",
+    bookRef: "Ch. 6" },
+
+  { year: 2025, date: "Jul 2025", type: "release", tag: "Release", tagClass: "tag-release",
+    title: "Meta releases Llama 3.1 under community license",
+    summary: "Not truly open source — use restrictions remain. 1.2B+ downloads follow.",
+    detail: "Zuckerberg's open letter was startling in its candor: Apple had imprisoned Meta through iOS platform control. Openness was strategy, not conviction. By late 2025, Meta pivoted back to proprietary development.",
+    bookRef: "Ch. 9" },
+
+  { year: 2026, date: "Jan 2026", type: "governance", tag: "Governance", tagClass: "tag-governance",
+    title: "Amodei publishes 'Adolescence of Technology'",
+    summary: "Anthropic CEO's essay on AI risks — the intellectual foundation for keeping Claude closed.",
+    detail: "The essay argued that powerful AI enables mass surveillance, autonomous weapons, and societal control at unprecedented scale. It became the philosophical basis for Anthropic's refusal to comply with Pentagon demands one month later.",
+    bookRef: "Ch. 1, 10" },
+
+  { year: 2026, date: "Feb 2026", type: "governance", tag: "Governance", tagClass: "tag-governance",
+    title: "Anthropic refuses Pentagon, designated 'supply chain risk'",
+    summary: "Two redlines: no mass surveillance, no autonomous weapons. Hegseth retaliates.",
+    detail: "The first time in the history of 10 USC 3252 that an American company was publicly designated a supply chain risk. Anthropic sued. A federal judge issued an injunction. The book opens with this scene.",
+    bookRef: "Ch. 1" },
+];
+
+let lastYear = null;
+const timeline = document.getElementById("timeline");
+
+events.forEach((e, i) => {
+  let html = "";
+  if (e.year !== lastYear) {
+    html += `<div class="year-header">${e.year}</div>`;
+    lastYear = e.year;
+  }
+  html += `
+    <div class="event" onclick="document.getElementById('detail-${i}').classList.toggle('show')">
+      <div class="event-date">${e.date}</div>
+      <div class="event-dot ${e.type}"></div>
+      <div class="event-card">
+        <span class="tag ${e.tagClass}">${e.tag}</span>
+        <h3>${e.title}</h3>
+        <p>${e.summary}</p>
+        <div class="event-detail" id="detail-${i}">
+          <p>${e.detail}</p>
+          <div class="book-ref">${e.bookRef}</div>
+        </div>
+      </div>
+    </div>
+  `;
+  timeline.innerHTML += html;
+});
+</script>
+</body>
+</html>
