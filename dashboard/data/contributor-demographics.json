@@ -99,6 +99,6 @@
     "quit_or_considered_quitting_pct": 60,
     "feel_underappreciated_pct": 48,
     "feel_stressed_pct": 43,
-    "notes": "CORRECTED: 60% quit or considered quitting (CONFIRMED). 46% harassment figure was WRONG — not from Tidelift. Tidelift reports stress (43%), feeling underappreciated (48%), loneliness — but not a specific harassment %. The 46% may come from a different source (possibly GitHub's open source survey). [RESEARCH NEEDED: actual source of harassment statistic]"
+    "notes": "CORRECTED: 60% quit or considered quitting (CONFIRMED). 46% harassment figure TRACED: it conflates '45% witnessed rudeness' from the 2017 GitHub Open Source Survey (5,500+ respondents). The actual figures: 45% witnessed rudeness, 18% personally experienced a negative interaction, 21% stopped contributing after witnessing/experiencing negativity. Source: opensourcesurvey.org/2017."
   }
 }

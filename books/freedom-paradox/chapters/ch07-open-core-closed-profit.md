@@ -100,7 +100,7 @@ Ghost was founded in 2013 by John O'Nolan, who had been the Deputy Head of the W
 
 Ghost is licensed under the MIT License. The entire codebase is open source. The foundation generates revenue from Ghost(Pro), a managed hosting service — the same model as Supabase and Vercel. But unlike those companies, Ghost has no obligation to maximize returns for venture investors. It has no obligation to grow at all, except to the extent that growth serves its mission: building the best tools for independent publishers and journalists.
 
-By late 2025, Ghost had crossed ten million dollars in annual recurring revenue. [VERIFY: exact date of $10M ARR milestone] The foundation employed thirty-four people. It charged zero transaction fees on the revenue that creators earned through their Ghost publications — a detail that carries moral weight in a landscape where platforms routinely take ten, twenty, or thirty percent of creator earnings. The total revenue that independent publishers had earned through Ghost-powered sites exceeded one hundred and thirty million dollars.
+By late 2024, Ghost had crossed ten million dollars in annual recurring revenue. The foundation employed thirty-four people. It charged zero transaction fees on the revenue that creators earned through their Ghost publications — a detail that carries moral weight in a landscape where platforms routinely take ten, twenty, or thirty percent of creator earnings. The total revenue that independent publishers had earned through Ghost-powered sites exceeded one hundred and thirty million dollars.
 
 These numbers will never make Ghost a unicorn. O'Nolan will never ring a bell on the NASDAQ. The foundation will never be acquired for six billion dollars. And that is precisely the point.
 

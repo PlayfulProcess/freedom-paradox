@@ -67,14 +67,15 @@
       "chapter": [7, 15],
       "business_model": "nonprofit_saas",
       "governance": "nonprofit_foundation",
-      "arr_usd": 8000000,
-      "arr_date": "2024",
+      "arr_usd": 10400000,
+      "arr_date": "2024-10",
+      "customers": 29238,
       "funding_total_usd": 0,
       "github_stars": 48000,
       "license": "MIT",
       "founded": 2013,
       "status": "nonprofit",
-      "notes": "Non-profit. John O'Nolan. No VC funding. [VERIFY: $8M ARR]"
+      "notes": "VERIFIED: Ghost ARR ~$10.4M (Oct 2024, GetLatka), up from ~$8.5M (late 2023). 29,238 customers. Non-profit, no VC funding. Revenue publicly visible via ChartMogul dashboard. Source: ghost.org/about, GetLatka, SuperFrameworks."
     },
     {
       "name": "MongoDB",

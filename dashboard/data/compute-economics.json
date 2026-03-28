@@ -55,7 +55,7 @@
   },
   "surveillance_cost_trajectory": {
     "description": "Amodei's mass surveillance cost estimates over time",
-    "source": "[RESEARCH NEEDED: specific source for cost trajectory figures. Amodei's 'Adolescence of Technology' (Jan 2026) discusses surveillance qualitatively but specific dollar trajectory ($30B→$1B) not confirmed from essay text. May be from book's own research synthesis or another source.]",
+    "source": "UNVERIFIED: No source found for the specific $30B→$1B cost trajectory. Amodei's essays discuss surveillance qualitatively (AI removes human bottleneck, makes surveillance cheap) but give NO dollar figures. Carnegie Endowment's AI surveillance report discusses declining costs qualitatively. The $30B figure may have been confused with ICE's 2025 budget or AI surveillance market projections. RECOMMEND: replace with qualitative claims from Amodei + Carnegie, or flag these as illustrative estimates.",
     "data": [
       { "year": 2024, "cost_usd": 30000000000, "notes": "Current cost of mass domestic surveillance using AI" },
       { "year": 2026, "cost_usd": 10000000000, "notes": "Projected" },

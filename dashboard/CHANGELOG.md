@@ -1,5 +1,48 @@
 # Dashboard Changelog & Research Notes
 
+## 2026-03-28 — Chapter Integration + Flagged Unknowns Resolved
+
+### Flagged Unknowns Resolved
+
+1. **Surveillance cost trajectory ($30B→$1B)** — **NO SOURCE FOUND.** Amodei's essays discuss surveillance qualitatively but give no dollar figures. Carnegie Endowment's AI surveillance report is qualitative too. The $30B may be confused with ICE's 2025 budget. Recommendation: replace with qualitative claims or flag as illustrative.
+
+2. **46% maintainer harassment** — **SOURCE TRACED.** It's from the **2017 GitHub Open Source Survey** (5,500+ respondents), but the framing was wrong. The actual finding: **45% witnessed rudeness**, 18% personally experienced a negative interaction, 21% stopped contributing after witnessing negativity. Source: opensourcesurvey.org/2017.
+
+3. **Ghost $8M ARR** — **OUTDATED.** Ghost crossed $10M ARR by October 2024. Current: ~$10.4M ARR, 29,238 customers. Revenue is publicly visible via ChartMogul dashboard. Updated to $10.4M in all datasets and charts.
+
+### Chapter Corrections Applied
+
+| Chapter | Fix | Lines |
+|---------|-----|-------|
+| Ch02 | Vercel funding "over a billion" → "over half a billion" ($563M) | 11 |
+| Ch02 | Removed [VERIFY] on Vercel $9.3B valuation | 3 |
+| Ch06 | HashiCorp acquisition: added close date (Feb 2025), $35/share | 13 |
+| Ch07 | Next.js downloads "200 million" → "27 million" (2 instances) | 13, 61 |
+| Ch07 | GitLab revenue $955M → $759M FY2025 + $939M FY2026 guidance | 121 |
+| Ch07 | Ghost ARR date "late 2025" → "late 2024" | 103 |
+| Ch08 | Removed [VERIFY] on Alphabet >$300B ad revenue | 93 |
+| Ch10 | Added Anthropic $19B ARR to "too big to stand on principle" passage | 139 |
+| Ch13 | Removed [VERIFY] flags on Alphabet revenue and Meta ATT $10B impact | 25, 33 |
+
+### New Dashboard Charts Added
+
+- **The Anthropic Curve** — Revenue trajectory from $0.5B (Q3 2024) to $19B (Mar 2026), with Claude Code ARR overlay. Shows proprietary AI growing faster than any OSS company.
+- **Revenue by Business Model** — Bar chart of verified revenue figures, colored by license type. Key finding: SSPL companies (MongoDB, Elastic) generate more revenue than open-core companies — the most commercially successful OSS companies are the ones that restricted their licenses.
+
+### Bibliography Updated
+
+Replaced all [VERIFY] flags in `bibliography.md` with verified sources and citations.
+
+### Book Notes from This Round
+
+#### For Chapter 12 (The Dwarkesh Problem)
+> The DeepSeek $5.6M vs. $1.3B finding has direct relevance to the proliferation argument. The headline figure ($5.6M for a frontier-competitive model) suggests the cost barrier is crumbling. The real figure ($1.3B total investment) suggests it isn't. Both are true simultaneously: the marginal cost of each training run is dropping, but the infrastructure required to be in the game at all remains nation-state-scale. This is exactly the dynamic that makes the Dwarkesh Problem so intractable — the question isn't whether capable models will proliferate (they will), but whether the entities that can afford to train them have any reason to include safety measures (they don't, once the model is open-weight).
+
+#### For Chapter 15 (Gateway Building, Not Gatekeeping)
+> Ghost's verified revenue trajectory ($4.2M → $8.5M → $10.4M ARR in two years) with zero VC funding and 29,238 paying customers proves the nonprofit model at scale. The fact that Ghost can sustain 34 employees on $10M/year while charging zero transaction fees on creator revenue is a structural argument: the business model works because the entity is designed not to maximize extraction. The question for the book's conclusion is whether this model can extend beyond small tools to infrastructure-scale projects.
+
+---
+
 ## 2026-03-28 — Live Verification Pass (Web Search)
 
 ### Verification Results
