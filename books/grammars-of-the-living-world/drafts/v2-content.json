@@ -1,0 +1,99 @@
+{
+  "title": "Grammars of the Living World",
+  "subtitle": "Body, Story, Culture",
+  "author": "PlayfulProcess",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "thesis": "We cannot know reality directly. What we can know is that bodies in parasympathetic states relate better, that relating well builds adaptive cultures, and that humans have always needed shared symbolic structures — grammars — to give the intellect something to do with this opening and to scaffold the relationships it makes possible.",
+  "parts": [
+    {
+      "number": "I",
+      "title": "THE BODY",
+      "epigraph": "The reader enters through the body, not the wound.",
+      "chapters": [
+        {
+          "number": 1,
+          "id": "ch1",
+          "title": "The Biological Hypothesis",
+          "status": "new"
+        },
+        {
+          "number": 2,
+          "id": "ch2",
+          "title": "Why Stories",
+          "subtitle": "The Intellect's Need for Grammar",
+          "status": "new"
+        }
+      ]
+    },
+    {
+      "number": "II",
+      "title": "THE CRISIS",
+      "epigraph": "What happens when the hypothesis is violated.",
+      "chapters": [
+        {
+          "number": 3,
+          "id": "ch3",
+          "title": "When Stories Lose Their Homes",
+          "status": "adapted_from_old_ch1"
+        },
+        {
+          "number": 4,
+          "id": "ch4",
+          "title": "The Degradation of the Hearth",
+          "status": "adapted_from_old_ch2"
+        },
+        {
+          "number": 5,
+          "id": "ch5",
+          "title": "The Polarization of the Polis",
+          "status": "adapted_from_old_ch3"
+        }
+      ]
+    },
+    {
+      "number": "III",
+      "title": "THE GRAMMARS",
+      "epigraph": "Humanity's oldest response to the crisis.",
+      "chapters": [
+        {
+          "number": 6,
+          "id": "ch6",
+          "title": "Machines for Constructing Stories",
+          "status": "adapted_from_old_ch4"
+        },
+        {
+          "number": 7,
+          "id": "ch7",
+          "title": "Survival and Capture",
+          "status": "combined_old_ch5_ch6"
+        }
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "THE HINGE",
+      "epigraph": "One chapter that changes the terms.",
+      "chapters": [
+        {
+          "number": 8,
+          "id": "ch8",
+          "title": "The Trap of Solving",
+          "status": "adapted_from_old_ch7_plus_new"
+        }
+      ]
+    },
+    {
+      "number": "V",
+      "title": "THE GESTURE",
+      "epigraph": "Not a solution but a practice.",
+      "chapters": [
+        {
+          "number": 9,
+          "id": "ch9",
+          "title": "Grammars of the Living World",
+          "status": "restructured_from_old_ch8"
+        }
+      ]
+    }
+  ]
+}
