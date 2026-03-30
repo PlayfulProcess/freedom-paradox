@@ -72,6 +72,35 @@ The practice of reading together is not a lifestyle choice. It is responsibility
 
 ---
 
+## A Short Shelf (Books That Work as Co-Regulatory Practice)
+
+These are not "best books" lists. They are books specifically chosen because they work as co-regulatory technology — their pace, rhythm, imagery, and emotional arc support the reading-together practice this chapter describes. Each has been read aloud by millions of parents and has demonstrated staying power across generations.
+
+**Ages 0–3 (the voice is the story)**
+- *Goodnight Moon* — Margaret Wise Brown. The repeated "goodnight" slows the reader's pace and the child's breathing simultaneously. The rhythm is the practice.
+- *The Very Hungry Caterpillar* — Eric Carle. Cumulative structure: the child learns to predict. The physical holes in the pages create tactile co-engagement.
+- *Guess How Much I Love You* — Sam McBratney. The call-and-response structure ("I love you THIS much") makes the child a participant, not an audience.
+- *Where the Wild Things Are* — Maurice Sendak. Safety → activation (the wild rumpus) → return ("and it was still hot"). The full nervous system arc in ten minutes.
+
+**Ages 3–6 (the story teaches the arc)**
+- *Owl Babies* — Martin Waddell. Three owls wait for their mother to return. The anxiety is real. The resolution is reliable. Children ask for this book when they need to rehearse separation and return.
+- *The Snowy Day* — Ezra Jack Keats. The first major children's book with a Black protagonist (1962). Peter's quiet exploration of snow is parasympathetic storytelling — slow, sensory, wonder-driven.
+- *Sylvester and the Magic Pebble* — William Steig. Sylvester is accidentally turned to stone. His parents grieve. He is eventually restored. The book is a container for the child's deepest fear (losing the parent / being lost) with a guaranteed return.
+- *Strega Nona* — Tomie dePaola. Big Anthony's pasta catastrophe is slapstick, but the underlying grammar is: what happens when power (the magic pot) is used without responsibility (Strega Nona's instructions)? The book's thesis matches this book's thesis.
+
+**Ages 6–10 (the story holds complexity)**
+- *Charlotte's Web* — E.B. White. Charlotte dies. The book does not soften this. It holds the child's grief inside a story about friendship, mortality, and the cycles of life. Read it aloud — the child needs your voice at the end.
+- *The Hundred Dresses* — Eleanor Estes. A girl is bullied for wearing the same dress every day. She claims to have a hundred dresses at home. She does — drawings. The book sits with shame, poverty, and the bystander's guilt without resolving any of them neatly.
+- *Tales of a Fourth Grade Nothing* — Judy Blume. Sibling rivalry played for comedy. The child laughs and simultaneously rehearses the experience of sharing parental attention. Co-regulation through humor.
+- Any collection of folk tales from a tradition outside your own. Harold Courlander's *The Hat-Shaking Dance and Other Ashanti Tales*. Virginia Hamilton's *The People Could Fly*. Yoshiko Uchida's *The Dancing Kettle and Other Japanese Folk Tales*. The range is the practice — the child learns that stories come from everywhere, not just from their own culture.
+
+**Ages 10+ and adults (read aloud, together)**
+- Poetry. Mary Oliver. Rumi (Coleman Barks translations). Langston Hughes. Pablo Neruda. Wendell Berry. Read one poem aloud before dinner. The brevity is the feature — a poem takes two minutes and shifts the room.
+- *The House on Mango Street* — Sandra Cisneros. Short chapters, lyric prose, read-aloud-able. Each vignette is a complete co-regulatory unit.
+- Any chapter from a novel you love. Read it to someone. Not as assignment. As gift.
+
+---
+
 **Practice box**
 
 Read something aloud to someone this week. Not a bedtime story to a child (though that counts too) — something unexpected. A poem at breakfast. A paragraph from a novel to your partner. A passage from this book to a friend.

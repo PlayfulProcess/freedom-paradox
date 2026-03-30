@@ -66,6 +66,36 @@ Over months, the circle becomes a grammar. The participants become a community. 
 
 ---
 
+## Seasonal Grammars: A Year of Stories
+
+The oldest grammars were seasonal. The San healing dances happened at specific times. The Dagara grief rituals were weekly. The medieval liturgical year mapped stories onto the turning of the earth. The modern family has largely lost seasonal grammar — Christmas and birthdays remain, but the rest of the year is undifferentiated.
+
+Here is a simple seasonal grammar you can adopt or adapt. Four moments, four stories, four practices.
+
+**Winter solstice (around December 21).** The longest night. Light a candle. Tell the story of a time your family made it through something dark. Not a triumphant story — a surviving story. "The year we almost lost the house." "The winter Grandma was sick." The candle in the dark is the grammar: light persists. The story acknowledges the dark without pretending it isn't there.
+
+**Spring equinox (around March 20).** Day and night in balance. Plant something — a seed, a bulb, a cutting. Tell the story of something that began small and grew. "How your parents met." "The day we found this house." "When your sister was born." The planting is the grammar: you put something in the earth and trust what you cannot see.
+
+**Summer solstice (around June 21).** The longest day. Eat outside. Tell the story of the most fun someone in your family ever had. The ridiculous vacation. The prank that went too far. The day everyone danced. Summer solstice stories should make people laugh. Laughter is co-regulation. The longest day earns the lightest story.
+
+**Autumn equinox (around September 22).** Day and night in balance again, but this time tilting toward dark. Gather around a fire or candles. Tell the story of something that ended and what came after. A job lost. A friend who moved away. A pet who died. Autumn equinox stories are the hardest to tell and the most necessary. They teach the child's nervous system that endings are bearable — that the dark is coming, and the family has been here before.
+
+## Micro-Rituals (Things That Take Two Minutes)
+
+Not every grammar needs a season. Some need a Tuesday.
+
+**The threshold song.** A song the family sings when someone leaves the house. It can be as simple as two lines. "Go well, come back, we'll be here." The singing marks the departure as meaningful. The child learns: leaving is noticed, and return is expected.
+
+**The gratitude question.** Every night at bedtime: "What are you grateful for today?" Not as moral instruction. As nervous system practice. Gratitude activates the parasympathetic system. The question, repeated nightly, becomes automatic — a micro-grammar that shifts the body toward rest.
+
+**The repair phrase.** A sentence the family uses when someone hurts someone else. In our family it might be: "I see that I hurt you. Can I try again?" The phrase is the grammar: finite, repeated, shared, participatory. It does not resolve the conflict. It opens the repair. The repair is the practice.
+
+**The meal blessing.** Not necessarily religious. A moment of silence before eating. A sentence spoken together: "We are grateful for this food and for each other." The pause — even three seconds — shifts the nervous system from doing to receiving. The shared words mark the transition from individual activity to communal presence.
+
+**The bedtime question.** Different from the gratitude question. This one is open: "Is there anything on your heart tonight?" The child may say nothing. That is fine. The question was the practice. The child knows: there is a space, every night, where what is unsaid can be said.
+
+---
+
 **Practice box**
 
 Create one new ritual this month. It can be small. A song before dinner. A walk on Sunday. A story every Tuesday night. A moment of silence before meals.

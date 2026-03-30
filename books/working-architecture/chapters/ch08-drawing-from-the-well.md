@@ -68,6 +68,24 @@ You can practice alone. It is not the same as practicing with someone — the co
 
 ---
 
+## A Starter Kit: Grammars You Can Begin With
+
+You do not need to believe in anything to use a grammar. You need a finite set of symbols and a willingness to sit with what comes up.
+
+**The Rider-Waite-Smith Tarot Deck.** Seventy-eight cards. Available everywhere for under twenty dollars. Over one hundred million copies sold. The pictorial scenes — a tower struck by lightning, a woman pouring water between two cups, a fool stepping off a cliff — are rich enough for adults and vivid enough for children. Ignore the occult framework unless it interests you. Use the images as mirrors: "What do you see? What do you think is happening? If you were in this picture, what would you do?"
+
+**The I Ching (Book of Changes).** Sixty-four hexagrams. You need three coins. Toss them six times. Look up the resulting hexagram. The Wilhelm-Baynes translation is the classic; the more accessible version is by Alfred Huang. The practice is in the tossing — the twenty-minute attention ritual that shifts the nervous system before the reading even begins. For families: a single hexagram can be the topic of dinner conversation for a week.
+
+**Poetry as oracle.** Take any poetry collection. Open to a random page. Read the first poem your eye lands on. Mary Oliver, Rumi (Coleman Barks translations), Hafiz (Daniel Ladinsky versions), Pablo Neruda, Wendell Berry, Lucille Clifton. The randomness does the work: the poem you did not choose confronts you with a perspective you were not already holding. Keep the collection by the bed.
+
+**Story decks.** Several publishers make cards with story elements — characters, settings, conflicts, objects. *Rory's Story Cubes* (dice with pictograms), *The Storymatic* (character + situation cards), and homemade decks (index cards with single images drawn by the family) all create the grammar structure: finite vocabulary, combinatorial generativity, randomness, participation. The family-made deck is best because the making is itself a practice.
+
+**A sacred text, read at random.** The *Tao Te Ching* (Stephen Mitchell translation for accessibility, Ursula K. Le Guin for poetic depth). The *Dhammapada*. Psalms. The *Bhagavad Gita*. The practice is not devotional unless you want it to be. It is structural: a finite text, encountered through randomness, requiring interpretation. The text provides the vocabulary. You provide the meaning.
+
+**For children specifically:** Make a "wonder jar." Write questions on small slips of paper — "What would you do if you could fly?" "What does the moon dream about?" "If animals could talk, what would cats say about us?" — and put them in a jar. Draw one at dinner. The jar is a grammar: finite, random, participatory, modeling change (the questions evolve as the child grows).
+
+---
+
 **Practice box**
 
 Draw a card — any card, from any deck. A tarot card, an oracle card, a random page from a book you love. If you have no deck, open any book to a random page and read the first full sentence your eye lands on.

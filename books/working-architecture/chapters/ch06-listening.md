@@ -78,6 +78,45 @@ This is what listening does at scale. It is not passive. It is the most active f
 
 ---
 
+## Questions That Open Stories (By Age)
+
+The right question, asked at the right moment, with genuine curiosity, can open a story that the teller did not know they had. These are not interrogation prompts. They are invitations. Use the ones that feel natural. Discard the rest.
+
+**Ages 3–6**
+- "What was the best part of today?"
+- "Did anything surprise you?"
+- "What did you play? Who were you pretending to be?"
+- "Was anyone sad today? What happened?"
+- "If you could do today again, what would you change?"
+- "Tell me about your dream last night." (Young children's dreams are often direct emotional processing. Listen to the feeling, not the plot.)
+
+**Ages 6–12**
+- "What's the hardest thing that happened this week?"
+- "Who was kind to you today? Who were you kind to?"
+- "Is there anything you're worried about that you haven't told anyone?"
+- "What's something you know now that you didn't know last year?"
+- "If you could ask me anything and I had to answer honestly, what would you ask?" (Be prepared for this one.)
+- "Tell me about someone at school who is having a hard time."
+
+**Ages 12–18**
+- "What are you thinking about that you don't have anyone to talk to about?"
+- "What's something adults don't understand about your life right now?"
+- "Is there a song or a show or a book that feels like it's about you? Tell me about it."
+- "What would you change about our family if you could?"
+- "What are you afraid of that you haven't said out loud?"
+- Do not ask these at the dinner table. Ask them in the car, on a walk, at bedtime — side by side, not face to face. Adolescent vulnerability requires peripheral vision, not direct eye contact.
+
+**Adults (for partners, friends, family)**
+- "What's weighing on you?"
+- "Tell me about a time you felt completely yourself."
+- "What's the story your family tells about you that you wish they wouldn't?"
+- "What are you grieving right now that nobody has asked about?"
+- "What do you need this week that you haven't asked for?"
+
+**The one rule for all ages:** After you ask, wait. Do not fill the silence. The silence is the space where the story decides whether the container is safe enough. If you fill it with your own words, you answer the question for them: the container is not safe. Hold the silence. The story will come.
+
+---
+
 **Practice box**
 
 Ask someone to tell you about their day. It can be a child, a partner, a friend, a colleague. The only rule: listen for three minutes without responding. No questions. No advice. No "me too." Just attention.

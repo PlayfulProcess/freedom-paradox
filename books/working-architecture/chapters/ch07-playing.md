@@ -56,6 +56,38 @@ Improv theater deserves special mention. The fundamental rule of improv — "yes
 
 ---
 
+## Ten Games That Build the Grammar
+
+These are not digital games. They require bodies, voices, and at least one other person. Each one creates the co-regulatory field this chapter describes — shared rules, embodied engagement, the seventy-percent mismatch-and-repair cycle that builds resilience.
+
+**For young children (3–7):**
+
+1. **The Floor Is Lava.** The simplest imagination game. The child sets the rules. The adult follows. The shared pretend — leaping from cushion to cushion — creates synchronized activation (excitement) within a safe container (the living room). The child controls the narrative.
+
+2. **Animal Walks.** Cross the room as a bear, a frog, a crab, a snake. The adult demonstrates. The child mirrors. The mirroring is the co-regulation — two bodies doing the same thing at the same time, which triggers the synchrony effects from Chapter 1.
+
+3. **What's Different?** One person leaves the room. The other changes one thing about their appearance — rolls up a sleeve, moves a shoe. The first person returns and guesses. This is a structured attention exercise: it teaches the child to *look closely at another person*, which is the foundation of all co-regulatory skill.
+
+4. **Story Stones.** Paint or draw simple images on ten smooth stones: a tree, a house, a moon, a bird, an eye, a door, a river, a crown, a key, a fire. Put them in a bag. Draw three. Tell a story that includes all three. This is a grammar in miniature: finite vocabulary, combinatorial generativity, randomness as portal. The child can make the stones. The making is part of the practice.
+
+**For older children (7–14):**
+
+5. **One-Word Story.** Sit in a circle. Each person contributes one word. The story builds one word at a time. The exercise is pure "yes, and" — you cannot plan ahead because you do not know what word comes before yours. The result is usually absurd. The laughter is the co-regulation.
+
+6. **Fortunately/Unfortunately.** One person says "Fortunately..." and names something good. The next says "Unfortunately..." and names a complication. Back and forth. "Fortunately, the dog found a bone. Unfortunately, it was a dinosaur bone. Fortunately, the dinosaur was friendly." The structure holds tension and resolution in rapid alternation — the nervous system's arc compressed into seconds.
+
+7. **Sardines.** Reverse hide-and-seek. One person hides. Everyone else seeks. When you find the hider, you squeeze into the hiding spot with them silently. The last seeker finds everyone crammed together, trying not to laugh. The physical closeness in the dark is co-regulation at its most literal.
+
+**For adults:**
+
+8. **The Appreciation Circle.** Three or more people. Each person turns to the person on their left and says one thing they appreciate about them. Sounds simple. Is almost unbearably vulnerable. The practice is in the receiving, not the giving — learning to hold someone's genuine appreciation without deflecting.
+
+9. **Two Truths and a Dream.** (Variation on Two Truths and a Lie.) Two true things that happened to you and one thing you wish had happened. The group guesses which is the dream. The game surfaces both stories and longings — and the container of the game makes the longing safe to name.
+
+10. **The Thirty-Six Questions.** Arthur Aron's research-validated set of increasingly personal questions, designed to build intimacy between strangers. Available free online. Do them with someone you have known for twenty years. You will be surprised.
+
+---
+
 **Practice box**
 
 Play a game this week where someone else makes the rules. If you have a child: let them invent the game. Follow every rule, no matter how absurd. If you have only adults available: try an improv exercise — one person starts a story with a single sentence, and each person adds one sentence, following the "yes, and" rule.

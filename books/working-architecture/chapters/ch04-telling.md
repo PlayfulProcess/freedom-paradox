@@ -72,6 +72,47 @@ The difference is that adults need permission to listen. Children assume stories
 
 ---
 
+## Seven Stories You Can Tell Tonight
+
+You do not need to invent stories. You need a handful that live in your memory and are ready when the child is ready. Here are seven — one for each night of the week — drawn from traditions that have been telling them for centuries. Each is summarized in a form you can memorize in five minutes and tell in your own words. Do not read these aloud. Learn the bones, then tell them in your voice.
+
+**1. The Enormous Turnip (Russian folk tale)**
+A grandfather plants a turnip. It grows enormous. He pulls and pulls — it won't come out. Grandmother comes to help. They pull — it won't come out. The granddaughter, the dog, the cat, and finally the mouse each join the chain. With the mouse's tiny pull added, the turnip comes out. *Why it works:* every helper matters, even the smallest. The structure is repetitive and cumulative — perfect for young children who need to predict what comes next. Let the child join in: "And they pulled — and they pulled — and it STILL wouldn't come out!"
+
+**2. Anansi and the Pot of Wisdom (Akan/Ashanti, West Africa)**
+Anansi the spider collects all the world's wisdom in a pot and tries to hide it at the top of a tall tree. He ties the pot to his belly and tries to climb — but the pot keeps getting in the way. His small son, watching from below, calls up: "Father, why don't you tie it to your back?" Anansi is so angry that his son is wiser than him that he drops the pot. It shatters, and wisdom scatters everywhere — which is why everyone in the world has a little wisdom, but no one has it all. *Why it works:* children love watching the powerful adult fail. The ending distributes power rather than concentrating it. Anansi stories are the oldest trickster cycle in the African diaspora — carried across the Atlantic in the minds of enslaved people.
+
+**3. The Boy Who Cried Wolf (Aesop, Greece, ~600 BCE)**
+A shepherd boy, bored on the hillside, cries "Wolf!" to amuse himself. The villagers come running. There is no wolf. He does it again. They come again. The third time, a real wolf appears. He cries. No one comes. *Why it works:* this is one of the oldest exposure-therapy stories in the Western canon. The child rehearses the consequences of broken trust in a safe container. Do not moralize afterward. The story carries its own weight. The child's silence at the end is the learning.
+
+**4. How the Birds Got Their Colors (Aboriginal Australian Dreaming)**
+In the beginning, all birds were black. One day, a bird stepped on a sharp stick and was wounded. The other birds rushed to help — and in caring for the wounded bird, each helper was splashed with the bright colors of the wounded bird's blood. Each received different colors depending on how close they came, how much they helped. The birds that stayed away remained black (the crow, the raven). *Why it works:* the story teaches that beauty comes from willingness to help — and that those who hold back miss the gift. It is also an ecological grammar: it teaches children to observe birds and ask "what is that bird's story?" [RESEARCH NEEDED: Verify specific Dreaming story — this is a widely told version but must be checked against documented Aboriginal sources. CARE Principles apply.]
+
+**5. The Lion and the Mouse (Aesop)**
+A lion catches a mouse. The mouse begs: "Let me go, and someday I will repay you." The lion laughs — what could a mouse do for a lion? But he lets the mouse go. Later, the lion is caught in a hunter's net. The mouse gnaws through the ropes and frees him. *Why it works:* same structure as the Enormous Turnip — the small one matters. But here the power dynamic is explicit: the powerful one's mercy creates the conditions for their own rescue. Children who feel small in a world of large people need this story.
+
+**6. The Stonecutter (Japanese folk tale)**
+A stonecutter wishes he were a rich man. His wish is granted. As a rich man, he wishes he were a prince. Granted. As a prince, he wishes he were the sun. Granted. As the sun, he wishes he were a cloud (which blocks the sun). Granted. As a cloud, he wishes he were a rock (which the rain cannot move). Granted. As a rock, he feels a chisel cutting into him — and looks down to see a stonecutter. *Why it works:* the circular structure is the lesson. Children love the repetition and the twist. The story teaches without moralizing that what you are is enough — the oldest version of the Blackfoot principle that self-actualization is the base, not the peak.
+
+**7. Your own story.** The seventh story is yours. Something that happened to you. Something true. It does not need to be dramatic. "The time I got lost in the supermarket when I was five." "The day your grandmother taught me to make rice." "What happened the night before you were born." True stories carry a quality in the voice that invented stories do not. The child hears not just the words but the authenticity — and their nervous system registers the difference.
+
+---
+
+## Story Prompts When You're Stuck
+
+When you cannot think of a story, use one of these sentence starters. The story will come.
+
+- "When I was your age..."
+- "One time, before you were born..."
+- "The bravest thing your grandmother ever did was..."
+- "There was once a [animal the child loves] who was afraid of..."
+- "In a village far from here, there was a child who could..."
+- "The first time I ever..."
+- "Nobody knows this, but one night..."
+- "A long time ago, when the world was newer than it is now..."
+
+---
+
 **Practice box**
 
 Tell a five-minute story tonight without a book, a screen, or a script. Just your voice and whoever is listening.
