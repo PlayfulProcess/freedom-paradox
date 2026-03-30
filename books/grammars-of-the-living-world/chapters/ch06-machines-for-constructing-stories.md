@@ -56,4 +56,20 @@ But the deepest answer may be the one this book has been building toward. Humans
 
 ---
 
+## Embodied, Not Abstract
+
+There is a feature of these grammars that the five properties do not capture, and it may be the most important one for the argument of this book: they are embodied communal technologies. The casting slows you down. The physical act — the tossing of coins, the shuffling of cards, the manipulation of palm nuts — focuses attention, activates the social engagement system, and shifts the nervous system toward the parasympathetic state that the first chapter identified as the precondition for genuine relating.
+
+The I Ching's traditional consultation method requires sorting forty-nine yarrow stalks through a precise, repetitive, meditative process that takes approximately twenty minutes. This is not an inefficient randomization algorithm. It is a co-regulatory technology. By the time the hexagram is complete, the querent's nervous system has been in a focused, rhythmic, contemplative state for twenty minutes. The reading that follows occurs in a different physiological register than the question that preceded it — calmer, more receptive, more capable of holding complexity.
+
+Ifá's consultation involves the Babaláwo and the client sitting together, the palm nuts manipulated in a ritualized sequence, the Odu chanted from memory. The communal container is even more explicit: the ancestors are invoked, the orisha are present, the community's accumulated wisdom — centuries of verses, stories, prescriptions — enters the room through the Babaláwo's voice. This is not an individual practice. It is a grammar in the fullest sense: finite vocabulary, combinatorial generativity, randomness as portal, practitioner as participant, change not stasis — and a communal co-regulatory field that holds the whole inquiry.
+
+Even tarot, the most individualized of the grammars examined here, was historically practiced in community. The salon reading, the parlor game, the card laid out on a table between two people discussing what they see — these are relational acts. The modern practice of drawing a card alone and consulting a keyword list is a degradation of the grammar in exactly the way the extraction pattern from Chapter 2 describes: technique preserved, relational context stripped.
+
+The grammars work not despite the slowness, the embodiment, the communal requirement. They work *because* of these features. Each feature shifts the nervous system toward the state where genuine meaning-making — the weaving of stories, not just the consuming of them — becomes possible.
+
+The next chapter asks what happened to these grammars — how they survived fire, empire, slavery, and the systematic destruction of the traditions that carried them.
+
+---
+
 *CC BY-SA 4.0*

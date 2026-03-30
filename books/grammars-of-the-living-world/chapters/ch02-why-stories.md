@@ -72,6 +72,28 @@ And stories give communities a way to metabolize experience together. The Dagara
 
 ---
 
+## The Extraction Pattern
+
+There is a pattern that connects the first chapter's clinical evidence to this chapter's cultural argument, and it must be stated plainly because it will return in every chapter that follows.
+
+Western psychology, over the past century and a half, has performed a consistent operation on the contemplative traditions it has encountered. It has taken communal, embodied, story-rich practices and extracted the technique — severing it from the relational context that made it functional.
+
+Jon Kabat-Zinn took Buddhist meditation and created MBSR — an eight-week protocol that preserved the breathing techniques and body-awareness practices while stripping the ethical framework (*sila*), the community (*sangha*), the broader philosophical context of suffering and its cessation, and the ultimate goal of awakening. What remained was method without meaning-making context.
+
+Aaron Beck took Stoic philosophy — Epictetus's teaching that "it is not events but our opinions about them which cause us suffering" — and built Cognitive Behavioral Therapy. The Stoic practices of self-examination survived. The Stoic community of practice, the ethical framework of virtue, and the cosmological context of living in accordance with nature did not.
+
+Richard Schwartz, developing Internal Family Systems, independently discovered a state — the Self, characterized by calm, curiosity, compassion, and connectedness — that practitioners of virtually every contemplative tradition immediately recognized. His own students told him: "This sounds like Buddha nature. This sounds like Atman. This sounds like the soul." Schwartz had rediscovered, through clinical observation, what the traditions had practiced for millennia — and he had done it without the communal context that the traditions insisted was essential.
+
+The pattern is not malicious. It is the logical consequence of a culture that centers the individual. If the individual is the unit of analysis, then the only relevant question about a contemplative practice is: does it produce measurable benefits in the individual? The community, the cosmology, the story — these are dismissed as cultural packaging around a therapeutic mechanism. Extract the mechanism. Discard the packaging. Optimize for individual outcomes.
+
+But the packaging is not packaging. The story is not incidental to the practice. The story is the structure that makes the practice relational — that connects the individual's experience to a shared vocabulary, a shared community, a shared understanding of what the practice is for. Without the story, the practice becomes self-optimization. With the story, it becomes grammar.
+
+This is the distinction the second chapter of this book exists to make. The body opens — the first chapter established this. But an open body without a story is either restless or dissociating. The extraction pattern — technique without story, method without meaning-making context, practice without community — produces individuals who can access parasympathetic states but cannot weave those states into relational fabric. They can meditate but cannot build the communal structures that meditation, in every tradition that developed it, was designed to serve.
+
+The MINE model and the extraction pattern are not two different things. They are the same thing — the assumption that meaning lives inside individual minds, applied to practices that were designed for the spaces between minds.
+
+---
+
 ## The Wrong Question
 
 There is an objection forming, and it should be stated clearly.
