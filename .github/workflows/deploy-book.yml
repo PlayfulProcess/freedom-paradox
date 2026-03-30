@@ -56,7 +56,9 @@ jobs:
           cp models/charts/*.png src/images/ 2>/dev/null || true
 
       - name: Build mdbook
-        run: mdbook build
+        run: |
+          mdbook build
+          cp CNAME book/ 2>/dev/null || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
