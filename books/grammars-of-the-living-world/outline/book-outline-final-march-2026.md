@@ -99,7 +99,7 @@ A shared preface will frame this. Each book works alone. The reader who reads bo
 
 Prometheus as tragedy, not triumph. Fire as premature gift. 13,000 years of burning California. Agriculture, cities, writing, industry, nuclear fission, AI — each one is fire at a larger scale. The speed is accelerating while the responsibility structures are degrading.
 
-The Enlightenment critique: freedom from constraint + equality of status = individual values. They say nothing about what a person owes. Freedom as the Enlightenment conceived it means freedom to extract. Mignolo: no modernity without coloniality. No Enlightenment freedom without extraction.
+The Enlightenment: praise those who tried to solve universal ethics. Kant's formal test — can you universalize your maxim without contradiction? — is a genuine logical constraint. Korsgaard and O'Neill are right that "don't lie, don't coerce, don't treat people as instruments" is cross-cultural, not Prussian. MacIntyre overshoots. But the formal principle is thin — it eliminates bad options without selecting among the remaining ones (Hegel's emptiness objection). And the model of moral agency Kant packages with the principle — individual, disembodied, deliberative — is the culturally specific payload. The universal logic is the Trojan horse. Inside it is a particular model of who counts as a moral reasoner. That model, enforced through colonial power, displaces every communal, embodied, relational moral practice it encounters — not by refuting them but by defining them as pre-rational. The critique is not "they were wrong" but "they were incomplete." The categorical imperative is a constraint. Grammars are the content. You need both. (See research-43.)
 
 Traditions that centered responsibility: Haudenosaunee Seventh Generation, Blackfoot cultural perpetuity, Kimmerer's Skywoman, Ubuntu. The Linehan filter prevents romanticism: we're not asking which tradition is true. We're asking which patterns are adaptive.
 
@@ -107,7 +107,7 @@ Mycorrhizal networks: power distributed, reciprocal, accountable. Coral reefs: f
 
 **The thesis stated:** Grammars are responsibility structures. Not just meaning-making tools. The communal practices through which a community constrains its own power, aligns with the direction life moves in, and maintains the ratio between capacity and obligation.
 
-**Research:** 32, 33, 36, 37, 38, 39, 40 (ecology cluster) + 34 (coloniality) + 35 (unity/plurality) + 14 (cosmic topology) + 04 (Andreotti/Akomolafe — now supporting cast, not leads)
+**Research:** 32, 33, 36, 37, 38, 39, 40 (ecology cluster) + 34 (coloniality) + 35 (unity/plurality) + 14 (cosmic topology) + 04 (Andreotti/Akomolafe — now supporting cast, not leads) + 43 (Kant pressure-test)
 
 ---
 
