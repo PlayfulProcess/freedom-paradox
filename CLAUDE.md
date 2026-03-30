@@ -25,12 +25,17 @@ Open source — a forty-year freedom movement — confronts genuine civilization
 - Path: `books/freedom-paradox/`
 
 ### Book 2: Grammars of the Living World
-**Status: Early draft + active research**
-Contemplative and divinatory systems (I Ching, Ifá, Tarot, Kabbalah, astrology) as "grammars" — finite symbolic vocabularies that generate infinite meaning through combination and interpretation. Applies Kelty's recursive public framework to build a digital commons for these systems.
+**Status: Final outline complete, research organized (42 files), drafting Phase 1**
+Human civilization has been acquiring power faster than it can build the communal practices to wield it responsibly. Grammars — finite symbolic systems maintained through shared practice — are responsibility structures: the cultural technology through which communities constrain their own power, align with the direction life moves in, and maintain the ratio between capacity and obligation. 6 parts, 10 chapters, ~55K–65K words. CC BY-SA 4.0.
 - Path: `books/grammars-of-the-living-world/`
-- HTML draft of Part III (8 chapters) exists in `drafts/`
-- Deep research ongoing (Akomolafe, Andreotti, decolonial theory, etc.)
-- The platform described in this book IS recursive.eco (see Domain Note above)
+- Final outline: `outline/book-outline-final-march-2026.md`
+- Thesis breakthrough: `drafts/thesis-breakthrough-march-2026.md`
+- 42 research files in `research/raw/` (research-01 through research-41 + 06a)
+- HTML draft of old Part III exists in `drafts/` (will be adapted)
+- Recursive.eco is framed as **responsibility infrastructure**, not a contemplative technology platform
+
+### How the Two Books Connect
+The Freedom Paradox is the diagnosis (power without responsibility in the open-source/AI context). Grammars of the Living World is the response (what responsibility structures are, where they came from, why we keep dismantling them, and whether we can build new ones fast enough). A shared preface will frame both books. Each works alone; together they form the full architecture.
 
 ## Repository Structure
 
@@ -46,14 +51,25 @@ books/
     outline/           # Book outline
     drafts/            # HTML reading drafts
   grammars-of-the-living-world/
-    chapters/          # Markdown chapter drafts (TODO)
-    research/raw/      # Deep research dumps
-    research/synthesis/ # Processed research
-    research/sources/  # Bibliography
-    notes/             # Working notes
-    outline/           # Book outline (TODO)
-    drafts/            # HTML drafts (Part III exists)
+    chapters/          # Markdown chapter drafts
+    research/raw/      # 42 deep research files (research-01 through research-41 + 06a)
+    research/synthesis/ # Processed research (TODO)
+    research/sources/  # Bibliography (TODO)
+    notes/             # Working notes + recommendations
+    outline/           # Final outline (6 parts, 10 chapters — March 2026)
+    drafts/            # Thesis breakthrough + HTML drafts (old Part III)
 ```
+
+## Grammars Architecture (March 2026)
+
+**Part I: The Body** — Ch 1 (Biological Hypothesis), Ch 2 (Why Stories)
+**Part II: The Crisis** — Ch 3 (Stories Lose Homes), Ch 4 (Degradation of Hearth), Ch 5 (Polarization of Polis)
+**Part III: The Grammars** — Ch 6 (Machines for Constructing Stories), Ch 7 (Survival and Capture)
+**Part IV: The Fire** — Ch 8 (The Species That Got Fire) ← thesis chapter
+**Part V: The Hinge** — Ch 9 (The Trap of Solving)
+**Part VI: The Gesture** — Ch 10 (Grammars of the Living World)
+
+**Epistemological posture (Linehan filter):** We cannot know if this is ultimately true. We know it is useful (testable predictions), it fits the data (neuroscience, ecology, cross-cultural research converge), and it is compassionate (doesn't require anyone to be wrong — just dysregulated in a dysregulating world).
 
 ## Writing Style
 
@@ -62,7 +78,8 @@ books/
 - Take all sides seriously before taking a position. The equity analyst instinct: who benefits from this narrative?
 - Philosophical depth without jargon. Kelty, Ostrom, Akomolafe, Andreotti should be accessible to a reader who has never encountered them.
 - Short paragraphs. No academic throat-clearing.
-- **Grammars book specifically**: more contemplative, poetic register than Freedom Paradox. Think: the rigor of an equity analyst who learned to sit with mystery. CC BY-SA 4.0 licensed.
+- **Grammars book specifically**: more contemplative, poetic register than Freedom Paradox. Think: the rigor of an equity analyst who learned to sit with mystery. The book speaks — the author doesn't. No founder story, no personal brand. The argument stands on its own. CC BY-SA 4.0 licensed.
+- **Key distinction**: good/bad are moral categories (weaponizable). Adaptive/non-adaptive are empirical (observable on a long enough timescale). The book uses the adaptive frame throughout.
 
 ## The Recursive Research Workflow
 

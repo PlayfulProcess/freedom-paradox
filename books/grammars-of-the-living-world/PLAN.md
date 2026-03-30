@@ -1,75 +1,145 @@
 # Grammars of the Living World — Writing Plan
 
-*Updated 2026-03-27 after Research 9 (Mythic Displacement)*
+*Updated 2026-03-29 after thesis breakthrough and final restructuring*
 
 ---
 
-## Critical Assessment of the Outline
+## Current Architecture: 6 Parts, 10 Chapters
 
-### What's Working
+**Thesis:** Human civilization has been acquiring power faster than it can build the communal practices to wield it responsibly. Grammars are responsibility structures: the cultural technology through which communities constrain their own power, align with the direction life moves in, and maintain the ratio between capacity and obligation.
 
-**The 4-part arc is strong.** Crisis → Grammars → Hinge → Gesture has the shape of a good argument. The reader enters through the wound (Part I), discovers humanity's oldest response (Part II), has the rug pulled — "but wait, isn't building a platform just more of the same problem?" (Part III) — then arrives at a gesture that holds the tension rather than resolving it (Part IV). This is earned, not forced.
+**Epistemological posture (Linehan filter):** Not "is this true?" but "is this useful, does it fit the data, and is it compassionate?"
 
-**Ch 1 is now the strongest chapter in the outline.** Research 9 delivered everything needed: the Grimms' seven-edition genealogy of softening, the Bettelheim/Warner fault line, the gingerbread house paradox (starvation trap → child's Tuesday), Benjamin's aura framework, Pooh's stuffed animals behind glass. The chapter has vivid concrete cases, a clear theoretical spine, and an original argument (mythic displacement ≠ cultural appropriation). Ready to draft.
+| Part | Chapters | Status |
+|---|---|---|
+| **I: The Body** | Ch 1 (Biological Hypothesis), Ch 2 (Why Stories) | Research complete. Write fresh. |
+| **II: The Crisis** | Ch 3 (Stories Lose Homes), Ch 4 (Degradation of Hearth), Ch 5 (Polarization of Polis) | Research complete (Ch 5 needs one more session). Reframe existing material with parasympathetic lens. |
+| **III: The Grammars** | Ch 6 (Machines for Constructing Stories), Ch 7 (Survival and Capture) | Existing drafts. Reframe as responsibility structures. |
+| **IV: The Fire** | Ch 8 (The Species That Got Fire) | **NEW. Thesis chapter.** Ecology cluster research complete. Write fresh. Hardest chapter. |
+| **V: The Hinge** | Ch 9 (The Trap of Solving) | Heavy restructure. Colonial-reflex frame. |
+| **VI: The Gesture** | Ch 10 (Grammars of the Living World) | Existing draft. Reframe as responsibility infrastructure. |
 
-**Ch 7 (The Living Cosmos) fits naturally in Part II.** The arc is now: what grammars ARE (Ch 4) → how they SURVIVED (Ch 5) → how they were CAPTURED and LIBERATED (Ch 6) → that they are ALIVE (Ch 7). Ch 7 earns the hinge — you can't fully understand the trap of solving until you've felt that the grammars are living relationships, not information to be managed.
+---
 
-**The Mr. Rogers throughline works.** He appears in Ch 2 (proof of concept for ethical media design), is implicitly present in Ch 8 (the third way between technophobia and techno-utopianism), and explicitly returns in Ch 9 (the design philosophy). Research 1 is thorough enough to support all three appearances.
+## What Changed (March 29, 2026)
 
-### What Needs Work
+### From the old plan (4-part, 9 chapters) to the final plan (6-part, 10 chapters):
 
-**Ch 3 (Polarization of the Polis) is the weakest chapter.** It risks reading as a hot-take essay rather than the philosophical depth the rest of the book achieves. The Anderson/Putnam/Haidt/Urban material is well-known and overworked in popular nonfiction. The Gottman 69% is genuinely good. The Talmudic chavruta model is genuinely good. But the chapter needs something the other chapters have and this one lacks: a *concrete, vivid, surprising* opening case (like Hansel & Gretel for Ch 1, or the Qin burning for Ch 5). Right now it opens with Anderson's *Imagined Communities*, which is abstract. **Fix: find a specific, vivid story of a community that lost and then rebuilt shared narrative ground.** This is the research gap.
+1. **New Part I: The Body** (Chs 1–2). The reader enters through the body, not the wound. The biological hypothesis (parasympathetic access → shared grammar → adaptive community) gives the reader a framework *before* the diagnosis.
 
-**Ch 7 (The Living Cosmos) is the most specialized chapter and the highest-risk for losing general readers.** Jyotish, Nakshatras, Dashamahavidya, Cit-Shakti — this is dense material. The old draft handled it well because the prose was beautiful, but the outline as written reads like a syllabus. **Fix: the chapter needs a personal opening.** An experience of casting, of attending to Saturn, of something phenomenologically vivid that the reader can feel before the theory arrives. The best chapters in this book open with a story, not a concept.
+2. **New Part IV: The Fire** (Ch 8). The ecology chapter makes the adaptive argument explicit: Prometheus, 13,000 years of burning California, agriculture → industry → AI as expanding power without corresponding responsibility structures. Reframes grammars from "contemplative technologies" to "responsibility structures." Earns the book's title.
 
-**Ch 8 (The Trap of Solving) depends heavily on Andreotti and Akomolafe, whom the outline itself admits lack scholarly rigor.** The "honest caveat" in the outline is good, but the chapter can't lean primarily on two thinkers it then undermines. **Fix: lead with Tillich, Wallis, and Palmer (the stronger philosophical tradition), and use Andreotti/Akomolafe as provocative amplification, not foundation.** The cosmic topology metaphor should do more structural work — it's the chapter's best image.
+3. **Thesis evolution.** From "crisis of mythic belonging" → "body-first biological hypothesis" → **"adaptive crisis of a species that got fire before it had the grammars to hold it."** Grammars are responsibility structures. Not a moral claim — an empirical one.
 
-**The book is 9 chapters but the draft material only covers Part II and fragments of Parts III–IV.** Part I (Ch 1–3) needs to be written from scratch. This is fine — the research is strong for Ch 1 and Ch 2. Ch 3 needs more research.
+4. **Recursive.eco reframed.** From "contemplative technology platform" to "responsibility infrastructure." No ads, no algorithm, no notifications — not because those are nice design choices but because the ad-driven algorithmic platform is the purest expression of power without responsibility ever built.
 
-### Research Gaps
+5. **Two-book framing.** Freedom Paradox = diagnosis (power without responsibility). Grammars = response (what responsibility structures are). Shared preface connects them.
+
+---
+
+## Research Coverage (42 files)
+
+| Chapter | Primary Research | Key Scholars |
+|---|---|---|
+| Ch 1: Biological Hypothesis | 24, 28, 29, 31, 41 | Porges, Rizzolatti, Tronick, Linehan, Siegel |
+| Ch 2: Why Stories | 24, 29, 04 | Mesquita, Blackfoot model, Brennan, Ahmed |
+| Ch 3: Stories Lose Homes | 09, 20, 05 | Grimms, Warner, Zipes, Benjamin, Ngũgĩ |
+| Ch 4: Degradation of Hearth | 01, 02, 06, 06a, 22 | Rogers, Christakis, Radesky, Lembke, Zuboff |
+| Ch 5: Polarization | 03, 27 | Anderson, Gottman, Haidt, Girard, Talmud |
+| Ch 6: Machines for Stories | 10, 12, 13, 18, 23 | Calvino, Bohm, Eglash, Abimbola |
+| Ch 7: Survival & Capture | 11, 12, 21, 34 | Qin history, Thompson, Strube, Santos |
+| **Ch 8: Species That Got Fire** | **32, 33, 34, 35, 36, 37, 38, 39, 40** | **Kimmerer, Mignolo, Haudenosaunee, Tsing** |
+| Ch 9: Trap of Solving | 04, 14, 30, 34, 35, 21 | Andreotti, Akomolafe, Tillich, Wallis, Palmer |
+| Ch 10: Grammars/Living World | 01, 07, 17, 25, 26, 27 | Kelty, Rogers, Ostrom, Ghost |
+
+---
+
+## Writing Phases
+
+### Phase 1 — The Foundation (write fresh) ~10 days
+- **Ch 1: The Biological Hypothesis** (~3 days) — Polyvagal, mirror neurons, Linehan, co-regulation science
+- **Ch 2: Why Stories** (~3 days) — Mesquita MINE/OURS, Blackfoot model, dependent origination
+- **Ch 8: The Species That Got Fire** (~4 days) — Prometheus, Enlightenment critique, indigenous responsibility, mycorrhizal networks. The hardest chapter; the thesis chapter.
+
+### Phase 2 — Adapt Existing ~5 days
+- **Ch 6: Machines for Constructing Stories** (~1 day) — existing draft + responsibility reframe
+- **Ch 7: Survival and Capture** (~2 days) — merge old survival + Tarot chapters + responsibility reframe
+- **Ch 10: Grammars of the Living World** (~2 days) — existing draft + responsibility infrastructure reframe
+
+### Phase 3 — Reframe Existing Research ~7 days
+- **Ch 3: When Stories Lose Homes** (~2 days) — research complete, needs parasympathetic reframe
+- **Ch 4: Degradation of Hearth** (~2 days) — research complete, add Lembke seesaw
+- **Ch 5: Polarization of Polis** (~3 days) — needs one more research session (vivid opening case)
+
+### Phase 4 — The Hinge ~3 days
+- **Ch 9: Trap of Solving** (~3 days) — heavy restructure, colonial-reflex frame, lead with Tillich/Wallis/Palmer
+
+### Phase 5 — Framing ~2 days
+- **Shared preface** for both books (~2 days)
+
+**Total estimated: ~27 days of writing**
+
+---
+
+## Research Gaps Remaining
 
 | Gap | Severity | What's Needed |
 |---|---|---|
-| Ch 3 opening case | **High** | A vivid, specific story of mythic-political fragmentation. Not Anderson (too abstract). Something like: a specific town, community, or nation that visibly lost its shared stories and what happened. Or a specific media event that was the "last shared moment." |
-| Ch 3 Anderson/Habermas/Warner | Medium | The outline references these but Research 3 is thin (107 lines). Need deeper treatment of Habermas's public sphere, Michael Warner's *Publics and Counterpublics*. |
-| Ch 1 unverified claims | Low | The Cambridge Group finding (famine stories absent from English folklore) wasn't verified in Research 9. The Shea et al. CMAJ paper needs verification. Zipes's "violated" quote needs exact page. These can be flagged as `[VERIFY]` in the draft and filled later. |
-| Ch 7 personal opening | Low | Not a research gap but a craft gap. Needs a first-person experience or a vivid practitioner story to open the chapter. |
+| Ch 5 opening case | **High** | A vivid, specific story of a community that lost and rebuilt shared narrative. Not Anderson (too abstract). |
+| Ch 5 Habermas/Warner | Medium | Deeper treatment of public sphere, *Publics and Counterpublics*. Structured Disagreement research (file 27) is a starting point. |
+| Synthesis directory | Medium | Create `research/synthesis/` files for each chapter — the step where raw research becomes chapter material. |
+| Sources/bibliography | Medium | Create `research/sources/bibliography.md` — master source list. |
 
 ---
 
-## Writing Order (Updated)
+## Recursive.eco Grammars as Living Examples
 
-### Phase 1: Quick Wins — Adapt Existing Draft (Part II)
+The platform already contains grammars that embody the book's argument. The book theorizes what these grammars practice. Each chapter can reference existing grammars as evidence — not as product placement, but as proof-of-concept that responsibility structures can be built on the internet.
 
-1. **Ch 4: Machines for Constructing Stories** — adapt from old Ch 1. Add new framing (not solutions but evidence of perennial need). ~1 day.
-2. **Ch 5: Survival** — adapt from old Ch 2. Minimal changes. ~1 day.
-3. **Ch 6: Tarot's Double Life** — merge old Ch 3 (Capture) + Ch 4 (Liberation). Moderate work. ~2 days.
-4. **Ch 7: The Living Cosmos** — adapt from old Ch 7. Add personal/vivid opening. ~2 days.
+### Disney Decolonial Tree → Ch 3 (Stories Lose Homes), Ch 7 (Survival & Capture)
+A forest inventory of Disney's animated canon split into "the composting pile" (films encoding colonial logic that need to die with honesty) and "the thriving canopy" (films growing from indigenous, diasporic, or non-Western soil). Includes "True Love's Kiss: A Composting Ceremony," "The Stolen Stories: Original Mythos Disney Took From," "The Voice Problem: Who Gets to Speak," and "The Kids' Field Guide: Watching Disney With Open Eyes." The composting metaphor IS the book's adaptive frame in miniature — not cancellation, but forest inventory: what's rotting, what's sprouting, and what nutrients the rot is releasing into the soil.
 
-### Phase 2: The Emotional Center (Part I, Ch 1–2)
+### Repair: An Open Source Book → Ch 1, Ch 5, Ch 8, Ch 10
+A book-as-grammar on repair at every scale — couples, communities, cultures, species. 17 chapters starting in Gottman's lab ("The 69% That Never Gets Solved"), moving through attachment ("The Cry Beneath the Fight"), fire ("The First Fire"), and arriving at three scales: intimate, cultural, ecological. Contains "The Compost Library." The structure mirrors the Grammars book's arc: body → crisis → fire → gesture. The chapter "The First Fire" directly parallels Ch 8's Prometheus argument. Each chapter maps to a Major Arcana card.
 
-5. **Ch 1: When Stories Lose Their Homes** — write fresh from Research 9. Research is complete. Ready now. ~3 days.
-6. **Ch 2: The Degradation of the Hearth** — write fresh from Research 1, 2, 5, 6, 6a. Research is complete. ~3 days.
+### The Repair Deck: A Major Arcana for Mending → Ch 6 (Machines for Stories), Ch 10
+A 22-card tarot deck where each archetype holds a therapeutic, spiritual, or cultural voice. The Lovers hold Gottman's perpetual problems. Temperance holds Linehan's dialectics. The Devil holds colonial extraction. Ten lenses per card: Research, Clinical, Spiritual, Practices, Rituals, Songs, Kids Version, Sci-Fi, Open Source, and Cracks. This IS a grammar as responsibility structure — finite symbolic system, maintained through shared practice, constraining interpretation through structure.
 
-### Phase 3: The Hard Work
+### The Story Tree: Children's Stories for Every Age → Ch 2 (Why Stories), Ch 3
+33 children's stories told four ways: gentle preschool version, faithful classic telling, cultural roots showing how the story travels, modern reflection on why it still matters. Cross-linked to full source grammars. This is Ch 2's argument made practical — stories are not content to be consumed but grammars to be practiced in community.
 
-7. **Ch 8: The Trap of Solving** — heavy restructure. Combine old Ch 5 philosophy with Research 4 (Andreotti/Akomolafe) + Research 8 (cosmic topology). Lead with Tillich/Wallis/Palmer. ~3 days.
-8. **Ch 9: Grammars of the Living World** — adapt from old Ch 8. Restructure around Linehan's DBT framing. Fred Rogers as design philosopher. ~2 days.
+### Nastácia Conta — She Was Always the Author → Ch 7 (Survival & Capture), Ch 8
+A retelling of Monteiro Lobato's Sítio do Picapau Amarelo through the eyes of Tia Nastácia — the Black woman Lobato wrote as a cook, who was always the keeper of the stories, herbs, prayers, and children. She carries Yoruba ancestry; she placed her gods beneath the church floor. She found her way to keep faith even in colonial erasure. This is Ch 7's survival argument incarnate — grammars don't die, they go underground, and the people who carry them are never the ones the official story names.
 
-### Phase 4: The Gap
+### Decolonizing Childhood — The Spirits Speak → Ch 1 (Biological Hypothesis), Ch 8
+64 items mapping developmental thresholds through Umbanda spirits (Erês, Caboclos, Pretos Velhos). Key insight: "The colonial move wasn't discovering childhood; it was severing the correspondence between inner growth and communal recognition, then selling the gap back as products and institutions." This directly supports Ch 1's biological hypothesis — the body knows the stages, grammars provide the communal witness.
 
-9. **Ch 3: The Polarization of the Polis** — write fresh. **Needs additional research first** (vivid opening case, deeper Anderson/Habermas/Warner). ~1 research session + 3 days writing.
+### Colonial Tongues → Ch 3 (Stories Lose Homes)
+Maps colonial, antisemitic, racist violence embedded in everyday language — Portuguese and English. "Colonialism's deepest move is to get into the lullaby." Children's songs carry violence without anyone noticing. Ch 3 evidence: when stories lose their homes, the violence doesn't disappear — it hides in the language itself.
+
+### Social Working: An Analeptic Deck → Ch 9 (Trap of Solving)
+107 items reframing social work as a verb, not a profession. "Closing analysis in 'social work as profession' is already colonizing." Eisler's partnership model, Chapman & Withers' violent history, more-than-human social working. Ch 9 material: the trap of solving is the trap of professionalization — turning communal practices into credentialed services.
+
+### Decolonization: Five Domains → Ch 8 (The Fire), Ch 9 (The Hinge)
+Body/Mind/Spirit/Collective/Planet. Follows Andreotti's insight that modernity is dying and needs hospicing — "not with triumphalism or despair, but with the wisdom of grandmothers who know that composting is not the same as destroying."
+
+### The Repair I Ching → Ch 6 (Machines for Stories)
+12 hexagrams mapped to Repair chapters. Not divination but contemplation. The practice of searching for an image that embodies the hexagram's repair teaching IS the practice. Proof that grammars can be woven together — I Ching structure holding therapeutic content.
+
+### Implications for the Book
+These grammars serve as **living footnotes**. The book can reference them not by name but by pattern: "A parent sits with her child and reads a fairy tale four ways — the gentle version, the original, the cultural roots, and why it still matters. That's a grammar at work." Or: "Someone builds a forest inventory of Disney films — not to cancel them, but to ask what's composting, what's sprouting, and what nutrients the rot is releasing. That's the adaptive frame." The platform demonstrates what the book argues. The book never needs to mention the platform.
 
 ---
 
-## Estimated Scope
+## Key Principles
 
-- **4 chapters** can be adapted from existing draft: Ch 4, 5, 6, 7
-- **4 chapters** need writing from scratch: Ch 1, 2, 3, 8 (though 8 has philosophical material from old Ch 5)
-- **1 chapter** needs moderate restructuring: Ch 9
-- **9 research sessions** complete. **1 more needed** (Ch 3 opening case + deeper political-mythic material)
-- **Target word count**: ~5,000–6,000 words per chapter = ~45,000–54,000 words total
+- **Adaptive, not moral.** Good/bad are weaponizable. Adaptive/non-adaptive are observable. Use the empirical frame.
+- **The book speaks, not the author.** No founder story, no personal brand. The argument stands on its own.
+- **Linehan filter throughout.** Useful? Fits the data? Compassionate? Apply to every claim.
+- **CARE Principles** for all Indigenous knowledge systems (Ifá, Haudenosaunee, Blackfoot, etc.).
+- **Flag uncertainties.** `[QUOTE NEEDED]`, `[VERIFY]`, `[RESEARCH NEEDED]` — never fabricate.
 
 ---
 
-*Plan updated: 2026-03-27*
+*Plan updated: 2026-03-29*
+*CC BY-SA 4.0*
