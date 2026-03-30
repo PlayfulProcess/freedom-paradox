@@ -81,6 +81,20 @@
 
 ---
 
+## The Loop: How the Two Books Connect
+
+The two books describe a single feedback loop:
+
+> Power creates tools (AI, platforms) → tools are open-sourced to capture markets → markets monetize attention → attention extraction degrades nervous systems → degraded nervous systems can't maintain grammars → without grammars, no responsibility structures → without responsibility structures, power runs unchecked → power creates more tools...
+
+**Freedom Paradox's intervention:** Break the loop at the governance layer. Open-source the costs side (infrastructure, tooling, standards, safety research — the commons). Hold the revenue side accountable (model weights that generate market power, deployment at scale). When Meta open-sources Llama, it's making the argument that the revenue-side product is "just research" — pre-regulatory, pre-accountability. Legislation (DSA/DMA, FTC actions, COPPA) already targets the revenue-generating layer: algorithmic amplification, data extraction, ad targeting. The principle: if you profit from it, you're accountable for it.
+
+**Grammars' intervention:** Break the loop at the biological layer. The dominant revenue model (attention) is parasitic on the biological infrastructure that responsibility structures depend on. Every minute in sympathetic activation (scrolling, reacting, doom-looping) is a minute not spent in ventral vagal engagement where grammars work. The attention economy doesn't just compete with grammars for time — it actively degrades the physiological state those structures require. What's being extracted is not just data or attention but **the parasympathetic bandwidth that makes communal meaning-making possible**.
+
+**You need both.** Legislation without grammars produces compliance without culture. Grammars without legislation produces contemplative communities inside an extractive system. The shared preface frames this.
+
+---
+
 ## Research Gaps Remaining
 
 | Gap | Severity | What's Needed |
