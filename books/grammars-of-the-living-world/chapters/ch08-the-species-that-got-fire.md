@@ -64,6 +64,30 @@ The question this chapter is building toward is not whether the feedback loops w
 
 ---
 
+## The Cultural Prisoner's Dilemma
+
+There is an objection that must be met before the chapter continues.
+
+The adaptive frame — the claim that power must be matched by responsibility — does not need to be biologically true. It does not need to be a law of nature in the way that gravity is a law of nature. It needs only to be a better social strategy. And here the evidence from evolutionary game theory is unambiguous: cooperation outperforms defection in any iterated game — any game that is played more than once.
+
+But cultures, like organisms, face the prisoner's dilemma. An extractive culture — one that consumes faster, grows faster, colonizes faster — can win in the short term. It can outcompete cooperative cultures on every metric the extractive culture itself measures: GDP, military power, territorial expansion, technological output. For a time — sometimes a long time — extraction looks like success. The growth curves point upward. The monoculture spreads.
+
+This is how a virus works. It replicates aggressively, hijacking the host's machinery for its own reproduction. By every measure internal to the virus — copy number, speed of spread, territory conquered — it is winning. But it is killing the host. And when the host dies, the virus dies with it. The strategy that looks like winning is, on a long enough timescale, self-annihilating.
+
+The deeper danger is not that the extractive culture will collapse. Cultures have collapsed before, and life continues. The deeper danger is that a dominant extractive culture will not allow any other culture to flourish alongside it. This is the monoculture risk at the civilizational level. An agricultural monoculture loses the resilience that comes from biodiversity — when the single crop fails, there is nothing to fall back on. A cultural monoculture loses the adaptive capacity that comes from diversity of practice — when the single strategy fails, there are no alternative grammars to draw on.
+
+The Great Oxidation Event is instructive again. When cyanobacteria flooded the atmosphere with oxygen, they did not just kill most existing life. They eliminated most of the metabolic diversity that had sustained the biosphere for billions of years. What eventually emerged — aerobic life, complex multicellularity — was extraordinary. But the transition cost was almost everything that had come before. And the organisms that did survive were disproportionately those that had maintained their own internal coherence — their own DNA, their own metabolic pathways, their own capacity for independent function — even as they were incorporated into the new system. The mitochondrion retained its own genome. The grammar kept its own structure.
+
+The lesson for cultures is the same. Contact between different ways of living — different grammars — can produce extraordinary new complexity. Haitian Vodou, born in the holds of slave ships from the collision of Fon, Yoruba, Kongo, and Catholic traditions, launched the only successful slave revolution in history. Jazz, born from the collision of African polyrhythm and European harmony, created an art form that neither parent culture could have produced alone. But these creative emergences happened under specific conditions: the traditions that collided retained their own internal coherence. They were not dissolved into a homogeneous mixture. They maintained what the biologists call their own DNA.
+
+When the mixing is not collision but absorption — when one culture simply dissolves the others into itself, stripping their practices, flattening their grammars, defining their knowledge as pre-rational — what results is not creative symbiogenesis but epistemicide. The loss of languages — one dying approximately every forty days — is the canary. A 2021 *Nature* study found that medicinal knowledge encoded in indigenous languages is overwhelmingly unique to those languages. When the language dies, the pharmacopoeia dies with it. When the grammar dies, the adaptive capacity it carried dies with it.
+
+Gandhi stated the principle with characteristic precision: "I do not want my house to be walled in on all sides and my windows to be stuffed. I want the culture of all lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any."
+
+This is the adaptive frame applied to cultures themselves. The question is not which culture is "right." The question is whether the dominant culture permits enough diversity of practice — enough grammars — to maintain the adaptive capacity the whole system needs to survive what is coming.
+
+---
+
 ## The Enlightenment's Gift and Gap
 
 Praise those who tried.

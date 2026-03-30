@@ -46,6 +46,22 @@ Byung-Chul Han describes the result: "communication without community" — const
 
 What is lost at each degradation is the same thing: co-regulatory infrastructure. The fire warmed bodies and synchronized nervous systems. Television provided shared attention without shared warmth. The personal screen provides neither. And without co-regulation — without the parasympathetic channel that the first chapter described as the precondition for everything — the grammars cannot function. You cannot practice a grammar alone in a sympathetic state. You can only consume content.
 
+## What the Data Shows
+
+The degradation is not theoretical. It is measurable.
+
+ADHD prevalence among U.S. children increased from 6.1 percent in 1997 to 10.2 percent in 2016 — a sixty-seven percent increase — and reached 11.4 percent by 2022. Childhood anxiety rose forty-nine percent between 2016 and 2022. Depression increased forty-four percent over the same period. The share of high school students reporting persistent sadness or hopelessness grew from twenty-six to thirty-seven percent between 2009 and 2019. These are not artifacts of better diagnosis. They appear simultaneously in self-report measures, clinical assessments, emergency department visits, and suicide data.
+
+Attachment security is declining at the population level. A cross-temporal meta-analysis of ninety-four samples of American college students found that secure attachment declined from forty-nine to forty-two percent between 1988 and 2011 — while dismissing attachment increased fifty-six percent. Since attachment security is built through early co-regulation and directly predicts later anxiety, depression, and behavioral regulation, declining attachment rates are a leading indicator of the co-regulation crisis.
+
+The COVID pandemic provided the natural experiment. When co-regulation environments were abruptly removed — schools closed, peer interaction eliminated, parents stressed and screen-absorbed — children's regulatory development measurably deteriorated. Forty-seven percent of pandemic-affected kindergarteners needed intensive reading intervention by midyear, compared to twenty-eight percent pre-pandemic. Teachers reported dramatic declines in kindergarten readiness, particularly in social-emotional domains.
+
+And the timeline hypothesis — the one that neither Haidt nor his critics have fully articulated — fits the data precisely. The iPhone launched in June 2007. Smartphone adoption among U.S. adults crossed fifty percent by late 2012. Infants born from 2008 onward were the first full cohort raised by smartphone-distracted parents from birth. Those children are now sixteen to eighteen years old — the exact age group showing the sharpest mental health declines.
+
+The causal chain is not complicated: smartphone → parental distraction → degraded infant co-regulation → impaired self-regulation development → population-level mental health crisis in adolescence. The technoference research community and the Anxious Generation debate community remain siloed — one publishing in developmental pediatrics journals, the other in social psychology and popular media. Bridging them reveals that both sides may be arguing about a downstream effect while ignoring the upstream cause. The crisis is not that teenagers got smartphones. The crisis is that their co-regulation was degraded from birth by parents who got smartphones first.
+
+The hearth — the co-regulatory container — did not degrade in a single step. It degraded across three generations, each inheriting less regulatory infrastructure than the last. And the children born into the third degradation — the personal screen era — are the ones whose nervous systems are now showing what happens when the fire goes out.
+
 The next chapter traces what happens when this degradation reaches the level of the polis — when the loss of shared story becomes political.
 
 ---

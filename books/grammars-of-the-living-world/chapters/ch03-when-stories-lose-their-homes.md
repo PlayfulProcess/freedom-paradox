@@ -44,7 +44,27 @@ A fairy tale told around a fire by a community elder is a co-regulatory practice
 
 A fairy tale read from a screen by an algorithm is none of these things. It is content. Content soothes. Grammars weave.
 
-The crisis this book describes — Part II in its entirety — is the progressive loss of the contexts that make stories into grammars. The next chapter traces what happened to the most fundamental context of all: the hearth.
+## The Container Matters More Than the Content
+
+Here is the hypothesis that connects the first two chapters to the crisis this section describes: a story consumed alone, without co-regulation, without graduated exposure, without a containing relational field, can traumatize rather than inoculate.
+
+This is not a moral claim about good stories and bad stories. It is a structural claim about containers. Hansel and Gretel told around a fire by an elder who has survived famine is exposure-based therapy — a graduated encounter with difficulty inside a safe relational container. The elder's voice modulates the children's nervous systems. The communal presence provides co-regulation. The story's resolution — the children escape, the witch is defeated — provides the regulatory repair that Tronick described in the first chapter. The child's nervous system learns: I can encounter this terror and survive it, and I am not alone.
+
+The same story read to a child alone on a tablet, with no co-regulatory presence, no elder to modulate the pace, no communal context to contain the fear — this is a different neurological event. The content is identical. The container is absent. And without the container, the story does not inoculate. It exposes.
+
+The principle extends far beyond fairy tales. Pornography is a story. Propaganda is a story. The algorithmic feed is a story — a narrative of the world assembled in real time by an optimization function that has no interest in the viewer's nervous system and every interest in the viewer's attention. Each of these "stories" passes through a child's eyes and writes to the limbic system — the same system that the San healing dance and the Dagara grief ritual and the fire-lit fairy tale were designed to address. The difference is not in the sophistication of the content. It is in the presence or absence of the container.
+
+The three-filter test from Chapter 1 — is it useful, does it fit the data, is it compassionate? — applies to content. But it is not sufficient. A story can be useful, evidence-based, and compassionate in its content and still be damaging if the container is wrong. A perfectly crafted children's story delivered through an algorithm that optimizes for engagement rather than regulation is a grammar stripped of its function — a prayer spoken into a void.
+
+The question is not just what stories we tell. It is who is present when the story is told, what relational field holds the telling, and whether intergenerational co-regulation — the oldest technology on earth — is intact.
+
+Brazilian *contação de histórias* — storytelling that blends Tupi, West African Griô, and Portuguese traditions — survives as a practice precisely because it cannot be extracted from its relational context. The Griô tradition is not a profession but a lineage: one is born as Griô, embedded in family transmission. The story without the storyteller, without the community of listeners, without the call-and-response that makes the audience participants rather than consumers — this is not a Griô story. It is content.
+
+West African "Tales by Moonlight" gather communities around fires with formulaic call-and-response openings. Japanese *yomikikase* — reading-listening — is institutionalized in schools, structured as a relational practice between reader and child. In each case, the technology is not the story. The technology is the container: the fire, the circle, the voice, the bodies in proximity, the shared attention that creates the parasympathetic channel.
+
+We are now running the largest uncontrolled experiment in the history of human storytelling. A civilization where the most dysregulating stories are one click away from every child, while the communal containers that made story-sharing adaptive are systematically degrading. The experiment has no control group. The results are coming in. And the data from the first chapter — rising anxiety, declining attachment security, eroding self-regulation — is exactly what the hypothesis predicts.
+
+The crisis this book describes — Part II in its entirety — is the progressive loss of the containers that make stories into grammars. The next chapter traces what happened to the most fundamental container of all: the hearth.
 
 ---
 
