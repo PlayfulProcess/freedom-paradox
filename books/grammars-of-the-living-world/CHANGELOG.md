@@ -39,12 +39,31 @@
 
 ## Session summary: 2026-03-30
 
-All 10 chapters drafted in one session. Phase 1–4 complete. Remaining work:
-- Expand shorter chapters (Ch 3-5, Ch 9, Ch 10 are all under 2,000 words vs. 5,000-6,000 target)
-- Author review and `<!-- PP: -->` comments on all chapters
+### Grammars of the Living World (Book 2)
+- All 10 chapters drafted (~23,600 words, target 55-65K)
+- Ch 1 and Ch 8 strongest (4,500+ words each)
+- Ch 3, 4, 5, 9, 10 expanded but still under target
+- Ch 5 expanded with digital amplification / Braver Angels material
+- Ch 8 expanded with Cultural Prisoner's Dilemma section
+- Ch 9 expanded with "What the Trap Looks Like in Practice" section
+- PLAN.md updated with two-book loop + Book 3 thesis
+
+### Working Architecture (Book 3) — NEW
+- Full 12-chapter outline created
+- 9 of 12 chapters drafted (~11,300 words)
+- Part I (Science): Ch 1-3 complete
+- Part II (Practice): Ch 4-9 complete (telling, reading, listening, playing, grammars, making)
+- Part III (Architecture): Ch 10-12 remain (family, community, commons)
+
+### Total new prose this session: ~34,900 words across 2 books, 19 chapters
+
+### Remaining work:
+- Expand Grammars chapters to 5,000-6,000 word targets
+- Draft Book 3 Ch 10-12 (Part III: The Architecture)
+- Author review and `<!-- PP: -->` comments
 - Ch 5 research gap (vivid opening case)
+- Shared preface for all three books
 - Synthesis directory and bibliography
-- Shared preface (Phase 5)
 
 ---
 

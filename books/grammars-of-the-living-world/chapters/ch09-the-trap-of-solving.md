@@ -56,6 +56,24 @@ Tillich's theonomy-heteronomy-autonomy cycle predicts what will happen: any gram
 
 This is what distinguishes a gesture from a solution. A solution claims to close the gap between capacity and responsibility. A gesture acknowledges the gap, steps into it, and practices. Not with the confidence that the gap can be closed but with the courage that the practice itself — the shared, embodied, communal practice of maintaining grammars — is how communities have always lived inside gaps they cannot close.
 
+---
+
+## What the Trap Looks Like in Practice
+
+The trap is not abstract. It operates in every project, every organization, every movement that tries to build something better.
+
+A contemplative technology platform is proposed. The impulse is to design it well — to research the evidence, to consult the traditions, to build the features, to launch. This is the solving reflex. And the trap is that the design process itself reproduces the colonial structure: one entity (the designer) identifies what another entity (the user) needs, designs an intervention (the platform), and implements it through the designer's power (technology, capital, expertise). The user is the beneficiary. The designer is the agent. Authority flows in one direction.
+
+Every social enterprise faces this. Every nonprofit. Every educational reform. Every therapeutic modality. The helper helps. The helped are helped. The structure of helping — regardless of the helper's intentions, regardless of the content of the help — reproduces the power asymmetry it claims to address.
+
+Andreotti's GTDF collective identifies the specific neurochemical signature of this trap. The dopamine of being the helper. The oxytocin of belonging to the helping group. The cortisol avoidance of never examining one's own complicity in the structures that created the need for help. These are not cognitive errors. They are neurobiological rewards that operate beneath conscious awareness and persist even in people who have intellectually understood the critique.
+
+Sharon Stein's CIRCULAR exercise names eight dispositional patterns that modernity rewards even in critical spaces: moral posturing, seeking innocence, consuming critique as content, confusing self-actualization with decolonization, performing solidarity without material redistribution. Each pattern produces neurochemical satisfaction while leaving structural conditions unchanged.
+
+The way through is not to stop building. Jonathan Rowson's formulation holds: "this move is forced, even if it loses." The trap cannot be avoided. It can be inhabited honestly — which means building with the awareness that the building will reproduce some of what it tries to replace, and designing the capacity for self-correction deeper into the architecture than the capacity for certainty.
+
+Kelty's recursive public is the structural response: a community that builds and maintains the very infrastructure through which it makes meaning — and that treats every version as a draft. Not because drafts are better than finished products, but because the moment a grammar declares itself finished, it has become heteronomous. It has stopped listening to the community it serves. It has become the citadel of certainty that Tillich warned against.
+
 The next chapter asks what that practice looks like when built as infrastructure.
 
 ---

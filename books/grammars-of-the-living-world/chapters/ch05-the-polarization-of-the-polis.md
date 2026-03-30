@@ -44,6 +44,20 @@ Modern structured dialogue formats carry the same architecture. Imago Dialogue �
 
 The evidence from citizens' assemblies is striking. Ireland's Citizens' Assembly on abortion — ninety-nine randomly selected citizens deliberating over five weekends — produced eighty-seven percent consensus on a question that had paralyzed Irish politics for decades. The subsequent referendum matched the assembly's recommendation at sixty-six percent. Deliberative polling consistently shows that seventy percent of participants change their minds when given structured conditions for genuine dialogue.
 
+## The Digital Amplifier
+
+The machinery of mimetic crisis is ancient. What is new is the amplifier.
+
+A landmark audit of Twitter's algorithm found that engagement-based ranking amplifies out-group hostile content — and users do not prefer the political tweets the algorithm selects for them. The algorithm selects hostility because hostility drives engagement, and engagement drives revenue. The platform's financial incentive and the user's psychological wellbeing are structurally opposed.
+
+Brady and Crockett's analysis of 12.7 million tweets quantified the mechanism: expressions of moral outrage received twenty percent more engagement per word than other moral or emotional expressions. Each additional outrage word increased retweet rates. The platform was training its users, through variable-ratio reinforcement — the same operant conditioning that makes slot machines addictive — to produce more outrage. Users with politically moderate networks were *most* susceptible, suggesting the mechanism radicalizes the center first.
+
+Peter Coleman's dynamical systems approach explains why the radicalization is so difficult to reverse. Intractable conflict occurs when distinct issues collapse into a single, self-reinforcing attractor — a strong basin of attraction that assimilates even discrepant information. A positive gesture from an adversary gets reinterpreted as manipulation. Complexity collapses into binary narrative. The system enters what Coleman calls a "conflict trap" — a stable state of polarization that resists perturbation from any single intervention.
+
+The platforms did not create mimetic rivalry. They removed the ritual containers that once channeled it — the shared fire, the shared broadcast, the shared narrative — and replaced them with engagement algorithms that reward escalation. The result is Girard's scapegoat mechanism operating at digital speed, without the ritual resolution that ancient communities used to discharge the crisis.
+
+Braver Angels — an organization that applies marriage counseling structure to political disagreement — has conducted over sixteen hundred workshops and two hundred seventy-five debates, with controlled studies showing significant reductions in affective polarization. The structure is simple: participants from opposing sides are paired, each tells their story, the other mirrors back what they heard. The Imago dialogue applied to the polis. It works — not by changing minds but by restoring the co-regulatory channel that the platforms have severed. When you hear your political opponent describe their actual life, their actual fears, their actual hopes, the amygdala stands down. Not because you agree. Because the person in front of you has become a person rather than a category.
+
 ---
 
 ## The Grammar the Polis Needs
