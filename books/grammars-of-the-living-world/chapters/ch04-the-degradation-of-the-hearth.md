@@ -20,6 +20,12 @@ The research from the first chapter applies directly. Lucas Parra's lab demonstr
 
 And television introduced something the fire never had: a one-way flow. The fire responded to the community. The television did not. The elder adjusted the story to the children's reactions. The screen could not. The first degradation preserved the shared attention while breaking the feedback loop.
 
+Rogers proved something else, too. When his program was tested against the alternatives, the results were specific. Children who watched *Mister Rogers' Neighborhood* showed increased imaginative play, persistence at tasks, and tolerance for delay — all markers of self-regulation. But these effects were strongest in children from lower-income families and in children whose parents discussed the program afterward. The medium could serve the child — but it served best when a co-regulatory other was present to bridge the gap between the screen and the living room.
+
+The Daniel Tiger research, a generation later, confirmed the pattern with precision. Preschoolers who watched *Daniel Tiger's Neighborhood* showed higher empathy, self-efficacy, and emotion recognition — but only when their regular viewing experiences included active parental engagement. The prosocial content alone was not sufficient. It required the relational bridge. Television could carry the story. It could not carry the container.
+
+Dimitri Christakis at Seattle Children's Hospital quantified the cost of lost co-regulation more starkly. Each additional hour of audible background television was associated with a decrease of seven hundred and seventy adult words heard by the child. Adult words were "almost completely eliminated when television is audible." The television was not just failing to provide co-regulation. It was actively displacing it — substituting a one-way signal for the responsive back-and-forth that builds language, attention, and the regulatory architecture of the developing brain. [VERIFY: Christakis 770 words — exact study and year]
+
 ---
 
 ## Television to Personal Screen

@@ -78,6 +78,12 @@ Aaron Talley frames tarot as a technology for Black futures: "For Black people, 
 
 And in August 1791, on the night of the Bois Caïman ceremony, Vodou — Fon cosmology mixed with Yoruba Orisha practice mixed with Kongo spiritual technology mixed with Catholic imagery, forged in the holds of slave ships — launched the only successful slave revolution in history. None of it was "pure." All of it was alive. The grammar did not need to be contextually intact to be powerful. It needed to be responsive to the actual situation.
 
+The pattern of revolutionary syncretism extends further than Haiti. Brazilian quilombos sustained resistance through Candomblé — another "contaminated" syncretic tradition. The U.S. Civil Rights Movement drew on Black church tradition, Gandhian nonviolence (itself a synthesis of Jainism, Tolstoy, and Hindu philosophy), and constitutional law — none in their original context. Liberation theology fused Catholic sacramental practice with Marxist structural analysis in ways that horrified both the Vatican and orthodox Marxists.
+
+The pattern: extreme injustice as the crucible in which traditions must cross-pollinate because no single tradition alone is adequate to the crisis. Fanon, in *The Wretched of the Earth*, saw this clearly: colonized peoples do not recover their pre-colonial culture. They create genuinely new culture through the act of liberation itself. The grammar does not need to be preserved intact. It needs to be alive.
+
+The diagnostic question — the one this book hands to the reader — is: when does the mixing become medicine rather than extraction? The provisional answer: when it arises from genuine need rather than intellectual curiosity. When it serves liberation rather than consumption. When the practitioners have skin in the game rather than observer distance. And when the traditions themselves are treated as living allies rather than inert resources.
+
 The framing that emerges is not "grammars despite their colonial capture" but *grammars because of their structural openness, which is the same feature that enables both colonial capture and decolonial reinvention*.
 
 A revealed tradition cannot be so easily colonized — but neither can it be so easily liberated. The grammar's lack of institutional authority is both its vulnerability and its emancipatory power. This is the recursive logic: the same absence of foundation that made grammars available for colonial fabrication makes them available for what comes next.

@@ -22,6 +22,18 @@ Ngũgĩ wa Thiong'o gave this process its sharpest name. Colonialism's "most imp
 
 ---
 
+## The Death of the Storyteller
+
+Walter Benjamin saw it coming. In 1936, in an essay called "The Storyteller," he wrote that the art of storytelling was reaching its end — not because stories had become less popular but because the conditions that produced genuine storytelling had been destroyed. The storyteller, Benjamin argued, draws on experience — either their own ("the resident tiller of the soil") or the experience of others encountered through travel ("the trading seaman"). Both types are vanishing because experience itself is being devalued. The First World War, Benjamin wrote, produced a generation that "had gone to school on a horse-drawn streetcar" and "now stood under the open sky in a countryside in which nothing remained unchanged but the clouds, and beneath these clouds, in a field of force of destructive torrents and explosions, was the tiny, fragile human body." They came back silent. The experience exceeded the available grammar.
+
+Benjamin's diagnosis is precise: the novel replaced the story, and the novel differs from the story in a structural way that matters for this book. The storyteller speaks to an audience. The novelist writes in isolation for a reader who reads in isolation. The story comes from oral tradition and returns to it — it is meant to be retold, transformed, adapted. The novel is a finished product consumed in solitude. The story is a grammar. The novel is content.
+
+Benjamin did not use the word grammar. But his description of what makes storytelling distinct — its embeddedness in communal practice, its counsel that arises not from answers but from "the epic side of truth, wisdom," its capacity to be retold and transformed by each teller — is a description of the five properties from Chapter 6 applied to narrative. The story has a finite vocabulary (the elements of the tale), combinatorial generativity (each telling adapts to the audience), randomness as portal (the storyteller's digression, the unexpected turn), the practitioner as participant (the teller is not a broadcaster but a co-creator), and change rather than stasis (the tale evolves across tellings).
+
+What Benjamin mourned in 1936 has accelerated beyond what he could have imagined. The storyteller has been replaced not by the novelist but by the algorithm — a system that assembles narrative fragments in real time, optimized not for wisdom but for engagement, with no teller, no audience, no communal field, and no possibility of retelling.
+
+---
+
 ## Three Stories, Three Losses
 
 Consider three cases of stories losing their homes.

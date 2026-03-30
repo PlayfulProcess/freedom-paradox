@@ -50,6 +50,20 @@ Elinor Ostrom's eight design principles for commons governance — clearly defin
 
 ---
 
+## The Sesame Proof
+
+Sesame Workshop has reached over one hundred and fifty million children across more than one hundred and fifty countries. It is the largest proof of concept for mediated co-regulatory technology in human history.
+
+The mechanism is not the content. It is the architecture. Tamara Kay's research identified the two processes that make Sesame's localization work: first, partners align on "non-negotiables" — shared research methodology and shared developmental values. Second, they "deliberately and iteratively exchange complex cultural knowledge" to create culturally specific versions. Sisimpur in Bangladesh. Kilimani Sesame in Tanzania. Ahlan Simsim serving refugee children in the Middle East. Each is fully local while maintaining shared pedagogical rigor.
+
+This is a grammar in the precise sense this book means. A finite framework (the Sesame methodology), combinatorially generative (infinite local instantiations), requiring practitioners as participants (local production teams, local educators, local communities), and modeling change (each version adapts to the cultural context).
+
+The vulnerability is instructive. When USAID cut funding in March 2025, programming disappeared. A commons dependent on donor funding is a commons on life support. This reinforces why responsibility infrastructure must be self-sustaining — why the Ghost model (nonprofit, self-funding, legally protected from sale) is not a nice-to-have but a structural requirement.
+
+Recursive.eco's grammar architecture directly mirrors Sesame's localization model: portable framework, infinite local instantiations, no central gatekeeping. The difference is that where Sesame provides grammars for children, recursive.eco provides grammars for everyone — and where Sesame depends on institutional funding, the platform depends on the community that uses it. The recursive public sustains its own infrastructure. That is the structural advance.
+
+---
+
 ## The Design Draws From
 
 Fred Rogers proved that a medium can serve the child. His program's pace — scored at 14.95 on a temporal density metric versus *Power Rangers* at 41.90 — communicated that the child's tempo is the right tempo. Every design choice served developmental needs, not engagement optimization. The platform draws from this: pace matters. Slowness is not a bug.

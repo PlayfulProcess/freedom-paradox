@@ -34,6 +34,22 @@ Christopher Wallis, teaching from the nondual Shaiva Tantra of Abhinavagupta, pr
 
 ---
 
+## The Attention Economy as Trap
+
+The trap operates most invisibly when it looks most like the solution.
+
+Consider the attention economy. The diagnosis is clear — platforms extract co-regulatory capacity, degrade the parasympathetic bandwidth that makes communal meaning-making possible, and replace relational infrastructure with consumption infrastructure. The Freedom Paradox, the first book in this series, traces the mechanism in detail.
+
+The solving reflex says: build a better platform. One that doesn't extract. One that serves inner life rather than exploiting it. No ads, no algorithm, no notifications. Open source. Commons-based. Responsibility infrastructure.
+
+And this is the trap inside the trap. Because the impulse to build a better platform reproduces the same structure: identify a deficiency (the attention economy degrades people), design an intervention (a contemplative technology platform), implement through your framework (open-source technology, CC BY-SA licensing), evaluate by your metrics (user wellbeing, community growth, co-regulatory capacity). The content has changed entirely. The structure is identical.
+
+This is not a reason to stop building. It is a reason to build with eyes open — to recognize that every platform, including the one this book gestures toward, will partially reproduce the logic it claims to oppose. The recursive public's commitment to radical modifiability — treating every version as a draft, building the capacity for self-correction deeper than the capacity for certainty — is the structural response to a trap that cannot be escaped, only inhabited honestly.
+
+The loop between the two books closes here. The Freedom Paradox says: hold the revenue side accountable. Grammars says: what is being extracted is not just data or attention but the parasympathetic bandwidth that makes responsibility structures possible. The trap of solving says: even the act of building the alternative must be held lightly, held accountably, held as gesture rather than solution.
+
+---
+
 ## The Honest Question
 
 This chapter must sit with a question it cannot answer.
