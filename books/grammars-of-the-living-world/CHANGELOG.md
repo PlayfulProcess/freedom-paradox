@@ -27,6 +27,8 @@
 - Read all 11 research files for Ch 8 (32, 33, 34, 35, 36, 37, 38, 39, 40, 43, 14)
 - **PLAN.md** — Added "The Loop" section connecting both books (costs/revenue, attention/parasympathetic bandwidth)
 - **Ch 8: The Species That Got Fire** — Created skeleton with 7 sections. Drafting section by section.
+- **Ch 6: Machines for Constructing Stories** — Adapted from old Part III HTML. Added responsibility-structure reframe (~1,700 words).
+- **Ch 7: Survival and Capture** — Merged old Part III Chs 2-4. Added Bois Caïman, body-story-community mapping (~2,100 words).
 
 ---
 
