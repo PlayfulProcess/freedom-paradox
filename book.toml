@@ -1,0 +1,13 @@
+[book]
+title = "PlayfulProcess — Collected Drafts"
+authors = ["PlayfulProcess"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+additional-css = ["mdbook-theme/substack.css"]
+no-section-label = true
+git-repository-url = ""

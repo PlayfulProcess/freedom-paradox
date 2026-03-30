@@ -1,0 +1,75 @@
+name: Deploy book to GitHub Pages
+
+on:
+  push:
+    branches: [main, master, claude-organize-research]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install mdbook
+        run: |
+          curl -sL https://github.com/rust-lang/mdBook/releases/download/v0.4.44/mdbook-v0.4.44-x86_64-unknown-linux-gnu.tar.gz | tar xz
+          chmod +x mdbook
+          sudo mv mdbook /usr/local/bin/
+
+      - name: Sync chapter files to src/
+        run: |
+          # Freedom Paradox
+          cp books/freedom-paradox/chapters/ch*.md src/freedom-paradox/
+
+          # Grammars of the Living World
+          cp books/grammars-of-the-living-world/chapters/ch01-the-biological-hypothesis.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch02-why-stories.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch03-when-stories-lose-their-homes.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch04-the-degradation-of-the-hearth.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch05-the-polarization-of-the-polis.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch06-machines-for-constructing-stories.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch07-survival-and-capture.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch08-the-species-that-got-fire.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch09-the-trap-of-solving.md src/grammars/
+          cp books/grammars-of-the-living-world/chapters/ch10-grammars-of-the-living-world.md src/grammars/
+
+          # Species That Tells Stories
+          cp books/grammars-of-the-living-world/chapters/ch01-the-oldest-technology.md src/species-tells-stories/
+          cp books/grammars-of-the-living-world/chapters/ch02-the-darkness-is-the-medicine.md src/species-tells-stories/
+          cp books/grammars-of-the-living-world/chapters/ch03-what-the-old-stories-knew.md src/species-tells-stories/
+
+          # Working Architecture
+          cp books/working-architecture/chapters/ch*.md src/working-architecture/
+
+          # Charts
+          mkdir -p src/images
+          cp models/charts/*.png src/images/ 2>/dev/null || true
+
+      - name: Build mdbook
+        run: mdbook build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: book
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

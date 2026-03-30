@@ -9,3 +9,15 @@ Thumbs.db
 
 # Node (if tooling is added later)
 node_modules/
+
+# mdbook build output
+book/
+.mdbook-bin/
+mdbook.zip
+
+# mdbook staging (copied by build.sh, not source of truth)
+src/freedom-paradox/*.md
+src/grammars/*.md
+src/species-tells-stories/*.md
+src/working-architecture/*.md
+src/images/*.png

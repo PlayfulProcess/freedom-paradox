@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "description": "Compute economics of AI and open source — the new scarcity layer",
+    "last_updated": "2026-03-28",
+    "thesis": "Code was the scarce resource that open source freed. Compute is the scarce resource that open-weight AI models require. 'Free as in beer' means nothing when the beer requires a $10M brewery."
+  },
+  "training_costs": {
+    "description": "Estimated cost to train frontier AI models",
+    "notes": "These are estimates from press reports, leaked documents, and analyst estimates. Exact figures are proprietary. [VERIFY all]",
+    "models": [
+      { "model": "GPT-2", "org": "OpenAI", "year": 2019, "params_B": 1.5, "estimated_cost_usd": 50000, "open": true },
+      { "model": "GPT-3", "org": "OpenAI", "year": 2020, "params_B": 175, "estimated_cost_usd": 4600000, "open": false },
+      { "model": "LLaMA 1 (65B)", "org": "Meta", "year": 2023, "params_B": 65, "estimated_cost_usd": 2400000, "open": true },
+      { "model": "GPT-4", "org": "OpenAI", "year": 2023, "params_B": null, "estimated_cost_usd": 100000000, "open": false },
+      { "model": "Llama 2 (70B)", "org": "Meta", "year": 2023, "params_B": 70, "estimated_cost_usd": 5000000, "open": true },
+      { "model": "Claude 3 Opus", "org": "Anthropic", "year": 2024, "params_B": null, "estimated_cost_usd": null, "open": false, "notes": "Cost not disclosed" },
+      { "model": "Llama 3 (405B)", "org": "Meta", "year": 2024, "params_B": 405, "estimated_cost_usd": 30000000, "open": true },
+      { "model": "Gemini Ultra", "org": "Google", "year": 2024, "params_B": null, "estimated_cost_usd": 190000000, "open": false },
+      { "model": "GPT-5", "org": "OpenAI", "year": 2025, "params_B": null, "estimated_cost_usd": 500000000, "estimated_cost_range_usd": [500000000, 2500000000], "open": false, "notes": "VERIFIED: $500M–$2.5B range. HSBC estimates $1.7–2.5B. Released Aug 7, 2025. Context: 400K tokens, API pricing $1.25/$10 per 1M tokens. Sources: HSBC, Fanatical Futurist." },
+      { "model": "DeepSeek-V3", "org": "DeepSeek", "year": 2024, "params_B": 671, "estimated_cost_usd": 5580000, "estimated_total_investment_usd": 1300000000, "open": true, "notes": "VERIFIED: $5.58M claimed for FINAL TRAINING RUN ONLY (2.79M GPU hours at $2/hr on 2,048 H800s). Excludes prior research, ablation experiments, infrastructure, hardware acquisition. SemiAnalysis estimates total investment ~$1.3B including hardware CapEx. Source: DeepSeek technical paper, Weights & Biases, SemiAnalysis." },
+      { "model": "GPT-OSS", "org": "OpenAI", "year": 2025, "params_B": null, "estimated_cost_usd": null, "open": true, "notes": "Previous-gen model released 2 days before GPT-5. Cost to train: sunk. Value to OpenAI: ecosystem lock-in." }
+    ]
+  },
+  "inference_costs": {
+    "description": "Cost to run models (per million tokens, approximate)",
+    "date": "2025-Q4",
+    "notes": "[VERIFY: prices change frequently]",
+    "api_pricing": [
+      { "model": "GPT-4o", "provider": "OpenAI", "input_per_1M": 2.50, "output_per_1M": 10.00 },
+      { "model": "Claude 3.5 Sonnet", "provider": "Anthropic", "input_per_1M": 3.00, "output_per_1M": 15.00 },
+      { "model": "Gemini 1.5 Pro", "provider": "Google", "input_per_1M": 1.25, "output_per_1M": 5.00 },
+      { "model": "Llama 3 70B (self-hosted)", "provider": "Self", "input_per_1M": 0.50, "output_per_1M": 0.70, "notes": "Requires $20K+ GPU. 'Free' model, expensive compute." },
+      { "model": "Llama 3 405B (self-hosted)", "provider": "Self", "input_per_1M": 2.00, "output_per_1M": 3.00, "notes": "Requires 8x A100 or equivalent (~$150K+)" }
+    ],
+    "self_hosting_hardware": [
+      { "model": "Llama 3 8B", "min_gpu": "1x RTX 4090", "gpu_cost_usd": 1600, "notes": "Accessible to individuals" },
+      { "model": "Llama 3 70B", "min_gpu": "2x A100 80GB", "gpu_cost_usd": 30000, "notes": "Small company / research lab" },
+      { "model": "Llama 3 405B", "min_gpu": "8x A100 80GB", "gpu_cost_usd": 150000, "notes": "Serious infrastructure required" },
+      { "model": "Frontier model retrain", "min_gpu": "10000+ H100s", "gpu_cost_usd": 300000000, "notes": "Nation-state or BigTech only" }
+    ]
+  },
+  "compute_capex": {
+    "description": "Capital expenditure on AI compute by major players (annual)",
+    "notes": "[VERIFY: from earnings calls and press reports]",
+    "spending": [
+      { "company": "Amazon/AWS", "year": 2025, "capex_usd": 125000000000, "capex_2026_usd": 200000000000, "notes": "CORRECTED: $125B (up from prior $118B forecast). 2026 guided at $200B." },
+      { "company": "Google/Alphabet", "year": 2025, "capex_usd": 92000000000, "notes": "CORRECTED: $91-93B (boosted from prior $75-85B range)." },
+      { "company": "Microsoft", "year": 2025, "capex_usd": 80000000000, "notes": "Total capex incl. capital leases ~$140B, up 58% YoY, triple from FY2024." },
+      { "company": "Meta", "year": 2025, "capex_usd": 72000000000, "capex_2026_usd": 100000000000, "notes": "CORRECTED: $72B (nearly doubled from last year). 2026 guided ~$100B." },
+      { "company": "Anthropic", "year": 2025, "capex_usd": null, "notes": "Uses AWS/Google cloud. Total compute spend estimated $2-4B/year" }
+    ],
+    "total_bigtech_ai_capex_2025": 380000000000,
+    "total_bigtech_ai_capex_2026_projected": 700000000000,
+    "insight": "CORRECTED: The four largest tech companies will spend ~$380B+ on AI infrastructure in 2025 (not $285B). Combined 2026 projection approaches $700B. Amazon alone: $125B (2025) → $200B (2026). ~75% of hyperscaler spending is directly tied to AI infrastructure. Sources: CNBC, IEEE ComSoc, CreditSights."
+  },
+  "surveillance_cost_trajectory": {
+    "description": "Amodei's mass surveillance cost estimates over time",
+    "source": "UNVERIFIED: No source found for the specific $30B→$1B cost trajectory. Amodei's essays discuss surveillance qualitatively (AI removes human bottleneck, makes surveillance cheap) but give NO dollar figures. Carnegie Endowment's AI surveillance report discusses declining costs qualitatively. The $30B figure may have been confused with ICE's 2025 budget or AI surveillance market projections. RECOMMEND: replace with qualitative claims from Amodei + Carnegie, or flag these as illustrative estimates.",
+    "data": [
+      { "year": 2024, "cost_usd": 30000000000, "notes": "Current cost of mass domestic surveillance using AI" },
+      { "year": 2026, "cost_usd": 10000000000, "notes": "Projected" },
+      { "year": 2028, "cost_usd": 3000000000, "notes": "Projected" },
+      { "year": 2030, "cost_usd": 1000000000, "notes": "Projected — within reach of mid-size nations" }
+    ],
+    "insight": "When the cost of mass surveillance drops below $1B, open-weight AI models become a governance crisis, not just a licensing debate. The Dwarkesh Problem (Ch. 12) meets the compute cost curve here.",
+    "notes": "[VERIFY: exact cost trajectory from Amodei essay. These are approximations from the book's research.]"
+  },
+  "the_deepseek_disruption": {
+    "description": "DeepSeek's $5.6M training cost challenges the 'compute barrier' narrative",
+    "key_data": {
+      "model": "DeepSeek-V3",
+      "params": "671B (MoE)",
+      "claimed_training_cost": 5600000,
+      "hardware": "2048 H800 GPUs",
+      "training_time_days": 60,
+      "performance": "Competitive with GPT-4o on most benchmarks"
+    },
+    "implications": [
+      "If true, the compute barrier is lower than assumed — algorithmic efficiency matters as much as raw compute",
+      "Chinese labs working under US export controls (H800 instead of H100) found workarounds",
+      "Challenges the '$100M+ to train a frontier model' narrative that protects incumbents",
+      "But: DeepSeek still required 2048 GPUs — not accessible to individuals or small orgs",
+      "The real question: is the cost floor $5M or $500M? The policy implications are very different.",
+      "CRITICAL CAVEAT: $5.6M is final run only. SemiAnalysis estimates ~$1.3B total investment including hardware. The headline figure is misleading without this context."
+    ],
+    "notes": "VERIFIED: $5.58M final training run confirmed. But total investment ~$1.3B (SemiAnalysis). The gap between these numbers is itself a finding: the marginal cost of a training run is low, but the infrastructure cost is enormous."
+  }
+}
