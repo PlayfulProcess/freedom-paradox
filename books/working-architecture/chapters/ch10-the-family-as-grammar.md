@@ -38,6 +38,24 @@ Rules that work target the container, not the content:
 
 ---
 
+## The Economics of the Family Grammar
+
+Here is a truth this book must be honest about: maintaining a family grammar costs something.
+
+Not money, primarily — though the economics matter. (A family that cannot afford to turn down overtime, that works two or three jobs, that has no grandparent nearby, faces a co-regulation deficit that is not a personal failure but a structural one. The attention economy extracts from everyone, but it extracts most from families with the least margin.)
+
+What the family grammar costs is attention. Time. The willingness to be bored. The discipline to put the phone in the basket when the phone is offering something more immediately stimulating than the conversation at the table.
+
+The attention economy has made attention the scarcest resource in human life. Not food, not shelter, not information — attention. And the family grammar requires exactly the resource that the dominant economic model is designed to extract. Every notification is a withdrawal from the family's co-regulation budget. Every "just let me check this one thing" is a micro-still-face. Every evening spent in parallel screens is an evening the grammar did not practice.
+
+This is not a moral failure. It is an economic structure. The platforms that extract your attention are backed by billions of dollars of engineering talent, behavioral science, and machine learning, all optimized to make the extraction feel voluntary. You are not weak for checking your phone. You are a nervous system responding to a stimulus engineered to be irresistible.
+
+The family grammar is the counter-technology. It is low-tech, low-cost, and low-status — nobody gets a promotion for reading aloud to their child. But it is the oldest technology on earth, and it works. The investment is not glamorous. It is showing up. Putting the phone down. Telling the story. Listening to the answer. Repairing when you fail. Showing up again tomorrow.
+
+Every story system that endured across centuries had a funding mechanism. The family grammar is funded by attention — the most valuable and most contested resource in the modern economy. Protecting that resource is not self-care. It is infrastructure maintenance.
+
+---
+
 ## Intergenerational Storytelling
 
 The research on co-regulation focuses overwhelmingly on the parent-child dyad. But the anthropological record suggests that the most powerful co-regulatory relationships in most human cultures were not parent-child but grandparent-child.

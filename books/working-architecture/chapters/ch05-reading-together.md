@@ -40,6 +40,24 @@ The method works because it respects the limbic system's learning process. The s
 
 ---
 
+## The Rogers Paradox and What It Means for You
+
+Fred Rogers refused to merchandise his image because he believed children should not be treated as future consumers. His show was funded by public broadcasting — the Corporation for Public Broadcasting, the Sears-Roebuck Foundation, PBS underwriting. It was the purest model of non-commercial children's media ever built.
+
+After Rogers' death, the organization bearing his name launched *Daniel Tiger's Neighborhood* and built a merchandise empire that has generated over one hundred and eighteen million dollars in cumulative royalties. Net assets grew from fifteen million to eighty-eight million. The organization survived by doing what Rogers refused to do.
+
+Meanwhile, the public broadcasting infrastructure Rogers depended on has collapsed. CPB dissolved in 2026. Rural stations — where public funding was twenty-five to fifty percent of revenue — face closure.
+
+What does this mean for a parent reading a book to a child?
+
+It means that the infrastructure that once delivered high-quality co-regulatory stories to every American child is gone. What replaced it is an attention economy that optimizes for engagement, not development. The commercial alternatives — YouTube Kids, Netflix, algorithmically curated "educational" apps — are designed to keep children watching, not to support the co-regulatory relationship between parent and child.
+
+This is why the practice in this chapter matters more than it did a generation ago. When public infrastructure provided the stories, parents could rely on institutions to do part of the work. Now the parent *is* the infrastructure. The live voice, the co-reading, the shared attention — these are not supplements to a system that supports families. They are the last line of the system.
+
+The practice of reading together is not a lifestyle choice. It is responsibility infrastructure at the household level — the smallest possible scale at which the grammar can hold.
+
+---
+
 ## How to Read Aloud to Any Age
 
 **Choose a living book.** Not a textbook. Not an abstraction. Something written by someone who cared. A picture book with real art. A novel with real sentences. A poem that sounds like it was written by a human being. The quality of the text matters because the reader's voice carries the quality — and the listener's nervous system registers the difference between prose that was crafted and prose that was assembled.

@@ -41,6 +41,20 @@ These are not abstract principles. They are a grammar for governance. Each princ
 
 ---
 
+## Three Models That Prove It Works
+
+The argument that story systems can sustain themselves as commons is not hypothetical. Three models — at different scales, in different domains — demonstrate that the middle path between pure public funding and pure commercial extraction is not just possible but more durable than either extreme.
+
+**Sesame Workshop** has reached one hundred and fifty million children in over one hundred and fifty countries across fifty-five years. Its net assets grew to 469 million dollars. Its revenue blends distribution fees (forty-nine percent), contributions (twenty-nine percent), and merchandise licensing (nineteen percent). Its rule: any licensed product must be educational, inexpensive, and never advertised during the show. When the HBO deal ended in 2024 and CPB dissolved in 2026, Sesame's diversified model proved more resilient than the pure public broadcasting infrastructure that gave it birth. The governance architecture — nonprofit status, mission-locking bylaws, editorial independence from licensees — is what makes the commercial activity serve the story rather than the reverse.
+
+**Studio Ghibli** earned 1.46 billion dollars in lifetime revenue from *My Neighbor Totoro* — a film that cost four million to make and grossed just forty-one million theatrically. The difference was merchandise and home video, managed under a self-imposed revenue cap. Ghibli's films are never written to sell products. The products follow the films. *The Boy and the Heron* was released with zero marketing and won an Academy Award. Ghibli Park has no roller coasters. The governance architecture — Miyazaki's creative authority, Suzuki's commercial discipline, the studio's independence from conglomerate ownership — keeps the story at the center.
+
+**Ghost** — the open-source publishing platform — cannot be acquired, sold, or pivoted. It is legally structured as a nonprofit company limited by guarantee. Profitable since 2014. Zero percent platform fees. Publications on Ghost have earned over one hundred million dollars in subscription revenue. The governance architecture — the legal lock that prevents any future leadership from selling the mission — is the structural innovation. It is plumbing. It is invisible. And it is the reason the mission survives.
+
+The pattern across all three: **mission-locking governance + diversified revenue + commercial activity that serves the story = durability.** The pattern breaks when any element is missing: pure public funding collapses when politics shifts (CPB). Pure commercial funding drifts toward extraction (Disney's franchise imperative). Governance without revenue produces noble poverty (Rogers' original model). Revenue without governance produces mission drift (YouTube's content farms).
+
+---
+
 ## Open Source as Responsibility Infrastructure
 
 The Freedom Paradox — the first book in this series — argues that open source is the most successful commons in human history. Linux runs virtually every server on the internet. Wikipedia is the world's encyclopedia. The protocols that power the web are open standards maintained by communities of practitioners.

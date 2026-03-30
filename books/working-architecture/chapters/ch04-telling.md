@@ -48,6 +48,22 @@ You do not need to be a good storyteller. You need to be present.
 
 ---
 
+## Four Traditions, One Architecture
+
+The live voice is not one tradition's practice. It is every tradition's practice. And the structural similarities across unconnected cultures are the strongest evidence that storytelling is not cultural decoration but adaptive technology.
+
+**West African call-and-response.** "Tales by Moonlight" — the tradition of communal storytelling around fires, found across West Africa with local variations — begins with a formulaic opening. The teller calls. The audience responds. This is not decorative. The call-and-response makes the audience physiologically active participants — their vocalization synchronizes breathing, their shared response triggers the endorphin release that Dunbar's research documents, and the structure ensures that no one is a passive consumer. Everyone has a role. The grammar is communal.
+
+**Brazilian *contação de histórias*.** Brazilian storytelling braids Tupi indigenous, West African Griô, and Portuguese traditions into a single practice. The *contadora* — the storyteller — adapts to the audience in real time, shifting between languages, registers, and levels of intensity. The practice survived colonization, slavery, and cultural repression because it lived in bodies, not institutions. A *contadora* needs no library card, no degree, no platform. She needs a voice and people willing to listen.
+
+**Japanese *kamishibai*.** Before television, Japanese street storytellers used *kamishibai* — "paper theater" — wooden frames holding illustrated boards, narrated live to gathered children. The storyteller sold candy to fund the performance (the economics of mythic infrastructure, at the smallest possible scale). The practice was displaced by television in the 1950s but has been revived as an educational tool. The revival confirms the principle: when a community recognizes what it lost, it can rebuild — but the rebuilt version must preserve the live voice and the gathered audience, or it is content, not grammar.
+
+**Appalachian Jack Tales.** In the mountains of North Carolina, a continuous oral tradition — documented by Richard Chase in the 1930s but stretching back to Scots-Irish settlement — preserves fairy tales in a form that European collections lost: told aloud, in dialect, with local details, adapted to the audience, never the same twice. Jack, the folk hero, is always poor, always clever, always up against something bigger than himself. The tales persist because they are practiced, not published. The family that tells them is the grammar that holds them.
+
+The pattern across all four: the story is not the text. The story is the event — the gathering, the voice, the responsiveness, the shared nervous systems moving through the arc of safety-activation-return together. When you tell a story tonight, you are not performing a cultural artifact. You are activating the oldest co-regulatory technology your species has.
+
+---
+
 ## How to Tell a Story to an Adult
 
 It is the same. The pace matters. The prosody matters. The responsiveness matters. Adults have more sophisticated defenses against vulnerability — they will check their phones, make jokes, change the subject — but their nervous systems work the same way. A story told in a warm voice, at a human pace, with genuine attention to the listener, regulates the adult's nervous system just as it regulates the child's.
