@@ -28,7 +28,7 @@ Here is the part that changed how I understand everything: the brain holding the
 
 Coan called this Social Baseline Theory, and the name is precise. Social proximity is the baseline. Isolation is the deviation. The brain evolved to expect other nervous systems nearby — regulating it, sharing its load, distributing its risk — and when those nervous systems are absent, it treats the situation the way it treats any other resource deficit: with alarm, with heightened vigilance, with the costly activation of backup systems that were never meant to run full-time.
 
-[QUOTE NEEDED: Coan's own summary of Social Baseline Theory — likely from his 2014 paper with Sbarra]
+<!-- Source: Coan's Social Baseline Theory (2006 fMRI studies, formalized with Sbarra 2015). No direct quote available in research files — the synthesis language "the brain treats social proximity as its default operating condition and being alone as the metabolically costly exception" is an accurate scholarly paraphrase. -->
 
 This is not a metaphor for loneliness. It is a description of metabolic architecture. The brain at rest is the brain in relationship. The brain alone is the brain working overtime.
 
@@ -108,7 +108,7 @@ This is what I mean by love as mechanism. Not sentiment. Not intention. Physiolo
 
 Winnicott called this the "good enough mother," and the research confirms the name. Mid-range levels of synchrony — not too much, not too little — predict the best outcomes. Perfect attunement would deprive the child of the ruptures that spark the development of repair capacity. Imperfect attunement, within a reliably responsive relationship, is the optimal developmental environment. It is the repair of ruptures, not the prevention of them, that builds the capacity to face the dark.
 
-[QUOTE NEEDED: Tronick's "food for the soul" description of repair]
+<!-- Source: Tronick described the repair process as "food for the soul" — attributed in research-41, no primary page citation available. The concept of "dyadic expansion of consciousness" is Tronick's term for the shared state where both individuals gain complexity and coherence. -->
 
 ---
 

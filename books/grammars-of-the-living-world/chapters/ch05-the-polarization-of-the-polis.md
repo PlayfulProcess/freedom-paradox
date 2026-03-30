@@ -2,11 +2,7 @@
 
 ---
 
-{/* Gap note: outline says Ch 5 needs one more research session — a vivid opening case of a community that lost and rebuilt shared narrative. Using placeholder opening; flagged for revision. */}
-
-[RESEARCH NEEDED: Vivid opening case — a specific community that lost shared narrative and rebuilt it. Not Anderson (too abstract). Needs concrete story with named people, specific place, identifiable moment of fracture and repair.]
-
----
+<!-- PLACEHOLDER: Opening case needed. Research prompt saved in prompts/ directory. Candidates: post-conflict reconciliation (Rwanda gacaca courts, Northern Ireland cross-community storytelling), community rebuilding (factory town, school integration), indigenous revitalization with measurable social outcomes. The opening should be concrete, embodied, narrative — like the still-face experiment opening of Ch 1. -->
 
 John Gottman spent forty years at the University of Washington studying couples — three thousand of them, with cameras measuring everything from facial expressions to heart rate. His single most consequential finding: sixty-nine percent of relationship conflicts are perpetual problems that never get resolved.
 
@@ -34,7 +30,7 @@ Jaron Lanier named the result: platforms structurally favor "fight-or-flight emo
 
 ## The Violence Cascade
 
-James Gilligan spent thirty-five years as a prison psychiatrist. His conclusion was devastating in its simplicity: shame is the primary emotional driver of violence. When he asked murderers why they killed, the answers were remarkably consistent — "He dissed me. What did you expect me to do?" Violence is an attempt to restore dignity in the face of overwhelming shame. The most violent prisoners had experienced childhood abuse "beyond the scale of anything I had even thought of applying that term to." Gilligan's formulation is precise: "The difference is that in the case of violence the pathogen is an emotion, not a microbe — namely, the experience of overwhelming shame and humiliation." [QUOTE NEEDED: Gilligan, "the pathogen is an emotion" — exact page, *Violence*]
+James Gilligan spent thirty-five years as a prison psychiatrist. His conclusion was devastating in its simplicity: shame is the primary emotional driver of violence. When he asked murderers why they killed, the answers were remarkably consistent — "He dissed me. What did you expect me to do?" Violence is an attempt to restore dignity in the face of overwhelming shame. The most violent prisoners had experienced childhood abuse "beyond the scale of anything I had even thought of applying that term to." Gilligan's formulation is precise: "The difference is that in the case of violence the pathogen is an emotion, not a microbe — namely, the experience of overwhelming shame and humiliation." <!-- Gilligan, Violence (1996). Exact page needed for final. -->
 
 Marshall Rosenberg's Nonviolent Communication converges from the individual level: "Every criticism, judgment, diagnosis, and expression of anger is the tragic expression of an unmet need." When shame becomes the dominant emotional register, the capacity to identify and express underlying needs collapses. Violence fills the communicative void.
 
@@ -70,7 +66,7 @@ Peter Coleman's dynamical systems research explains why the shift from breaking 
 
 Braver Angels performs exactly this complication. Participants from opposing sides are paired. Each tells their story. The other mirrors back what they heard. The structure is simple — it is Imago dialogue applied to the polis. And it works: controlled studies show significant reductions in affective polarization. Not by changing minds but by restoring the co-regulatory channel. When you hear your political opponent describe their actual life, their actual fears, their actual hopes, the amygdala stands down. Not because you agree. Because the person in front of you has become a person rather than a category.
 
-The mechanism, as Tania Singer's research on contemplative dyads confirms, is physiological: structured meditative listening between two people reduces cortisol stress levels by fifty percent in *both* participants. The structure does for the polis what the bedtime ritual does for the family: it creates a co-regulatory container in which nervous systems can shift from threat-detection to social engagement. (Engert, Kok, Papassotiriou, Chrousos & Singer, "Specific reduction in cortisol stress reactivity after social but not attention-based mental training," *Science Advances* 3(10): e1700495, 2017; part of the ReSource Project at the Max Planck Institute for Human Cognitive and Brain Sciences)
+The mechanism, as Tania Singer's research on contemplative dyads confirms, is physiological: structured meditative listening between two people reduces cortisol stress levels by fifty percent in *both* participants. The structure does for the polis what the bedtime ritual does for the family: it creates a co-regulatory container in which nervous systems can shift from threat-detection to social engagement. <!-- Singer contemplative dyads 50% cortisol — attributed in research-29 line 71, no publication year/journal in files. Needs primary source verification. -->
 
 ---
 
