@@ -40,5 +40,8 @@ fi
 echo "🔨 Building mdbook..."
 .mdbook-bin/mdbook.exe build
 
+# Copy CNAME for GitHub Pages custom domain
+cp CNAME book/ 2>/dev/null || true
+
 echo "✅ Done! Output in book/"
 echo "   Open: book/index.html"

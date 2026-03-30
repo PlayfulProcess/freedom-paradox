@@ -64,7 +64,8 @@ bash build.sh        # Syncs chapters from source dirs → src/, runs mdbook bui
 4. GitHub Pages serves the `book/` directory
 
 ### Deployment
-- **GitHub Pages**: deploy from `main` branch, `book/` directory
+- **Live site**: [books.recursive.eco](https://books.recursive.eco/)
+- **GitHub Pages**: deploy from `main` branch via GitHub Actions
 - Custom CSS: `mdbook-theme/substack.css` (Newsreader serif, 19px, 680px max-width)
 - Config: `book.toml`
 
