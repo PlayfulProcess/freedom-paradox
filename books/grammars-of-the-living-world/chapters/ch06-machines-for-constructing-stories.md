@@ -38,6 +38,18 @@ None of this means these systems are "true" in the sense that they accurately pr
 
 ---
 
+The question is not why humans build grammars. The question is why we keep building them independently — and why they keep converging on the same structural properties.
+
+One answer is cognitive. The human mind naturally categorizes, polarizes, and combines. We think in binaries and generate complexity by combining them. A system of six binary positions generates sixty-four states, which is enough to feel exhaustive without being overwhelming. A system of eight binary positions generates two hundred and fifty-six — pushing toward the limit of what a trained practitioner can hold in memory. These are cognitive sweet spots.
+
+Another answer is mathematical. Ron Eglash, in *African Fractals*, traced a provocative chain: African binary divination → Islamic geomancy → European geomancy → Raymond Lull's logic machine → Leibniz → modern binary computing. The mathematics of grammars is not mysticism — it is combinatorics. Binary systems generate exhaustive possibility spaces efficiently. This is why digital computers use them. It is also why diviners use them.
+
+But the deepest answer may be existential. Humans live in a world that exceeds their comprehension. We are finite beings confronting infinite complexity. We cannot process all the information available to us, cannot predict the consequences of our actions, cannot know what we do not know. Grammars are technologies for making this situation bearable — not by reducing complexity, but by providing a structured framework within which complexity can be encountered. The randomness of the draw is an honest acknowledgment of our ignorance. The finitude of the vocabulary is an honest acknowledgment of our cognitive limits. The requirement for interpretation is an honest acknowledgment that meaning is made, not found.
+
+In this sense, grammars are humanity's oldest contemplative technologies. They predate meditation traditions, predate organized religion, predate writing itself — the proto-hexagram symbols on Shang dynasty oracle bones are among the earliest symbolic marks in the archaeological record.
+
+---
+
 But here is what the earlier chapters have prepared the reader to see: these grammars are not only machines for constructing stories. They are responsibility structures.
 
 The I Ching did not survive for three millennia because it was a clever parlor game. It survived because it constrained the emperor's power through ritual consultation. Before major decisions — war, treaty, marriage, construction — the ruler was obligated to consult the hexagrams. The casting slowed him down. The reading forced him to consider perspectives beyond his own. The commentary — accumulated over centuries by generations of sages — carried the weight of communal wisdom into the decision-making moment of an individual who might otherwise have been accountable to no one. The I Ching was a grammar that made power answer to something larger than itself.
@@ -47,12 +59,6 @@ Ifá operates the same way at the communal level. When the Odu speaks, it does n
 Even tarot, the most structurally open of the grammars examined here, constrains. Not through doctrine or obligation, but through the slower logic of the reading itself. The querent who sits with a card long enough to generate their own interpretation is exercising a different faculty than the one that reaches for a phone. The randomness disrupts habitual thought. The finitude of the vocabulary constrains the field of interpretation. The requirement for personal meaning-making builds the capacity for self-reflection that is the individual precondition for responsibility. The grammar does not tell you what to do. It creates a container in which you must decide for yourself — and in which the decision is witnessed, whether by another person or by your own attention.
 
 The question is not why humans build grammars. The question is why we keep building them independently — and why they keep converging on the same structural properties.
-
-One answer is cognitive. The human mind naturally categorizes, polarizes, and combines. We think in binaries and generate complexity by combining them. A system of six binary positions generates sixty-four states, which is enough to feel exhaustive without being overwhelming. These are cognitive sweet spots.
-
-Another answer is mathematical. Ron Eglash, in *African Fractals*, traced a provocative chain: African binary divination → Islamic geomancy → European geomancy → Raymond Lull's logic machine → Leibniz → modern binary computing. The mathematics of grammars is not mysticism — it is combinatorics. Binary systems generate exhaustive possibility spaces efficiently. This is why digital computers use them. It is also why diviners use them.
-
-But the deepest answer may be the one this book has been building toward. Humans are the species that got fire — that keeps acquiring power faster than it can build the communal practices to wield that power responsibly. Grammars are the oldest response to this problem. They are the technology through which communities constrain their own power, slow their own decisions, and hold their own members accountable to something larger than individual will. Before humans had books, before they had temples, before they had formal philosophies, they had grammars: structured systems for encountering the unknown and making meaning from the encounter — together.
 
 ---
 

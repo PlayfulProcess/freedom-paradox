@@ -42,6 +42,18 @@ And the effects are measurable. Infants of parents with habitual technoference s
 
 ---
 
+## Ritual Misplacement
+
+Byung-Chul Han, in *The Disappearance of Rituals*, identifies the core dynamic of what might be called ritual misplacement. He distinguishes "community without communication" — ritual togetherness, where shared presence suffices — from "communication without community" — digital connection, where constant messaging fails to create belonging. When legitimate ritual containers dissolve, the impulses they served — for belonging, meaning, collective effervescence, transcendence — do not disappear. They migrate.
+
+Consumer culture actively mimics ritual structures. Brand communities function as congregations. Shopping operates as pilgrimage. Social media posting performs testimony and confession. Unboxing videos, ASMR, decluttering transformations — each represents a genuine ritual impulse channeled through a commercial platform. As Han writes: "Today we consume not only things themselves but also the emotions bound up with things. You cannot consume things endlessly, but emotions you can." The substitutes fail to satisfy, creating compulsive loops — the architectural logic of addiction operating at the scale of culture.
+
+An Indonesian study of family media use documented "absent presence" — family members physically together, psychologically detached, each in their own algorithmically curated narrative stream. The family cannot have shared stories if each member receives a different story. The family cannot practice a grammar together if each member is consuming content alone. The hearth required shared attention. The personal screen provides parallel isolation in the same room.
+
+Malidoma Somé, observing the West from outside, saw this with devastating clarity: "The hurt that a person feels in the midst of this modern culture should be taken as a language spoken by the body. Our soul communicates things to us that the body translates as need, or want, or absence. So we enter into ritual in order to respond to the call of the soul." Without ritual, humans live in nostalgia — or in compulsive consumption, which is nostalgia's commercial form. [QUOTE NEEDED: Somé, "The hurt that a person feels" — exact source]
+
+---
+
 ## The Fire That Does Not Warm
 
 The trajectory is clear. Fire gathered. Television shared. The personal screen isolates. Each step preserved some function of the previous medium while degrading the co-regulatory infrastructure that made the function meaningful.

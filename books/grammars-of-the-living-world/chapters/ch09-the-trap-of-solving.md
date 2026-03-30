@@ -64,6 +64,20 @@ The honest answer, drawing on Jonathan Rowson: "this move is forced, even if it 
 
 ---
 
+## The Desert
+
+There is a metaphor that holds the tension this chapter describes, and it comes from the oldest source.
+
+The Torah was received in the wilderness. Not in the Promised Land. Not in the Temple. In the desert — the place between Egypt and Canaan, between the old grammar and the new. The Israelites had left a world they knew (slavery, but also certainty) and had not yet arrived at a world they could build. The desert was not punitive. It was generative — the place where the old grammar had to die before the new one could be received.
+
+Victor Turner's concept of liminality describes the same structure: the in-between phase where normal social distinctions dissolve and *communitas* emerges — a mode of social relation characterized by egalitarianism, spontaneity, and heightened fellow-feeling. The desert is liminal space. The old identity has been shed. The new one has not yet formed. And in that space — uncomfortable, disorienting, without the markers of certainty — something can be received that the old identity would not have permitted.
+
+Andreotti's position is that this is where we are now: "We are not yet ready to build. We are in the composting phase." This is the desert. The old grammar — modernity, the sovereignty of the individual, the extraction economy — is dying. The new grammar has not yet been received. And the golden calf is always available — regression to simulacra of old certainty: nationalism, fundamentalism, techno-utopianism, the app that promises to solve your loneliness.
+
+The counter-example is important. Aboriginal Australian songlines — sixty-five thousand years of wisdom transmission — did not emerge from punctuated crisis. They evolved through continuous ceremonial adaptation without civilizational collapse. This suggests that the "collapse → innovation" pattern may be specific to literate, theoretic cultures and potentially Eurocentric. Some communities have maintained their grammars without the drama of death and rebirth. The desert is not the only path. But it may be the one available to a civilization that has already entered it.
+
+---
+
 ## What a Gesture Means
 
 A gesture is not a solution. It is not certainty. It is the Linehan wager applied to building: we cannot know if this will work. We can ask if it is useful, if it fits the data, and if it is compassionate. And we can build it with the Protestant Principle built into the architecture — the commitment to continuously negate every concrete form that claims to be final.
