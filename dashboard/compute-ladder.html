@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Freedom Paradox — The Compute Ladder</title>
+<style>
+  :root {
+    --bg: #0d1117; --surface: #161b22; --border: #30363d;
+    --text: #e6edf3; --text-muted: #8b949e;
+    --blue: #58a6ff; --green: #3fb950; --orange: #d29922;
+    --red: #f85149; --purple: #bc8cff;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6;
+  }
+  header {
+    border-bottom: 1px solid var(--border); padding: 2rem 3rem;
+    background: linear-gradient(135deg, #0d1117 0%, #1a1e2e 100%);
+  }
+  header h1 { font-size: 1.6rem; font-weight: 600; }
+  header p { color: var(--text-muted); margin-top: 0.4rem; font-size: 0.9rem; max-width: 700px; }
+  .back-link { color: var(--blue); text-decoration: none; font-size: 0.85rem; display: inline-block; margin-bottom: 0.5rem; }
+
+  .ladder {
+    max-width: 900px; margin: 2rem auto; padding: 0 2rem; position: relative;
+  }
+  .ladder::before {
+    content: ''; position: absolute; left: 50%; top: 0; bottom: 0;
+    width: 2px; background: var(--border); transform: translateX(-50%);
+  }
+
+  .rung {
+    position: relative; margin-bottom: 0; cursor: pointer;
+    display: grid; grid-template-columns: 1fr 60px 1fr; align-items: center;
+    min-height: 100px;
+  }
+  .rung:hover .rung-dot { transform: scale(1.5); }
+  .rung:hover .rung-card { border-color: var(--blue); }
+
+  .rung-left { text-align: right; padding-right: 2rem; }
+  .rung-right { text-align: left; padding-left: 2rem; }
+
+  .rung-dot {
+    width: 16px; height: 16px; border-radius: 50%; border: 2px solid var(--border);
+    background: var(--surface); margin: 0 auto; z-index: 1; position: relative;
+    transition: transform 0.2s;
+  }
+  .rung-dot.green { border-color: var(--green); background: rgba(63,185,80,0.3); }
+  .rung-dot.orange { border-color: var(--orange); background: rgba(210,153,34,0.3); }
+  .rung-dot.red { border-color: var(--red); background: rgba(248,81,73,0.3); }
+  .rung-dot.purple { border-color: var(--purple); background: rgba(188,140,255,0.3); }
+
+  .rung-cost {
+    font-size: 1.4rem; font-weight: 700; margin-bottom: 0.2rem;
+  }
+  .rung-cost.green { color: var(--green); }
+  .rung-cost.orange { color: var(--orange); }
+  .rung-cost.red { color: var(--red); }
+  .rung-cost.purple { color: var(--purple); }
+
+  .rung-label { font-size: 0.85rem; color: var(--text-muted); }
+  .rung-sublabel { font-size: 0.75rem; color: var(--text-muted); opacity: 0.7; }
+
+  .rung-card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    padding: 1rem; font-size: 0.82rem; color: var(--text-muted);
+    max-width: 350px; display: none; margin-top: 0.5rem;
+    transition: border-color 0.2s;
+  }
+  .rung-card.show { display: block; }
+  .rung-card strong { color: var(--text); }
+
+  .rung-left .rung-card { margin-left: auto; }
+
+  .scale-label {
+    text-align: center; font-size: 0.7rem; color: var(--text-muted);
+    text-transform: uppercase; letter-spacing: 0.1em; padding: 1.5rem 0 0.5rem;
+    border-top: 1px dashed var(--border); margin: 1rem 0;
+  }
+
+  .thesis-box {
+    max-width: 700px; margin: 3rem auto; padding: 1.5rem 2rem;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    border-left: 3px solid var(--red);
+  }
+  .thesis-box h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+  .thesis-box p { color: var(--text-muted); font-size: 0.88rem; }
+
+  footer {
+    border-top: 1px solid var(--border); padding: 2rem; text-align: center;
+    color: var(--text-muted); font-size: 0.75rem; margin-top: 2rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a href="index.html" class="back-link">&larr; Back to Dashboard</a>
+  <h1>The Compute Ladder</h1>
+  <p>What does "free" mean when the software costs $300 million to run? Click each rung to expand.</p>
+</header>
+
+<div class="ladder" id="ladder"></div>
+
+<div class="thesis-box">
+  <h3>The Book's Argument</h3>
+  <p>Open source freed code when code was the scarce resource. AI shifted scarcity to compute. "Open weights" gives you the recipe but not the kitchen. The freedom to fork is meaningless without the resources to run what you've forked. The compute ladder shows who can actually exercise the Four Freedoms in the AI era &mdash; and who cannot.</p>
+  <p style="margin-top:0.8rem;">The gap between the bottom rung ($1,600) and the top ($125 billion/year) is not narrowing. It is widening exponentially. When four companies spend more on AI infrastructure than the GDP of all but ~20 countries, "openness" becomes a question of physics, not philosophy.</p>
+</div>
+
+<footer>
+  Research companion for <em>The Freedom Paradox</em> by PlayfulProcess. Figures verified 2026-03-28.
+</footer>
+
+<script>
+const rungs = [
+  {
+    cost: "$1,600", costNum: 1600, color: "green",
+    label: "1x RTX 4090 GPU", sublabel: "Run Llama 3 8B locally",
+    side: "left", zone: "Hobbyist",
+    detail: "A single consumer GPU can run a small open-weight model. This is genuine accessibility — a student, a hobbyist, a startup in Lagos can experiment with AI. But 8B parameters is the smallest tier. The gap to frontier capability is four orders of magnitude."
+  },
+  {
+    cost: "$5,000", costNum: 5000, color: "green",
+    label: "Cloud GPU rental (1 month)", sublabel: "Fine-tune a 7B model",
+    side: "right", zone: null,
+    detail: "A few thousand dollars of cloud compute can fine-tune a small model on your own data. This is the 'vibe coding' tier — real capability, genuine democratization. But you're customizing someone else's foundation model, not building your own."
+  },
+  {
+    cost: "$30,000", costNum: 30000, color: "orange",
+    label: "2x A100 80GB GPUs", sublabel: "Run Llama 3 70B locally",
+    side: "left", zone: "Small Company",
+    detail: "Running a 70B model requires hardware that costs more than most cars. A well-funded startup or university lab can afford this. An independent developer or small nonprofit cannot. 'Open weights' starts to mean 'open to those with capital.'"
+  },
+  {
+    cost: "$150,000", costNum: 150000, color: "orange",
+    label: "8x A100 80GB GPUs", sublabel: "Run Llama 3 405B locally",
+    side: "right", zone: null,
+    detail: "The largest Llama model requires $150K+ in hardware just to inference (run, not train). This is beyond the reach of individuals. The 'freedom to run the program for any purpose' (Stallman's Freedom 0) requires six figures of infrastructure."
+  },
+  {
+    cost: "$5.6M", costNum: 5.6e6, color: "orange",
+    label: "DeepSeek-V3 training run", sublabel: "2,048 H800 GPUs, 60 days",
+    side: "left", zone: "Well-Funded Lab",
+    detail: "<strong>The headline that shook the industry.</strong> But $5.6M is the marginal cost of the final training run only. SemiAnalysis estimates total investment at ~$1.3B including hardware, prior research, and infrastructure. The gap between these numbers is itself a finding: the marginal cost is low, but the infrastructure cost is enormous."
+  },
+  {
+    cost: "$30M", costNum: 30e6, color: "red",
+    label: "Llama 3 405B training", sublabel: "Meta's largest open model",
+    side: "right", zone: null,
+    detail: "'Open weights' means anyone can download and run this model. Retraining it costs $30M. Modifying it at scale requires Meta-level infrastructure. This is 'free as in beer' where the beer requires a $30 million brewery."
+  },
+  {
+    cost: "$100M", costNum: 100e6, color: "red",
+    label: "GPT-4 training (est.)", sublabel: "Proprietary frontier model, 2023",
+    side: "left", zone: "Frontier AI Lab",
+    detail: "The cost of entry to build a frontier model in 2023. Only a handful of organizations on Earth could afford this. By 2025, the bar had risen to $500M+."
+  },
+  {
+    cost: "$500M–$2.5B", costNum: 1e9, color: "red",
+    label: "GPT-5 training (est.)", sublabel: "Released August 2025",
+    side: "right", zone: null,
+    detail: "<strong>HSBC estimates $1.7–2.5B.</strong> The cost of training a single frontier model now exceeds the GDP of small nations. 'Open source' AI at this tier is an oxymoron — only organizations with billion-dollar compute budgets can participate."
+  },
+  {
+    cost: "$72B/year", costNum: 72e9, color: "purple",
+    label: "Meta 2025 AI capex", sublabel: "80% increase over 2024",
+    side: "left", zone: "Nation-State / BigTech",
+    detail: "Meta's annual AI infrastructure spending — for a company that open-sourced Llama. Guidance for 2026: $115–135B. The company that gave away its AI model spends more on compute than the GDP of most countries."
+  },
+  {
+    cost: "$92B/year", costNum: 92e9, color: "purple",
+    label: "Google 2025 AI capex", sublabel: "Up from $75-85B guidance",
+    side: "right", zone: null,
+    detail: "Google's infrastructure spend exceeds the GDP of 120+ countries. The company that open-sourced Android, Chromium, TensorFlow, and Kubernetes — all 'free' — now spends more on compute than any other company on Earth except Amazon."
+  },
+  {
+    cost: "$125B/year", costNum: 125e9, color: "purple",
+    label: "Amazon 2025 AI capex", sublabel: "$200B guided for 2026",
+    side: "left", zone: null,
+    detail: "<strong>The largest single-company AI infrastructure investment in history.</strong> Amazon will spend $200B in 2026 alone. The combined Big Tech AI capex for 2025 is $380B+, approaching $700B in 2026. The 'commons' requires a cathedral to enter."
+  },
+];
+
+let lastZone = null;
+const ladder = document.getElementById("ladder");
+
+rungs.forEach((r, i) => {
+  let html = "";
+
+  if (r.zone && r.zone !== lastZone) {
+    html += `<div class="scale-label">${r.zone}</div>`;
+    lastZone = r.zone;
+  }
+
+  const leftContent = r.side === "left" ? `
+    <div>
+      <div class="rung-cost ${r.color}">${r.cost}</div>
+      <div class="rung-label">${r.label}</div>
+      <div class="rung-sublabel">${r.sublabel}</div>
+      <div class="rung-card" id="card-${i}">${r.detail}</div>
+    </div>
+  ` : "<div></div>";
+
+  const rightContent = r.side === "right" ? `
+    <div>
+      <div class="rung-cost ${r.color}">${r.cost}</div>
+      <div class="rung-label">${r.label}</div>
+      <div class="rung-sublabel">${r.sublabel}</div>
+      <div class="rung-card" id="card-${i}">${r.detail}</div>
+    </div>
+  ` : "<div></div>";
+
+  html += `
+    <div class="rung" onclick="document.getElementById('card-${i}').classList.toggle('show')">
+      <div class="rung-left">${leftContent}</div>
+      <div class="rung-dot ${r.color}"></div>
+      <div class="rung-right">${rightContent}</div>
+    </div>
+  `;
+
+  ladder.innerHTML += html;
+});
+</script>
+<script src="editor.js" data-repo="PlayfulProcess/freedom-paradox" data-branch="claude/business-metrics-dashboard-Y2FlB" data-path="dashboard/compute-ladder.html"></script>
+</body>
+</html>
