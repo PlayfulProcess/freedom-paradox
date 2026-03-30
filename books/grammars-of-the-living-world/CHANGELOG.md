@@ -35,13 +35,13 @@
 - [x] **Ch 1: The Biological Hypothesis** — Complete first draft (~4,550 words)
 - [x] **Ch 2: Why Stories** — First draft (~2,500 words, needs expansion)
 - [ ] **Ch 8: The Species That Got Fire** — skeleton created, drafting section by section:
-  - [ ] 8a: The Adaptive Frame (~800w)
-  - [ ] 8b: Prometheus (~1,000w)
-  - [ ] 8c: The Species in Overshoot (~1,000w)
-  - [ ] 8d: The Enlightenment's Gift and Gap (~800w)
-  - [ ] 8e: Traditions That Centered Responsibility (~800w)
-  - [ ] 8f: The Architecture of Adaptive Systems (~800w)
-  - [ ] 8g: The Thesis (~500w)
+  - [x] 8a: The Adaptive Frame
+  - [x] 8b: Prometheus
+  - [x] 8c: The Species in Overshoot
+  - [x] 8d: The Enlightenment's Gift and Gap
+  - [x] 8e: Traditions That Centered Responsibility
+  - [x] 8f: The Architecture of Adaptive Systems
+  - [x] 8g: The Thesis
 
 ## Deferred
 

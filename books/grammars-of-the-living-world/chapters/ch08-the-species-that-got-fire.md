@@ -66,76 +66,81 @@ The question this chapter is building toward is not whether the feedback loops w
 
 ## The Enlightenment's Gift and Gap
 
-{/* STATUS: SKELETON */}
-{/* ~800 words. Praise those who tried. Then identify the gap. */}
-{/* Kant's formal test: genuine logical constraint. Korsgaard, O'Neill defend it. */}
-{/* "Don't lie, don't coerce" IS cross-cultural, not Prussian. MacIntyre overshoots. */}
-{/* Hegel's emptiness objection: eliminates bad options, can't select among remaining. */}
-{/* "Like a spell-checker. It can catch errors. It can't write the essay." */}
-{/* THE DEEPER PROBLEM: the model of moral agency. */}
-{/* Individual, disembodied, deliberative = the culturally specific payload. */}
-{/* The universal logic is the Trojan horse. Inside: who counts as moral reasoner. */}
-{/* Displaces Ifá, Quaker meeting, elder council — not by refuting but by defining as pre-rational. */}
-{/* "The categorical imperative is a constraint. Grammars are the content. You need both." */}
-{/* Key sources: research-43 (Kant pressure-test) */}
+Praise those who tried.
+
+The Enlightenment project — Locke, Rousseau, Jefferson, Kant, the Declaration, the Revolution, human rights — was an attempt to solve the problem of power without responsibility at the species level. It asked: can we derive universal principles that constrain power regardless of culture, tradition, or local custom? And the answer it arrived at, most rigorously in Kant's categorical imperative, was: yes. Test your maxim. Can you universalize it without contradiction? If not, it is wrong. Don't lie. Don't coerce. Don't treat people as instruments.
+
+Christine Korsgaard and Onora O'Neill are right that this is a genuine logical constraint. The categorical imperative is not smuggling in cultural content. It is a meta-rule about consistency — a formal test that any moral maxim, from any culture, must pass. O'Neill shows that it generates a surprisingly robust anti-colonial, anti-extractive ethics from purely formal premises: any maxim requiring deception or coercion fails the test. Alasdair MacIntyre's critique — that the categorical imperative is a disguised expression of bourgeois morality — overshoots. The formal principle holds. "Don't lie, don't coerce, don't treat people as instruments" is cross-cultural, not Prussian.
+
+But the formal principle is thin. It eliminates bad options without selecting among the remaining ones. "I will always prioritize my child over strangers" is universalizable. So is "I will treat all children equally regardless of biological relation." Both pass Kant's test. The choice between them comes from culture — from the stories, practices, and relationships that a community holds. Hegel saw this two centuries ago. Nobody has fully answered his objection. The categorical imperative is like a spell-checker. It can catch errors. It can't write the essay.
+
+And there is a deeper problem than the emptiness objection. The formal principle is packaged with a model of moral agency — and the model is the payload.
+
+Kant's moral reasoner is individual, disembodied, and deliberative. She sits alone, tests her maxim against the formal criterion, and arrives at a conclusion through propositional reasoning. This is not a description of how humans actually make moral decisions. It is a description of how one particular culture — post-Reformation, Northern European, literate, individualist — imagines moral reasoning should work.
+
+Contrast with Ifá divination. The Babaláwo casts the palm nuts, reads the Odu, consults the corpus of wisdom accumulated over centuries. The moral question is put not to an individual conscience but to a communal symbolic system that includes ancestors, orisha, and the practitioner's training. The moral agent is not a solitary reasoner. It is a relational field generating wisdom. Or the Quaker business method, which locates moral authority in the gathered meeting's collective discernment — not in any individual's reasoning but in the sense of the meeting that emerges when the community sits together in silence. Or Ubuntu, which holds that a person becomes rational through community — rationality is produced by relationship, not prior to it.
+
+The categorical imperative does not refute these practices. It does something more effective: it defines them as pre-rational. Lower on a developmental scale that culminates in the autonomous Kantian subject. The universal logic is the Trojan horse. Inside it is a particular model of who counts as a moral reasoner and how moral reasoning should be conducted. That model, enforced through colonial power, displaces every communal, embodied, relational moral practice it encounters — not by proving them wrong but by declaring them immature.
+
+This is epistemicide at the level of how we decide what is right. The critique is not "they were wrong." It is "they were incomplete." They built freedom without building the responsibility structures to hold it. The categorical imperative is a constraint. Grammars are the content. You need both.
 
 ---
 
 ## Traditions That Centered Responsibility
 
-{/* STATUS: SKELETON */}
-{/* ~800 words. The counter-evidence. */}
-{/* Haudenosaunee Great Law of Peace — Seventh Generation principle. */}
-{/*   Influenced US Constitution; founders borrowed structure, left responsibility. */}
-{/* Blackfoot cultural perpetuity — already introduced in Ch 1, deepened here. */}
-{/* Kimmerer's Skywoman — first act is to plant, to give back, to begin reciprocity. */}
-{/* Ubuntu — "a person is a person through other persons" — responsibility claim, not equality claim. */}
-{/* THE LINEHAN FILTER prevents romanticism: */}
-{/*   Not asking which tradition is true. Asking which patterns are adaptive. */}
-{/*   Traditional responsibility structures could be oppressive, patriarchal, rigid. */}
-{/*   Those critiques are valid. The filter handles them. */}
-{/* Key sources: thesis breakthrough, research-39 (before patriarchy) */}
+The Enlightenment asked: what are my rights? It never seriously asked: what are my responsibilities — not to other humans alone, but to the web of life that sustains me?
+
+This is not because the question had never been asked. It is because the traditions that centered it were defined, by the Enlightenment's own framework, as pre-rational — and therefore invisible.
+
+The Haudenosaunee Great Law of Peace — which, ironically, influenced the U.S. Constitution — includes the Seventh Generation principle: every decision must account for its impact seven generations forward. This is not a right. It is a constraint. It limits freedom in the present for the sake of a future the decision-makers will never see. The American founders borrowed the democratic structure and left the responsibility framework behind.
+
+The Blackfoot model, introduced in the first chapter, deepens here. Cultural perpetuity — the continuation of ceremonies, stories, knowledge, and relationships across generations — sits at the top of the tipi, reaching toward the sky. The highest aspiration is not individual freedom or even communal equality. It is the continuation of the whole system, including the land, the buffalo, the ceremonies, and the stories. You exist to serve the perpetuity of something larger than yourself.
+
+Robin Wall Kimmerer tells the story of Skywoman differently than the Western creation myths. Skywoman's first act on Turtle's back is not to claim territory or declare rights. It is to plant. To give back. To begin the cycle of reciprocity. The gift economy of the indigenous world, as Kimmerer describes it, is structured around responsibility to what sustains you, not freedom from constraint. Her concept of the Honorable Harvest — take only what you need, ask permission, give thanks, give back — is not a sentimental suggestion. It is a codified cultural technology for maintaining human activity within carrying capacity. Indigenous peoples constitute less than five percent of the global population but protect approximately eighty percent of remaining biodiversity. The data speaks. [VERIFY: 5% population / 80% biodiversity — Schuster et al. 2019]
+
+Ubuntu — *umuntu ngumuntu ngabantu*, "a person is a person through other persons" — is not an equality claim. It is a responsibility claim. You are not complete without the web, and the web is not complete without your participation. Your obligations constitute you.
+
+Now here is where the Linehan filter does something none of these traditions do on their own. Each of them can be accused of romanticism — of freezing indigenous cultures in an idealized past, of ignoring that traditional responsibility structures could also be oppressive, patriarchal, rigid. And those critiques are valid. The archaeological evidence from Çatalhöyük shows genuine egalitarianism — the 2025 DNA study confirmed a female-centered social structure sustained over millennia. But David Graeber and David Wengrow demonstrated that prehistoric humans experimented fluidly with hierarchy, egalitarianism, and arrangements in between, sometimes shifting seasonally. There was no single golden age. There were many experiments, and the real tragedy is not the fall from a particular paradise but the loss of social imagination itself — the foreclosure of the human capacity to consciously choose and redesign social arrangements.
+
+The Linehan filter handles this. We are not asking which tradition is true. We are asking which patterns are adaptive. And the pattern that emerges across every adaptive system — biological, cultural, ecological — is the one this chapter has been building toward.
 
 ---
 
 ## The Architecture of Adaptive Systems
 
-{/* STATUS: SKELETON */}
-{/* ~800 words. The biological evidence for power-matched-by-responsibility. */}
-{/* Mycorrhizal networks: enormous power, distributed, reciprocal, accountable. */}
-{/*   No single node extracts without giving back. Network cuts off non-reciprocators. */}
-{/*   Not morality — adaptive architecture. */}
-{/* Coral reefs: immense structural complexity. Every organism constrained by relationships. */}
-{/*   Freedom within constraint. Power matched by responsibility. */}
-{/* Margulis and symbiogenesis: "Life did not take over the globe by combat, but by networking." */}
-{/*   Mitochondria: parasites that became essential partners. */}
-{/*   Endogenous retroviruses: 8% of human genome, including the placenta. */}
-{/* The Great Oxidation Event: oxygen killed most life, then powered all complex life. */}
-{/*   Current rate of change ~1,000,000x faster than GOE. */}
-{/* The pattern: invasion → crisis → adaptation → incorporation → indispensability. */}
-{/*   BUT only under specific conditions. Most species don't survive the transition. */}
-{/* Key sources: research-38 (poison becomes foundation), research-37 (symbiosis) */}
+Mycorrhizal networks have enormous power. They control nutrient distribution across entire forests, allocating phosphorus and nitrogen between trees separated by hundreds of meters. A single mycelial network can connect dozens of species, routing resources from surplus to deficit, from established trees to struggling seedlings, from sunlit canopy to shaded understory. The power is real. But it is distributed, reciprocal, and accountable to the system. No single node extracts without giving back. When a node stops reciprocating, the network cuts it off. That is not morality. That is adaptive architecture.
+
+Lynn Margulis, whose 1967 paper was rejected by approximately fifteen journals before publication, proved that the eukaryotic cell — the cell type that makes up every plant, animal, and fungus on Earth — is a committee of formerly independent organisms. Mitochondria descended from alpha-proteobacteria that entered archaeal host cells initially as parasites, not partners. The relationship began as exploitation. Over hundreds of millions of years, the parasite became essential — so essential that no complex life on Earth can exist without it. Margulis's conclusion inverted the dominant narrative of evolution: "Life did not take over the globe by combat, but by networking." The long-lasting intimacy of strangers. [QUOTE NEEDED: Margulis, "Life did not take over the globe by combat" — exact source]
+
+The pattern repeats at scales that strain comprehension. Eight percent of the human genome is retroviral DNA — four times more than all protein-coding genes combined. One of those retroviral fragments, syncytin, is essential for the formation of the human placenta. Without a virus that inserted itself into our ancestors' DNA, mammalian pregnancy would not exist. The ARC gene, critical for long-term memory, forms viral-like capsids to transfer RNA between neurons. A retroviral protein is literally how your brain forms memories.
+
+The Great Oxidation Event, roughly 2.4 billion years ago, was the largest mass extinction in Earth's history. Cyanobacteria evolved the capacity to produce oxygen — and oxygen was poison. It killed most anaerobic life on the planet. But the organisms that survived the poisoning eventually learned to use oxygen for respiration, which yields roughly eighteen times more energy per unit of glucose than fermentation. That eighteen-fold energy increase powered the evolution of every complex multicellular organism that has ever lived. The toxin became the foundation.
+
+The pattern across all these cases: invasion, crisis, adaptation, incorporation, indispensability. The parasite becomes the partner. The poison becomes the building block. The catastrophe becomes the precondition for new complexity.
+
+But — and this is the caveat the chapter cannot omit — the pattern operates under specific conditions that the powerful rarely choose to create. Most species do not survive the transition. Evolutionary rescue depends on large populations, standing genetic variation, and moderate rather than catastrophic rates of change. The Great Oxidation Event unfolded over hundreds of millions of years. The current rate of atmospheric change is roughly one million times faster. The question for our moment is not whether life will eventually metabolize the crisis. It always does. The question is whether we will be among the organisms that learn to metabolize it, or among those that do not survive the transition phase.
 
 ---
 
 ## The Thesis
 
-{/* STATUS: SKELETON */}
-{/* ~500 words. The book's argument stated. */}
-{/* Grammars are responsibility structures. */}
-{/* Not just meaning-making tools or contemplative technologies. */}
-{/* The communal practices through which a community constrains its own power, */}
-{/*   aligns with the direction life moves in, and maintains the ratio */}
-{/*   between capacity and obligation. */}
-{/* When grammars are lost — stories lose homes, hearth degrades, polis polarizes — */}
-{/*   what's lost is the community's ability to hold itself accountable */}
-{/*   to something larger than itself. Power runs unchecked. */}
-{/* Human civilization since the Neolithic: progressively increasing power, */}
-{/*   progressively dismantling responsibility structures. */}
-{/* The gap between capacity and responsibility is the gap in which everything burns. */}
-{/* This is not a moral question. It is an empirical one. */}
-{/* And the answer isn't known yet. */}
-{/* Key sources: thesis breakthrough */}
+Grammars are responsibility structures.
+
+They are not just meaning-making tools. They are not contemplative technologies for individual well-being. They are the communal practices through which a community constrains its own power, aligns with the direction life moves in, and maintains the ratio between capacity and obligation.
+
+The I Ching constrains the emperor's power through ritual consultation. Ifá constrains the community's decisions through Odu and *ebo*. The Haudenosaunee Seventh Generation principle constrains the council's choices by the claims of people not yet born. The Blackfoot tipi encodes cultural perpetuity as the highest aspiration — higher than individual achievement, higher than communal equality. Each grammar creates a container in which power must answer to something larger than itself.
+
+When grammars are lost — when stories lose their homes, when the hearth degrades, when the polis polarizes — what is actually lost is the community's ability to hold itself accountable to something larger than itself. And without that, power runs unchecked. Which is what we are watching happen.
+
+Human civilization since the Neolithic has been progressively increasing power while progressively dismantling the responsibility structures — communal governance, seasonal ceremonies, elder councils, gift economies, seven-generation thinking — that constrained it. Fire, agriculture, writing, industry, nuclear energy, artificial intelligence. Each one is more power. Each one arrives faster than the responsibility structures needed to hold it. The gap between capacity and responsibility is the gap in which everything burns.
+
+The Enlightenment tried to close the gap with universal principles. The principles are genuine — don't lie, don't coerce, don't treat people as instruments. But the principles are constraints. They eliminate. They do not generate. They do not build the communal practices, the shared stories, the embodied rituals through which a community learns to live inside its own power without being destroyed by it. The categorical imperative can tell you what not to do. It cannot tell you how to sit with your neighbor in silence until the sense of the meeting emerges. It cannot teach you to browse one tree in ten.
+
+Grammars are the content that the Enlightenment's constraint needs. And the constraint is the formal test that grammars need — the check against superstition, tyranny, and the human capacity to build responsibility structures that are themselves oppressive. You need both. Neither is complete without the other.
+
+This is not a moral question. It is an empirical one. Adaptive systems match power with responsibility. Non-adaptive systems do not. You can observe the difference on a long enough timescale.
+
+And the answer, for this species — the one that got fire before it had the grammars to hold it — is not known yet.
 
 ---
 
