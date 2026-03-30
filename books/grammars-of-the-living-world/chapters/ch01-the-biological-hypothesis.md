@@ -32,92 +32,118 @@ There is a term in the clinical literature — psychosocial dwarfism — for the
 
 ---
 
-<!-- SKELETON: Remaining sections of Chapter 1 -->
+## The Oldest Technology
 
-## Section 2: The Oldest Technology (~1,200 words)
+If co-regulation is the biological baseline — if the nervous system is an open circuit that cannot regulate itself alone — then every surviving culture must have built technologies for maintaining that circuit. Not technologies in the modern sense. Technologies in the older sense: *technē*, the skilled practice through which a community sustains what it cannot afford to lose.
 
-**Pivot:** From clinical evidence to the anthropological record. If co-regulation is the biological baseline, how did cultures maintain it before there were clinicians?
+The San healing dance of the Kalahari may be the longest continuous practice in human history. Dating estimates range from seventy thousand to one hundred thousand years — predating agriculture, cities, writing, and every institution we associate with civilization. The structure is deceptively simple. Women sit in a tight circle, providing complex rhythmic clapping and polyphonic singing. Men dance around them in a circular rut, feet pounding in counterpoint, wearing dry cocoon rattles on their legs. As the intensity builds over hours, healers enter what the San call *!kia* — a trance state in which they perceive illness and mend social conflicts.
 
-**Key moves:**
-- San/Bushman healing dance as oldest documented co-regulatory technology (~70,000–100,000 years). Women's polyphonic singing provides the container; men's rhythmic movement activates endorphin release. By adulthood, roughly half the men and one-third of the women are healers — not a specialist practice but a distributed one. Richard Katz's *Boiling Energy* (1982): without the women's singing, healing cannot occur. The practice treats individual illness *and* repairs social fabric simultaneously.
-- West African polyrhythmic drumming (Chernoff, 1979): three-beat, four-beat, six-beat interlocking. No single rhythm complete without the others. Children learn to hold their own pattern while tracking the whole — structural interdependence as developmental practice.
-- Malidoma Somé's Dagara grief rituals: weekly communal grieving involving singing, drumming, wailing within ritual containment. "A community that doesn't have a ritual cannot exist."
-- Capoeira (300+ years of enslaved resistance): the roda where those forming the circle are as essential as the two inside. Robert Farris Thompson: embodied knowledge proved indestructible even when material culture, language, and social structures were deliberately stripped away.
-- Mevlevi whirling: individual transformation depends on communal container.
+Richard Katz, who documented the practice in *Boiling Energy* in 1982, identified the feature that matters most for our purposes: by adulthood, roughly half the men and a third of the women have become healers. This is not a specialist practice. It is distributed across the community. And without the women's singing, healing cannot occur. The practice is architecturally communal — it cannot be performed alone any more than a conversation can be held with oneself. It treats individual illness and repairs social fabric simultaneously, because in the San understanding these are not separate problems. [VERIFY: San healing dance 70,000–100,000 years — dating methodology]
 
-**Thread:** Each practice is architecturally communal, not individual. Each produces the parasympathetic state the first section described. Each has persisted for centuries or millennia. The question the chapter is building toward: what do these practices share? What makes them *work*?
+What the neuroscience of synchrony now explains is why this works. Robin Dunbar's endorphin hypothesis proposes that synchronized movement — chanting, drumming, marching, dancing — triggers opioid release that bonds groups far larger than primate grooming could reach. Scott Wiltermuth and Chip Heath demonstrated that walking in synchrony produces measurable increases in cooperation, with an effect size of 0.96 — not through emotional warmth but through structural coordination. Bronwyn Tarr showed that synchrony and physical exertion independently raise pain thresholds and in-group bonding; in a silent disco study with wireless headphones, endorphin release occurred only in conditions of full synchrony. The San healing dance is doing what the laboratory studies measure: activating the brain's opioid bonding system through collective rhythmic movement, shifting every nervous system in the circle toward ventral vagal engagement. [VERIFY: Wiltermuth & Heath synchrony d = 0.96 — exact study]
 
----
+The architecture repeats across cultures that had no contact with one another.
 
-## Section 3: The Inversion (~1,000 words)
+In West African polyrhythmic drumming — documented by John Miller Chernoff in *African Rhythm and African Sensibility* in 1979 — one drummer plays a three-beat pattern, another four-beat, another six-beat, creating interlocking layers where no single rhythm is complete without the others. Children learn cross-beats through games, developing the ability to hold their own pattern while tracking the whole. The drum, Chernoff writes, is "the sign of life: its beat is the heartbeat of the community." This is structural interdependence as developmental practice — a child growing up inside polyrhythm is learning, in the body, that her part only makes sense in relation to every other part. [QUOTE NEEDED: Chernoff, "the sign of life" — exact page]
 
-**Pivot:** What happened when the West encountered these practices — and what it did with them.
+Among the Dagara people of Burkina Faso, as documented by Malidoma Patrice Somé — who held doctorates from both the Sorbonne and Brandeis — grief rituals happen weekly. Not after a death. Weekly. The community gathers for singing, drumming, wailing, and keening, held within the containment of song and ritual structure. Somé's central claim about the West was not theological but physiological: its pathologies — depression, addiction, alienation — stem from the loss of communal practices that process what individual nervous systems cannot process alone. [QUOTE NEEDED: Somé, "A community that doesn't have a ritual cannot exist" — exact source]
 
-**Key moves:**
-- Barbara Ehrenreich's *Dancing in the Streets*: early Christian services were "noisy and charismatic." Catholic Church progressively drove festivity out. Protestants criminalized carnival. Colonizers learned to resist "contagious rhythm of drums, wall itself up in fortress of ego and rationality." Descartes' *Cogito* provided the philosophical architecture.
-- Quaker tradition as case study: early Friends literally quaked and trembled during worship. By late 17th century, the quaking fell out of favor. Modern Quaker worship is silent and still. Systematic suppression of embodied practice within Western Christianity.
-- Mark Singleton's *Yoga Body*: traditional yoga prioritized ethical disciplines and guru-student relationship; postures were minimal. Modern postural yoga emerged under European gymnastics influence, then individualized further in Western adoption — severed from communal and ethical context.
-- The Blackfoot inversion (Maslow, 1938): arrives at Siksika reserve expecting to study dominance hierarchy. Finds 80–90% have self-esteem found in only 5–10% of his population. Blackfoot self-actualization is at the *base* — innate, given, communal. Maslow takes it, flips it, places it at the apex of individual achievement. The entire history of Western psychology is progressive rediscovery that the Blackfoot were right — and progressive inability to act on it because the maps keep centering the individual.
+Capoeira emerged during more than three hundred years of slavery in Brazil, when enslaved Africans encoded martial techniques in dance — preserving combat knowledge, cultural identity, and spiritual practice through the body when every other form of transmission was forbidden. The *roda* — the circle — is the essential structure: those forming the circle, clapping, singing, and playing instruments, are as essential as the two players inside. Robert Farris Thompson, in *Flash of the Spirit*, traced how five African civilizations transmitted aesthetic and philosophical knowledge across the Middle Passage through the body alone. Embodied knowledge proved indestructible even when material culture, language, and social structures were deliberately stripped away.
 
-**Thread:** The Western move was consistent: take communal, embodied, co-regulatory practice → extract the technique → sever it from its relational context → offer it back as individual optimization. This is not a moral judgment. It's an empirical observation about what was lost.
+In the Mevlevi tradition inspired by Rumi, *semazens* whirl counter-clockwise with right palm upward — receiving — and left palm downward — channeling what is received to the world. The whirlers train to spin at the same speed, maintaining identical positions. Individual transformation occurs within, and depends upon, the communal container.
+
+Each of these practices is architecturally communal, not individual. Each produces the parasympathetic state the clinical literature describes — slower heart rate, deeper respiration, ventral vagal activation. Each has persisted for centuries or millennia while countless other cultural forms have vanished. And each shares a structural feature that the chapter is building toward: a finite set of elements — rhythms, movements, positions, songs — combined according to shared rules, always requiring a community of practitioners to come alive.
+
+The question is not whether these practices work. The evidence — clinical, neurological, anthropological — converges on the answer. The question is what happened when the West encountered them.
 
 ---
 
-## Section 4: The Linehan Wager (~800 words)
+## The Inversion
 
-**Pivot:** From history to epistemology. How do we hold all this without falling into romanticism, scientism, or despair?
+Barbara Ehrenreich, in *Dancing in the Streets*, documents what amounts to a centuries-long campaign. Early Christian services were, by all accounts, noisy and charismatic — involving wine, music, and dancing. The Roman Catholic Church progressively drove festivities out of churches and into streets during the twelfth and thirteenth centuries. Protestant reformers then criminalized carnival. The Calvinist work ethic and emerging market capitalism rendered festivity suspect — unproductive, disorderly, threatening to hierarchy.
 
-**Key moves:**
-- Marsha Linehan's biography in miniature: hospitalized at 17, ECT, secret for 50 years. Studies Soto Zen. Intended name: "Zen Behavior Therapy." Changed to DBT when a colleague pointed out the dialectical structure.
-- The three migrations: radical acceptance (Zen → behavioral skill), wise mind (prajna → synthesis beyond reason and emotion), mindfulness ("what" and "how" skills translating shikantazu into structured practice).
-- The essential dialectic: "You're perfect as you are, and you've got to change." Mirrors Dogen's koan: if all beings have Buddha nature, why practice?
-- **The Linehan filter introduced explicitly:** We cannot know if the biological hypothesis is ultimately true. We can ask three questions: Is it *useful*? (It generates testable predictions — and the predictions hold.) Does it *fit the data*? (Neuroscience, developmental psychology, ecology, cross-cultural research converge on it.) Is it *compassionate*? (It doesn't require anyone to be wrong — just dysregulated in a dysregulating world.)
-- This is not relativism. It's epistemic humility with teeth. The hypothesis generates specific predictions: that cultures maintaining co-regulatory practices will show better population-level mental health, that disrupting co-regulation will produce measurable dysregulation, that restoring it will produce measurable recovery. Every one of those predictions is testable. Several have been tested.
+The suppression had consequences the suppressors did not anticipate. "Dance manias" swept Europe — hundreds suddenly and uncontrollably dancing until collapse — possibly representing a collective, contagious impulse to recapture what had been forbidden. In seventeenth-century England, an epidemic of melancholy engulfed the educated classes. Ehrenreich connects this directly to the loss of collective ecstatic practice. And then colonialism exported the suppression globally. European colonizers, she writes, learned something centrally important about themselves: that the essence of the Western mind was "its ability to resist the contagious rhythm of the drums, to wall itself up in a fortress of ego and rationality against the seductive wildness of the world." [QUOTE NEEDED: Ehrenreich, "to resist contagious rhythm of drums" — exact page, *Dancing in the Streets*]
 
-**Thread:** The Linehan filter is the book's epistemological posture. It returns in every chapter. It prevents the book from becoming either a scientific treatise that claims more certainty than the data supports, or a spiritual manifesto that doesn't need data at all.
+Descartes' *Cogito ergo sum* provided the philosophical architecture — locating selfhood in thought, severing mind from body. This was not merely abstract philosophy. It underwrote a cultural infrastructure that devalued embodied, ecstatic, and collective modes of knowing. The body became suspect. The group became a mob. The individual thinking mind became the only reliable instrument.
+
+The Quaker tradition provides a vivid case study in how this played out even within communities that valued inner experience. Early Friends literally quaked. They trembled and shook during worship — their name derives directly from this bodily practice. Douglas Gwyn describes early Quaker worship as "strongly emotional, filled with dread, punctuated with inchoate sounds of sobbing, groaning, sighing and impromptu singing." By the close of the seventeenth century, the quaking fell out of favor. The Shakers split off in 1747, preserving the ecstatic elements mainstream Quakers abandoned. Modern Quaker worship is primarily silent and still — a contemplative practice of extraordinary depth, but one from which the body's participation has been quietly removed.
+
+The same pattern played out with yoga. Mark Singleton's *Yoga Body* documents that traditional yoga as described in Patanjali's *Yoga Sutras* prioritized ethical disciplines — the *yamas* and *niyamas* — meditation, and spiritual transformation within a guru-student relationship. Postures received minimal attention; only twelve were listed, all seated. Modern postural yoga emerged in 1920s India under the influence of European gymnastics and bodybuilding, was further individualized in Western adoption, and became predominantly solo, exercise-focused, and severed from its communal and ethical context. What survived the translation was the technique. What was lost was the relational architecture.
+
+But the deepest inversion was psychological, and it happened in a single encounter.
+
+In 1938, a thirty-year-old psychologist named Abraham Maslow arrived at the Siksika reserve in Alberta. He intended to study dominance hierarchies — to test whether the power structures he observed in his own culture were universal. What he found instead was a community where eighty to ninety percent of the population displayed a quality of self-esteem found in only five to ten percent of his own. He saw cooperation, minimal inequality, restorative justice, and what he could only describe as flourishing.
+
+The Blackfoot understanding of human development, as reconstructed by scholars like Cindy Blackstock and Ryan Heavy Head, is not a pyramid. It is a tipi — and tipis reach toward the sky. Self-actualization sits at the base: you are born whole, born worthy, born with everything you need. This is not earned. It is given. From that foundation, the person moves toward community actualization — contributing to the collective. At the top, reaching toward the sky, is cultural perpetuity: sustaining these values, ceremonies, stories, and relationships across generations. The most actualized person in Blackfoot society was not the one who had transcended the community to achieve personal enlightenment. It was the elder who ensured the children were taught, the ceremonies maintained, and the knowledge passed on. And the tipi itself encodes a relational truth: each pole requires every other to stand.
+
+Maslow took what he saw and inverted it. He placed self-actualization — which the Blackfoot understood as the starting point, something innate in every person — at the apex of an individual achievement pyramid. The community that created the conditions for flourishing disappeared from the model. What remained was a single person climbing alone.
+
+The entire history of Western psychology since can be described as the progressive rediscovery that the Blackfoot were right — and the progressive inability to act on it, because the maps keep centering the individual. Bowlby discovered that the self is formed in relationship, but attachment therapy still happens between two people in a room. Porges discovered that the nervous system is co-regulated, but treatment still targets one patient. Siegel defined the mind as an "embodied and relational, emergent self-organizing process" — and then drew the window of tolerance around one person.
+
+The Western move was consistent across centuries and disciplines: take a communal, embodied, co-regulatory practice. Extract the technique. Sever it from its relational context. Offer it back as individual optimization. This is not a moral judgment. It is an empirical observation about what was lost — and about why, in a culture that has perfected the art of individual achievement, so many people cannot sleep, cannot focus, cannot stop reaching for a phone that never satisfies the reach.
 
 ---
 
-## Section 5: The Question That Opens the Book (~500 words)
+## The Linehan Wager
 
-**Pivot:** The closing turn — from the body to the need for story. Sets up Chapter 2.
+There is an obvious objection to everything presented so far. It sounds romantic. It sounds like the noble savage in a lab coat — a nostalgia trip dressed in neuroscience, pointing backward to practices we cannot return to while offering nothing for the present. Every reader should feel this objection. It is the right instinct. The question is what to do with it.
 
-**Key moves:**
-- Return to Tronick: his deeper finding is that normal interactions are mismatched 70% of the time. Repairs happen every 3–5 seconds. It is the *repair*, not the synchrony, that builds regulatory capacity. Winnicott's "good enough mother": mid-range synchronization at 4 months predicts secure attachment more strongly than high synchronization. Perfect attunement produces fragility. Rupture and repair produce resilience.
-- The closing question of the chapter: If co-regulation is the oldest technology, and if the body's architecture is relational, then what distinguishes a contemplative practice from a warm bath? Both activate the parasympathetic system. Both feel good. What makes one of them a *grammar* — a practice that builds not just individual calm but communal capacity?
-- The answer threading through the rest of the book: the shared symbolic structure. The story. The grammar. A warm bath soothes one nervous system. A grammar weaves nervous systems together — gives the intellect something to do with the opening the body creates, and gives relationships shared ground to stand on.
-- Close: the next chapter asks why the intellect needs that ground, and what happens when it doesn't have it.
+Marsha Linehan offers a way through.
+
+Linehan was hospitalized at seventeen for severe mental illness at the Institute of Living in Hartford, Connecticut. She endured electroconvulsive therapy, heavy medication, and seclusion. She kept this history secret for fifty years, revealing it publicly only in 2011, when she felt that Dialectical Behavior Therapy's evidence base was strong enough to stand independent of its creator's credibility. By then, DBT had become the most empirically supported treatment for borderline personality disorder — a condition defined, at its core, by the inability to regulate emotion.
+
+What few people outside the clinical community know is how DBT was built. Shortly after earning tenure at the University of Washington in 1983, Linehan convinced her department chair to allow a year-long sabbatical to study Zen Buddhism. She went first to Shasta Abbey in California — Soto Zen under Roshi Jiyu-Kennett — then spent months training with Willigis Jäger, a German Catholic priest who was also a Zen master. She is now an ordained associate Zen teacher in both the Sanbo-Kyodan School and the Diamond Sangha, and has authorized her own student as a Zen teacher.
+
+She reportedly intended to call her therapy "Zen Behavior Therapy." The name changed when her assistant Elizabeth Trias — whose husband was a Marxist philosopher — told her: "Marsha, your treatment is dialectical!" The resulting name encoded the therapy's structure: the dialectic between acceptance, from Zen, and change, from behaviorism.
+
+Three concepts migrated directly from Zen practice into clinical technique. Radical acceptance — the capacity to let go of what you want and accept what is — translates the Zen practice of accepting the present moment without judgment. Wise mind — the synthesis that emerges when neither raw emotion nor cold logic dominates — maps onto Zen's *prajna*, the wisdom that arises when conceptual thinking is transcended. And DBT's mindfulness skills — the "what" skills of observe, describe, participate and the "how" skills of non-judgmentally, one-mindfully, effectively — directly translate Zen meditation instructions into behavioral-skills language. The practice of *shikantaza*, "just sitting," became a protocol.
+
+The essential dialectic at the heart of the therapy mirrors a Zen koan explored by Dogen: if all beings already have Buddha nature, why practice? Linehan's clinical version: "You're perfect as you are, and you've got to change." This is not a contradiction. It is a description of what it feels like to be human — complete and incomplete, whole and broken, the nervous system reaching for connection it already has.
+
+Now: the Linehan wager.
+
+We cannot know if the biological hypothesis at the center of this chapter is ultimately true. The nervous system as open circuit, co-regulation as precondition for coherent functioning, the relational self as primary — it may be that some future paradigm reveals these as useful approximations that missed the deeper structure. But Linehan's career — a Zen practitioner who built the most rigorously tested therapy for emotional dysregulation, who held contemplative depth and scientific skepticism in the same hands for forty years — suggests a way to hold the hypothesis without either overstating or dismissing it.
+
+Three questions. Is it *useful*? The biological hypothesis generates testable predictions: that cultures maintaining co-regulatory practices will show better population-level mental health, that disrupting co-regulation will produce measurable dysregulation, that restoring it will produce measurable recovery. Every one of these predictions has been tested. The evidence holds.
+
+Does it *fit the data*? Neuroscience, developmental psychology, anthropology, and cross-cultural research converge on it from independent starting points. Mirror neurons, polyvagal theory, bio-behavioral synchrony, the still-face experiment, the deprivation literature, the Blackfoot evidence — none of these research programs set out to confirm the relational self. Each arrived at it from its own questions.
+
+Is it *compassionate*? This is the question that separates the Linehan wager from both scientism and spiritual bypassing. The hypothesis does not require anyone to be wrong — not the Enlightenment, not Western psychology, not the individual who meditates alone with an app. It says only that they may be dysregulated. And dysregulation is not a moral failing. It is what happens to a nervous system in a world that has systematically dismantled the co-regulatory infrastructure the nervous system was built to depend on.
+
+This is not relativism. It is epistemic humility with teeth. And it is the posture this book will hold through every chapter that follows. Not: we know the truth. But: we know what the evidence converges on, we know the predictions it generates, and we know that holding it with compassion — for the cultures that lost their practices and the people trying to rebuild them — is not weakness. It is the only position from which the work can be done honestly.
 
 ---
 
-## Editorial Guidance (PP, March 29 2026)
+## The Question That Opens the Book
+
+Return, for a moment, to Edward Tronick.
+
+His most famous finding is the still-face effect — the infant's collapse when the co-regulatory circuit breaks. But his deeper finding is less well known and more important. In normal interaction, mother and infant are mismatched approximately seventy percent of the time. They are not gazing into each other's eyes in perfect synchrony. They are out of step, recovering, drifting apart, reconnecting. Repairs happen at a rate of once every three to five seconds, with more than a third occurring at the very next interactive step — within tenths of a second. And nearly half of these repairs are initiated by the infant. The baby is not a passive recipient of regulation. It is an active participant in a dance it cannot yet name.
+
+Donald Winnicott anticipated this finding by decades when he described the "good enough mother" — not the perfect mother, but the one who begins with almost complete adaptation and gradually allows small, tolerable failures. The empirical confirmation arrived when researchers found that mid-range levels of vocal rhythm synchronization at four months predicted secure attachment at twelve months more strongly than either high or low synchronization. Perfect attunement produces fragility. Too little produces collapse. It is the middle — the seventy-percent mismatch with its constant repair — that builds a self capable of tolerating the gap between reaching and being met.
+
+This finding will thread through the entire book. For now, it leads to a question.
+
+If co-regulation is the oldest technology on earth — if the body's architecture is relational and the nervous system cannot regulate itself alone — then what distinguishes a contemplative practice from a warm bath?
+
+Both activate the parasympathetic system. Both feel good. Both shift the nervous system toward the ventral vagal state where the social engagement system comes online. A warm bath is, in its modest way, a perfectly adequate piece of self-regulation technology.
+
+But a warm bath soothes one nervous system. And when you get out, you are alone with whatever the bath helped you forget.
+
+What makes a practice a *grammar* — what makes it more than technique — is the shared symbolic structure. The story. The finite set of elements combined according to rules that a community holds together. The San healing dance is not a bath. It is a grammar: drums, songs, movements, positions, roles, held by a community across a hundred thousand years, weaving nervous systems together so that the opening the body creates becomes something more than private relief. It becomes relational. It becomes shared ground.
+
+A warm bath soothes. A grammar weaves. It gives the intellect something to do with the opening the body creates, and gives relationships a structure to stand on.
+
+The next chapter asks why the intellect needs that structure — and what happens when it doesn't have it.
+
+---
+
+---
 
 <!-- PP: Don't criticize Kant too much. Don't defend or criticize moral principles. The book uses the adaptive frame — good/bad are moral categories (weaponizable), adaptive/non-adaptive are empirical (observable). But the point isn't that moral philosophy was wrong. The point is that the Enlightenment's emphasis on individual moral reasoning (Kant's categorical imperative, etc.) left out the communal infrastructure that makes moral reasoning possible in the first place. Praise those who tried to solve this — Kant, the Enlightenment thinkers, the rights tradition — and acknowledge they might get it right. The critique is not "they were wrong" but "they were incomplete." They built freedom without building the responsibility structures to hold it. That's a gap, not a failure. -->
 
----
-
-## Research Notes for Drafting
-
-**Quotes to source:**
-- [QUOTE NEEDED: Tronick on "dyadic expansion of consciousness" — exact wording]
-- [QUOTE NEEDED: Schore on "the self-organization of the developing brain occurs in context of another self, another brain" — exact page, *Affect Regulation and the Origin of the Self*]
-- [QUOTE NEEDED: Katz, *Boiling Energy*, on the San healing dance — specific passage]
-- [QUOTE NEEDED: Ehrenreich, "to resist contagious rhythm of drums" — exact page, *Dancing in the Streets*]
-- [QUOTE NEEDED: Somé, "A community that doesn't have a ritual cannot exist" — exact source]
-
-**Figures to verify:**
-- [VERIFY: 40% of visually responsive premotor neurons fire during observation — Rizzolatti 1992, exact percentage]
-- [VERIFY: Wiltermuth & Heath synchrony d = 0.96 — exact study]
-- [VERIFY: Spitz foundling home mortality 37% by age two — exact figure and age cutoff]
-- [VERIFY: Harlow cloth surrogate 17–18 hours — exact figure]
-- [VERIFY: BEIP mean IQ 74 — exact figure and citation]
-- [VERIFY: San healing dance 70,000–100,000 years — dating methodology]
-
-**Recursive.eco living footnotes (per PLAN.md):**
-- Decolonizing Childhood grammar ("the colonial move wasn't discovering childhood; it was severing the correspondence between inner growth and communal recognition") — pattern available for Ch 1, referenced obliquely not by name
-- The Repair Book's "The 69% That Never Gets Solved" parallels Tronick's 70% mismatch finding
+<!-- PP: This is the opening. ~1,000 words. The voice I'm going for: clinical precision held inside a contemplative register. Not academic — every finding is tied to a concrete image (the reaching baby, the cloth monkey, the children who didn't grow). The Linehan frame hasn't appeared yet — it comes in the next section, where the chapter pivots from "what the data shows" to "what we do with data like this." Does this register feel right? Too clinical? Too warm? I want your ear before I keep going. -->
 
 ---
 
-*Target word count: ~4,500–5,500 words*
 *CC BY-SA 4.0*
