@@ -28,6 +28,26 @@ Dimitri Christakis at Seattle Children's Hospital quantified the cost of lost co
 
 ---
 
+## The Rogers Paradox
+
+Fred Rogers left NBC in the early 1950s because he hated what commercial television was doing to children. He built *Mister Rogers' Neighborhood* over thirty-three seasons and eight hundred and ninety-five episodes on public broadcasting infrastructure, refusing to merchandise his likeness or use his platform to sell products. When Burger King ran a 1984 ad featuring a Rogers look-alike, he personally called the marketing executive and got it pulled. Children, he believed, should not be "appreciated for what they will be — a great consumer someday."
+
+His model depended entirely on public subsidy: the Corporation for Public Broadcasting, the Sears-Roebuck Foundation, PBS corporate underwriting, and "Viewers Like You." The show's deliberately austere production — a single host, primitive sets, minimal cast — cost a fraction of commercial alternatives.
+
+What happened after Rogers' death in 2003 is the most revealing natural experiment in the economics of story systems. Fred Rogers Productions' tax filings tell the story precisely. In fiscal year 2011, two years before *Daniel Tiger's Neighborhood* launched, the organization had 4.7 million dollars in revenue, 111,000 dollars in royalties, and 15.7 million dollars in net assets — essentially a modest custodian of a legacy. Daniel Tiger debuted in September 2012. Within three years, the organization had over fifty licensees across toys, apparel, books, apps, and food partnerships. By 2019, royalty revenue peaked at 17.3 million dollars. Cumulative royalties from 2013 through 2024 total approximately 118 million dollars. Net assets grew from 15.7 million to 88 million — a more than fivefold increase funded overwhelmingly by the merchandise revenue Fred Rogers refused.
+
+The organization frames this as mission extension, not reversal. And the evidence supports the claim: the research shows Daniel Tiger works, with the strongest effects among low-income children. The revenue funds new programming reaching children in over one hundred and eighty countries.
+
+But the public funding model Rogers depended on has collapsed. In 2025, the executive order directing CPB to cease funding PBS. In 2026, CPB's board voted to dissolve entirely. WQED Pittsburgh — Rogers' home station — announced nineteen layoffs, thirty-five percent of staff. Rural and small-market stations, where CPB funding represented twenty-five to fifty percent of revenue, face closure.
+
+This is the Rogers Paradox: maintaining the purity of non-commercial children's education required exactly the kind of stable public funding that American politics proved unable to sustain. The organization bearing Rogers' name resolved the paradox by embracing the monetization he rejected — and in doing so, may have ensured the survival of his educational mission while compromising its philosophical foundation. Fred Rogers Productions, with its 88 million in net assets, will likely survive the CPB dissolution. The distribution infrastructure that once delivered his show to every American child will not.
+
+The paradox extends beyond Rogers. Every story system that endured across centuries had a funding mechanism. Athenian theater ran on state funding and wealthy citizens' liturgies. Medieval cathedrals generated enormous revenue from shrine offerings and pilgrimage. Buddhist monasteries operated as banks. The printing press only became economically viable when Venice's shipping networks created distribution at scale. The question was never whether to fund the story. The question — the one this book keeps returning to — is who holds the keys. When commercial logic overrides narrative logic, stories degrade into franchise extraction. When public funding collapses, stories lose their distribution. The most durable story systems occupy the middle: nonprofit with commercial licensing, cooperative with mission locks, open source with legal structures that prevent acquisition.
+
+The implications for the hearth are direct. The hearth — the co-regulatory fire around which stories were told — was never free. It required fuel, shelter, and the communal labor of maintaining the fire. The modern hearth — the platform, the broadcast, the public infrastructure that carries stories to families — requires funding too. The degradation of the hearth is not just a technological story (fire → TV → screen). It is an economic story: the progressive collapse of the funding models that sustained co-regulatory story systems, and their replacement by an extraction model that degrades the very capacity it monetizes.
+
+---
+
 ## Television to Personal Screen
 
 The second degradation was more severe. The shared screen fragmented into personal screens. Each family member now receives an algorithmically curated feed designed not for co-regulation but for engagement — which, as the research consistently shows, means sympathetic activation. Fear, outrage, moral certainty, craving — these are the emotions that drive clicks, shares, and time-on-screen. They are also the emotions that push the nervous system away from the ventral vagal state where genuine relating becomes possible.

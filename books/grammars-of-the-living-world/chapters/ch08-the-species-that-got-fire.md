@@ -86,6 +86,10 @@ Gandhi stated the principle with characteristic precision: "I do not want my hou
 
 This is the adaptive frame applied to cultures themselves. The question is not which culture is "right." The question is whether the dominant culture permits enough diversity of practice — enough grammars — to maintain the adaptive capacity the whole system needs to survive what is coming.
 
+And one more thing the adaptive frame requires honesty about: grammars need funding. Every responsibility structure that persisted across centuries had an economic mechanism. The Athenian state spent roughly one percent of its wartime defense budget on the City Dionysia — the theater festival where Aeschylus, Sophocles, and Euripides staged the stories that shaped Western civilization. Wealthy citizens funded specific productions as a civic duty. Medieval cathedrals generated enormous revenue from shrine offerings, pilgrimage, and the relic trade — Canterbury's shrine brought in over thirty percent of institutional income. Buddhist monasteries at Nalanda sustained ten thousand students through the revenue of two hundred villages. Shakespeare held a twelve-and-a-half-percent equity stake in the Globe Theatre — a creator-owned structure that aligned artistic quality with financial return.
+
+The question was never whether to fund the grammar. The question — the one the closing chapter of this book addresses — is who holds the keys. When commercial logic overrides the grammar's function, stories degrade into franchise extraction. When public funding collapses, stories lose their distribution. The most durable responsibility structures in history occupied the middle: funded but governed, commercial but constrained, open but accountable.
+
 ---
 
 ## The Enlightenment's Gift and Gap
