@@ -29,6 +29,22 @@
 - **Ch 8: The Species That Got Fire** — Created skeleton with 7 sections. Drafting section by section.
 - **Ch 6: Machines for Constructing Stories** — Adapted from old Part III HTML. Added responsibility-structure reframe (~1,700 words).
 - **Ch 7: Survival and Capture** — Merged old Part III Chs 2-4. Added Bois Caïman, body-story-community mapping (~2,100 words).
+- **Ch 3: When Stories Lose Their Homes** — First draft (~1,050 words). Grimm revisions, Pooh/Milne, Egyptian tomb objects.
+- **Ch 4: The Degradation of the Hearth** — First draft (~1,090 words). Fire→TV→screen, Rogers, technoference, Lembke, Han.
+- **Ch 5: The Polarization of the Polis** — First draft (~1,150 words). Gottman 69%, Girard, Talmud, Quaker method, citizens' assemblies. [RESEARCH NEEDED: opening case]
+- **Ch 9: The Trap of Solving** — First draft (~1,280 words). Andreotti/Akomolafe, Tillich, Palmer, Wallis, the gesture.
+- **ALL 10 CHAPTERS NOW HAVE FIRST DRAFTS.** Total: ~21,000 words.
+
+---
+
+## Session summary: 2026-03-30
+
+All 10 chapters drafted in one session. Phase 1–4 complete. Remaining work:
+- Expand shorter chapters (Ch 3-5, Ch 9, Ch 10 are all under 2,000 words vs. 5,000-6,000 target)
+- Author review and `<!-- PP: -->` comments on all chapters
+- Ch 5 research gap (vivid opening case)
+- Synthesis directory and bibliography
+- Shared preface (Phase 5)
 
 ---
 
