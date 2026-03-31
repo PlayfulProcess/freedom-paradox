@@ -20,6 +20,20 @@ The colonial reflex is not a historical event. It is a five-move pattern that op
 
 ---
 
+## The pattern across history
+
+The five moves are not an abstraction. They are the recurring structure of every encounter between extractive and cooperative systems.
+
+**The Doctrine of Discovery (1493).** Pope Alexander VI's *Inter Caetera* declared that any land not inhabited by Christians was available to be "discovered" and claimed by European monarchs. Particular practice (Catholic territorial sovereignty) → universalized (papal authority over all lands) → enforced (Spanish and Portuguese colonization) → displacing (Indigenous governance systems declared void) → pathologizing (Indigenous peoples declared savages requiring civilization). The Doctrine was cited by the U.S. Supreme Court as recently as 2005 in *City of Sherrill v. Oneida Indian Nation*. The five moves, still executing five centuries later.
+
+**The Civilizing Mission (19th century).** Enrique Dussel traces the origins of the colonial reflex further back than Descartes: the *ego conquiro* — "I conquer, therefore I am" — preceded the *ego cogito* by a century. The conquest of the Americas established the extractive subject before the philosophical subject was formulated. Descartes' thinking self was built on the foundation of a conquering self. The philosophical architecture did not create the colonial reflex. It rationalized it.
+
+Sylvia Wynter's analysis goes deeper. She identifies two sequential "genres of the human" that modernity produced: Man1 (homo politicus, defined by reason) and Man2 (homo oeconomicus, defined by productivity). Both present themselves as *the* human — the universal model against which all other ways of being human are measured and found wanting. This "overrepresentation of Man" is the mechanism by which the five moves become invisible: they are experienced not as cultural imposition but as the natural order of things.
+
+**Development Economics (20th century).** The World Bank's structural adjustment programs of the 1980s and 1990s performed the five moves with bureaucratic precision. Particular practice (market liberalization, privatization, fiscal austerity) → universalized (the "Washington Consensus") → enforced (loan conditionality) → displacing (communal land tenure, subsistence agriculture, local markets) → pathologizing (traditional economic practices defined as "barriers to development"). The Balinese *subak* is the counter-case: when the Green Revolution replaced the water temple system with "scientific" water management, the result was crop failures and pest outbreaks. The cooperative strategy encoded in the ceremony was not decorative. It was governance infrastructure. The development economists could not see it because their framework had no category for ceremony as economic institution.
+
+---
+
 ## The seed bank is burning
 
 Boaventura de Sousa Santos named it epistemicide — the systematic destruction of non-Western ways of knowing. The moral argument against epistemicide is powerful. But the game-theoretic argument is more precise, and it reaches people who do not respond to moral claims about colonialism but can understand strategic self-destruction.

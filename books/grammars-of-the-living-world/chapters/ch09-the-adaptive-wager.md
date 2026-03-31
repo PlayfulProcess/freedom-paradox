@@ -52,6 +52,24 @@ Jonathan Rowson's formulation holds: "this move is forced, even if it loses." In
 
 ---
 
+## Emergency creativity
+
+The wager is not without evidence from within the extractive system itself.
+
+In August 1791, on the night of the Bois Caïman ceremony, Vodou — Fon cosmology mixed with Yoruba Orisha practice mixed with Kongo spiritual technology mixed with Catholic imagery, forged in the holds of slave ships and on plantations where no single tradition survived intact — launched the only successful slave revolution in human history. None of it was "pure." All of it was alive.
+
+The Haitian Revolution is the most dramatic evidence that cooperative strategy can emerge from within an extractive system. The traditions that fused in the ceremony were each products of extraction — torn from their original contexts, carried in bodies across the Atlantic, syncretized under conditions of absolute coercion. But the syncretism was not degradation. It was what this book might call emergency creativity — the creation of genuinely new cooperative infrastructure from the fragments of cooperative strategies that the extractive system tried to destroy.
+
+The pattern extends beyond Haiti. Brazilian quilombos sustained resistance through Candomblé. The U.S. Civil Rights Movement drew on Black church tradition, Gandhian nonviolence, and constitutional law — none in their original context. Liberation theology fused Catholic sacramental practice with Marxist structural analysis. Each case demonstrates that extreme injustice can be the crucible in which traditions cross-pollinate, producing cooperative strategies that no single tradition alone was adequate to create.
+
+The diagnostic question — when does mixing become medicine rather than extraction? — has a provisional answer: when it arises from genuine need rather than intellectual curiosity, when it serves liberation rather than consumption, when the practitioners have skin in the game, and when the traditions are treated as living allies rather than inert resources.
+
+Aboriginal Australian songlines provide a different kind of evidence: sixty-five thousand years of continuous cooperative strategy, maintained not through punctuated crisis but through sustained ceremonial practice. The songlines encode ecological knowledge, property rights, kinship obligations, and navigation in a single integrated grammar — a cooperative technology so robust that it has outlasted every ice age, every climate oscillation, and every challenge except the five moves of the colonial reflex applied with industrial force. The songlines suggest that cooperative infrastructure does not require crisis to emerge. It requires practice — sustained, communal, embodied, intergenerational practice.
+
+Both cases — Haiti's emergency creativity and Australia's sustained ceremony — point to the same conclusion: the cooperative strategies exist. They have survived. Some were created under conditions of extremity. Some have been maintained for longer than any other human institution. The question is not whether the species has the capacity for cooperative constraint. The question is whether enough cooperative infrastructure can be built or preserved, fast enough, to give the species a chance.
+
+---
+
 ## The evidence for the wager
 
 The evidence that cooperation is emerging at larger scale — not as moral progress but as structural adaptation to changing conditions — is real, though fragile.

@@ -42,6 +42,22 @@ Extractive dimension: "we know what regulated looks like" becomes a new form of 
 
 ---
 
+## The filter applied to itself
+
+The most important stress test is the one this book runs on its own argument.
+
+The three-filter test emerged from a specific clinical context: Dialectical Behavior Therapy, developed by Marsha Linehan at the University of Washington, rooted in her personal engagement with Zen Buddhism and her work with patients Western psychiatry had given up on. It was forged in the encounter between contemplative practice and empirical rigor — neither purely one nor the other.
+
+The test privileges empiricism: "fits the data" assumes that empirical data is the relevant standard. This marginalizes knowledge systems that operate through different evidentiary standards — oral tradition, embodied practice, ceremonial knowledge, dream interpretation. An Aboriginal elder whose understanding of landscape ecology is encoded in Dreamtime stories does not submit their knowledge to peer review. The knowledge is validated through sixty thousand years of practice. The three-filter test has no ready way to honor this.
+
+The test assumes universality: applying the same three questions across all domains and all cultures is itself Move 2 of the colonial reflex — universalizing a particular methodology. When this book asks "is it useful, does it fit the data, is it compassionate?" of Ifá divination, it is applying a Western clinical framework to a Yoruba practice. The framework may produce valid insights. It may also miss what it has no category for.
+
+The honest response is not to abandon the filter but to hold it with what Palmer calls "open hands" — using it as a tool, not a truth. The filter is a grammar: a finite set of elements (three questions), combinatorially generative (producing different results depending on what is tested), requiring a practitioner as participant (the answers depend on who is asking). It is subject to the same conditions as every other grammar: it works when practiced in community, degrades when applied mechanically, and becomes extractive when it claims universal authority.
+
+This book applies the filter to itself and finds: useful (it generates testable predictions about which cultural strategies persist), fits the data (the cooperative direction of life is empirically observable), and compassionate (it does not require anyone to be wrong — just dysregulated in a dysregulating world, or extractive in an extractive system). But the filter is not the final word. It is one grammar among many. And its own design principle — structural openness, modifiability, the refusal to claim final authority — means it must remain revisable by the communities that practice it.
+
+---
+
 ## What survives
 
 Not any single system but a pattern — observable across every system that persists.
