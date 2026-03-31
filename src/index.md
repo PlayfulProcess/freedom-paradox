@@ -44,6 +44,13 @@ A practical manual for building the containers. Seven tellable stories, sixteen 
 
 ---
 
+### [The Axiom Beneath the Ground →](axiom/ch01-the-axiom.md)
+**Complete first draft** · 9 chapters · ~12K words
+
+Is inherent value a discoverable truth or a foundational axiom? Paul Tillich meets Christopher Wallis. The philosophical engine beneath all the other books.
+
+---
+
 ### [The Campfire Stories →](https://github.com/PlayfulProcess/campfire-stories)
 **Complete** · 5 books × 2 stories · ~9K words
 
@@ -53,7 +60,7 @@ Five-minute bedtime stories for ages 3–7, built from cross-cultural story arcs
 
 ## How They Connect
 
-**The Freedom Paradox** is the diagnosis (power without responsibility). **Grammars of the Living World** is the framework (what responsibility structures are). **The Species That Tells Stories** is the narrative heart (how stories carry adaptive wisdom). **Working Architecture** is the practical manual (how to build containers Monday morning). **The Campfire Stories** is the proof of concept (stories built using the three-filter test, for actual children, in actual bedtimes).
+**The Freedom Paradox** is the diagnosis (power without responsibility). **Grammars of the Living World** is the framework (what responsibility structures are). **The Species That Tells Stories** is the narrative heart (how stories carry adaptive wisdom). **Working Architecture** is the practical manual (how to build containers Monday morning). **The Axiom Beneath the Ground** is the philosophical engine (why any of this matters). **The Campfire Stories** is the proof of concept (stories built using the three-filter test, for actual children, in actual bedtimes).
 
 Each works alone. Together they form the full architecture.
 
@@ -68,6 +75,6 @@ Each works alone. Together they form the full architecture.
 
 ---
 
-*All drafts by PlayfulProcess · CC BY-SA 4.0*
+*By [PlayfulProcess](https://playfulprocess.com) with [Claude](https://anthropic.com) · CC BY-SA 4.0*
 
-*Source: [github.com/PlayfulProcess/freedom-paradox](https://github.com/PlayfulProcess/freedom-paradox) · Use the sidebar ☰ to navigate. Press `s` to search across all books.*
+*[recursive.eco](https://recursive.eco) · [playfulprocess.com](https://playfulprocess.com) · [GitHub](https://github.com/PlayfulProcess/freedom-paradox) · Use the sidebar ☰ to navigate. Press `s` to search across all books.*

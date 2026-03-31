@@ -123,3 +123,25 @@ echo -e "\n*These charts support the book's argument that cultural diversity fun
 
 wc -w "$OUTPUT"
 echo "Built: $OUTPUT"
+
+# ===== BOOK 5: THE AXIOM BENEATH THE GROUND =====
+echo -e "\n\n# BOOK FIVE: THE AXIOM BENEATH THE GROUND\n" >> "$OUTPUT"
+echo -e "## On Inherent Value, the Courage to Be as a Part, and the Honest Nonduality\n\n---\n" >> "$OUTPUT"
+
+echo -e "## PART I: THE VOID\n" >> "$OUTPUT"
+for f in books/axiom-beneath-the-ground/chapters/ch0{1,2,3}*.md; do
+  grep -v '<!--' "$f" | grep -v '^{/\*' | sed '/^\*CC BY-SA/d' >> "$OUTPUT"
+  echo -e "\n\n---\n\n" >> "$OUTPUT"
+done
+
+echo -e "## PART II: THE RECOGNITION\n" >> "$OUTPUT"
+for f in books/axiom-beneath-the-ground/chapters/ch0{4,5,6}*.md; do
+  grep -v '<!--' "$f" | grep -v '^{/\*' | sed '/^\*CC BY-SA/d' >> "$OUTPUT"
+  echo -e "\n\n---\n\n" >> "$OUTPUT"
+done
+
+echo -e "## PART III: THE PART\n" >> "$OUTPUT"
+for f in books/axiom-beneath-the-ground/chapters/ch0{7,8,9}*.md; do
+  grep -v '<!--' "$f" | grep -v '^{/\*' | sed '/^\*CC BY-SA/d' >> "$OUTPUT"
+  echo -e "\n\n---\n\n" >> "$OUTPUT"
+done

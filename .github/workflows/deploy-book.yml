@@ -56,6 +56,10 @@ jobs:
           # Working Architecture
           cp books/working-architecture/chapters/ch*.md src/working-architecture/
 
+          # The Axiom Beneath the Ground
+          mkdir -p src/axiom
+          cp books/axiom-beneath-the-ground/chapters/ch*.md src/axiom/
+
           # Charts
           mkdir -p src/images
           cp models/charts/*.png src/images/ 2>/dev/null || true
