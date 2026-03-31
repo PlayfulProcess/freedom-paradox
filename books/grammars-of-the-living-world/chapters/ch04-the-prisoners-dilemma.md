@@ -74,6 +74,20 @@ These are not romantic ideals. They are cooperative strategies that outperformed
 
 ---
 
+## The Enlightenment as philosophical formalization of extraction
+
+The Enlightenment project — Locke, Rousseau, Jefferson, Kant — was an attempt to formalize human freedom. Its achievements are genuine. The rights tradition, the abolition of hereditary caste, the expansion of political participation — each represents a real gain for human cooperation within the circle of those recognized as rights-holders.
+
+But the Enlightenment centered two values: freedom from constraint and equality of status. These are individual values. They describe what a person is entitled to. They say nothing about what a person owes. The Enlightenment asked "what are my rights?" It never seriously asked "what are my responsibilities — not to other humans alone, but to the web of life that sustains me?"
+
+And this is not just an omission. It is structural. Freedom, as the Enlightenment conceived it, means freedom to extract. Freedom to own land, which means freedom to remove it from the commons. Freedom to pursue happiness, which in practice means freedom to consume. Freedom of movement, which means fossil fuels. Every expansion of human freedom since 1776 has been accompanied by an expansion of ecological destruction, and this is not a coincidence. The freedom was funded by the destruction.
+
+Walter Mignolo's formulation is precise: there is no modernity without coloniality. Translated into game theory: there is no extraction strategy without a host to extract from, and the strategy destroys its host. The Enlightenment formalized the single-round logic — maximize individual freedom — without building the iterated-game mechanisms — communal constraint, seven-generation thinking, reciprocal obligation — that would make the freedom sustainable.
+
+Kant's categorical imperative was an attempt to supply the missing constraint: don't universalize self-contradictory maxims. The formal principle is genuine — it is a cooperative check. But the model of moral agency — the individual reasoning alone — is the extractive topology. It displaces every communal moral reasoning system it encounters: Ifá, Quaker meeting, elder council, Ubuntu. Not by refuting them but by defining them as pre-rational. The constraint is real. The model of who gets to apply it is the payload. The categorical imperative is a spell-checker. It catches errors. It cannot write the essay. And the essay — the content of how to cooperate, how to constrain power, how to maintain responsibility across generations — is what the grammars provide.
+
+---
+
 ## The confined kudu
 
 When an invasive species enters an ecosystem, it dominates by extraction — no predators, abundant resources, explosive growth. In the South African Transvaal, *Acacia caffra* increases its leaf tannin concentration by ninety-four percent within fifteen minutes of being over-browsed, and by two hundred eighty-two percent within an hour. Damaged leaves release ethylene gas at twenty times normal rates, creating an airborne alarm that primes neighboring trees up to forty-five meters away. Three thousand kudu died on game ranches because fences prevented the normal escape behavior. Giraffes survive: they browse one tree in ten and direct seventy-four percent of their feeding movements upwind — away from the ethylene plume.

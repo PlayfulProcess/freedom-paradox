@@ -32,6 +32,22 @@ Dimitri Christakis quantified the displacement more precisely. Each additional h
 
 ---
 
+## The co-viewing evidence
+
+Before moving to the personal screen, it is worth pausing on what the co-viewing research reveals about the mechanism being lost. These are not abstractions. They are measured physiological events.
+
+Lucas Parra's lab at City College of New York demonstrated in 2021–2022 that heart rates synchronize across subjects attending to the same content — and that this synchronization requires conscious attention. When participants counted backwards while watching, cardiac synchrony dropped. The degree of synchrony predicted memory performance on recall tests. Attending together is not the same as being in the same room. It requires both people to be present.
+
+Baranowski-Pinto and colleagues measured heart rate synchrony in one hundred and eighty-two basketball fans watching games either in-person at a stadium or remotely in small groups. In-person attendance produced significantly greater physiological synchrony throughout the entire game, and this difference was not explained by physical activity levels. Higher synchrony predicted greater self-reported "transformativeness" — but only for stadium attendees. Remote viewers who achieved some synchrony did not experience the same transformation. The co-regulatory field requires bodies in the same space.
+
+Manninen and colleagues used PET imaging to show that watching comedy with close friends for thirty minutes increased endogenous opioid release in the thalamus, caudate nucleus, and anterior insula — compared to watching alone. Robin Dunbar's Oxford group confirmed this across seven experiments: pain thresholds rise significantly more after watching comedy in groups versus alone. Shared laughter is not just pleasant. It activates the same neurochemical bonding mechanisms that evolved for primate grooming — the endorphin system that binds social groups.
+
+Golland, Mevorach, and Levit-Binnun demonstrated perhaps the most directly relevant finding. Pairs of previously unacquainted strangers co-viewing emotional films showed dyad-specific zygomatic (smile muscle) synchrony. During positive films, this synchrony was linked to cardiovascular synchrony and emotional convergence. By the end of the session, facial muscle synchrony predicted affiliation ratings — even though it had not at the beginning. Co-viewing literally built social bonds through physiological synchrony in real time.
+
+These are not nice-to-have social experiences. They are the physiological infrastructure of cooperation being activated through shared attention to shared content. The living room, the cinema, the family television — any context where people jointly attend to shared emotional content — functions as a co-regulation environment where nervous systems calibrate to one another. When each person watches alone, this infrastructure goes unfunded.
+
+---
+
 ## The personal screen: cooperation severed
 
 The second degradation was categorical. The shared screen fragmented into personal screens. All five conditions of the fire were now eliminated.
