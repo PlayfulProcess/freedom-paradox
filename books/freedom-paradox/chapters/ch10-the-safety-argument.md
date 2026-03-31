@@ -154,6 +154,28 @@ And yet decisions had to be made. Models were being built. Capabilities were adv
 
 ---
 
+## The Decade We Didn't Take
+
+There is a question this chapter must ask, even though the open-source movement does not want to hear it.
+
+Open source accelerated AI development by years — perhaps by a decade. PyTorch, released by Meta in 2016, became the de facto standard for deep learning research by 2020. TensorFlow, Hugging Face's Transformers library, the open publication norms that allowed Google's "Attention Is All You Need" paper to launch the transformer revolution — each of these was an act of openness that compounded into the fastest capability explosion in the history of technology. Yann LeCun, Meta's chief AI scientist, has stated plainly: "The risk of slowing AI is much greater than the risk of disseminating it." The entire AI ecosystem is built on the premise that faster is better and open is faster.
+
+But this book — a book about a species acquiring power faster than it can build the responsibility structures to hold it — must ask: what if slower would have been better?
+
+Not because closed is superior to open. The safety-through-obscurity argument has been debunked in every other domain. Not because corporations should control AI — the concentration-of-power risks are real and documented. But because *time* is the variable the species needs most, and the open-source movement traded time for speed without asking whether speed was what the situation required.
+
+A decade of slower AI development would have been a decade in which governance could have caught up. A decade in which the safety research could have matured before the capabilities outran it. A decade in which societies could have deliberated about what they wanted from artificial intelligence before artificial intelligence was already reshaping their economies, their politics, their children's attention, and their labor markets.
+
+The open-source movement's deepest conviction — that openness is always preferable to closure, that more access is always better than less — was forged in the world of text editors and operating systems. In that world, the conviction was correct. A text editor cannot cause civilizational harm. An operating system does not pose existential risk. The four freedoms — to run, study, redistribute, and modify — were and remain genuine goods when applied to software that is bounded in its potential impact.
+
+But AI is not bounded. And the framework that was designed for bounded software has been applied, without modification, to unbounded capability. The same CC BY-SA license covers a recipe blog and a frontier model's weights. The same "freedom to redistribute" applies to a calculator app and to a system that can generate novel pathogens. The open-source framework has no mechanism for distinguishing between them, because it was designed in a world where the distinction did not exist.
+
+This is not an argument for closure. It is an argument for what the Grammars book calls *responsibility structures* — constraints that match the power of the thing being released. Open the costs side: infrastructure, tooling, standards, safety research, the shared commons that everyone needs. Hold the revenue side accountable: the model weights that generate market power, the deployment at scale, the thing that directly amplifies human capability beyond human oversight. Not closed — but open with obligation. Licensing that carries responsibility, not just permission.
+
+The analogy: we open-source building codes — everyone benefits from safer buildings. We do not open-source the right to build skyscrapers without inspection. The building code is the grammar. The inspection is the responsibility structure. You need both.
+
+---
+
 ## The Alignment Stack
 
 Beneath the political drama of the Pentagon confrontation lay a quieter, deeper problem — one that Constitutional AI had surfaced without solving.
