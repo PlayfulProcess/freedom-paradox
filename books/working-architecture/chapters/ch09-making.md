@@ -56,7 +56,7 @@ A family grammar has four components:
 
 Everything above scales. It just takes longer and requires more explicit structure.
 
-Malidoma Somé said it plainly: "A community that doesn't have a ritual cannot exist." Not "will be less effective" or "may struggle." Cannot exist. The ritual — the shared grammar, the repeated practice, the container that holds the community's difficulty and joy — is what makes a group of individuals into a community.
+Malidoma Somé said it plainly: "A community that doesn't have a ritual cannot exist" (*Ritual: Power, Healing and Community*, p. 81). Not "will be less effective" or "may struggle." Cannot exist. The ritual — the shared grammar, the repeated practice, the container that holds the community's difficulty and joy — is what makes a group of individuals into a community.
 
 A community grammar has the same four components as a family grammar — rhythm, finitude, participation, and something slightly too hard — plus a fifth: **governance**. Someone holds the structure. In the Quaker tradition, it is the clerk. In Indigenous ceremonies, it is the elder. In a neighborhood story circle, it might rotate. But someone must tend the grammar — ensure it happens, hold the boundaries, call the community back when it drifts.
 
