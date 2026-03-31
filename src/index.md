@@ -2,7 +2,7 @@
 
 Welcome to the reading drafts. Five books, one research compendium, one architecture.
 
-**Source:** [github.com/PlayfulProcess/freedom-paradox](https://github.com/PlayfulProcess/freedom-paradox) · Fork it, improve it, make it yours.
+**[recursive.eco](https://recursive.eco)** · **[GitHub](https://github.com/PlayfulProcess/freedom-paradox)** · Fork it, improve it, make it yours.
 
 ---
 
