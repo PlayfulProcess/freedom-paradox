@@ -9,8 +9,9 @@ cd "$REPO"
 
 echo "📚 Syncing chapter files..."
 
-# Freedom Paradox (16 chapters)
+# Freedom Paradox (16 chapters + epilogue)
 cp books/freedom-paradox/chapters/ch*.md src/freedom-paradox/
+cp books/freedom-paradox/chapters/epilogue.md src/freedom-paradox/ 2>/dev/null || true
 
 # Grammars of the Living World (10 chapters + new Species chapters share the dir)
 cp books/grammars-of-the-living-world/chapters/ch01-the-biological-hypothesis.md src/grammars/
@@ -24,10 +25,14 @@ cp books/grammars-of-the-living-world/chapters/ch08-the-species-that-got-fire.md
 cp books/grammars-of-the-living-world/chapters/ch09-the-trap-of-solving.md src/grammars/
 cp books/grammars-of-the-living-world/chapters/ch10-grammars-of-the-living-world.md src/grammars/
 
-# Species That Tells Stories (3 chapters so far)
+# Species That Tells Stories (7 chapters)
 cp books/grammars-of-the-living-world/chapters/ch01-the-oldest-technology.md src/species-tells-stories/
 cp books/grammars-of-the-living-world/chapters/ch02-the-darkness-is-the-medicine.md src/species-tells-stories/
 cp books/grammars-of-the-living-world/chapters/ch03-what-the-old-stories-knew.md src/species-tells-stories/
+cp books/grammars-of-the-living-world/chapters/ch04-what-the-new-stories-carry.md src/species-tells-stories/
+cp books/grammars-of-the-living-world/chapters/ch05-the-container-is-disappearing.md src/species-tells-stories/
+cp books/grammars-of-the-living-world/chapters/ch06-what-we-protect-and-why.md src/species-tells-stories/
+cp books/grammars-of-the-living-world/chapters/ch07-the-stories-we-might-tell.md src/species-tells-stories/
 
 # Working Architecture (12 chapters)
 cp books/working-architecture/chapters/ch*.md src/working-architecture/

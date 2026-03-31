@@ -21,3 +21,11 @@ src/grammars/*.md
 src/species-tells-stories/*.md
 src/working-architecture/*.md
 src/images/*.png
+
+# Personal reading / reference (not for repo)
+*.pdf
+*.azw
+*.azw3
+*.mobi
+personal/
+reference-books/

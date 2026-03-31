@@ -22,6 +22,7 @@
 - [Chapter 14: The Commons That Can Kill](freedom-paradox/ch14-the-commons-that-can-kill.md)
 - [Chapter 15: Gateway Building, Not Gatekeeping](freedom-paradox/ch15-gateway-building-not-gatekeeping.md)
 - [Chapter 16: The Freedom Paradox](freedom-paradox/ch16-the-freedom-paradox.md)
+- [Epilogue: Return to the Clause](freedom-paradox/epilogue.md)
 
 ---
 
@@ -40,11 +41,15 @@
 
 ---
 
-# The Species That Tells Stories *(Draft in Progress)*
+# The Species That Tells Stories
 
 - [Chapter 1: The Oldest Technology](species-tells-stories/ch01-the-oldest-technology.md)
 - [Chapter 2: The Darkness Is the Medicine](species-tells-stories/ch02-the-darkness-is-the-medicine.md)
 - [Chapter 3: What the Old Stories Knew](species-tells-stories/ch03-what-the-old-stories-knew.md)
+- [Chapter 4: What the New Stories Carry](species-tells-stories/ch04-what-the-new-stories-carry.md)
+- [Chapter 5: The Container Is Disappearing](species-tells-stories/ch05-the-container-is-disappearing.md)
+- [Chapter 6: What We Protect and Why](species-tells-stories/ch06-what-we-protect-and-why.md)
+- [Chapter 7: The Stories We Might Tell](species-tells-stories/ch07-the-stories-we-might-tell.md)
 
 ---
 
