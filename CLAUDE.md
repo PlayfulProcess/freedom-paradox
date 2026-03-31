@@ -40,12 +40,23 @@ We are the species that tells stories to its children. Love is the container. Th
 - Skeleton: `outline/new-skeleton-species-tells-stories-v1.md`
 
 ### Book 4: Working Architecture
-**Status: First draft complete** · 12 chapters
+**Status: First draft complete** · 12 chapters · ~20K words
 A practical manual for building the containers. For parents, teachers, therapists — anyone who tells stories to anyone else.
 - Path: `books/working-architecture/`
+- Zero unresolved flags
+- Five items need primary source page numbers (Ehrenreich, Somé, Gilligan, Margulis, Singer)
+
+### Book 5: The Campfire Stories
+**Status: Complete** · 5 books × 2 stories · ~9K words
+Five-minute bedtime stories for ages 3–7, built from cross-cultural story arcs. Each book pairs two stories from different traditions around a shared theme.
+- **Separate repo**: [github.com/PlayfulProcess/campfire-stories](https://github.com/PlayfulProcess/campfire-stories)
+- Written in two prompts using the Vibe Writing 102 methodology
+- Traditions: Akan (Anansi), Jātaka (Buddhist), Aboriginal Australian, Haudenosaunee, Japanese, 1001 Nights, European folk
+- grammar.json ready for recursive.eco import
+- CC BY-SA 4.0 licensed
 
 ### How the Books Connect
-**The Freedom Paradox** is the diagnosis (power without responsibility). **Grammars of the Living World** is the framework (what responsibility structures are). **The Species That Tells Stories** is the narrative heart (how stories carry adaptive wisdom). **Working Architecture** is the practical manual (how to build containers Monday morning). Each works alone; together they form the full architecture.
+**The Freedom Paradox** is the diagnosis (power without responsibility). **Grammars of the Living World** is the framework (what responsibility structures are). **The Species That Tells Stories** is the narrative heart (how stories carry adaptive wisdom). **Working Architecture** is the practical manual (how to build containers Monday morning). **The Campfire Stories** is the proof of concept (stories built using the three-filter test, for actual children, in actual bedtimes). Each works alone; together they form the full architecture.
 
 ## Publishing & Deployment
 
