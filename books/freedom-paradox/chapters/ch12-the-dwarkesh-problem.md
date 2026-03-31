@@ -78,7 +78,7 @@ Open-weight AI models have no bottleneck. The model weights are files. They can 
 
 A researcher at the Centre for Future Generations in Brussels posed the question that followed from this analysis: can open-weight models ever be safe? Not in the narrow sense of whether a specific model has guardrails. In the systemic sense of whether a technology whose defining characteristic is uncontrolled replication can coexist with governance frameworks that assume the ability to control.
 
-[RESEARCH NEEDED: Specific proposals for post-release governance of open-weight models — any technical approaches that show promise?]
+Several proposals had emerged by early 2026, though none had achieved consensus. The Centre for Future Generations in Brussels published a framework advocating tiered, safety-anchored release — openness calibrated to rigorous risk assessment rather than ideology or commercial pressure. The EU's General-Purpose AI Code of Practice, finalized in July 2025, advised all models, whether open- or closed-weight, to adopt core technical safety measures before release, though compliance remained voluntary. The OECD's Global Partnership on AI recommended marginal risk assessment — evaluating whether a specific model release meaningfully increases harm beyond what existing openly available models already enable. Each approach grappled with the same structural challenge: once weights are released, enforcement becomes impossible. The governance proposals were, at best, frameworks for deciding *whether* to release. None had a credible mechanism for governing models *after* release.
 
 ---
 

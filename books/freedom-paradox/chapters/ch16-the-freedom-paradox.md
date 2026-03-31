@@ -230,7 +230,7 @@ But it was built for a world of benign tools. AI is the first technology that fo
 
 That is the freedom paradox. The movement built to maximize freedom may need to accept limits on freedom — not as a betrayal of its principles, but as the honest application of those principles to a world that its founders could not have anticipated.
 
-[QUOTE NEEDED: Mill's harm principle — "The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others." Mill wrote this about individual liberty. It applies, with unsettling precision, to the liberty of software.]
+John Stuart Mill, in *On Liberty* (1859), stated what is now called the harm principle: "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others." Mill wrote this about individual liberty. It applies, with unsettling precision, to the liberty of software.
 
 The paradox does not have a resolution. It has a condition: the recognition that every choice — open or closed, free or controlled — carries risk. The risk of openness is proliferation, weaponization, and the destruction of the positive liberty that makes human life meaningful. The risk of closure is concentration, paternalism, and the erosion of the negative liberty that the open-source movement was built to protect. Neither risk can be eliminated. Both must be navigated.
 

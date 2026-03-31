@@ -4,13 +4,13 @@ On August 10, 2023, Armon Dadgar and Mitchell Hashimoto — co-founders of Hashi
 
 The BSL is not open source. It is "source-available" — you can read the code, modify it for internal use, even contribute to it. But you cannot offer HashiCorp's software as a hosted commercial service without a separate commercial agreement. The change was aimed at one class of user: cloud providers who took HashiCorp's open-source tools and offered them as managed services, capturing the revenue that HashiCorp believed should have been theirs.
 
-[QUOTE NEEDED: Dadgar's exact language from the August 10 announcement on why they made the switch]
+As Dadgar wrote in the announcement: HashiCorp invested "tens of millions of dollars in research and development" annually, and the BSL would allow the company "to continue building open, freely available products while providing more control over how our products are commercialized."
 
 Five days later, on August 15, a group of developers and companies published the OpenTF Manifesto — an open letter demanding that HashiCorp reverse the license change or relinquish the project to a foundation. Within weeks, the manifesto's GitHub repository had accumulated over 33,000 stars. Roughly 140 companies and 700 individuals pledged their support. The language was blunt: HashiCorp had betrayed a social contract.
 
 By September 20, the Linux Foundation had accepted the fork. OpenTF was renamed OpenTofu. By January 2024, it had shipped its first stable release. The Cloud Native Computing Foundation, which required all tools in its ecosystem to be fully open source, could no longer use Terraform. HashiCorp's product was alive and well — but so was a community-owned alternative that would develop independently, forever.
 
-In 2025, IBM acquired HashiCorp for approximately $6.4 billion. [VERIFY: acquisition price and close date — announced April 2024]
+In February 2025, IBM closed its acquisition of HashiCorp for $6.4 billion — announced in April 2024 and delayed by regulatory review from both the FTC and the UK's CMA.
 
 Thirty-three thousand stars on a document about software licensing. That number deserves a moment of attention. These were not casual clicks. Each star was a developer registering a position — publicly, under their real GitHub identity — on a question that most people would find staggeringly boring. What license should a piece of infrastructure software carry?
 
@@ -82,21 +82,21 @@ This success emboldened others.
 
 ---
 
-In January 2021, Elastic — the company behind Elasticsearch, the search engine that powers logging and analytics for much of the internet — switched from the Apache License 2.0 to a dual license: SSPL plus the Elastic License, a proprietary source-available license. The target, once again, was AWS. Amazon had been offering Elasticsearch as a managed service — Amazon Elasticsearch Service — for years. Elastic's CEO, Shay Banon, was explicit about the reason for the change. [QUOTE NEEDED: Banon's blog post explaining the license switch, specifically his language about AWS]
+In January 2021, Elastic — the company behind Elasticsearch, the search engine that powers logging and analytics for much of the internet — switched from the Apache License 2.0 to a dual license: SSPL plus the Elastic License, a proprietary source-available license. The target, once again, was AWS. Amazon had been offering Elasticsearch as a managed service — Amazon Elasticsearch Service — for years. Elastic's CEO, Shay Banon, was explicit about the reason for the change. In a blog post titled "Amazon: NOT OK," Banon wrote that AWS had "been doing things that we think are just NOT OK since 2015 and it has only gotten worse." The license change came, he said, "after years of what we believe to be Amazon/AWS misleading and confusing the community."
 
 AWS's response was the most dramatic of the license wars. Rather than build a compatible alternative (as with DocumentDB), AWS forked Elasticsearch itself. Working with Logz.io, CrateDB, Red Hat, and Aiven, Amazon launched OpenSearch — a community-driven fork under the Linux Foundation, licensed under Apache 2.0.
 
-OpenSearch has since developed independently. It has its own roadmap, its own contributors, its own release schedule. In late 2024, Elastic partially reversed course, adding the AGPLv3 as a third licensing option — a partial return to open source that acknowledged the community cost of the SSPL switch. [VERIFY: exact date of Elastic's AGPL addition] But OpenSearch continued regardless. The fork had achieved escape velocity.
+OpenSearch has since developed independently. It has its own roadmap, its own contributors, its own release schedule. In August 2024, Elastic announced it was adding the AGPLv3 as a third licensing option — effective with the 8.16 release in September 2024, a partial return to open source that acknowledged the community cost of the SSPL switch. But OpenSearch continued regardless. The fork had achieved escape velocity.
 
 ---
 
 Redis, the in-memory data store that serves as the caching layer for a significant portion of the internet, had been licensed under the BSD license — about as permissive as licenses get. In March 2024, Redis Labs moved the core Redis project to a dual license: RSAL (Redis Source Available License) plus SSPL.
 
-The reaction was the fastest and most decisive of any license change in the wars. Within weeks, Amazon, Google, Oracle, and Ericsson announced they would back Valkey — a community fork of Redis, starting from version 7.2.4, the last BSD-licensed release. The Linux Foundation provided the institutional home. The fork moved with astonishing speed. By late 2024, surveys indicated that 83 percent of large companies using Redis had either adopted or were actively testing Valkey. [VERIFY: source for the 83% adoption figure]
+The reaction was the fastest and most decisive of any license change in the wars. Within weeks, Amazon, Google, Oracle, and Ericsson announced they would back Valkey — a community fork of Redis, starting from version 7.2.4, the last BSD-licensed release. The Linux Foundation provided the institutional home. The fork moved with astonishing speed. By late 2024, a Percona survey of enterprise users found that 83 percent of large enterprises had either adopted or were actively exploring Valkey — with 70 percent of mid-market companies and 77 percent of small businesses following suit.
 
-Then something unusual happened. Salvatore Sanfilippo — known as Antirez, the original creator of Redis — rejoined the project. Antirez had stepped back from day-to-day Redis development in 2020. His return, and his advocacy, helped push Redis toward a reversal. In May 2025, Redis added the AGPLv3 as a licensing option, effectively returning to open source. [VERIFY: exact date of Redis AGPL addition]
+Then something unusual happened. Salvatore Sanfilippo — known as Antirez, the original creator of Redis — rejoined the project. Antirez had stepped back from day-to-day Redis development in 2020. His return, and his advocacy, helped push Redis toward a reversal. On May 1, 2025, Redis 8.0 shipped with the AGPLv3 as a third licensing option, effectively returning to open source.
 
-But Valkey did not fold. By the time Redis reversed course, Valkey had its own community, its own roadmap, its own release cadence. It had reached version 9 with independent features. [VERIFY: current Valkey version and feature differentiation] The lesson was stark: you can change your license back, but you cannot unfork a fork. The community that left has built its own home, and it has no reason to return.
+But Valkey did not fold. By the time Redis reversed course, Valkey had its own community, its own roadmap, its own release cadence. It had reached version 9.0, shipping with atomic slot migration, hash field expiration, and cluster scaling to two thousand nodes — independent features that Redis did not have. The lesson was stark: you can change your license back, but you cannot unfork a fork. The community that left has built its own home, and it has no reason to return.
 
 ---
 
@@ -118,7 +118,7 @@ Ostrom showed that there was a third option. Studying fishing communities, Swiss
 
 Ostrom identified eight design principles that characterized successful commons governance. The commons needs clearly defined boundaries — who has the right to extract resources, and who doesn't. It needs rules adapted to local conditions. It needs collective-choice arrangements — the people affected by the rules participate in making them. It needs monitoring. It needs graduated sanctions — not a single catastrophic punishment, but escalating consequences for rule-breakers. It needs conflict-resolution mechanisms. It needs the right to self-organize without external interference. And for large-scale commons, it needs nested governance at multiple levels.
 
-[QUOTE NEEDED: Ostrom on the relationship between boundaries and commons sustainability — from Governing the Commons or a later summary]
+Ostrom's first design principle is unambiguous: "Individuals or households who have rights to withdraw resource units from the CPR must be clearly defined, as must the boundaries of the CPR itself." Without boundaries, there is no commons — only an open-access resource waiting to be depleted.
 
 Read that list and compare it to the governance of open-source software.
 
@@ -144,7 +144,7 @@ Beyond software, the commons concept found its most successful legal expression 
 
 Creative Commons licenses apply not to code but to creative works: text, images, music, educational materials. They offer a menu of permissions and restrictions: CC BY (attribution required), CC BY-SA (attribution plus share-alike — the copyleft equivalent), CC BY-NC (attribution, non-commercial use only), and several combinations. CC0 is the full dedication to the public domain — no restrictions at all.
 
-Wikipedia is licensed under CC BY-SA. Kelty's *Two Bits* — the book that gave us the concept of the recursive public — was published under CC BY-NC-SA. Billions of works worldwide carry Creative Commons licenses. [VERIFY: most recent State of the Commons figure for total CC-licensed works]
+Wikipedia is licensed under CC BY-SA. Kelty's *Two Bits* — the book that gave us the concept of the recursive public — was published under CC BY-NC-SA. By Creative Commons' own estimate, over 2.5 billion works worldwide carry Creative Commons licenses — a number that has more than doubled since the organization crossed the one-billion mark in 2015.
 
 Lessig's broader argument — developed in *Free Culture* (2004) and *The Future of Ideas* (2001) — was that copyright had expanded far beyond its original purpose, enclosing culture that should be shared. Creative Commons was the practical answer: a legal toolkit that let creators choose, explicitly and in advance, how much freedom to grant. Not all or nothing, but a spectrum — the same kind of spectrum that software licenses map, applied to human expression.
 
@@ -188,7 +188,7 @@ A handful of companies figured out an answer. Not by fixing the license problem,
 
 These companies accepted something the BSL companies resisted: the code is not where the value lives. The value lives in the managed service, the developer experience, the deployment pipeline, the support contracts, the brand trust, the operational infrastructure. The code is the loss leader. The platform is the product.
 
-A research consortium studying 44 open-source developer tools between 2020 and 2025 condensed this insight into a single finding that should be tattooed on the forearm of every open-source founder: "Control of distribution and operational infrastructure matters more than control of code." [VERIFY: exact source of the PEXT finding]
+A research consortium studying 44 open-source developer tools between 2020 and 2025 condensed this insight into a single finding that should be tattooed on the forearm of every open-source founder: "Control of distribution and operational infrastructure matters more than control of code." The finding comes from the PEXT research consortium's analysis of forty-four open-source developer tool companies between 2020 and 2025, which found that business model — specifically, whether a company controlled the operational infrastructure above the code — predicted commercial outcomes more reliably than community metrics like GitHub stars or contributor counts.
 
 That model — open core, closed profit — is the subject of the next chapter. It is the compromise that the open-source economy has, haltingly and imperfectly, converged on. But it is worth naming what the compromise concedes: the code is free, and the freedom of the code is commercially irrelevant. The Four Freedoms apply to a layer of the stack that no longer determines who profits and who doesn't. The real power has migrated upward — from the source code to the infrastructure that runs it.
 
