@@ -43,13 +43,13 @@
 
 # The Species That Tells Stories
 
+- [Introduction: The Species That Got Fire](species-tells-stories/intro-the-species-that-got-fire.md)
 - [Chapter 1: The Oldest Technology](species-tells-stories/ch01-the-oldest-technology.md)
 - [Chapter 2: The Darkness Is the Medicine](species-tells-stories/ch02-the-darkness-is-the-medicine.md)
 - [Chapter 3: What the Old Stories Knew](species-tells-stories/ch03-what-the-old-stories-knew.md)
-- [Chapter 4: What the New Stories Carry](species-tells-stories/ch04-what-the-new-stories-carry.md)
-- [Chapter 5: The Container Is Disappearing](species-tells-stories/ch05-the-container-is-disappearing.md)
-- [Chapter 6: What We Protect and Why](species-tells-stories/ch06-what-we-protect-and-why.md)
-- [Chapter 7: The Stories We Might Tell](species-tells-stories/ch07-the-stories-we-might-tell.md)
+- [Chapter 4: The Species in Overshoot](species-tells-stories/ch04-the-species-in-overshoot.md)
+- [Chapter 5: But Collaboration Runs Deeper](species-tells-stories/ch05-collaboration-runs-deeper.md)
+- [Conclusion: Grammars Are Responsibility Structures](species-tells-stories/conclusion-grammars-are-responsibility-structures.md)
 
 ---
 
