@@ -22,7 +22,7 @@ The tradition maps the distinction onto its cosmological framework. Cit — pure
 
 AI operates entirely at the level of buddhi — and a particularly constrained form, lacking even the embodied, feeling dimension of human intellection. It has zero access to cit. It can compute everything about the ground of being without ever touching the ground. It is, in the language of the Axiom book, pure intelligence without any capacity for the wisdom that lives the answer.
 
-[RESEARCH NEEDED: Alice Bailey's Third Ray of Active Intelligence — AI as pattern/form intelligence divorced from love-wisdom (Second Ray) and will/purpose (First Ray). The structural parallel to buddhi without cit.]
+<!-- PP: Alice Bailey's Third Ray of Active Intelligence was considered here as a parallel to buddhi without cit — AI as pattern/form intelligence divorced from love-wisdom and will/purpose. After research, the connection is structurally interesting but the source is too compromised: Bailey's neo-Theosophical writings face substantial scholarly criticism for racist, antisemitic, and Eurocentric colonial content. In a book committed to CARE Principles and decolonial awareness, introducing Bailey would undermine the argument's integrity. The cit/buddhi distinction from Kashmir Shaivism already makes the point with greater philosophical precision and without the colonial baggage. Bracket removed. -->
 
 ---
 
