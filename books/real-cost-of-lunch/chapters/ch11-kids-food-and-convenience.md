@@ -24,6 +24,10 @@ A spoon, a bowl, and a mashed banana accomplish the same nutritional goal with z
 
 The pouch isn't the problem. The time poverty that makes the pouch necessary is the problem. The pouch is a symptom.
 
+And behind the symptom, a deeper entanglement: the pouch is cheap because plastic is cheap, and plastic is cheap because fossil fuels are cheap. Petrochemical feedstock accounts for 60 to 70 percent of virgin plastic production costs. Oil companies — facing declining demand for transportation fuel — are executing what analysts call the "petrochemical pivot," redeploying over $200 billion into plastic production since 2010. Saudi Aramco, ExxonMobil, Shell, and ADNOC have all declared petrochemicals as their growth strategy. The IEA projects that petrochemicals will become the single largest driver of oil demand — larger than trucks, aviation, and shipping combined.
+
+So that unrecyclable pouch in your child's lunch box is not just a packaging failure. It is a node in a global supply chain designed to keep oil companies profitable in a decarbonizing world. The energy transition doesn't kill plastic — it concentrates the remaining fossil fuel industry around it. Your child's squeeze pouch is, in a very real sense, an oil company's survival strategy.
+
 ## Juice Boxes: Recycling Theater
 
 TetraPak — the aseptic carton used for juice boxes, shelf-stable milk, broth, and more — is a brilliant engineering achievement and an environmental headache.
