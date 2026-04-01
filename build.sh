@@ -25,14 +25,14 @@ cp books/grammars-of-the-living-world/chapters/ch08-the-species-that-got-fire.md
 cp books/grammars-of-the-living-world/chapters/ch09-the-trap-of-solving.md src/grammars/
 cp books/grammars-of-the-living-world/chapters/ch10-grammars-of-the-living-world.md src/grammars/
 
-# Species That Tells Stories (7 chapters)
-cp books/grammars-of-the-living-world/chapters/ch01-the-oldest-technology.md src/species-tells-stories/
-cp books/grammars-of-the-living-world/chapters/ch02-the-darkness-is-the-medicine.md src/species-tells-stories/
-cp books/grammars-of-the-living-world/chapters/ch03-what-the-old-stories-knew.md src/species-tells-stories/
-cp books/grammars-of-the-living-world/chapters/ch04-what-the-new-stories-carry.md src/species-tells-stories/
-cp books/grammars-of-the-living-world/chapters/ch05-the-container-is-disappearing.md src/species-tells-stories/
-cp books/grammars-of-the-living-world/chapters/ch06-what-we-protect-and-why.md src/species-tells-stories/
-cp books/grammars-of-the-living-world/chapters/ch07-the-stories-we-might-tell.md src/species-tells-stories/
+# Species That Tells Stories (merged book: intro + 5 chapters + conclusion)
+cp books/species-that-tells-stories/chapters/intro-the-species-that-got-fire.md src/species-tells-stories/
+cp books/species-that-tells-stories/chapters/ch01-the-oldest-technology.md src/species-tells-stories/
+cp books/species-that-tells-stories/chapters/ch02-the-darkness-is-the-medicine.md src/species-tells-stories/
+cp books/species-that-tells-stories/chapters/ch03-what-the-old-stories-knew.md src/species-tells-stories/
+cp books/species-that-tells-stories/chapters/ch04-the-species-in-overshoot.md src/species-tells-stories/
+cp books/species-that-tells-stories/chapters/ch05-collaboration-runs-deeper.md src/species-tells-stories/
+cp books/species-that-tells-stories/chapters/conclusion-grammars-are-responsibility-structures.md src/species-tells-stories/
 
 # Working Architecture (12 chapters)
 cp books/working-architecture/chapters/ch*.md src/working-architecture/

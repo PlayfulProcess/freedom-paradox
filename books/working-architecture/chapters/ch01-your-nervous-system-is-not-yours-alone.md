@@ -40,7 +40,13 @@ The research backs this up precisely. A study of preschoolers watching *Daniel T
 
 ---
 
-## What This Means for You
+## What This Means for Everyone
+
+This is not just a parenting insight. It is a claim about what it means to be human.
+
+If the nervous system is an open circuit — if co-regulation is the baseline, not the bonus — then removing a person from their co-regulatory web is not a neutral act. It is a form of disabling. When boarding schools stripped Indigenous children from their cultures, languages, ceremonies, and communal storytelling practices, they were not just suppressing a tradition. They were removing the neurological infrastructure those children's developing brains were built to use. The resulting dysregulation was then cited as evidence that the children needed "civilizing." This is ableism operating at the cultural level: defining a relational way of being as deficient, removing the infrastructure that made it functional, then pointing to the damage as justification.
+
+The same logic applies, in gentler form, every time a culture tells its members that self-regulation is the goal and co-regulation is a weakness. The nervous system does not work that way. It never has. It never will. The goal is not independence from the circuit. The goal is a well-functioning circuit.
 
 You are a co-regulation technology. Your voice, your presence, your responsiveness — these are doing something to the nervous systems of the people around you, whether you intend it or not. The question is not whether you are regulating others. The question is whether you are doing it well.
 
