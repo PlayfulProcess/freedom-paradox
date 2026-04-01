@@ -68,8 +68,21 @@ jobs:
           mkdir -p src/real-cost-of-lunch
           cp books/real-cost-of-lunch/chapters/ch*.md src/real-cost-of-lunch/
 
-          # Outline-only books (placeholder pages already in src/)
-          # repair, dbt-wise-heart, decolonization, social-working
+          # The Repair Deck
+          mkdir -p src/repair
+          cp books/repair/chapters/ch*.md src/repair/
+
+          # The Wise Heart (DBT)
+          mkdir -p src/dbt-wise-heart
+          cp books/dbt-wise-heart/chapters/ch*.md src/dbt-wise-heart/
+
+          # Decolonization
+          mkdir -p src/decolonization
+          cp books/decolonization/chapters/ch*.md src/decolonization/
+
+          # Social Working
+          mkdir -p src/social-working
+          cp books/social-working/chapters/ch*.md src/social-working/
 
           # Charts
           mkdir -p src/images
