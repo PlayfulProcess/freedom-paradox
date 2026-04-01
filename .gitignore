@@ -16,17 +16,8 @@ book/
 mdbook.zip
 
 # mdbook staging (copied by build.sh, not source of truth)
-src/freedom-paradox/*.md
-src/grammars/*.md
-src/species-tells-stories/*.md
-src/working-architecture/*.md
-src/axiom/*.md
-src/fire-and-intelligence/*.md
+src/consolidated/*.md
 src/real-cost-of-lunch/*.md
-src/repair/*.md
-src/dbt-wise-heart/*.md
-src/decolonization/*.md
-src/social-working/*.md
 src/images/*.png
 
 # Personal reading / reference (not for repo)
