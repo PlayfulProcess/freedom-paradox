@@ -66,6 +66,22 @@ Each works alone. Together they form the full architecture.
 
 ---
 
+## Highlighting & Notes
+
+This site has a built-in annotation tool. No account needed — everything stays in your browser.
+
+**To highlight:** Select any text → click **Highlight** or **+ Note** in the popover that appears.
+
+**To view & manage:** Click the pen icon in the top toolbar to open the highlights panel.
+
+**To export:** In the highlights panel, click **Export JSON**, **Export Markdown**, or **Export CSV**. Save the file to your Google Drive, iCloud, Dropbox — anywhere you like.
+
+**To import on another device:** Open the highlights panel → click **Import** → select your saved JSON file.
+
+**To share a quote:** Click any highlight → **Copy Link**. The URL will scroll recipients directly to that passage.
+
+---
+
 ## Reading on Kindle
 
 1. Download the EPUB above

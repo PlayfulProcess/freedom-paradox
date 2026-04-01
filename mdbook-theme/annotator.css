@@ -17,13 +17,17 @@ mark.annotator-highlight.has-note {
   border-bottom: 2px dotted #e6a800;
 }
 
-/* Ayu dark theme */
-.ayu mark.annotator-highlight {
+/* Dark themes (ayu, navy, coal) */
+.ayu mark.annotator-highlight,
+.navy mark.annotator-highlight,
+.coal mark.annotator-highlight {
   background: rgba(255, 243, 168, 0.25);
-  color: #e0ddd5;
+  color: inherit;
 }
 
-.ayu mark.annotator-highlight:hover {
+.ayu mark.annotator-highlight:hover,
+.navy mark.annotator-highlight:hover,
+.coal mark.annotator-highlight:hover {
   background: rgba(255, 224, 102, 0.35);
 }
 
@@ -89,8 +93,10 @@ mark.annotator-highlight.has-note {
   font-family: 'Inter', -apple-system, sans-serif;
 }
 
-.ayu .annotator-note-modal-inner {
-  background: #1a1a2e;
+.ayu .annotator-note-modal-inner,
+.navy .annotator-note-modal-inner,
+.coal .annotator-note-modal-inner {
+  background: #1e2b3a;
   color: #e0ddd5;
 }
 
@@ -111,8 +117,10 @@ mark.annotator-highlight.has-note {
   text-overflow: ellipsis;
 }
 
-.ayu .annotator-note-modal-inner .annotator-quote-preview {
-  color: #888;
+.ayu .annotator-note-modal-inner .annotator-quote-preview,
+.navy .annotator-note-modal-inner .annotator-quote-preview,
+.coal .annotator-note-modal-inner .annotator-quote-preview {
+  color: #aaa;
 }
 
 .annotator-note-modal-inner textarea {
@@ -127,9 +135,11 @@ mark.annotator-highlight.has-note {
   box-sizing: border-box;
 }
 
-.ayu .annotator-note-modal-inner textarea {
-  background: #252540;
-  border-color: #333;
+.ayu .annotator-note-modal-inner textarea,
+.navy .annotator-note-modal-inner textarea,
+.coal .annotator-note-modal-inner textarea {
+  background: #2a3a4e;
+  border-color: #445;
   color: #e0ddd5;
 }
 
@@ -161,12 +171,38 @@ mark.annotator-highlight.has-note {
   color: #fff;
 }
 
+.ayu .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel,
+.navy .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel,
+.coal .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel {
+  background: #3a4a5e;
+  color: #ccc;
+}
+
+.ayu .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save,
+.navy .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save,
+.coal .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save {
+  background: #5a8abf;
+  color: #fff;
+}
+
 .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel:hover {
   background: #e4e4e4;
 }
 
 .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save:hover {
   background: #444;
+}
+
+.ayu .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel:hover,
+.navy .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel:hover,
+.coal .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel:hover {
+  background: #4a5a6e;
+}
+
+.ayu .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save:hover,
+.navy .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save:hover,
+.coal .annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save:hover {
+  background: #6a9acf;
 }
 
 /* ===== Highlight detail tooltip (on click) ===== */
@@ -183,10 +219,13 @@ mark.annotator-highlight.has-note {
   animation: annotator-fade-in 0.12s ease-out;
 }
 
-.ayu .annotator-detail {
-  background: #252540;
+.ayu .annotator-detail,
+.navy .annotator-detail,
+.coal .annotator-detail {
+  background: #1e2b3a;
   color: #e0ddd5;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  border: 1px solid #3a4a5e;
 }
 
 .annotator-detail .annotator-detail-note {
@@ -195,8 +234,10 @@ mark.annotator-highlight.has-note {
   color: #333;
 }
 
-.ayu .annotator-detail .annotator-detail-note {
-  color: #ccc;
+.ayu .annotator-detail .annotator-detail-note,
+.navy .annotator-detail .annotator-detail-note,
+.coal .annotator-detail .annotator-detail-note {
+  color: #e0ddd5;
 }
 
 .annotator-detail .annotator-detail-actions {
@@ -216,21 +257,31 @@ mark.annotator-highlight.has-note {
   transition: background 0.12s;
 }
 
-.ayu .annotator-detail .annotator-detail-actions button {
-  background: #333;
-  color: #ccc;
+.ayu .annotator-detail .annotator-detail-actions button,
+.navy .annotator-detail .annotator-detail-actions button,
+.coal .annotator-detail .annotator-detail-actions button {
+  background: #3a4a5e;
+  color: #ddd;
 }
 
 .annotator-detail .annotator-detail-actions button:hover {
   background: #e0e0e0;
 }
 
-.ayu .annotator-detail .annotator-detail-actions button:hover {
-  background: #444;
+.ayu .annotator-detail .annotator-detail-actions button:hover,
+.navy .annotator-detail .annotator-detail-actions button:hover,
+.coal .annotator-detail .annotator-detail-actions button:hover {
+  background: #4a5a6e;
 }
 
 .annotator-detail .annotator-detail-actions button.annotator-btn-delete {
   color: #c0392b;
+}
+
+.ayu .annotator-detail .annotator-detail-actions button.annotator-btn-delete,
+.navy .annotator-detail .annotator-detail-actions button.annotator-btn-delete,
+.coal .annotator-detail .annotator-detail-actions button.annotator-btn-delete {
+  color: #e74c3c;
 }
 
 /* ===== Toolbar button (in mdbook menu bar) ===== */
@@ -267,8 +318,10 @@ mark.annotator-highlight.has-note {
   animation: annotator-slide-in 0.2s ease-out;
 }
 
-.ayu .annotator-panel {
-  background: #1a1a2e;
+.ayu .annotator-panel,
+.navy .annotator-panel,
+.coal .annotator-panel {
+  background: #161f2b;
   color: #e0ddd5;
   box-shadow: -4px 0 20px rgba(0,0,0,0.4);
 }
@@ -286,8 +339,10 @@ mark.annotator-highlight.has-note {
   border-bottom: 1px solid #eee;
 }
 
-.ayu .annotator-panel-header {
-  border-bottom-color: #333;
+.ayu .annotator-panel-header,
+.navy .annotator-panel-header,
+.coal .annotator-panel-header {
+  border-bottom-color: #2a3a4e;
 }
 
 .annotator-panel-header h3 {
@@ -316,8 +371,10 @@ mark.annotator-highlight.has-note {
   border-bottom: 1px solid #f0f0f0;
 }
 
-.ayu .annotator-panel-item {
-  border-bottom-color: #2a2a45;
+.ayu .annotator-panel-item,
+.navy .annotator-panel-item,
+.coal .annotator-panel-item {
+  border-bottom-color: #2a3a4e;
 }
 
 .annotator-panel-item .annotator-panel-quote {
@@ -329,8 +386,10 @@ mark.annotator-highlight.has-note {
   margin-bottom: 4px;
 }
 
-.ayu .annotator-panel-item .annotator-panel-quote {
-  color: #999;
+.ayu .annotator-panel-item .annotator-panel-quote,
+.navy .annotator-panel-item .annotator-panel-quote,
+.coal .annotator-panel-item .annotator-panel-quote {
+  color: #aaa;
 }
 
 .annotator-panel-item .annotator-panel-note {
@@ -339,8 +398,10 @@ mark.annotator-highlight.has-note {
   line-height: 1.4;
 }
 
-.ayu .annotator-panel-item .annotator-panel-note {
-  color: #ccc;
+.ayu .annotator-panel-item .annotator-panel-note,
+.navy .annotator-panel-item .annotator-panel-note,
+.coal .annotator-panel-item .annotator-panel-note {
+  color: #ddd;
 }
 
 .annotator-panel-footer {
@@ -351,8 +412,10 @@ mark.annotator-highlight.has-note {
   flex-wrap: wrap;
 }
 
-.ayu .annotator-panel-footer {
-  border-top-color: #333;
+.ayu .annotator-panel-footer,
+.navy .annotator-panel-footer,
+.coal .annotator-panel-footer {
+  border-top-color: #2a3a4e;
 }
 
 .annotator-panel-footer button {
@@ -368,18 +431,22 @@ mark.annotator-highlight.has-note {
   transition: background 0.12s;
 }
 
-.ayu .annotator-panel-footer button {
-  background: #252540;
-  border-color: #333;
-  color: #ccc;
+.ayu .annotator-panel-footer button,
+.navy .annotator-panel-footer button,
+.coal .annotator-panel-footer button {
+  background: #2a3a4e;
+  border-color: #3a4a5e;
+  color: #ddd;
 }
 
 .annotator-panel-footer button:hover {
   background: #f5f5f5;
 }
 
-.ayu .annotator-panel-footer button:hover {
-  background: #333;
+.ayu .annotator-panel-footer button:hover,
+.navy .annotator-panel-footer button:hover,
+.coal .annotator-panel-footer button:hover {
+  background: #3a4a5e;
 }
 
 /* ===== Toast notifications ===== */
