@@ -68,6 +68,8 @@ The God above God transcends the theism-atheism binary entirely. It is not a bei
 
 Tillich offers three things that no other thinker provides. First, honesty — he names the ground as chosen, not given. He does not pretend that faith eliminates doubt. He insists that doubt is an element of faith, not its enemy. Second, the Protestant Principle — the commitment to continuously negate every concrete form that claims to be final. Even the axiom of inherent value must be held lightly. The moment it hardens into dogma, it has betrayed itself. Third, the bridge. The courage to be as a part — the affirmation of oneself through participation in something larger — is the structural equivalent of what this project's other books call a grammar. The grammar is the container. The courage to accept acceptance is the act of allowing the container to hold you, even when you cannot prove it will.
 
+There is one more claim that deserves acknowledgment before we enter the void. The claim that consciousness is fundamental rather than emergent is not dismissed by contemporary philosophy of mind. The hard problem — that we have no account of how subjective experience arises from physical processes — remains unsolved after decades of neuroscientific progress. This does not vindicate the tradition's claim. But it means the claim cannot be dismissed as pre-scientific metaphysics either.
+
 ---
 
 ## The void is not a metaphor
