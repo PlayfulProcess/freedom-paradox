@@ -1,14 +1,12 @@
 # Chapter 2: The Darkness Is the Medicine
 
-Every parent knows the phase. A child — four years old, maybe five — locks onto one story and will not let go. Not a gentle story. A story with teeth. A bear who tears through a village, swallows children whole, and is eventually tricked into falling off a cliff by the youngest sibling, the one everyone had overlooked.
+My son went through a phase — six months, maybe longer — where the only acceptable bedtime story involved a bear who ate people. Not a polite, Paddington-style bear. A bear with teeth. A bear who tore through the village and swallowed children whole and was eventually tricked into falling off a cliff by the youngest sibling, the one everyone had overlooked.
 
-The child wants this story every night. Not sometimes. Every night. If the parent tries to substitute something gentler — a bunny, a train, a nice book about feelings — the child pushes it away with the particular contempt that four-year-olds reserve for adults who have missed the point entirely. "No. The bear one."
+He wanted this story every night. Not sometimes. Every night. If I tried to substitute something gentler — a bunny, a train, a nice book about feelings — he would push it away with the particular contempt that four-year-olds reserve for adults who have missed the point entirely. "No. The bear one."
 
-Parents worry. Is there something wrong? A morbid fixation? Should the child be redirected toward healthier content? But then, during the part where the bear approaches the youngest sibling's hiding place — the worst part, the part where the shadows are longest — the child's hand grips the parent's arm, hard. Not pulling away. Holding on. The body is tense with something recognizable as fear, and also with something recognizable as purpose. The child is going somewhere difficult on purpose. The child wants to go there. The child needs the bear.
+I worried, at first, the way parents worry. Was there something wrong? Was he developing a morbid fixation? Should I be redirecting him toward healthier content? Then one night, during the part where the bear was approaching the youngest sibling's hiding place — the worst part, the part where the shadows were longest — I felt his hand grip my arm, hard. Not pulling away. Holding on. His body was tense with something I recognized as fear, and also with something I recognized as purpose. He was going somewhere difficult on purpose. He wanted to go there. He needed the bear.
 
-<!-- [PP REVIEW: This was originally written as memoir about your son. You have one daughter. If you want to ground this with your own experience, replace with a version from your daughter's actual reading life — what story did she latch onto? What was her "bear"? Even a sentence or two of real detail would anchor the passage. Otherwise, the generic version works fine as-is.] -->
-
-The child is practicing.
+It took me a long time to understand what he was doing. He was practicing.
 
 ---
 
@@ -20,11 +18,11 @@ Edna Foa and Michael Kozak formalized this as emotional processing theory in 198
 
 Now consider the bear story.
 
-The child's amygdala fires. Cortisol rises. The body tenses. The fear structure is activated — genuinely, physiologically, in the child's body on the parent's lap. The child is not pretending to be scared. The embodied simulation research confirms this: fiction activates motor, sensory, and emotional cortex as if the events were really happening. Uri Hasson's neural coupling studies at Princeton show that a listener's brain activity mirrors the storyteller's with a lag of a few seconds — the listener is not passively receiving but actively constructing the experience inside their own nervous system.
+My son's amygdala fires. His cortisol rises. His body tenses. The fear structure is activated — genuinely, physiologically, in his body on my lap. He is not pretending to be scared. The embodied simulation research confirms this: fiction activates motor, sensory, and emotional cortex as if the events were really happening. Uri Hasson's neural coupling studies at Princeton show that a listener's brain activity mirrors the storyteller's with a lag of a few seconds — the listener is not passively receiving but actively constructing the experience inside their own nervous system.
 
-But the feared outcome does not materialize. The bear does not actually eat the child. The youngest sibling outwits the bear. The story ends. The parent's body has remained steady throughout — heart rate even, breath regular, voice modulated. The parent's nervous system has been doing what Megan Gunnar's social buffering research describes: intercepting the child's stress response at the physiological level, preventing the cortisol cascade from overwhelming still-developing regulatory architecture.
+But the feared outcome does not materialize. The bear does not actually eat him. The youngest sibling outwits the bear. The story ends. My body has remained steady throughout — heart rate even, breath regular, voice modulated. My nervous system has been doing what Megan Gunnar's social buffering research describes: intercepting my son's stress response at the physiological level, preventing the cortisol cascade from overwhelming his still-developing regulatory architecture.
 
-The fear structure activated. New information incorporated: the dark thing is survivable. I am held. The story ends. This is exposure therapy. The child has been conducting it on herself, every night, with the precision of a clinician and the wisdom of sixty thousand years of practice — choosing the story, choosing the dose, choosing to return.
+The fear structure activated. New information incorporated: the dark thing is survivable. I am held. The story ends. This is exposure therapy. My son has been conducting it on himself, every night, with the precision of a clinician and the wisdom of sixty thousand years of practice — choosing the story, choosing the dose, choosing to return.
 
 ---
 
@@ -110,7 +108,7 @@ Not every old story still serves. The adaptive problems change. Hansel and Grete
 
 ## The medicine we are removing
 
-Here is the problem.
+Here is what troubles me.
 
 We are not just softening our stories. We are restructuring the entire delivery system in ways that preserve the darkness while removing the container.
 
@@ -120,7 +118,7 @@ But none of the containment conditions are present. There is no fiction frame �
 
 The darkness is still there. The darkness has intensified. What has disappeared is the embrace.
 
-This is not a content problem. It is a containment problem. And it is the subject of the chapters that follow — what happens when the stories get loose from the container that made them medicine rather than poison. But before going there, it is worth sitting for a moment with what has been established.
+This is not a content problem. It is a containment problem. And it is the subject of the chapters that follow — what happens when the stories get loose from the container that made them medicine rather than poison. But before we go there, I want to sit for a moment with what we have established.
 
 The darkness is the medicine. Not despite being frightening but because of it. The child's nervous system needs the encounter with manageable fear, held within love, to build the capacity for unmanageable fear held alone. Every culture on earth has known this and has built storytelling practices around it. The fairy tale, the myth, the legend, the campfire story with its satisfying chill — these are not entertainment. They are the delivery system for the most important developmental technology our species possesses: the graduated encounter with the dark, within the embrace of the known.
 
