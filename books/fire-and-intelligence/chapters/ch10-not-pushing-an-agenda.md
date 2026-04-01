@@ -52,4 +52,24 @@ None of these practices will solve the alignment problem. None of them will prev
 
 ---
 
+## Fire given as invitation
+
+Chapter 1 introduced the reframe: most human cultures understood fire not as stolen but as given, discovered, or earned through cooperation. The obligations attached to received gifts differ profoundly from the anxieties surrounding stolen goods.
+
+This distinction reshapes what "not pushing an agenda" actually means.
+
+If AI is fire stolen — Prometheus in Silicon Valley — then the natural response is control. Regulate the theft. Punish the thief. Build systems of surveillance and containment to prevent the stolen fire from burning down the house. Every agenda-driven approach to AI governance operates within this frame: identify the danger, design the intervention, implement through power. The colonial reflex applied to technology.
+
+If AI is fire given — an initiatory ordeal that arrived to force a species-level developmental leap — then the natural response is not control but cultivation. Not "what rules do we impose on AI?" but "what capacity must we develop to hold what has been given?" The grammar approach is the initiatory approach. It asks not how to control the fire but how to become the kind of beings who can tend it.
+
+The distinction is not between doing nothing and doing something. It is between two fundamentally different postures toward transformative power. The agenda posture says: we know what should happen, and we must make it happen. The initiatory posture says: something is happening to us that we do not yet fully understand, and our task is to develop the capacity to respond with wisdom rather than react with fear.
+
+Kazimierz Dąbrowski's Theory of Positive Disintegration maps the difference precisely. The agenda-driven responses to AI — ban it, accelerate it, regulate it, align it — are what Dąbrowski would call Level II disintegration: horizontal conflict, polarized reactions, the same energy bouncing back and forth without vertical development. The grammar approach aims for Level III: the capacity to perceive "what is" versus "what ought to be" simultaneously, and to feel the difference keenly enough to act from the higher possibility rather than the louder reaction.
+
+Fred Rogers was a Level III practitioner. He did not react to the degradation of children's television with a campaign to fix it. He perceived the qualitative difference between what children's media was and what it could be — and he built the alternative. Slowly. Quietly. For thirty-three seasons. The grammar outlasted every agenda of its era.
+
+The fire is given. The invitation is encoded in the ordeal. And the response it calls for is not a program but a practice — not pushing the world toward a predetermined destination, but developing the capacity to meet what arrives with enough wisdom to tend it well.
+
+---
+
 *CC BY-SA 4.0*
