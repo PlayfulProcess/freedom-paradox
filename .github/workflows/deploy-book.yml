@@ -2,7 +2,7 @@ name: Deploy book to GitHub Pages
 
 on:
   push:
-    branches: [main, master, claude-organize-research]
+    branches: [main, master, claude-organize-research, claude/plan-shareable-links-gFIq0]
   workflow_dispatch:
 
 permissions:
