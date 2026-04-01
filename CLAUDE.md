@@ -226,6 +226,39 @@ This project uses a three-tool loop:
 - When in doubt, keep both versions. Disk is cheap; lost writing is not.
 - The `drafts/archive/` directory is the "never touch without permission" zone
 
+## Podcast Transcript Research — LOCAL ONLY
+
+Podcast transcripts are copyrighted material used for research purposes. They follow strict local-only rules.
+
+### What is NEVER committed
+- The entire `transcripts/` directory (gitignored) — raw transcripts, indexes, queues, podcast lists, plans
+- Any file containing substantial verbatim transcript text
+- Any committed file referencing specific copyrighted episode content (no episode lists, no index files naming episodes)
+
+### What IS committed
+- Research output files: `books/[book]/research/raw/podcast-[slug].md` — these contain original analysis, synthesis, and brief attributed quotes only (under 15 words per quote)
+- General workflow instructions in this CLAUDE.md (no episode-specific references)
+
+### Storage
+- All podcast material lives in `transcripts/Podcasts-library/[podcast-slug]/`
+- Transcripts are downloaded via tapesearch.com subscription
+- Each podcast gets its own subdirectory
+
+### Three Processing Modes
+1. **Additional Research** — supporting evidence, examples, and quotes that illuminate arguments in specific chapters
+2. **Alternative Hypotheses** — genuinely different explanations for phenomena the books discuss
+3. **Stress Testing** — strongest counterarguments to specific thesis statements
+
+### Epistemological Posture for Processing
+- Inclusive and compassionate — validate every human action as understandable
+- Maintain a moral claim based on current knowledge of what is adaptive and what is not adaptive
+- Not critical but understanding across all positions
+- Apply the Linehan filter: useful, fits the data, compassionate
+- Flag contradictions with `<!-- PP: PODCAST CONFLICT: [description] -->`
+
+### Research Output Format
+Research files follow the standard pattern with a `Serves:` header, source attribution, and sections organized by chapter relevance. Prefix: `podcast-[slug].md` to distinguish from numbered research files.
+
 ## Research File Numbering
 
 42 research files exist as of March 2026 (research-01 through research-43, including 06a). New research files continue the sequence. Each research file tags which chapters it serves. The outline's Research Coverage Map (`book-outline-final-march-2026.md`) is the authoritative mapping.

@@ -29,3 +29,6 @@ src/images/*.png
 *.mobi
 personal/
 reference-books/
+
+# Podcast transcripts — copyrighted, LOCAL ONLY
+transcripts/
