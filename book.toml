@@ -2,7 +2,6 @@
 title = "PlayfulProcess — Collected Drafts"
 authors = ["PlayfulProcess"]
 language = "en"
-multilingual = false
 src = "src"
 
 [output.html]
