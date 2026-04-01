@@ -10,7 +10,7 @@ This chapter examines that pattern — in biology, in culture, in the traditions
 
 Lynn Margulis, whose 1967 paper was rejected by approximately fifteen journals before publication, proved that the eukaryotic cell — the cell type that makes up every plant, animal, and fungus on Earth — is a committee of formerly independent organisms. Mitochondria descended from alpha-proteobacteria that entered archaeal host cells initially as parasites, not partners. The relationship began as exploitation. Over hundreds of millions of years, the parasite became essential — so essential that no complex life on Earth can exist without it.
 
-Margulis's conclusion inverted the dominant narrative of evolution: "Life did not take over the globe by combat, but by networking." The long-lasting intimacy of strangers.
+Margulis's conclusion inverted the dominant narrative of evolution: "Life did not take over the globe by combat, but by networking." The long-lasting intimacy of strangers. And the intimacy is not altruism. It is not sacrifice for the greater good. It is the natural direction of life — toward greater complexity through greater interdependence. The mitochondrion did not sacrifice its independence. It found a form of participation that was more alive than independence had been. This is the deepest pattern in the record: offering to the whole is not loss. It is how life elaborates itself.
 
 <!-- Margulis — widely attributed. Likely from Symbiotic Planet (1998) or Microcosmos (1986). [VERIFY: exact source and page] -->
 

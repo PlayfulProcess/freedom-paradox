@@ -46,11 +46,17 @@ The Campfire Stories — the companion to this book, five bedtime story collecti
 
 We are the species that got fire before it had the grammars to hold it. We are also the species that tells stories to its children. The fire is real. The stories are real. The question of our time is which one defines us.
 
-Every parent who holds a child and reads a story is performing the oldest responsibility structure on earth. Every elder who gathers children and tells them how the world works is transmitting adaptive technology that has been tested for longer than agriculture, longer than writing, longer than civilization itself. Every community that insists on telling its stories — despite boarding schools, despite colonization, despite the algorithm — is demonstrating that the technology of responsibility is more durable than the technology of extraction.
+Every parent who holds a child and reads a story is making the oldest offering on earth — the offering of a regulated nervous system to a developing one, of a known darkness to a child learning to face the unknown. Not as sacrifice. Not as duty. As the most natural act available to a mammal: holding the young within the warmth of one's own body until the young can hold their own.
+
+Every elder who gathers children and tells them how the world works is transmitting adaptive technology that has been tested for longer than agriculture, longer than writing, longer than civilization itself. Every community that insists on telling its stories — despite boarding schools, despite colonization, despite the algorithm — is demonstrating that offering is more durable than extraction.
+
+This is the ontological truth beneath the adaptive frame, beneath the neuroscience, beneath the political economy, beneath the philosophy: life moves toward wholeness through offering. The coral builds the reef. The mycorrhiza feeds the seedling. The mother holds the child. The storyteller holds the darkness. None of these is sacrifice. All of them are participation in what life is already doing — elaborating itself into greater complexity, greater beauty, greater capacity to hold what comes.
 
 The grammars are still here. The stories are still here. Love is still the mechanism.
 
-The rest is up to us.
+We come to the whole. We offer to the whole. That is the grammar. That is the fire tended, not the fire that burns.
+
+The rest is practice.
 
 ---
 
