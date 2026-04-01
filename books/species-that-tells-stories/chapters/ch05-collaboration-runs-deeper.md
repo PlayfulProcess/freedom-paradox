@@ -52,6 +52,12 @@ Ubuntu — *umuntu ngumuntu ngabantu*, "a person is a person through other perso
 
 The Blackfoot model places cultural perpetuity — the continuation of ceremonies, stories, knowledge, and relationships across generations — at the top of the tipi, reaching toward the sky. The highest aspiration is not individual freedom or even communal equality. It is the continuation of the whole system, including the land, the buffalo, the ceremonies, and the stories.
 
+Elinor Ostrom's empirical research — across more than eight hundred documented cases spanning Switzerland, the Philippines, Japan, Kenya, Nepal, and Guatemala — demonstrated that real communities worldwide have solved the prisoner's dilemma without either privatization or state coercion. Her eight design principles for successful commons governance describe the institutional architecture that converts single-shot interactions into iterated games with accountability. The Swiss alpine village of Törbel has managed its meadows communally since at least 1517 using a single rule: no farmer may graze more cows than they can feed over winter. Five hundred years. One rule. No tragedy.
+
+These are not museum exhibits. They are seed banks. After the catastrophic 2019-2020 Black Summer fires burned eighteen million hectares in Australia, fire services formally adopted Indigenous fire management techniques. Thirty-two Indigenous-owned savanna fire projects now operate across twenty-two million hectares, abating roughly one million tonnes of emissions annually and generating approximately ninety-five million dollars in carbon credits since 2012. In Peru's Puno region, two-thousand-year-old *waru waru* raised-bed agricultural systems were revived, and during the devastating 2023 drought — one of the worst in sixty years — these ancestral plots held water long enough to sustain crops while modern systems failed. Knowledge that survived despite active suppression later proved adaptive for conditions the dominant system could not handle.
+
+This is the strongest argument against the cultural removal this book has documented. When you take children out of their culture — through boarding schools, through assimilation, through defining their relational way of being as deficient — you are not just suppressing a tradition. You are destroying a seed bank. You are eliminating the adaptive diversity that the entire species may need when the dominant strategy fails. And the dominant strategy is failing.
+
 ---
 
 ## The Enlightenment's gift and gap
