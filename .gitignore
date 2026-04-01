@@ -20,6 +20,7 @@ src/freedom-paradox/*.md
 src/grammars/*.md
 src/species-tells-stories/*.md
 src/working-architecture/*.md
+src/axiom/*.md
 src/images/*.png
 
 # Personal reading / reference (not for repo)
