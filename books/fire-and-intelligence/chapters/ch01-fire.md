@@ -88,6 +88,8 @@ Kazimierz Dąbrowski's Theory of Positive Disintegration maps the psychology wit
 
 Sean Kelly's *Becoming Gaia* frames this most directly: our era as a planetary near-death experience, an initiatory ordeal at civilizational scale. "These end times," Kelly writes, "also mark the threshold of new planetary identity in the making."
 
+Joseph Campbell's threshold guardian captures AI's ambiguous role precisely. Fierce demon statues outside Buddhist temples hold one hand up in a "STOP" gesture, but the other hand beckons the hero forward. The guardian is a sign you are on the right path. AI is not the final enemy. It is the test.
+
 This book makes a wager. Not that AI will save us. Not that AI will destroy us. But that AI is fire given — an initiatory ordeal that arrived to force a developmental leap that no lesser pressure could have catalyzed. Whether we make that leap is not guaranteed. Initiation can fail. The initiate can die. But the structure exists. The precedents across human culture are deep. And the capacity for transformation — what Dąbrowski called the third factor, what the contemplatives call the innate luminosity of mind — is, every tradition insists, already present. It awaits not invention but recognition.
 
 The fire is here. The question is what we become in its light.

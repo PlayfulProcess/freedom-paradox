@@ -92,4 +92,32 @@ Intelligence asks the question. Wisdom lives the answer. The grammar is the prac
 
 ---
 
+## Democratic governance: what is actually emerging
+
+The governance gap is real but not total. Experiments are underway.
+
+Taiwan's use of the Polis deliberation platform for AI governance demonstrated that structured public input can produce nuanced policy outcomes — finding consensus positions that partisan debate could not reach. Anthropic's Collective Constitutional AI experiment showed that a thousand citizens, given structure and information, produced an AI constitution with lower bias than the company's own experts achieved. Ireland's Citizens' Assembly on abortion — ninety-nine randomly selected citizens producing eighty-seven percent consensus on a question that paralyzed politics for decades — proved that deliberation works when the structure honors its outcomes.
+
+The proposals for an IAEA-for-AI remain academic. The EU AI Act governs deployment, not development. National AI safety institutes function as testing bodies, not frontier developers. No existing governance form is adequate. But the experiments prove something essential: when ordinary people are given structured conditions for genuine dialogue — the grammar of deliberation — they produce better outcomes than experts or politicians acting alone.
+
+## The initiatory ordeal
+
+This book began with fire. It ends with fire — but a different kind.
+
+The Promethean frame says: you stole this. You will be punished. The anxiety of the theft drives the race for control — push AI in the right direction, before it destroys everything.
+
+The initiatory frame says: you were given this. Not as a reward but as a test. The fire is the ordeal through which the species discovers whether it can develop the capacities the fire demands — moral discernment, collective wisdom, the ability to hold power without being consumed by it.
+
+Dąbrowski's Theory of Positive Disintegration provides the psychological map: the disintegration is necessary. The old structures of meaning must break before new ones can form. The question is not whether the breaking will happen — it is happening. The question is whether the species can achieve what Dąbrowski called the "third factor" — an autonomous developmental will that chooses higher integration over regression to simpler forms.
+
+The grammar is the vehicle for that choice. Not a single grammar imposed from above but a thousand grammars — family rituals, story circles, structured dialogues, seasonal practices, contemplative disciplines — each one a way of practicing the moral capacities that the fire demands. The San healing dance. The Dagara grief ritual. The Quaker business method. The bedtime story. Each is small. Each is local. Each is a practice of the species learning to hold fire.
+
+The fire cannot be unfired. The species that received it — whether as theft or as gift, as punishment or as initiation — stands at the threshold. The threshold guardian holds one hand up: stop. The other hand beckons: come forward.
+
+Intelligence asks the question. Wisdom lives the answer. The grammar is the practice of the answer — enacted daily, in community, with the courage to continue.
+
+The fire is given. The question is what we become.
+
+---
+
 *By [PlayfulProcess](https://playfulprocess.com) with Claude · CC BY-SA 4.0*
