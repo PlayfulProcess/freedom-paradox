@@ -21,6 +21,8 @@ src/grammars/*.md
 src/species-tells-stories/*.md
 src/working-architecture/*.md
 src/axiom/*.md
+src/fire-and-intelligence/*.md
+src/real-cost-of-lunch/*.md
 src/images/*.png
 
 # Personal reading / reference (not for repo)

@@ -81,3 +81,69 @@
 - [Chapter 7: The Species Question](axiom/ch07-the-species-question.md)
 - [Chapter 8: The Self-Undermining of the Filters](axiom/ch08-the-self-undermining-of-the-filters.md)
 - [Chapter 9: Practices of the Axiom](axiom/ch09-practices-of-the-axiom.md)
+
+---
+
+# Fire and Intelligence
+
+- [Chapter 1: Fire](fire-and-intelligence/ch01-fire.md)
+- [Chapter 2: Intelligence](fire-and-intelligence/ch02-intelligence.md)
+- [Chapter 3: The Maladaptive Intelligence Hypothesis](fire-and-intelligence/ch03-the-maladaptive-intelligence-hypothesis.md)
+- [Chapter 4: The Physicist Who Saw the Curve](fire-and-intelligence/ch04-the-physicist-who-saw-the-curve.md)
+- [Chapter 5: The Architecture of Restraint](fire-and-intelligence/ch05-the-architecture-of-restraint.md)
+- [Chapter 6: Five Critiques](fire-and-intelligence/ch06-five-critiques.md)
+- [Chapter 7: What AI Actually Is](fire-and-intelligence/ch07-what-ai-actually-is.md)
+- [Chapter 8: The Distinction Every Tradition Makes](fire-and-intelligence/ch08-the-distinction-every-tradition-makes.md)
+- [Chapter 9: The Gap Is the Void](fire-and-intelligence/ch09-the-gap-is-the-void.md)
+- [Chapter 10: Not Pushing an Agenda](fire-and-intelligence/ch10-not-pushing-an-agenda.md)
+- [Chapter 11: The Practices](fire-and-intelligence/ch11-the-practices.md)
+- [Chapter 12: The Grammar We Need](fire-and-intelligence/ch12-the-grammar-we-need.md)
+
+---
+
+# The Real Cost of Lunch
+
+- [Chapter 1: You're Not Eating Food](real-cost-of-lunch/ch01-youre-not-eating-food.md)
+- [Chapter 2: The Nine Costs](real-cost-of-lunch/ch02-the-nine-costs.md)
+- [Chapter 3: Why Simple Rules Fail](real-cost-of-lunch/ch03-why-simple-rules-fail.md)
+- [Chapter 4: Grains and Staples](real-cost-of-lunch/ch04-grains-and-staples.md)
+- [Chapter 5: Protein](real-cost-of-lunch/ch05-protein.md)
+- [Chapter 6: Fruits](real-cost-of-lunch/ch06-fruits.md)
+- [Chapter 7: Vegetables](real-cost-of-lunch/ch07-vegetables.md)
+- [Chapter 8: Dairy and Alternatives](real-cost-of-lunch/ch08-dairy-and-alternatives.md)
+- [Chapter 9: The Sweet Problem](real-cost-of-lunch/ch09-the-sweet-problem.md)
+- [Chapter 10: Drinks](real-cost-of-lunch/ch10-drinks.md)
+- [Chapter 11: Kids Food and Convenience](real-cost-of-lunch/ch11-kids-food-and-convenience.md)
+- [Chapter 12: There Is No Away](real-cost-of-lunch/ch12-there-is-no-away.md)
+- [Chapter 13: Composting as Infrastructure](real-cost-of-lunch/ch13-composting-as-infrastructure.md)
+- [Chapter 14: The Packaging Problem](real-cost-of-lunch/ch14-the-packaging-problem.md)
+- [Chapter 15: The Ninth Cost](real-cost-of-lunch/ch15-the-ninth-cost.md)
+- [Chapter 16: Hospicing the Fantasy](real-cost-of-lunch/ch16-hospicing-the-fantasy.md)
+- [Chapter 17: Composting Grief](real-cost-of-lunch/ch17-composting-grief.md)
+- [Chapter 18: The Supermarket Is a Choice Architecture](real-cost-of-lunch/ch18-the-supermarket-is-a-choice-architecture.md)
+- [Chapter 19: Who Can Afford to Care?](real-cost-of-lunch/ch19-who-can-afford-to-care.md)
+- [Chapter 20: The 80/20 Plate](real-cost-of-lunch/ch20-the-80-20-plate.md)
+
+---
+
+# The Repair Deck *(outline)*
+
+- [Overview](repair/index.md)
+
+---
+
+# The Wise Heart *(outline)*
+
+- [Overview](dbt-wise-heart/index.md)
+
+---
+
+# Decolonization *(outline)*
+
+- [Overview](decolonization/index.md)
+
+---
+
+# Social Working *(outline)*
+
+- [Overview](social-working/index.md)

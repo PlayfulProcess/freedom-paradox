@@ -60,6 +60,17 @@ jobs:
           mkdir -p src/axiom
           cp books/axiom-beneath-the-ground/chapters/ch*.md src/axiom/
 
+          # Fire and Intelligence
+          mkdir -p src/fire-and-intelligence
+          cp books/fire-and-intelligence/chapters/ch*.md src/fire-and-intelligence/
+
+          # The Real Cost of Lunch
+          mkdir -p src/real-cost-of-lunch
+          cp books/real-cost-of-lunch/chapters/ch*.md src/real-cost-of-lunch/
+
+          # Outline-only books (placeholder pages already in src/)
+          # repair, dbt-wise-heart, decolonization, social-working
+
           # Charts
           mkdir -p src/images
           cp models/charts/*.png src/images/ 2>/dev/null || true
