@@ -1,0 +1,445 @@
+/* ===== Annotator — highlight & note-taking layer ===== */
+
+/* Highlighted text */
+mark.annotator-highlight {
+  background: #fff3a8;
+  border-radius: 2px;
+  padding: 0 1px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+mark.annotator-highlight:hover {
+  background: #ffe066;
+}
+
+mark.annotator-highlight.has-note {
+  border-bottom: 2px dotted #e6a800;
+}
+
+/* Ayu dark theme */
+.ayu mark.annotator-highlight {
+  background: rgba(255, 243, 168, 0.25);
+  color: #e0ddd5;
+}
+
+.ayu mark.annotator-highlight:hover {
+  background: rgba(255, 224, 102, 0.35);
+}
+
+/* ===== Selection popover ===== */
+.annotator-popover {
+  position: absolute;
+  z-index: 1000;
+  display: flex;
+  gap: 4px;
+  background: #242424;
+  border-radius: 6px;
+  padding: 4px 6px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+  animation: annotator-fade-in 0.12s ease-out;
+}
+
+.annotator-popover button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.12s;
+}
+
+.annotator-popover button:hover {
+  background: rgba(255,255,255,0.15);
+}
+
+.annotator-popover button:active {
+  background: rgba(255,255,255,0.25);
+}
+
+@keyframes annotator-fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ===== Note input modal ===== */
+.annotator-note-modal {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  z-index: 1001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.4);
+  animation: annotator-fade-in 0.15s ease-out;
+}
+
+.annotator-note-modal-inner {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 90%;
+  max-width: 440px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+  font-family: 'Inter', -apple-system, sans-serif;
+}
+
+.ayu .annotator-note-modal-inner {
+  background: #1a1a2e;
+  color: #e0ddd5;
+}
+
+.annotator-note-modal-inner h3 {
+  margin: 0 0 4px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.annotator-note-modal-inner .annotator-quote-preview {
+  font-family: 'Newsreader', Georgia, serif;
+  font-style: italic;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 12px;
+  max-height: 60px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ayu .annotator-note-modal-inner .annotator-quote-preview {
+  color: #888;
+}
+
+.annotator-note-modal-inner textarea {
+  width: 100%;
+  min-height: 80px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 10px;
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 14px;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+.ayu .annotator-note-modal-inner textarea {
+  background: #252540;
+  border-color: #333;
+  color: #e0ddd5;
+}
+
+.annotator-note-modal-inner .annotator-modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.annotator-note-modal-inner .annotator-modal-actions button {
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel {
+  background: #f0f0f0;
+  color: #333;
+}
+
+.annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save {
+  background: #242424;
+  color: #fff;
+}
+
+.annotator-note-modal-inner .annotator-modal-actions .annotator-btn-cancel:hover {
+  background: #e4e4e4;
+}
+
+.annotator-note-modal-inner .annotator-modal-actions .annotator-btn-save:hover {
+  background: #444;
+}
+
+/* ===== Highlight detail tooltip (on click) ===== */
+.annotator-detail {
+  position: absolute;
+  z-index: 1000;
+  background: #fff;
+  border-radius: 8px;
+  padding: 12px 14px;
+  max-width: 320px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 13px;
+  animation: annotator-fade-in 0.12s ease-out;
+}
+
+.ayu .annotator-detail {
+  background: #252540;
+  color: #e0ddd5;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+
+.annotator-detail .annotator-detail-note {
+  margin-bottom: 8px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.ayu .annotator-detail .annotator-detail-note {
+  color: #ccc;
+}
+
+.annotator-detail .annotator-detail-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.annotator-detail .annotator-detail-actions button {
+  background: #f0f0f0;
+  border: none;
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.ayu .annotator-detail .annotator-detail-actions button {
+  background: #333;
+  color: #ccc;
+}
+
+.annotator-detail .annotator-detail-actions button:hover {
+  background: #e0e0e0;
+}
+
+.ayu .annotator-detail .annotator-detail-actions button:hover {
+  background: #444;
+}
+
+.annotator-detail .annotator-detail-actions button.annotator-btn-delete {
+  color: #c0392b;
+}
+
+/* ===== Toolbar button (in mdbook menu bar) ===== */
+#annotator-toggle {
+  cursor: pointer;
+  padding: 4px 8px;
+  font-size: 18px;
+  opacity: 0.6;
+  transition: opacity 0.15s;
+}
+
+#annotator-toggle:hover {
+  opacity: 1;
+}
+
+#annotator-toggle.active {
+  opacity: 1;
+}
+
+/* ===== Highlights panel (sidebar overlay) ===== */
+.annotator-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 340px;
+  max-width: 90vw;
+  height: 100vh;
+  background: #fff;
+  z-index: 999;
+  box-shadow: -4px 0 20px rgba(0,0,0,0.12);
+  font-family: 'Inter', -apple-system, sans-serif;
+  display: flex;
+  flex-direction: column;
+  animation: annotator-slide-in 0.2s ease-out;
+}
+
+.ayu .annotator-panel {
+  background: #1a1a2e;
+  color: #e0ddd5;
+  box-shadow: -4px 0 20px rgba(0,0,0,0.4);
+}
+
+@keyframes annotator-slide-in {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+.annotator-panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  border-bottom: 1px solid #eee;
+}
+
+.ayu .annotator-panel-header {
+  border-bottom-color: #333;
+}
+
+.annotator-panel-header h3 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.annotator-panel-header button {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: inherit;
+  padding: 4px;
+}
+
+.annotator-panel-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 12px 16px;
+}
+
+.annotator-panel-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.ayu .annotator-panel-item {
+  border-bottom-color: #2a2a45;
+}
+
+.annotator-panel-item .annotator-panel-quote {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 14px;
+  font-style: italic;
+  color: #555;
+  line-height: 1.5;
+  margin-bottom: 4px;
+}
+
+.ayu .annotator-panel-item .annotator-panel-quote {
+  color: #999;
+}
+
+.annotator-panel-item .annotator-panel-note {
+  font-size: 13px;
+  color: #333;
+  line-height: 1.4;
+}
+
+.ayu .annotator-panel-item .annotator-panel-note {
+  color: #ccc;
+}
+
+.annotator-panel-footer {
+  padding: 12px 16px;
+  border-top: 1px solid #eee;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.ayu .annotator-panel-footer {
+  border-top-color: #333;
+}
+
+.annotator-panel-footer button {
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.ayu .annotator-panel-footer button {
+  background: #252540;
+  border-color: #333;
+  color: #ccc;
+}
+
+.annotator-panel-footer button:hover {
+  background: #f5f5f5;
+}
+
+.ayu .annotator-panel-footer button:hover {
+  background: #333;
+}
+
+/* ===== Toast notifications ===== */
+.annotator-toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #242424;
+  color: #fff;
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 10px 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  z-index: 1002;
+  animation: annotator-fade-in 0.15s ease-out;
+}
+
+/* ===== Mobile adjustments ===== */
+@media (max-width: 768px) {
+  .annotator-popover {
+    font-size: 14px;
+  }
+
+  .annotator-popover button {
+    padding: 10px 14px;
+    font-size: 14px;
+  }
+
+  .annotator-panel {
+    width: 100vw;
+    max-width: 100vw;
+  }
+
+  .annotator-detail {
+    max-width: 280px;
+  }
+
+  .annotator-note-modal-inner {
+    width: 95%;
+    padding: 16px;
+  }
+}
+
+/* ===== Print: hide annotator UI ===== */
+@media print {
+  .annotator-popover,
+  .annotator-panel,
+  .annotator-detail,
+  .annotator-note-modal,
+  .annotator-toast,
+  #annotator-toggle {
+    display: none !important;
+  }
+
+  mark.annotator-highlight {
+    background: none !important;
+    border-bottom: none !important;
+    padding: 0 !important;
+  }
+}

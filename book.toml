@@ -8,6 +8,7 @@ src = "src"
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "ayu"
-additional-css = ["mdbook-theme/substack.css"]
+additional-css = ["mdbook-theme/substack.css", "mdbook-theme/annotator.css"]
+additional-js = ["mdbook-theme/annotator.js"]
 no-section-label = true
 git-repository-url = ""
