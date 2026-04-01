@@ -82,6 +82,10 @@ What matters is what happens next. Do you repair? Do you say "I'm sorry I yelled
 
 The repair is the grammar. Not the perfect performance. Not the unbroken attunement. The return. The coming-back. The willingness to acknowledge the mismatch and step toward the other person.
 
+I learned this from my toddler. She had a repeated phrase — a demand not to be spoken to in anger — that I initially heard as defiance. The breakthrough came when I realized it was a bid for connection. My assertive adult register, the one that works in equity research and clinical settings, translated in her emotional dictionary as hostility. The content was fine. The container was wrong.
+
+The shift was small and total. I learned to ask "are you upset with me?" — and found that the question created instant self-awareness in her, short-circuiting the tantrum by making the feeling visible. This is Nonviolent Communication in practice: empathy is not problem-solving or sympathy but radical acceptance — holding space for experience without judgment, creating a container for transformation without trying to change anything. Einstein's insight applies: a problem cannot be resolved at the same level of consciousness that created it. The register shift — from assertive to curious, from parent-knows-best to parent-asks — changed the level. The repair happened not through better technique but through a different quality of attention.
+
 A family that repairs is a family that practices. And a family that practices is a grammar — a living, finite, imperfect, endlessly generative structure for making meaning out of shared life.
 
 This capacity for return to connection after mismatch — what Tronick calls "reparation" — is what the companion volume, *The Repair Deck*, maps across twenty-two archetypal patterns, from intimate repair (Gottman's perpetual problems, Johnson's attachment injuries) through communal repair (restorative justice, truth and reconciliation) to civilizational repair (Ostrom's commons governance, ecological restoration). The family is where the capacity is first practiced. But the pattern scales.

@@ -70,6 +70,10 @@ Tillich offers three things that no other thinker provides. First, honesty — h
 
 There is one more claim that deserves acknowledgment before we enter the void. The claim that consciousness is fundamental rather than emergent is not dismissed by contemporary philosophy of mind. The hard problem — that we have no account of how subjective experience arises from physical processes — remains unsolved after decades of neuroscientific progress. This does not vindicate the tradition's claim. But it means the claim cannot be dismissed as pre-scientific metaphysics either.
 
+I say this from inside the search, not outside it. I have sat with meditation, yoga, A Course in Miracles, Umbanda, ayahuasca, tarot, I Ching, esoteric studies. I did not arrive at certainty. I arrived at a practiced relationship with uncertainty. Each spiritual technology was tried, tested against lived experience, and either integrated or released. The posture is neither credulous nor dismissive — it is experimental. And the experiment has taught me a distinction the book needs to name: a practice can be valid — internally coherent, philosophically sophisticated, embedded in a lineage — and still not be adaptive for the practitioner in their actual life. Valid is not equal to adaptive. The Linehan wager does not ask "is this true?" It asks: is it useful, does it fit the data, is it compassionate? Some practices pass the truth test and fail the adaptive one. Some fail the truth test and are profoundly adaptive. The honest practitioner holds this tension rather than resolving it.
+
+I am still unsure whether to seek a therapy license. The uncertainty itself may be the honest position — the recognition that gatekeeping serves a function (the cell membrane that determines what enters) while also recognizing that the current licensure system was designed for a world that no longer exists. The question may be irrelevant. What matters is whether the practice serves.
+
 ---
 
 ## The void is not a metaphor
