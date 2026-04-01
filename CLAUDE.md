@@ -191,6 +191,10 @@ mdbook-theme/          # Custom CSS for Substack-style typography
 - **Grammars book specifically**: more contemplative, poetic register than Freedom Paradox. Think: the rigor of an equity analyst who learned to sit with mystery. The book speaks — the author doesn't. No founder story, no personal brand. The argument stands on its own. CC BY-SA 4.0 licensed.
 - **Key distinction**: good/bad are moral categories (weaponizable). Adaptive/non-adaptive are empirical (observable on a long enough timescale). The book uses the adaptive frame throughout.
 
+## Pending Research Queue
+
+There is a sequential research task file at `books/research-compendium/pending-research-tasks.md`. When starting a new session with available capacity, work through these tasks **one at a time, in order**. Each task is self-contained. Commit after each task. Work in small batches to avoid rate limits. The file contains 11 tasks across 4 tiers (thesis-critical → source refinement → cross-book integration).
+
 ## The Recursive Research Workflow
 
 This project uses a three-tool loop:
