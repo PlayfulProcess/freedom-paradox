@@ -58,4 +58,14 @@ The conclusion is not triumphant. The answer, for this species — the one that 
 
 The question is which one we choose. The practice starts tonight, with a story, told with love.
 
+---
+
+## Why this book exists
+
+I am writing this book for the same reason I am building the tools.
+
+recursive.eco is infrastructure for adaptive meaning-making through make-believe. Tarot decks, ancient texts, kids' stories, wellness tools — created by people, not algorithms. Free and open. flow.recursive.eco delivers grammars to adults through the same device the attention economy uses to keep them reactive — using the phone against its own logic. kids.recursive.eco gives children a locked-down, algorithm-free space where they can watch the same story over and over, curated by real parents for their own kids, because repetition is how nervous systems learn and the algorithm is designed to prevent it.
+
+The book and the tools are the same gesture. The book is the argument. The tools are the practice. Fred Rogers built a television show for the same reason — not because he loved the medium but because the medium existed and children were watching, and someone had to build a version that served their inner life rather than exploiting their attention. He called it the Neighborhood. I call it recursive.eco. The grammar is the same: finite, participatory, held in community, modeling change rather than stasis. The medium is new. The need is sixty thousand years old.
+
 <!-- PP: -->
