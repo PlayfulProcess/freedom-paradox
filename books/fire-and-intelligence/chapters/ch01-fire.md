@@ -64,4 +64,24 @@ A book drawing on all these traditions possesses a moral vocabulary that no sing
 
 ---
 
+## Fire given, not fire stolen
+
+But there is a reframing that changes everything — and it comes not from the West but from the majority of human cultures.
+
+The Promethean narrative — fire stolen, punishment inevitable — dominates Western AI discourse. But globally speaking, it is the minority paradigm. The Hindu Samudra Manthan tells a fundamentally different story: gods and demons cooperate to churn the cosmic ocean. The first product is not treasure but Halahala — lethal poison threatening all creation. Only Shiva's voluntary self-sacrifice, swallowing the poison and turning his throat blue, contains the danger. The Bhagavata Purana narrates the full arc across eight chapters: cooperation, poison, divine containment, and only then the nectar of immortality. The poison comes first. The nectar comes last. And between them stands the willingness to bear what the churning produces.
+
+The Chinese tradition tells yet another story: Suiren discovers fire through observation and ingenuity — no theft, no punishment. Technology as human wisdom expressing virtue. Aboriginal traditions frame fire as entrusted, not stolen — carrying obligations across generations.
+
+What if AI is not stolen fire but given fire? Not a Promethean transgression requiring punishment but an initiatory ordeal requiring maturation?
+
+Arnold van Gennep's three-phase structure of initiation — separation, liminality, incorporation — maps precisely onto the current moment. The old identity (pre-AI humanity) is being dismantled. The liminal period (now) is characterized by disorientation, polarized reactions, and the dissolution of familiar structures. The question is whether incorporation follows — the emergence of a fundamentally restructured species with capacities that could not have existed without the ordeal.
+
+Victor Turner identified that liminal periods generate communitas — a spontaneous bond among those undergoing passage together. Sean Kelly's *Becoming Gaia* frames our era as a planetary near-death experience that is simultaneously a planetary initiation. Dąbrowski's Theory of Positive Disintegration provides the psychological framework: breakdown is necessary for development to higher levels. The question is whether humanity can achieve what Dąbrowski called "multilevelness" — the capacity to perceive qualitative differences in possible responses — or whether we remain stuck in Level II disintegration: chaotic, directionless, polarized between "ban it" and "accelerate it."
+
+Joseph Campbell's threshold guardian captures AI's ambiguous role precisely. Fierce demon statues outside Buddhist temples hold one hand up in a "STOP" gesture, but the other hand beckons the hero forward. The guardian is a sign you are on the right path. AI is not the final enemy. It is the test.
+
+The story we tell about AI may matter as much as the technology itself. A species that believes it stole fire will respond with guilt, anxiety, and the desperate search for control. A species that understands it received fire as an initiatory gift will respond with the question every initiation demands: what capacity must I develop to be worthy of what I have been given?
+
+---
+
 *CC BY-SA 4.0*

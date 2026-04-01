@@ -66,4 +66,32 @@ The wisdom traditions converge: intelligence divorced from embodied awareness, e
 
 ---
 
+## Six voices who saw the machine age coming
+
+Before AI existed, six thinkers diagnosed the pattern it would amplify.
+
+Ivan Illich identified "two watersheds" in any technology's lifecycle: the first where it serves human capacity, the second where it begins to replace it. His concept of "radical monopoly" — where one type of tool restructures society so alternatives become structurally impossible — describes AI's trajectory with precision. Cars did not merely compete with walking; they reshaped cities so walking became impractical. AI does not merely compete with human judgment; it reshapes institutions so that human judgment becomes unnecessary.
+
+Ursula Franklin distinguished "holistic" technologies (where the practitioner controls the entire process) from "prescriptive" technologies (where the process is divided into steps, each controlled by a different agent, none understanding the whole). AI is the ultimate prescriptive technology — no single human understands the full system. Franklin's warning: prescriptive technologies breed compliance cultures.
+
+Simone Weil identified attention as "the rarest and purest form of generosity" — the moral faculty most endangered by mechanization. The algorithmic feed is the systematic destruction of voluntary attention. Weil would recognize it instantly: the machine that captures the faculty through which moral perception operates.
+
+Donna Haraway offered a stance between techno-salvation and doom. Her "Chthulucene" — an era defined by entanglement rather than human mastery — insists that "staying with the trouble" is not resignation but the most honest response to a world we cannot control. Applied to AI: neither accelerate nor ban, but sit with the complexity.
+
+Norbert Wiener, the founder of cybernetics itself, warned in 1950 that his own creation would be turned against human dignity. "The world of the future will be an ever more demanding struggle against the limitations of our intelligence, not a comfortable hammock in which we can lie down to be waited upon by our robot slaves."
+
+Hans Jonas proposed the "heuristics of fear" — that in the face of technologies whose consequences exceed our predictive capacity, the imagined worst case should carry more weight than the imagined best. Not because pessimism is virtuous but because the asymmetry of outcomes demands it: a technology that destroys civilization cannot be undone, while a technology delayed can always be resumed.
+
+## Shannon Vallor and the virtues we need
+
+Shannon Vallor argues that humanity's central challenge is not technological but moral: "If we are to have any real hope of securing a future worth wanting, then we will need more than just better technologies. We will also need better humans."
+
+Her synthesis of Aristotelian, Buddhist, and Confucian virtue ethics into twelve "technomoral virtues" provides the practical framework the wisdom traditions have been pointing toward. Honesty in the age of deepfakes. Humility as "recognition of the real limits of our technological knowledge." Empathy threatened by media multitasking that impairs neural circuits for empathic concern. And the capstone — technomoral wisdom: "a general condition of well-cultivated moral expertise that expresses all the other virtues in an intelligent, authentic, and integrated way."
+
+Her concept of "moral deskilling" names the mechanism by which AI degrades the very capacity it claims to enhance. When GPS replaces wayfinding, the skill of navigation atrophies. When AI replaces moral judgment — in hiring, sentencing, content moderation — the skill of moral discernment atrophies. The technology removes the occasions for practicing the virtue, and without practice, the virtue fades.
+
+The wisdom traditions converge with Vallor: intelligence divorced from embodied awareness, ethical commitment, and relational accountability is not a gift but a weapon. And the weapon is being wielded by an organism with Paleolithic emotions and medieval institutions.
+
+---
+
 *CC BY-SA 4.0*
