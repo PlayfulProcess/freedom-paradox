@@ -58,6 +58,22 @@ The practice of reading together is not a lifestyle choice. It is responsibility
 
 ---
 
+## What Replaces the Infrastructure
+
+The infrastructure Rogers built took the form of a television show. The infrastructure that replaces it takes the form of something smaller — a parent, a phone, and a playlist.
+
+kids.recursive.eco is a locked-down viewing space for children. Once a child is inside, they cannot navigate anywhere else. No links out, no browsing, no recommendations, no algorithm. The parent builds the playlist — choosing the stories, the pacing, the sequence — through their own account. Each family's collection is their own grammar: a finite set of stories, curated by someone who knows this child, designed to be watched over and over.
+
+The "over and over" is the point. Christakis's research showed that pacing matters more than screen time — a slow, intentional show does different things to the nervous system than a fast, algorithm-optimized one. The Blue's Clues research went further: the same episode, aired five consecutive days, produced higher comprehension and more interaction than a single viewing. Children who watched the same content repeatedly were learning not just the material but how to learn from the medium. Nelson's formulation is neurological: "Brain wiring is made possible by repetition. If you have a whole group of neurons that have to start to develop into a circuit, they need to be fired over and over. Neurons that fire together, wire together." The child who demands the same story — who shouts "again!" at the end of the bedtime book — is not being difficult. She is building circuitry. The algorithm, designed to serve novelty, is designed to prevent exactly this.
+
+The origin was personal. YouTube was too addictive and there was no way to make playlists of children's content without the algorithm pulling children into infinite scroll. Then a creator's domain was hijacked — a safe link suddenly went somewhere harmful, one click from inappropriate content. The safety architecture followed: kiosk mode where the child cannot navigate out, URL validation that blocks all external content, a "Tell a Grown-Up" button that requires zero personal data from minors — even a five-year-old can trigger the container's immune response without needing to understand what went wrong.
+
+The design uses the device against its own logic. The same phone that delivers infinite scroll becomes, through a single URL parameter, a bounded container. The technology is not good or bad. The architecture determines whether it serves the child or the algorithm. A parent building a playlist is building a grammar — a finite symbolic system that constrains possibility into something their child can hold. Other parents can browse, fork, and modify these playlists through a shared library. One parent's offering becomes another parent's resource. The family is the first grammar anyone encounters. The community is the grammar you choose to practice. And the commons — the shared library of stories curated by parents who care — is the infrastructure the algorithm cannot build, because the algorithm does not know your child.
+
+The Campfire Stories — ten bilingual bedtime stories from Akan, Aboriginal Australian, Haudenosaunee, Japanese, and Yoruba traditions, written using AI within human-designed constraints, published under CC BY-SA 4.0 — are the text-based companion. One for reading together. One for watching together. Both are containers. Both use the tools of the current era — AI, open source, the phone — in service of the sixty-thousand-year-old practice.
+
+---
+
 ## How to Read Aloud to Any Age
 
 **Choose a living book.** Not a textbook. Not an abstraction. Something written by someone who cared. A picture book with real art. A novel with real sentences. A poem that sounds like it was written by a human being. The quality of the text matters because the reader's voice carries the quality — and the listener's nervous system registers the difference between prose that was crafted and prose that was assembled.

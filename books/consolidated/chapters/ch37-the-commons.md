@@ -91,6 +91,10 @@ Ghost demonstrates what this looks like in practice. MIT-licensed code. Nearly n
 
 This is what responsibility infrastructure looks like: not goodwill but structure. Not intention but architecture. The container — the legal structure, the governance model, the incentive alignment — does the work that individual virtue cannot sustain.
 
+recursive.eco embodies this tension. The source code is a private repository — not because openness is wrong but because the power this particular software gives people is not safe to distribute without a container. The grammar format, however, is fully portable. Anyone can export their grammars. The books are published under CC BY-SA 4.0. The courses are free. The data structure — items, sections, metadata, attribution — is documented and open. A cell membrane: the format flows freely, the infrastructure is protected, the community builds on shared ground without the ground being extractable. This is the freedom paradox resolved in practice. Not open source. Not closed. Selectively permeable.
+
+The fork system makes this concrete. Any published grammar can be forked — copied to your account, modified, restructured, republished under your name with attribution tracking the lineage. A tarot deck forked and reinterpreted for a Brazilian audience. A story collection adapted for a Montessori classroom. A decolonization grammar extended with local examples. The fork is the digital equivalent of a storyteller adapting a tale for their village. The system does not prevent modification. It tracks lineage. The I Ching has been continuously modified for three thousand years. Tarot has been continuously modified since 1440. The fork button is the same mechanism, made explicit and auditable.
+
 ---
 
 ## The Scale Question
