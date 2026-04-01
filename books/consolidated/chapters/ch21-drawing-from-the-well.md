@@ -40,6 +40,24 @@ The grammar does not answer. It asks: what does this image mean to you, right no
 
 ---
 
+## The Sympathetic Interrupt
+
+There is a simpler and more immediate reason grammars matter, and it has nothing to do with meaning-making or self-knowledge. It has to do with the nervous system.
+
+You cannot practice a grammar in a sympathetic state. You can only consume content.
+
+The distinction is physiological. In sympathetic activation — the fight-or-flight mode that the attention economy is engineered to produce — the nervous system narrows. Attention contracts to the threat or the reward. The prefrontal cortex yields to the amygdala. You scroll, react, scroll, react. The algorithm feeds the reactivity. The reactivity feeds the algorithm. The loop is self-reinforcing and has no natural exit point.
+
+A grammar interrupts the loop. Not through willpower — willpower operates in the same sympathetic channel — but through a shift in the mode of attention. When you draw a card, cast a hexagram, or open the Tao Te Ching to a random passage, the nervous system must pause. Not because you decided to pause. Because the image requires interpretation, and interpretation cannot happen in reactive mode. The shuffle is a breath. The draw is a question. The five seconds of looking at an image you did not choose — before the rush to interpret, before the habitual narrative reasserts itself — is a parasympathetic micro-shift. The grammar creates a gap in the stimulus-response chain. The gap is the practice.
+
+This is why I keep a tarot deck on my phone. Not for divination. Not for meaning. For the interrupt. The moment I notice the scroll — the sympathetic loop tightening, the jaw clenching, the attention narrowing to the feed — I open the deck instead. One card. Five seconds of looking. The image lands in the middle of whatever I was reacting to, and the reaction loses its grip. Not because the card has an answer. Because the card broke the loop long enough for the parasympathetic system to re-engage. That is enough. That is already more than the algorithm wanted me to have.
+
+The tarot reading is a micro-practice of accountability: what do you see? What does it evoke? What will you do with it? The questions are the constraint. The practice of answering them, repeated over time, builds the muscle of discernment that the attention economy atrophies. The grammar does not tell you what to do. It creates a container in which you must decide for yourself — and in which the decision is witnessed, whether by another person or by your own attention.
+
+This is the design principle behind flow.recursive.eco — grammars delivered through the same device that produces the sympathetic loop, using the device against its own logic. Not an alternative to the phone. A counter-practice within it. The card on the screen is not the same as the card on the table — the co-regulatory dimension of the relational container is absent. But the sympathetic interrupt is the same. And for most people, most of the time, the interrupt is what they need most: a five-second gap between stimulus and response in which the nervous system remembers it has another mode.
+
+---
+
 ## How to Use a Grammar with a Child
 
 Children are natural grammar users. They draw from wells constantly — choosing a book from the shelf (a form of random encounter), playing with figurines (finite vocabulary, combinatorial generativity), building worlds in sand or blocks (practitioner as participant, change not stasis).
