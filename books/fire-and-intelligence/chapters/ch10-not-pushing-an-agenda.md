@@ -52,6 +52,22 @@ None of these practices will solve the alignment problem. None of them will prev
 
 ---
 
+## Fire without a hearth: the Esalen precedent
+
+The human potential movement offers a near-perfect miniature of the pattern this book has been tracing — and a warning for AI.
+
+Between 1962 and the late 1970s, Esalen Institute became the clearinghouse where powerful consciousness techniques were extracted from their cultural containers and distributed to vulnerable participants without the ethical structures that had governed those techniques for centuries. Zen meditation was severed from *sila* (ethical conduct) and *sangha* (community). Yoga postures were extracted from the eight limbs that begin with non-violence and truthfulness. Vajrayana practices that require years of foundational work were offered as weekend workshops. Yoruba sacred drumming was renamed "Chaos." Each tradition had elaborate initiatory frameworks, accountability structures, and ethical precepts. Each was stripped in transmission.
+
+The Stanford encounter group study — 210 undergraduates randomly assigned to eighteen groups — documented what happened: an 8–9.4% casualty rate, with the most charismatic, confrontational leaders producing the most harm. The study's most devastating finding: "high yield requires high risk" was empirically false. Groups that produced the most casualties did not produce the most positive change. Risk and benefit were unrelated. Meanwhile, Fritz Perls — the institution's most famous therapist — openly exploited patients sexually and physically, operating within a theoretical framework where any woman's refusal could be diagnosed as neurotic resistance. The institution that promised to liberate the body reproduced the oldest Western hierarchy: men theorized about consciousness and got PBS specials; women worked with actual bodies and got twelve dollars and fifty cents per massage.
+
+Christina Grof founded the Spiritual Emergency Network at Esalen in 1980 — an implicit acknowledgment that the institution's own practices were opening people up and leaving them without support. The very existence of the network testified to the problem: Esalen had been distributing fire without building hearths.
+
+Ivan Illich called these "neo-Promethean follies" — what happens when institutions claim to deliver what communities once provided for themselves. His concept of counterproductivity — beyond certain thresholds, institutions undermine the very capacities they promote — maps precisely onto the encounter group evidence. An institution designed to develop human autonomy producing documented casualties at rates approaching ten percent.
+
+AI is the neo-Promethean folly at civilizational scale. The pattern is identical: powerful techniques extracted from their ethical containers, concentrated in the hands of a few without accountability, distributed to users without the relational infrastructure that makes the techniques safe. The grammar approach says: build the hearth before you light the fire. Or at least build them simultaneously. The agenda approach says: the fire is too important to wait for hearths. Esalen chose the agenda approach. The casualties were documented. The question is whether the species will learn from the precedent — or whether AI will reproduce the pattern at a scale that makes Esalen's casualty rates look quaint.
+
+---
+
 ## Fire given as invitation
 
 Chapter 1 introduced the reframe: most human cultures understood fire not as stolen but as given, discovered, or earned through cooperation. The obligations attached to received gifts differ profoundly from the anxieties surrounding stolen goods.

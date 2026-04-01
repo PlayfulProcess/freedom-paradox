@@ -38,7 +38,7 @@ Harvard researchers found LLMs exhibit strong Western, Educated, Industrialized,
 
 Philosopher Yuk Hui argues for "cosmotechnics" — the recognition that different cultures have fundamentally different relationships between technology and cosmology. Arturo Escobar's "pluriversal design" challenges the assumption that one set of values should be universal: "a world in which many worlds can fit."
 
-This is the five-move colonial reflex from Chapter 5 of the Grammars book applied to AI governance: particular practice (Silicon Valley alignment) → universalized (scaled to billions of users) → enforced through power (market dominance) → displacing local systems (non-Western moral reasoning) → pathologizing the displaced (alternative approaches dismissed as "unsafe").
+This is the five-move colonial reflex from the Grammars book applied to AI governance: particular practice (Silicon Valley alignment) → universalized (scaled to billions of users) → enforced through power (market dominance) → displacing local systems (non-Western moral reasoning) → pathologizing the displaced (alternative approaches dismissed as "unsafe").
 
 ---
 

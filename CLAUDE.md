@@ -58,6 +58,48 @@ Five-minute bedtime stories for ages 3–7, built from cross-cultural story arcs
 ### How the Books Connect
 **The Freedom Paradox** is the diagnosis (power without responsibility). **Grammars of the Living World** is the framework (what responsibility structures are). **The Species That Tells Stories** is the narrative heart (how stories carry adaptive wisdom). **Working Architecture** is the practical manual (how to build containers Monday morning). **The Campfire Stories** is the proof of concept (stories built using the three-filter test, for actual children, in actual bedtimes). Each works alone; together they form the full architecture.
 
+### Book 6: The Axiom Beneath the Ground
+**Status: Complete** · 9 chapters · ~13K words
+Tillich vs Christopher Wallis on whether inherent value is truth or axiom. The philosophical engine.
+- Path: `books/axiom-beneath-the-ground/`
+
+### Book 7: Fire and Intelligence
+**Status: First draft complete** · 12 chapters · ~14.5K words
+AI as fourth fire. Amodei as central figure. Intelligence vs wisdom. The AI book.
+- Path: `books/fire-and-intelligence/`
+
+### Book 8: The Real Cost of Lunch
+**Status: Complete first draft** · 20 chapters
+What your food actually costs — the nine hidden costs behind every plate.
+- Path: `books/real-cost-of-lunch/`
+
+### Book 9: The Repair Deck
+**Status: Grammar imported, 6/22 chapters drafted** · ~50K words so far
+A Major Arcana for mending. 22 archetypal repair patterns across intimate, communal, and civilizational scales. Gottman, Bowlby, Johnson, Linehan, Ostrom. 10 lenses per chapter.
+- Path: `books/repair/`
+- Source grammar: `research/grammar.json` from recursive.eco-schemas
+
+### Book 10: The Wise Heart
+**Status: Grammar imported, framework complete** · ~15K words (expandable to 50K)
+DBT skills taught through world myths for ages 4-8. 29 story-skill pairs across 4 modules. Proof of concept #2 after Campfire Stories.
+- Path: `books/dbt-wise-heart/`
+- Source grammar: `research/grammar.json` from recursive.eco-schemas
+
+### Book 11: Decolonization
+**Status: Grammar imported, two source grammars** · ~50K words combined
+Body, Mind, Spirit, Collective, Planet. The Tree of Coloniality (Andreotti). The decolonial companion to Grammars.
+- Path: `books/decolonization/`
+- Source grammars: `research/grammar-five-domains.json`, `research/grammar-gestures.json`, `research/grammar-decolonizing-childhood.json`
+
+### Book 12: Social Working
+**Status: Grammar imported** · ~15K words
+The verb, not the profession. 76 cards deconstructing social work history. Erased voices, wicked history, more-than-human social working. The MSW companion.
+- Path: `books/social-working/`
+- Source grammar: `research/grammar.json` from recursive.eco-schemas
+
+### How the Books Connect (Updated)
+**The Freedom Paradox** is the diagnosis. **Grammars** is the framework. **Species That Tells Stories** is the narrative heart. **Working Architecture** is the practical manual. **Campfire Stories** is proof of concept #1. **Axiom** is the philosophical engine. **Fire and Intelligence** applies it all to AI. **Real Cost of Lunch** applies it to food systems. **The Repair Deck** is what happens when containers break. **The Wise Heart** is proof of concept #2 (DBT through myths for children). **Decolonization** is the concrete application across every domain. **Social Working** is the professional critique.
+
 ## Publishing & Deployment
 
 The books are published via **GitHub Pages** using **mdbook** (Rust-based static site generator).
@@ -148,6 +190,10 @@ mdbook-theme/          # Custom CSS for Substack-style typography
 - Short paragraphs. No academic throat-clearing.
 - **Grammars book specifically**: more contemplative, poetic register than Freedom Paradox. Think: the rigor of an equity analyst who learned to sit with mystery. The book speaks — the author doesn't. No founder story, no personal brand. The argument stands on its own. CC BY-SA 4.0 licensed.
 - **Key distinction**: good/bad are moral categories (weaponizable). Adaptive/non-adaptive are empirical (observable on a long enough timescale). The book uses the adaptive frame throughout.
+
+## Pending Research Queue
+
+There is a sequential research task file at `books/research-compendium/pending-research-tasks.md`. When starting a new session with available capacity, work through these tasks **one at a time, in order**. Each task is self-contained. Commit after each task. Work in small batches to avoid rate limits. The file contains 11 tasks across 4 tiers (thesis-critical → source refinement → cross-book integration).
 
 ## The Recursive Research Workflow
 
