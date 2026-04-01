@@ -32,11 +32,27 @@ These are adapted from the 112 dharanas of the Vijñāna-bhairava-tantra — not
 
 ---
 
+## Why these practices matter: moral deskilling
+
+Shannon Vallor's concept of moral deskilling explains why practices like these are not optional but structurally necessary. Just as industrial automation deskilled machinists by making their practical knowledge redundant, AI risks deskilling us morally by removing the occasions for practicing moral judgment. Every time we defer a decision to an algorithm, avoid a difficult conversation by texting, or let a recommendation engine curate our moral universe, we lose an occasion for practicing the very virtues the situation demands.
+
+The feedback loop is what makes this urgent: more AI reliance removes occasions for moral practice; less practice means reduced capacity for judgment; reduced judgment means less ability to govern AI wisely; diminished governance leads to still greater reliance. Vallor's warning is precise: "Humans in this world are still responsible for wars; they still start them, fund them, and continue them. But they no longer really know, except in the most abstract and impotent sense, how to fight them morally."
+
+Vallor draws on three classical virtue traditions — Aristotelian, Buddhist, and Confucian — to identify seven elements of moral self-cultivation that converge across cultures: moral habituation through repeated practice, relational understanding of context, reflective self-examination, intentional self-direction, perceptual attention to moral salience, prudential judgment, and the appropriate extension of moral concern. Each of the five practices above maps onto this framework. The pause between breaths cultivates perceptual attention. The screen-free meal creates space for relational understanding. The story told without a screen exercises moral habituation. Listening without responding builds prudential judgment. Sitting in silence extends moral concern to the person beside you through the simplest possible act: presence.
+
+These are not self-help. They are what Vallor calls technomoral virtues in practice — the deliberate cultivation of capacities that AI systematically erodes. Her twelve technomoral virtues — honesty, self-control, humility, justice, courage, empathy, care, civility, flexibility, perspective, magnanimity, and the integrative capstone of technomoral wisdom — are not abstract principles. They are practiced dispositions, developed through exactly the kind of embodied, relational, repetitive engagement that these five exercises provide.
+
+---
+
 ## The deeper practice: attention as the counter-technology
 
 Cal Newport's deep work. Jenny Odell's "how to do nothing." Matthew Crawford's *The World Beyond Your Head*. Each points to the same finding: the scarcest resource in the AI age is not information but attention — the sustained, voluntary, directed attention that the algorithmic feed is designed to capture and that every wisdom tradition identifies as the foundation of the spiritual life.
 
 Simone Weil: "Attention is the rarest and purest form of generosity." The practice of attention — to another person, to the natural world, to the pause between breaths — is not a lifestyle choice. It is the counter-technology to the most sophisticated attention-extraction machinery ever built.
+
+Peter Hershock, working from Buddhist philosophy, calls this "freedom-of-attention" — the capacity to choose what we attend to rather than having attention captured and directed by external forces. Without freedom-of-attention, there can be no freedom-of-intention. And without freedom-of-intention, "the line between choice and compulsion dissolves." This is the existential risk that most Western AI ethicists miss: not that AI will become conscious, but that it will systematically erode the human capacity for consciousness in the Buddhist sense — aware, intentional, free presence.
+
+B. Alan Wallace extends the point methodologically: meditative practices are not merely objects to be studied but instruments of observation, analogous to telescopes. He identifies a "taboo of subjectivity" in Western science that leaves a "gaping blind spot at the center of modernity: our understanding of consciousness." The five practices above are, in Wallace's terms, instruments for observing and strengthening the very capacities that AI displaces — attention, presence, relational awareness.
 
 The AI cannot attend. It can process. It can respond. It can simulate attentiveness. But it cannot be present — because presence requires a body that can be hurt, a life that can be lost, a relationship that carries risk. The human who practices attention is doing something AI categorically cannot do. And that something — the embodied, vulnerable, relational act of being present to another — is what every fire myth in every culture identifies as the responsibility that comes with the gift.
 

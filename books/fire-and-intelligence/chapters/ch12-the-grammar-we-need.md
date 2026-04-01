@@ -32,7 +32,7 @@ Applied to AI:
 
 **Rules adapted to local conditions.** What works for AI governance in Silicon Valley may not work in Lagos or Jakarta. The grammar does not specify the rules. It specifies the conditions under which communities determine their own rules.
 
-**Participatory decision-making.** The Collective Constitutional AI experiment demonstrated that public input meaningfully shapes AI behavior. But a thousand U.S. adults is not the world. [RESEARCH NEEDED: Taiwan Polis, citizens' assemblies for AI, democratic governance experiments beyond the US]
+**Participatory decision-making.** The Collective Constitutional AI experiment demonstrated that public input meaningfully shapes AI behavior — the publicly sourced constitution produced lower bias scores across all nine social dimensions with no capability loss. But a thousand U.S. adults is not the world. Taiwan's vTaiwan platform, built on Polis's structurally radical design — participants propose statements and vote but cannot reply, eliminating trolling and surfacing consensus across ideological clusters — addressed twenty-six national issues with eighty percent leading to decisive government action. In 2023, vTaiwan was selected for OpenAI's "Democratic Input to AI" initiative, running deliberations that included engineers, legislators, and indigenous communities. Citizens' assemblies are proliferating: the Global Coalition for Inclusive AI Governance, launched at the 2025 Paris AI Action Summit, aims to bring over ten thousand citizens from across the world to deliberate on AI governance. North Rhine-Westphalia voted to hold Germany's first state-level citizens' assembly specifically on AI. Belgium's "amai!" programme lets citizens directly allocate resources for AI development. A permanent Global Citizens' Assembly was launched at the UN Summit of the Future in September 2024. The mechanism works. The question is whether it can operate at the speed and scale that AI development demands — and whether democratic legitimacy can be made binding rather than advisory.
 
 **Graduated sanctions.** Not zero-tolerance bans. Not unrestricted access. A gradient — the same gradient every culture used for fire, for initiatory knowledge, for stories graduated by age and readiness.
 
@@ -78,7 +78,17 @@ Showing up. Imperfect. Present. Willing to sit with another person in the gap be
 
 The species that got fire is standing in the gap. The gap is the void. And the void — as every tradition that has lasted long enough to study agrees — is not empty. It is pregnant with possibility. But the possibility requires the courage to be as a part. The courage to practice without the guarantee that the practice will deliver what it promises. The courage to build grammars — shared, embodied, communal structures of restraint and responsibility — fast enough to hold the fire that is already burning.
 
-Intelligence asks the question. Wisdom lives the answer. The grammar is the practice of the answer — enacted daily, in community, with the courage to continue.
+This is the initiatory ordeal. Arnold van Gennep mapped its architecture a century ago: separation from the old identity, a threshold period of danger and disorientation, and — if the passage is completed — incorporation into a new way of being. Victor Turner called the middle phase liminality, the space where the initiate is "neither here nor there; they are betwixt and between." What distinguishes initiation from mere crisis is the container: elders who have traversed the territory, community that holds the passage open, the willingness to let the old identity die.
+
+We are in the liminal phase. The old identity — the species that believed intelligence was its unique possession, that cognitive supremacy was its birthright, that technology would solve every problem technology created — is dissolving. The new identity has not yet formed. The fire is burning, and the species is between stories.
+
+Kazimierz Dąbrowski would say we are in collective Level II disintegration — chaotic, directionless, polarized between panic and hubris. The question is whether we can achieve the multilevel shift: perceiving the qualitative difference between our possible responses, feeling that difference keenly enough to act from the higher possibility rather than the louder reaction. The Samudra Manthan encoded this structure millennia ago: poison before nectar, and the whole enterprise requires someone willing to hold the toxin in their throat without letting it pass through or spitting it out. The blue throat of Shiva is the mark of governance — permanent, visible, costly.
+
+The fire was given. Not stolen. Given — with obligations attached. The obligation to tend it. The obligation to share it. The obligation to become the kind of beings capable of holding it. Every fire myth, from every culture, encodes this: the gift demands development from the recipient. The gift demands that we grow.
+
+Whether we make the passage is not guaranteed. Initiation can fail. The initiate can die. Bjørn Thomassen warned that modernity itself may constitute "a state of permanent liminality" — stuck in the threshold, never completing the crossing. That is one possible future. But it is not the only one.
+
+Intelligence asks the question. Wisdom lives the answer. The grammar is the practice of the answer — enacted daily, in community, with the courage to continue without the guarantee that the ground will hold.
 
 ---
 
