@@ -58,7 +58,7 @@ The Greek Prometheus: intelligence as transgression. Power stolen without permis
 
 The Hindu Samudra Manthan: intelligence as dual-use. Poison and nectar inseparable. Containment requires divine wisdom and self-sacrifice. The most resonant for AI.
 
-The Chinese Suiren: intelligence as natural virtue. But the Daoist tradition's ji xin — "machine heart" — warns that the machine changes the machinist. "Where there are machines, there are bound to be machine hearts." [RESEARCH NEEDED: Zhuangzi Ch 12 full passage]
+The Chinese Suiren: intelligence as natural virtue. But the Daoist tradition's ji xin (機心) — "machine heart" — warns that the machine changes the machinist. In *Zhuangzi* Chapter 12, a gardener refuses a labor-saving device not from ignorance but from understanding: "With a machine heart in your breast, you've spoiled what was pure and simple, and without the pure and simple, the life of the spirit knows no rest." The passage is not anti-technology. It is a warning about what technology does to attention — the same warning McGilchrist makes about the left hemisphere colonizing reality, the same warning Weil makes about the factory destroying deep attention. The machine does not merely serve. It restructures the mind that uses it.
 
 The Yoruba Ogun: intelligence demands justice. Technology is a gift that carries obligations. The fire must be wielded sober.
 
