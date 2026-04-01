@@ -53,11 +53,13 @@ The pattern across all three: **mission-locking governance + diversified revenue
 
 ---
 
-## The Gateway Builders
+## The Membrane
 
-There is a distinction that matters: gatekeeping versus gateway building.
+A cell without a membrane is not free. It is dead. The membrane is what makes life possible — determining what enters and what leaves, maintaining the internal conditions that allow the cell to function. The membrane is gatekeeping in its biological sense: selective permeability in service of the organism.
 
-Gatekeeping is the use of control to extract value. The gatekeeper stands between the creator and the audience and charges a toll. Gateway building is the use of openness to create access. The gateway builder constructs the infrastructure through which value flows — and then steps aside.
+The question is never whether to have gates. The question is whether the gate serves the organism or the gatekeeper. A therapy license that protects vulnerable clients from unqualified practitioners is a membrane. A therapy license that prices out competent practitioners and creates artificial scarcity is a toll booth. Same gate, different function. The structure determines which.
+
+This matters for the commons because the open-source movement spent forty years arguing that all gates are bad — that openness is always better than restriction. The AI era proved the argument incomplete. Some gates protect. Some gates extract. The work is learning to tell the difference — and building gates that serve the living system rather than the institution that controls them.
 
 **Wikipedia** is the miracle. Six million articles in English alone. Billions of page views per month. A top-ten global website. The single most comprehensive repository of human knowledge ever assembled, built and maintained without a cent of advertising revenue or a single equity investor. The Wikimedia Foundation's budget for 2025-2026 is two hundred and seven million dollars — substantial, but a rounding error compared to the value Wikipedia creates. The magic is in the license: Creative Commons Attribution-ShareAlike means that anyone can copy, modify, and redistribute the content, but any derivative must carry the same license. Copyleft applied to knowledge — the commons cannot be enclosed.
 

@@ -403,7 +403,8 @@
 
   // ── Shareable URL builder ───────────────────────────────
   function buildShareableURL(h) {
-    var base = location.origin + location.pathname;
+    // Use the stored chapter path, not the current page (avoids print.html)
+    var base = location.origin + '/' + (h.chapter || getChapterKey());
     var text = encodeURIComponent(h.anchor.exact);
 
     // Use prefix/suffix for disambiguation when available

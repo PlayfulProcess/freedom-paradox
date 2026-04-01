@@ -4,6 +4,8 @@
 
 The previous parts of this book diagnosed the gap between power and responsibility, traced it through the body and through stories, and offered practices for closing it. But there is one more fire to face — the one that may determine whether any of this matters.
 
+The honest case for AI's potential must be stated before the critique. Sal Khan's AI tutoring experiments have demonstrated three-to-four-times acceleration in student learning — a finding independently verified by economist Steven Levitt. This approaches Bloom's two-sigma threshold: the point at which AI tutoring matches the effectiveness of one-on-one human instruction. For a hospital in São Paulo fine-tuning a model for Portuguese-language medical records, for a student in Lagos accessing instruction previously available only to the wealthy — the value is genuine and distributed. The book must hold this alongside the structural critique, not dismiss it. The question is not whether AI creates value. It does. The question is whether the container — the delivery system, the governance, the relationship — serves development or extraction.
+
 Before asking what to do about AI, we must be honest about what it is — and what it is not. The gap between public perception and technical reality is itself a source of danger.
 
 ---
