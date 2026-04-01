@@ -90,6 +90,8 @@ But none of the containment conditions are present. There is no fiction frame �
 
 The darkness is still there. The darkness has intensified. What has disappeared is the embrace.
 
+An honest caveat: the mechanism is not screen-versus-no-screen. It is alone-versus-held. Research on the PBS show *Daniel Tiger's Neighborhood* found that low-income children who watched with a parent showed measurable gains in empathy and emotion recognition — the strongest effects occurring precisely when a co-regulatory adult was present. The screen can be part of the container. What it cannot do is replace the container. A screen with a warm body beside it can work. A screen alone in a dark room cannot. The variable is not the technology of delivery. It is the presence or absence of the co-regulatory relationship.
+
 This is not a content problem. It is a containment problem. And it is the subject of the chapters that follow — what happens when the stories get loose from the container that made them medicine rather than poison. But before going there, it is worth sitting for a moment with what has been established.
 
 The darkness is the medicine. Not despite being frightening but because of it. The child's nervous system needs the encounter with manageable fear, held within love, to build the capacity for unmanageable fear held alone. Every culture on earth has known this and has built storytelling practices around it. The fairy tale, the myth, the legend, the campfire story with its satisfying chill — these are not entertainment. They are the delivery system for the most important developmental technology our species possesses: the graduated encounter with the dark, within the embrace of the known.

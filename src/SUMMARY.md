@@ -4,6 +4,33 @@
 
 ---
 
+# The Species That Tells Stories
+
+- [Introduction: The Species That Got Fire](species-tells-stories/intro-the-species-that-got-fire.md)
+- [Chapter 1: The Oldest Technology](species-tells-stories/ch01-the-oldest-technology.md)
+- [Chapter 2: The Darkness Is the Medicine](species-tells-stories/ch02-the-darkness-is-the-medicine.md)
+- [Chapter 3: What the Old Stories Knew](species-tells-stories/ch03-what-the-old-stories-knew.md)
+- [Chapter 4: The Species in Overshoot](species-tells-stories/ch04-the-species-in-overshoot.md)
+- [Chapter 5: But Collaboration Runs Deeper](species-tells-stories/ch05-collaboration-runs-deeper.md)
+- [Conclusion: Grammars Are Responsibility Structures](species-tells-stories/conclusion-grammars-are-responsibility-structures.md)
+
+---
+
+# Grammars of the Living World
+
+- [Chapter 1: The Biological Hypothesis](grammars/ch01-the-biological-hypothesis.md)
+- [Chapter 2: Why Stories](grammars/ch02-why-stories.md)
+- [Chapter 3: When Stories Lose Their Homes](grammars/ch03-when-stories-lose-their-homes.md)
+- [Chapter 4: The Degradation of the Hearth](grammars/ch04-the-degradation-of-the-hearth.md)
+- [Chapter 5: The Polarization of the Polis](grammars/ch05-the-polarization-of-the-polis.md)
+- [Chapter 6: Machines for Constructing Stories](grammars/ch06-machines-for-constructing-stories.md)
+- [Chapter 7: Survival and Capture](grammars/ch07-survival-and-capture.md)
+- [Chapter 8: The Species That Got Fire](grammars/ch08-the-species-that-got-fire.md)
+- [Chapter 9: The Trap of Solving](grammars/ch09-the-trap-of-solving.md)
+- [Chapter 10: Grammars of the Living World](grammars/ch10-grammars-of-the-living-world.md)
+
+---
+
 # The Freedom Paradox
 
 - [Chapter 1: The Anthropic Clause](freedom-paradox/ch01-the-anthropic-clause.md)
@@ -23,33 +50,6 @@
 - [Chapter 15: Gateway Building, Not Gatekeeping](freedom-paradox/ch15-gateway-building-not-gatekeeping.md)
 - [Chapter 16: The Freedom Paradox](freedom-paradox/ch16-the-freedom-paradox.md)
 - [Epilogue: Return to the Clause](freedom-paradox/epilogue.md)
-
----
-
-# Grammars of the Living World
-
-- [Chapter 1: The Biological Hypothesis](grammars/ch01-the-biological-hypothesis.md)
-- [Chapter 2: Why Stories](grammars/ch02-why-stories.md)
-- [Chapter 3: When Stories Lose Their Homes](grammars/ch03-when-stories-lose-their-homes.md)
-- [Chapter 4: The Degradation of the Hearth](grammars/ch04-the-degradation-of-the-hearth.md)
-- [Chapter 5: The Polarization of the Polis](grammars/ch05-the-polarization-of-the-polis.md)
-- [Chapter 6: Machines for Constructing Stories](grammars/ch06-machines-for-constructing-stories.md)
-- [Chapter 7: Survival and Capture](grammars/ch07-survival-and-capture.md)
-- [Chapter 8: The Species That Got Fire](grammars/ch08-the-species-that-got-fire.md)
-- [Chapter 9: The Trap of Solving](grammars/ch09-the-trap-of-solving.md)
-- [Chapter 10: Grammars of the Living World](grammars/ch10-grammars-of-the-living-world.md)
-
----
-
-# The Species That Tells Stories
-
-- [Introduction: The Species That Got Fire](species-tells-stories/intro-the-species-that-got-fire.md)
-- [Chapter 1: The Oldest Technology](species-tells-stories/ch01-the-oldest-technology.md)
-- [Chapter 2: The Darkness Is the Medicine](species-tells-stories/ch02-the-darkness-is-the-medicine.md)
-- [Chapter 3: What the Old Stories Knew](species-tells-stories/ch03-what-the-old-stories-knew.md)
-- [Chapter 4: The Species in Overshoot](species-tells-stories/ch04-the-species-in-overshoot.md)
-- [Chapter 5: But Collaboration Runs Deeper](species-tells-stories/ch05-collaboration-runs-deeper.md)
-- [Conclusion: Grammars Are Responsibility Structures](species-tells-stories/conclusion-grammars-are-responsibility-structures.md)
 
 ---
 

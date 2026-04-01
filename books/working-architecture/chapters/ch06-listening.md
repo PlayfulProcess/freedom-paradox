@@ -74,6 +74,8 @@ This is co-regulation at the communal level. The shared silence synchronizes ner
 
 The Quaker business method extends this into decision-making. The clerk does not call for votes. The clerk listens for "the sense of the meeting" — the point at which the group has arrived at a position it can hold together, even if not all prefer it. The practice requires patience, tolerance for ambiguity, and the willingness to sit with disagreement until something emerges that no individual could have produced alone.
 
+Charlan Nemeth's research at UC Berkeley adds something surprising: even wrong minority opinions improve group performance. In controlled experiments, participants exposed to minority viewpoints — even incorrect ones — found more correct solutions and used a broader variety of strategies than those exposed to majority viewpoints. The mechanism is not that dissenters provide better answers but that their mere presence forces the group to think more carefully. Critically, authentic dissent outperforms devil's advocacy — role-played disagreement actually triggers cognitive bolstering of the initial position, the opposite of the intended effect. The Quaker practice works because the dissent is real, offered from genuine conviction within a shared silence, not performed as an exercise.
+
 This is what listening does at scale. It is not passive. It is the most active form of participation available — the practice of holding space for what has not yet been said.
 
 ---
