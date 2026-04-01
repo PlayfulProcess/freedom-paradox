@@ -18,6 +18,16 @@ The GTDF collective — the Gesturing Towards Decolonial Futures arts/research c
 
 This is why the trap of solving is a trap. The impulse to identify the crisis, design the response, build the platform, save the world — this impulse *is* the colonial reflex dressed in progressive clothing. It reproduces the very logic it claims to oppose: identify a deficiency (in others), design an intervention (from your framework), implement (through your power), evaluate (by your metrics). The dopamine hit of moral certainty, the oxytocin of tribal belonging to the "correct" group, the cortisol avoidance of never admitting complicity — all operate beneath conscious awareness.
 
+The reflex operates in five moves, and naming them is the first step toward not repeating them:
+
+1. A **particular practice** emerges from a specific cultural context — mindfulness in Silicon Valley, contemplative technology in the Anglophone wellness industry, "effective" altruism in Oxford and San Francisco.
+2. The practice is **universalized** — stripped of its cultural container, its lineage obligations, its specific relational field, and repackaged as a scalable intervention applicable to all humans everywhere.
+3. The universalized form is **enforced through power** — market dominance, platform monopoly, institutional capture, the gravitational pull of capital toward whatever can be quantified and sold.
+4. The scaled form **displaces local systems** — indigenous healing practices, communal grief rituals, place-based wisdom traditions, the grandmother's bedtime story — not by prohibiting them but by making them structurally unnecessary, economically unviable, or culturally illegible.
+5. The displaced are **pathologized** — communities that resist the intervention are characterized as backward, unscientific, resistant to progress, or simply "unscalable."
+
+This five-move pattern is not unique to any political orientation. It operates as readily in progressive interventions as in conservative ones, in spiritual movements as in corporate ones. It is the deep grammar of modernity itself — and it is the grammar this book is trying to interrupt.
+
 Akomolafe's concept of postactivism challenges the binary thinking of traditional activism — us versus them, oppressor versus oppressed, problem versus solution — and questions whether conventional responses perpetuate the same logics that produced the issues. His concept of "onto-fugitivity" describes being as fundamentally fugitive — always escaping categorization. The escaped slave does not carefully preserve tradition. The escaped slave runs. And in running, something new and powerful emerges.
 
 ---

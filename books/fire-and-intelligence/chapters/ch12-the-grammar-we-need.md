@@ -90,6 +90,8 @@ Whether we make the passage is not guaranteed. Initiation can fail. The initiate
 
 Intelligence asks the question. Wisdom lives the answer. The grammar is the practice of the answer — enacted daily, in community, with the courage to continue without the guarantee that the ground will hold.
 
+The companion volume, *The Axiom Beneath the Ground*, asked whether inherent value can be held as an axiom for a species behaving maladaptively — whether the ground matters when everything built on it is burning. *Grammars of the Living World* identified the structural answer: responsibility structures that constrain power to match wisdom, grammars that hold the fire without being consumed by it. This book has applied that framework to the most consequential test case the species has faced. AI is not the first fire. But it may be the fire that forces the developmental leap no lesser pressure could have catalyzed — or the fire that proves the species was not ready. The three books converge on one claim: the answer is never the technology and never the prohibition of the technology. The answer is always the grammar — the shared, embodied, practiced structure that makes it possible to hold what would otherwise consume.
+
 ---
 
 ## Democratic governance: what is actually emerging

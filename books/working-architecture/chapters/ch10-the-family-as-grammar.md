@@ -84,6 +84,8 @@ The repair is the grammar. Not the perfect performance. Not the unbroken attunem
 
 A family that repairs is a family that practices. And a family that practices is a grammar — a living, finite, imperfect, endlessly generative structure for making meaning out of shared life.
 
+This capacity for return to connection after mismatch — what Tronick calls "reparation" — is what the companion volume, *The Repair Deck*, maps across twenty-two archetypal patterns, from intimate repair (Gottman's perpetual problems, Johnson's attachment injuries) through communal repair (restorative justice, truth and reconciliation) to civilizational repair (Ostrom's commons governance, ecological restoration). The family is where the capacity is first practiced. But the pattern scales.
+
 ---
 
 **Practice box**
