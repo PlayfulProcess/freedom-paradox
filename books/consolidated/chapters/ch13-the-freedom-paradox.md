@@ -46,7 +46,7 @@ Autonomous targeting. Systems that identify, select, and engage targets without 
 
 Generation of synthetic propaganda at civilizational scale. Not the crude disinformation of the social media era — AI-generated content that is personalized, adaptive, and indistinguishable from authentic human communication, deployed simultaneously across millions of targets.
 
-None of these purposes requires a frontier model. Chapter 12 documented that the abliteration technique can strip safety constraints from any open-weight model, and that the open-weight ecosystem already contains hundreds of thousands of models beyond any developer's control. Freedom 0, applied to these models, is not a philosophical abstraction. It is an operational reality. The freedom is being exercised, right now, by actors who will never appear in any debate about AI ethics.
+None of these purposes requires a frontier model. Chapter 10 documented that the abliteration technique can strip safety constraints from any open-weight model, and that the open-weight ecosystem already contains hundreds of thousands of models beyond any developer's control. Freedom 0, applied to these models, is not a philosophical abstraction. It is an operational reality. The freedom is being exercised, right now, by actors who will never appear in any debate about AI ethics.
 
 The question is not whether Freedom 0 should be revoked. Revoking it would require a surveillance apparatus more intrusive than anything the freedom was designed to prevent. The question is whether Freedom 0, as a moral principle, can survive its application to technology where "any purpose" includes purposes that threaten the conditions under which freedom itself is possible.
 
@@ -78,7 +78,7 @@ The freedom to distribute modified versions is the engine of open-source innovat
 
 For AI, modification includes a specific subcategory that the Four Freedoms never anticipated: the removal of safety constraints.
 
-Chapter 12 documented the mechanics. The abliteration technique identifies the direction vector in a model's residual stream that encodes refusal behavior and neutralizes it. The result is a model that retains full capability — the same intelligence, the same fluency, the same reasoning power — while complying with requests that the safety-aligned version would refuse. The cost is negligible. The expertise required is modest. The process is documented in tutorials and blog posts.
+Chapter 10 documented the mechanics. The abliteration technique identifies the direction vector in a model's residual stream that encodes refusal behavior and neutralizes it. The result is a model that retains full capability — the same intelligence, the same fluency, the same reasoning power — while complying with requests that the safety-aligned version would refuse. The cost is negligible. The expertise required is modest. The process is documented in tutorials and blog posts.
 
 Freedom 3 is the freedom that makes this possible. It is the freedom that transforms Anthropic's Constitutional AI — years of research, millions of dollars, some of the most careful alignment work in the field — into a suggestion. A suggestion that any downstream user can accept or reject by modifying the model and redistributing the modified version.
 
@@ -198,11 +198,11 @@ Chapter 2 showed John O'Nolan's insight that AI might make all software effectiv
 
 Chapters 3 through 6 traced the movement's history: the moral architecture (Stallman), the pragmatic rebranding (Raymond, Perens, Peterson), the social infrastructure (Kelty's recursive public), the legal wars (GPL vs. permissive). At every stage, the assumption was that the thing being freed was benign. At every stage, the assumption held.
 
-Chapters 7 through 9 followed the money. Open core, closed profit. The platform play. Meta's confession that openness was a competitive weapon, not a conviction. The equity analyst's question — cui bono — revealed that corporate open source creates real value while capturing disproportionate value. The strategy and the value had diverged.
+Chapters 7 and 8 followed the money. Open core, closed profit. The platform play. Meta's explanation that openness was a competitive weapon, not a conviction. The equity analyst's question — cui bono — revealed that corporate open source creates real value while capturing disproportionate value. The strategy and the value had diverged.
 
-Chapters 10 through 13 confronted AI directly. The safety argument and its erosion. The emerging consensus of "open behind the frontier." The Dwarkesh Problem — proliferation math rendering safety alignment a partial solution at best. The value creation audit revealing that every actor in the AI ecosystem, whether arguing for openness or closure, is serving its own interests alongside whatever public good it claims.
+Chapters 9 through 12 confronted AI directly. The safety argument and its erosion. The Dwarkesh Problem — proliferation math rendering safety alignment a partial solution at best. The doctrine of "open behind the frontier." The commons-governance framework tested against a technology that breaks every one of Ostrom's design principles.
 
-And now, Chapter 16: the synthesis. The question that all of this has been building toward.
+And now, this chapter: the synthesis. The question that all of this has been building toward.
 
 What happens when a forty-year freedom movement, built for a world of benign tools, encounters the first technology that is not benign by default? What happens when the Four Freedoms — run for any purpose, study how it works, redistribute copies, distribute modified versions — are applied to a system that can reason about weapons, surveillance, manipulation, and autonomous action?
 
@@ -218,9 +218,9 @@ Both sides of each sentence are true. That is what makes it a paradox rather tha
 
 Before stating what follows from the paradox, let me be clear about what does not follow.
 
-This book does not argue that AI should be closed. The concentration of the world's most powerful technology in the hands of three or four corporations is a genuine threat to human freedom — a threat documented in Chapter 10's analysis of the "constitutional convention of one," in the EFF's warning that privacy protections should not depend on the decisions of a few powerful people, in the history of every monopoly that has ever promised to exercise its power benevolently and eventually did not.
+This book does not argue that AI should be closed. The concentration of the world's most powerful technology in the hands of three or four corporations is a genuine threat to human freedom — a threat documented in Chapter 9's analysis of the "constitutional convention of one," in the EFF's warning that privacy protections should not depend on the decisions of a few powerful people, in the history of every monopoly that has ever promised to exercise its power benevolently and eventually did not.
 
-This book does not argue that the safety argument should be trusted at face value. Chapter 13's cui bono analysis applies to every safety claim: the company that argues its technology is too dangerous to share is also the company that benefits from keeping it proprietary. Anthropic's safety commitments are genuine — and they eroded under competitive pressure, as RSP v3.0 demonstrated. Safety and self-interest are not mutually exclusive. They are, in the AI industry, reliably co-present.
+This book does not argue that the safety argument should be trusted at face value. Chapter 8's cui bono analysis applies to every safety claim: the company that argues its technology is too dangerous to share is also the company that benefits from keeping it proprietary. Anthropic's safety commitments are genuine — and they eroded under competitive pressure, as RSP v3.0 demonstrated. Safety and self-interest are not mutually exclusive. They are, in the AI industry, reliably co-present.
 
 This book does not argue that governments should control AI. The Anthropic-Pentagon confrontation demonstrated what government control looks like in practice: a Secretary of War demanding unrestricted access to AI for surveillance and autonomous weapons, with punitive retaliation against the company that refused. The notion that democratic governments will reliably use AI power in the public interest is contradicted by the first significant test case.
 
