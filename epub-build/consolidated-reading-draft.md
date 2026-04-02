@@ -1,12 +1,12 @@
 ---
-title: "The Species That Got Fire"
+title: "Fire Before Responsibility"
 ---
 
-# The Species That Got Fire
+# Fire Before Responsibility
 
 *By PlayfulProcess*
 
-*Power, Stories, and the Responsibility We Haven't Built Yet*
+*The Species That Got Fire*
 
 42 chapters · 2 books · 8 parts · 2 appendices · ~130,000 words
 
