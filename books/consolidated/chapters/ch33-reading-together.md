@@ -46,7 +46,7 @@ Fred Rogers refused to merchandise his image because he believed children should
 
 After Rogers' death, the organization bearing his name launched *Daniel Tiger's Neighborhood* and built a merchandise empire that has generated over one hundred and eighteen million dollars in cumulative royalties. Net assets grew from fifteen million to eighty-eight million. The organization survived by doing what Rogers refused to do.
 
-Meanwhile, the public broadcasting infrastructure Rogers depended on has collapsed. CPB dissolved in 2026. Rural stations — where public funding was twenty-five to fifty percent of revenue — face closure.
+Meanwhile, the public broadcasting infrastructure Rogers depended on is collapsing. As of early 2026, the Corporation for Public Broadcasting faces dissolution under executive order — its funding zeroed in the proposed federal budget. Rural stations, where public funding accounts for twenty-five to fifty percent of revenue, face closure if the cuts survive congressional review.
 
 What does this mean for a parent reading a book to a child?
 

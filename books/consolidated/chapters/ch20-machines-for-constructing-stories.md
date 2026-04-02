@@ -58,13 +58,11 @@ Ifá operates the same way at the communal level. When the Odu speaks, it does n
 
 Even tarot, the most structurally open of the grammars examined here, constrains. Not through doctrine or obligation, but through the slower logic of the reading itself. The querent who sits with a card long enough to generate their own interpretation is exercising a different faculty than the one that reaches for a phone. The randomness disrupts habitual thought. The finitude of the vocabulary constrains the field of interpretation. The requirement for personal meaning-making builds the capacity for self-reflection that is the individual precondition for responsibility. The grammar does not tell you what to do. It creates a container in which you must decide for yourself — and in which the decision is witnessed, whether by another person or by your own attention.
 
-The question is not why humans build grammars. The question is why we keep building them independently — and why they keep converging on the same structural properties.
-
 ---
 
 ## Embodied, Not Abstract
 
-There is a feature of these grammars that the five properties do not capture, and it may be among the most important for the argument of this book: they are embodied communal technologies. The casting slows you down. The physical act — the tossing of coins, the shuffling of cards, the manipulation of palm nuts — focuses attention, activates the social engagement system, and shifts the nervous system toward the parasympathetic state that the first chapter identified as the precondition for genuine relating.
+There is a feature of these grammars that the five properties do not capture, and it may be among the most important for the argument of this book: they are embodied communal technologies. The casting slows you down. The physical act — the tossing of coins, the shuffling of cards, the manipulation of palm nuts — focuses attention, activates the social engagement system, and shifts the nervous system toward the parasympathetic state that Chapter 14 identified as the precondition for genuine relating.
 
 The I Ching's traditional consultation method requires sorting forty-nine yarrow stalks through a precise, repetitive, meditative process that takes approximately twenty minutes. This is not an inefficient randomization algorithm. It is a co-regulatory technology. By the time the hexagram is complete, the querent's nervous system has been in a focused, rhythmic, contemplative state for twenty minutes. The reading that follows occurs in a different physiological register than the question that preceded it — calmer, more receptive, more capable of holding complexity.
 

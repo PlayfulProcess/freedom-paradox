@@ -61,5 +61,3 @@ The rest is practice.
 ---
 
 *CC BY-SA 4.0*
-
-<!-- PP: -->

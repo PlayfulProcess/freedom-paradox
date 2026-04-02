@@ -186,10 +186,6 @@ The grammar is the practice of recognition — enacted daily, in community, with
 
 Intelligence asks the question. Wisdom lives the answer. The grammar is the practice of the answer — enacted daily, in community, with the courage to continue without the guarantee that the ground will hold.
 
-The gap between capacity and responsibility is the gap in which everything burns. The species that got fire before it had the grammars to hold it is running out of time to learn what every adaptive system in the history of life already knows: power must be matched by responsibility, and the ratio between them determines whether a system builds complexity or destroys it.
-
-This is not a solution. It is a gesture. A wager. The Linehan wager applied to civilization itself: we cannot know if it will work. We can ask if it is useful, if it fits the data, and if it is compassionate. And we can build it — treating every version as a draft, privileging the community's capacity to adapt over any individual's capacity to plan — and see what happens.
-
 Not with answers but with an invitation to practice.
 
 The fire is given. The question is what we become.

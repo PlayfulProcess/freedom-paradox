@@ -80,8 +80,6 @@ And the formal principle is packaged with a model of moral agency that defines e
 
 The critique is not "they were wrong." It is "they were incomplete." The categorical imperative is a constraint. Grammars are the content. You need both.
 
-<!-- PP: Don't criticize Kant too much. The point isn't that moral philosophy was wrong. The point is that the Enlightenment's emphasis on individual moral reasoning left out the communal infrastructure that makes moral reasoning possible in the first place. Praise those who tried. -->
-
 ---
 
 ## The deeper pattern
@@ -104,7 +102,7 @@ Stories are the mechanism by which humans encode this principle and transmit it 
 
 Michael Tomasello's comparative psychology explains why this is possible at all. Humans possess a species-unique capacity for shared intentionality — joint attention, shared goals, cooperative communication — that emerged approximately four hundred thousand years ago under selection pressure from obligate collaborative foraging. Great apes understand intentional action but do not participate in shared intentionality. This cognitive architecture is what enables cumulative culture: the ability to build on what came before, to transmit not just behavior but the reasons for behavior, to construct shared worlds of meaning that persist across generations. Stories are how shared intentionality scales beyond the foraging band. They create what no other species can create: a communal nervous system that spans centuries.
 
-Not through argument. A child does not hear the Anansi stories and derive a theorem about the prisoner's dilemma. She absorbs, in her body, through the felt experience of the narrative held within the communal container, the pattern: the powerful are not invincible. Wit constrains brute force. Greed destroys itself. Wisdom cannot be hoarded. These are not lessons. They are neural templates — patterns laid down in the developing nervous system through the co-regulatory mechanism the first chapter described, available for recognition when the child encounters the pattern in the actual world.
+Not through argument. A child does not hear the Anansi stories and derive a theorem about the prisoner's dilemma. She absorbs, in her body, through the felt experience of the narrative held within the communal container, the pattern: the powerful are not invincible. Wit constrains brute force. Greed destroys itself. Wisdom cannot be hoarded. These are not lessons. They are neural templates — patterns laid down in the developing nervous system through the co-regulatory mechanism Chapter 14 described, available for recognition when the child encounters the pattern in the actual world.
 
 The Jataka tales do not argue for inter-species compassion. They dramatize it — the deer offering itself, the monkey breaking its spine, the rabbit in the fire — and the child who has heard fifty of these stories does not need to be persuaded that the living world has moral standing. She already knows. The knowing is in her body, put there by stories told with love.
 
@@ -116,4 +114,3 @@ And they are the one form of power that cannot be confiscated. The Anansi storie
 
 If any technology can help this species metabolize what fire has become, it is the technology that has been doing exactly that for sixty thousand years.
 
-<!-- PP: -->
