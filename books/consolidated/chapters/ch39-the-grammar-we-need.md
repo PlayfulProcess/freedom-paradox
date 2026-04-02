@@ -68,9 +68,9 @@ This applies directly to the AI safety argument — not as a personal critique o
 
 Consider the attention economy. The diagnosis is clear — platforms extract co-regulatory capacity, degrade parasympathetic bandwidth, replace relational infrastructure with consumption infrastructure. The solving reflex says: build a better platform. One that doesn't extract. One that serves inner life rather than exploiting it. And this is the trap inside the trap. Because the impulse to build a better platform reproduces the same structure. The content has changed entirely. The structure is identical.
 
-This is not a reason to stop building. It is a reason to build with eyes open. Jonathan Rowson's formulation holds: "this move is forced, even if it loses." Inaction is also an action. The refusal to build, in a world where the attention economy is actively degrading co-regulatory infrastructure, is not neutrality. It is complicity by omission.
+This is not a reason to stop building. It is a reason to build with eyes open. I am not innocent. I am just trying. recursive.eco — the platform this book describes — casts light and shadow with every design choice. Donation-based: light (no extraction), shadow (may not scale). Open interpretation: light (you make meaning together), shadow (collecting symbols without sitting with them). Co-creating with AI: light (a mirror for reflection), shadow (AI can be wrong, can flatten nuance, don't outsource your discernment). Every feature carries both. The about page names them because the trap of solving is invisible precisely when you believe you've escaped it.
 
-The courage to build something that might not work, that doesn't claim answers, that holds questions — this is itself a practice. Not a solution but a gesture.
+Jonathan Rowson's formulation holds: "this move is forced, even if it loses." Inaction is also an action. The refusal to build, in a world where the attention economy is actively degrading co-regulatory infrastructure, is not neutrality. It is complicity by omission. The courage to build something that might not work, that names its own shadows, that holds questions rather than selling answers — this is itself a practice. Not a solution but a gesture.
 
 ### The Desert
 

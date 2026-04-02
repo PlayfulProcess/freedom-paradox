@@ -22,7 +22,7 @@ The answer is physiological before it is emotional. Heart rate decelerates. Brea
 
 You can give someone this state without saying a word. You can give it by listening.
 
-Tania Singer's research on contemplative dyads — structured meditative listening between two people — found that cortisol stress levels dropped by fifty percent in both participants. Not just the speaker. Both. The listener, by attending fully, enters the same parasympathetic state they are inducing in the speaker. Co-regulation is bidirectional. When you listen well, you regulate yourself. <!-- Singer — attributed in research-29. Primary source needs verification for final. -->
+Tania Singer's research on contemplative dyads — structured meditative listening between two people — found that cortisol stress levels dropped by fifty percent in both participants. Not just the speaker. Both. The listener, by attending fully, enters the same parasympathetic state they are inducing in the speaker. Co-regulation is bidirectional. When you listen well, you regulate yourself. 
 
 ### Imago Dialogue: Structure as Container
 

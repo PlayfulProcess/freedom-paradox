@@ -1,5 +1,7 @@
 # Chapter 27: Consciousness as Ground
 
+Book One diagnosed the dilemmas. Book Two asks what to do with them — and it begins, perhaps surprisingly, not with practice but with philosophy. The reason is structural: you cannot practice what you don't understand, and you cannot understand relational responsibility without first asking what the ground of relationship is. Is there a ground? Is it given or chosen? Does the question matter? These five chapters (27-31) take one tradition's answer seriously — not as the answer but as the most rigorous example of what an answer looks like. The practice chapters that follow (32-37) are what you do when you've absorbed this and decided to act anyway.
+
 ---
 
 Kashmir Shaivism begins where Tillich ends — with the assertion that there is a ground, and that the ground is consciousness.

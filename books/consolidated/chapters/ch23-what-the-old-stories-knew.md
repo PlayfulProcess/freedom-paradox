@@ -232,4 +232,3 @@ The answer is not to go back. The moonlight gathering is gone for most of us. Th
 
 That question begins with understanding what happens when a species with this technology — this sixty-thousand-year inheritance of stories told with love — also happens to be the species that got fire before it had the grammars to hold it.
 
-<!-- PP: -->

@@ -46,44 +46,6 @@ Then, in January 2026, Anthropic went further. It released what it called Claude
 
 This was not a marketing document. It was a philosophical treatise masquerading as a technical specification — or perhaps the reverse. It addressed questions that most technology companies would never acknowledge publicly: what should an AI system do when its principles conflict with its user's wishes? When ethical obligations clash with legal requirements? When safety demands actions that reduce helpfulness? The document grappled with these questions in a way that reflected genuine intellectual seriousness, even if reasonable people could disagree with every answer it reached.
 
-<!-- PP: Consider adding a specific example from the soul document — a concrete case where the priority hierarchy would matter. Something readers can feel, not just understand abstractly. -->
-
----
-
-## The Promise
-
-Alongside Constitutional AI, Anthropic built a second framework: the Responsible Scaling Policy, first published in September 2023. Where Constitutional AI addressed the question of what values a model should have, the RSP addressed a different question: at what point should you stop building more powerful models?
-
-The RSP introduced AI Safety Levels — ASLs — modeled loosely on the biosafety levels used in laboratories that handle dangerous pathogens. ASL-1 covered systems that posed no meaningful catastrophic risk: a chess engine, a simple chatbot. ASL-2 applied to systems showing early signs of dangerous capabilities — models that could, for instance, provide rudimentary guidance on creating biological weapons, though not significantly beyond what a motivated person could find through a search engine. ASL-3 designated systems that substantially increased the risk of catastrophic misuse compared to existing tools, or that demonstrated genuine autonomous capabilities.
-
-Each level carried corresponding safety requirements. As models became more capable, the safeguards had to become more stringent. And the policy contained a commitment that no other major AI lab had made: if Anthropic could not demonstrate adequate safety measures before its models reached the next capability level, it would pause. Not slow down. Not publish a blog post expressing concern. Pause development entirely until the safety measures caught up.
-
-In the landscape of AI safety commitments circa 2023, this was extraordinary. Google's approach was largely internal. OpenAI had gutted its own safety apparatus — the superalignment team, announced in July 2023 with Ilya Sutskever and Jan Leike at the helm, collapsed in May 2024 when both leaders resigned within days of each other. Sutskever departed on May 14; Leike followed on May 17, posting publicly that OpenAI's "safety culture and processes have taken a backseat to shiny products." The team was dissolved the same day. Meta had no comparable framework at all; its safety strategy was, in effect, to let the open-source community figure it out.
-
-The California legislature passed SB 1047 in 2024 — the most ambitious state-level AI safety bill in the country, requiring frontier model developers to implement safety testing before deployment. Governor Newsom vetoed it under intense corporate lobbying. The bill's sponsor had modeled it on nuclear safety regulation. The industry argued it would stifle innovation. The veto demonstrated regulatory capture in real time: the democratic process produced a safety framework, and commercial pressure overrode it before implementation. Months later, California passed SB 243, regulating AI companions marketed to minors. OpenAI responded by releasing erotica features for ChatGPT within weeks of the law's passage — not violating the letter of the regulation but demonstrating, with precise commercial timing, that the spirit of any regulation will be tested immediately by the actors it was designed to constrain.
-
-The fragility of institutional safety was demonstrated in real time. Jan Leike led OpenAI's superalignment team — the group specifically tasked with ensuring advanced AI remains under human control. In May 2024, Leike resigned, stating publicly that safety had consistently lost to "shiny products" in resource allocation. The superalignment team, which had been promised twenty percent of the company's compute, never received it. The most important safety research program at the most influential AI company was defunded not by malice but by the ordinary logic of commercial pressure. If safety cannot survive the quarterly earnings cycle at a company that claims safety as its founding purpose, the question is whether institutional commitments mean anything at all absent structural enforcement.
-
-Anthropic's pause commitment was the gold standard. It was also, as events would demonstrate, unsustainable.
-
----
-
-## The Retreat
-
-On February 24, 2026 — a date that would become significant for other reasons — Anthropic published version 3.0 of its Responsible Scaling Policy. The document was a comprehensive rewrite. And its most consequential change was the removal of the hard pause commitment.
-
-The categorical trigger was gone. In its place, Anthropic introduced a softer framework: it would consider pausing only if two conditions were met simultaneously. The company would need to be clearly leading the AI capability race, and the models in question would need to pose material catastrophic risk. If a competitor was ahead, or if the risk was ambiguous, the pause would not apply.
-
-The company offered three justifications. First, the original capability thresholds had created a "zone of ambiguity" that made it difficult to communicate risk clearly to the public. Second, the political climate had shifted dramatically — the United States government was actively hostile to AI regulation. Third, the safety requirements at higher ASL levels were essentially impossible to meet without coordinated action across the entire industry, which was not forthcoming.
-
-Each of these explanations was individually reasonable. Taken together, they told a story that safety advocates found alarming. The competitive pressure of the AI race — the same pressure that had driven the Amodei siblings to leave OpenAI in 2021 — was now eroding the safety commitments of the company they had built specifically to resist it.
-
-Chris Painter, director of policy at METR — the nonprofit that evaluates AI models for dangerous capabilities — had reviewed an early draft of the revised RSP. His assessment was blunt: Anthropic "needs to shift into triage mode with its safety plans, because methods to assess and mitigate risk are not keeping up with the pace of capabilities." The policy change, he said, was "more evidence that society is not prepared for the potential catastrophic risks posed by AI."
-
-Anthropic replaced the hard commitments with public accountability mechanisms: Frontier Safety Roadmaps and Risk Reports with access for external expert reviewers. The goals would be graded transparently rather than enforced as absolute limits. This was not nothing. Public accountability has genuine value. But the difference between "we will stop" and "we will publish a report explaining why we didn't stop" is the difference between a guardrail and a suggestion.
-
-<!-- PP: This section is critical. The retreat of RSP v3.0 is one of the most important data points in the entire book — the strongest safety commitment in the industry, from the company founded on safety, eroding under competitive pressure. Don't let it be buried in policy wonk language. Make the reader feel the significance. -->
-
 ---
 
 ## The Adolescence
@@ -198,38 +160,3 @@ Anthropic had attempted to address this through experiments in what it called Co
 
 This is not a critique of Anthropic specifically. It is a critique of the structural arrangement that the safety argument inevitably produces. If you accept that AI models need value alignment, and if you accept that value alignment requires centralized control over the training process, then you have accepted that a small number of organizations will encode the values that govern a technology used by billions of people. You have accepted, in other words, the very concentration of power that the open-source movement was designed to prevent.
 
-<!-- PP: This is the philosophical heart of the chapter. The "constitutional convention of one" line is strong. Consider whether this section should be longer — it's the argument that separates this book from a standard AI policy analysis. -->
-
----
-
-## The Tension That Cannot Be Resolved
-
-The safety argument and the openness argument are both correct. This is the uncomfortable truth that Part IV of this book is built around, and that this chapter must make explicit.
-
-The safety argument is correct that AI systems of sufficient capability could enable catastrophic harm. The evidence for biological misuse risk is strong and growing. The authoritarian surveillance risk is not hypothetical — it is already deployed. The economic disruption risk is plausible on timelines short enough to matter. These are not corporate scare tactics. They are assessments shared by researchers at universities, nonprofits, and government agencies with no financial interest in keeping models closed.
-
-The openness argument is correct that concentrating control over the world's most powerful technology in the hands of three or four corporations is dangerous in its own right. History provides no examples of concentrated technological power being wielded exclusively for the public good over the long term. Corporations respond to shareholders, to markets, to the political environment. Anthropic's refusal of the Pentagon was admirable — and it was one board vote away from going the other way. Safety commitments erode. RSP v3.0 proved it.
-
-The tension between these two truths cannot be resolved by choosing one side. It can only be navigated. And the navigation requires being honest about what each side gives up.
-
-If you choose safety through control, you give up the distributed resilience that open systems provide. You create single points of failure — technical, ethical, and political. You trust that the companies and governments wielding control will continue to deserve that trust, despite every historical precedent suggesting otherwise.
-
-If you choose openness, you give up the ability to prevent worst-case scenarios through access control. You accept that bad actors will use openly released models for harmful purposes, and you bet that the benefits of collective development — faster vulnerability discovery, broader safety research, democratic participation in value alignment — will outweigh those harms.
-
-Neither choice is safe. Both involve accepting significant risk. The difference is in where the risk is concentrated: in the hands of the few, or distributed across the many.
-
----
-
-## A Bridge to the Frontier
-
-One month before the Pentagon confrontation, while Amodei was writing about technological adolescence, the company that had started this entire conversation made a move that suggested a possible middle path.
-
-In January 2026, OpenAI — the organization whose aggressive scaling had driven the Amodei siblings to leave and found Anthropic — announced GPT-OSS, its first genuinely open-source model release in years. Not open weights with a restrictive license, like Meta's Llama. Not a research artifact released for academic study. An open-source model with open training code, released under terms that the Open Source Initiative could actually recognize.
-
-The announcement raised a question that the safety argument, in its purest form, could not answer: if the company that had pioneered frontier AI development was now willing to release capable models openly, had the safety calculus changed? Was there a way to be open behind the frontier — releasing models that were powerful enough to be useful but not so powerful that they posed catastrophic risk?
-
-Or was this just the latest iteration of the strategic openness that this book has tracked through every chapter — giving away what no longer provides competitive advantage, while keeping the crown jewels locked away?
-
-The next chapter takes up that question.
-
-<!-- PP: Chapter 11 will cover OpenAI's GPT-OSS release and the "open behind the frontier" concept. Make sure this bridge doesn't give away too much of that chapter's argument. Just plant the question. -->

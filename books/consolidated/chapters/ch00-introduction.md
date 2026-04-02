@@ -68,4 +68,3 @@ recursive.eco is infrastructure for adaptive meaning-making through make-believe
 
 The book and the tools are the same gesture. The book is the argument. The tools are the practice. Fred Rogers built a television show for the same reason — not because he loved the medium but because the medium existed and children were watching, and someone had to build a version that served their inner life rather than exploiting their attention. He called it the Neighborhood. I call it recursive.eco. The grammar is the same: finite, participatory, held in community, modeling change rather than stasis. The medium is new. The need is sixty thousand years old.
 
-<!-- PP: -->

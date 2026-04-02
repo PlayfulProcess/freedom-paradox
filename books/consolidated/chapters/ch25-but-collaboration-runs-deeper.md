@@ -12,8 +12,6 @@ Lynn Margulis, whose 1967 paper was rejected by approximately fifteen journals b
 
 Margulis's conclusion inverted the dominant narrative of evolution: "Life did not take over the globe by combat, but by networking." The long-lasting intimacy of strangers. And the intimacy is not altruism. It is not sacrifice for the greater good. It is the natural direction of life — toward greater complexity through greater interdependence. The mitochondrion did not sacrifice its independence. It found a form of participation that was more alive than independence had been. This is the deepest pattern in the record: offering to the whole is not loss. It is how life elaborates itself.
 
-<!-- Margulis — widely attributed. Likely from Symbiotic Planet (1998) or Microcosmos (1986). [VERIFY: exact source and page] -->
-
 The pattern repeats at scales that strain comprehension. Eight percent of the human genome is retroviral DNA — four times more than all protein-coding genes combined. One of those retroviral fragments, syncytin, is essential for the formation of the human placenta. Dupressoir and colleagues showed that syncytin-A knockout mice die in utero — without a co-opted viral protein, mammalian pregnancy does not exist. The ARC gene, critical for long-term memory, forms viral-like capsids to transfer RNA between neurons. Pastuzyn and Shepherd at the University of Utah demonstrated that this repurposed retrotransposon, inserted into our genome 350–400 million years ago, is literally how your brain forms memories. In a case of convergent evolution, fruit flies independently domesticated a different retrotransposon for the same function.
 
 The Great Oxidation Event, roughly 2.4 billion years ago, was the largest mass extinction in Earth's history — ninety percent of species, gone. But the organisms that survived eventually learned to use oxygen for respiration, which yields roughly eighteen times more energy per unit of glucose than fermentation. That eighteen-fold energy increase powered the evolution of every complex multicellular organism that has ever lived. The toxin became the foundation.
@@ -80,40 +78,3 @@ And the formal principle is packaged with a model of moral agency that defines e
 
 The critique is not "they were wrong." It is "they were incomplete." The categorical imperative is a constraint. Grammars are the content. You need both.
 
-<!-- PP: Don't criticize Kant too much. The point isn't that moral philosophy was wrong. The point is that the Enlightenment's emphasis on individual moral reasoning left out the communal infrastructure that makes moral reasoning possible in the first place. Praise those who tried. -->
-
----
-
-## The deeper pattern
-
-Gandhi stated the principle with characteristic precision: "I do not want my house to be walled in on all sides and my windows to be stuffed. I want the culture of all lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any."
-
-This is the adaptive frame applied to cultures themselves. Contact between different ways of living — different grammars — can produce extraordinary new complexity. Haitian Vodou, born in the holds of slave ships from the collision of Fon, Yoruba, Kongo, and Catholic traditions, launched the only successful slave revolution in history. Jazz, born from the collision of African polyrhythm and European harmony, created an art form that neither parent culture could have produced alone.
-
-But these creative emergences happened under specific conditions: the traditions that collided retained their own internal coherence. They were not dissolved into a homogeneous mixture. They maintained what the biologists call their own DNA. The mitochondrion retained its own genome. The grammar kept its own structure.
-
-When the mixing is not collision but absorption — when one culture simply dissolves the others into itself — what results is not creative symbiogenesis but epistemicide. And the evidence from every adaptive system studied long enough confirms the same principle: diversity of practice is not a luxury. It is the adaptive capacity the whole system needs to survive what is coming.
-
----
-
-## What stories do that nothing else can
-
-This chapter has moved between scales — cellular, ecological, cultural, philosophical — but the thread is the same. Every adaptive system that survives matches power with responsibility. The mechanism varies: chemical feedback in the acacias, reciprocal exchange in the mycorrhizae, ceremonial constraint in the Haudenosaunee, formal logic in the categorical imperative. But the principle is constant.
-
-Stories are the mechanism by which humans encode this principle and transmit it to their young.
-
-Michael Tomasello's comparative psychology explains why this is possible at all. Humans possess a species-unique capacity for shared intentionality — joint attention, shared goals, cooperative communication — that emerged approximately four hundred thousand years ago under selection pressure from obligate collaborative foraging. Great apes understand intentional action but do not participate in shared intentionality. This cognitive architecture is what enables cumulative culture: the ability to build on what came before, to transmit not just behavior but the reasons for behavior, to construct shared worlds of meaning that persist across generations. Stories are how shared intentionality scales beyond the foraging band. They create what no other species can create: a communal nervous system that spans centuries.
-
-Not through argument. A child does not hear the Anansi stories and derive a theorem about the prisoner's dilemma. She absorbs, in her body, through the felt experience of the narrative held within the communal container, the pattern: the powerful are not invincible. Wit constrains brute force. Greed destroys itself. Wisdom cannot be hoarded. These are not lessons. They are neural templates — patterns laid down in the developing nervous system through the co-regulatory mechanism the first chapter described, available for recognition when the child encounters the pattern in the actual world.
-
-The Jataka tales do not argue for inter-species compassion. They dramatize it — the deer offering itself, the monkey breaking its spine, the rabbit in the fire — and the child who has heard fifty of these stories does not need to be persuaded that the living world has moral standing. She already knows. The knowing is in her body, put there by stories told with love.
-
-The Aboriginal songlines do not lecture about ecological management. They sing it — the fire regime encoded in verse, the conservation principles embedded in narrative, the legal obligations woven into the landscape itself — and the child who grows up inside the songlines does not need an environmental science textbook. The textbook is the land, read through story.
-
-This is what stories do that nothing else can. They transmit adaptive behavior across generations without requiring genetic selection. They encode responsibility structures in the felt experience of the body rather than the abstract propositions of the mind. They work because they engage the co-regulatory mechanism — the warm body, the shared attention, the calibrated darkness — that builds the nervous system's capacity to hold complexity.
-
-And they are the one form of power that cannot be confiscated. The Anansi stories survived the Middle Passage. The Haudenosaunee creation narrative survived four hundred boarding schools. The Jataka tales crossed every border in Asia before any doctrinal text arrived. The Dreamtime stories lasted twelve thousand years.
-
-If any technology can help this species metabolize what fire has become, it is the technology that has been doing exactly that for sixty thousand years.
-
-<!-- PP: -->

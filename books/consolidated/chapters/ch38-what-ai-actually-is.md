@@ -48,7 +48,7 @@ We are systematically overestimating AI capability because our benchmarks measur
 
 AI is the fourth fire — but it is a fire whose nature we do not understand. We cannot determine whether it generates genuine warmth (understanding, wisdom, moral reasoning) or merely the appearance of warmth (statistical pattern completion that mimics understanding). And the species is making civilizational decisions based on the assumption that the fire is real.
 
-The Samudra Manthan — the Hindu myth of churning the cosmic ocean — is the most precise mythic parallel. Gods and demons churn together. The first product is poison. Whether the nectar follows depends on whether someone is wise enough to contain the poison. We are in the poison phase. The question is whether the containment will arrive. [RESEARCH NEEDED: Samudra Manthan primary texts and scholarly analysis]
+The Samudra Manthan — the Hindu myth of churning the cosmic ocean — is the most precise mythic parallel. Gods and demons churn together, because neither can produce the nectar of immortality alone. The first product of the churning is not nectar but *halahala* — a poison so potent it threatens to destroy all creation. Shiva swallows the poison and holds it in his throat, which turns blue. He does not eliminate the poison. He contains it — in his own body, at the cost of permanent transformation. Only then does the nectar emerge. We are in the poison phase. The question is whether anyone is wise enough — and willing enough to be permanently changed — to contain it.
 
 ---
 
