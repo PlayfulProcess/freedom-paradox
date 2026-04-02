@@ -82,6 +82,8 @@ The counter-argument: cheese is consumed in small quantities. Nobody eats a kilo
 
 Yogurt's environmental footprint is moderate — roughly on par with milk, since yogurt is essentially milk plus bacterial cultures. The process adds minimal environmental cost beyond the base dairy.
 
+But yogurt's story is also a masterclass in industrial health theater. In the early 1900s, the Nobel laureate Élie Metchnikoff declared that Bulgarian yogurt-eating peasants lived to extraordinary ages because of bacterial cultures in their diet — launching a global fermented-milk craze. Dannon (Danone) rode that wave, but the real transformation came when the company began adding fruit and sugar, turning a tart, cultured food into a dessert that could be marketed as a health product. Each new diet trend brought a new yogurt: low-fat yogurt in the 1980s (sugar added to compensate), Greek yogurt in the 2010s (protein marketing), keto-friendly yogurt today. The product keeps shape-shifting to match whatever consumers currently believe is healthy, while the basic industrial logic — add sugar, subtract flavor complexity, wrap it in health language — remains unchanged.
+
 The packaging, however, is another story.
 
 Individual yogurt cups — the dominant format in Western markets — are typically polypropylene (PP, #5) or polystyrene (PS, #6). Polypropylene is technically recyclable but accepted by only about 50 percent of US curbside programs [VERIFY]. Polystyrene is worse — rarely recycled, doesn't degrade. Multi-packs add cardboard sleeves and shrink wrap.

@@ -130,6 +130,8 @@ The paradox, then, is this: the AI model itself is not a traditional commons pro
 
 Ostrom's framework governs the resource. It was not designed to govern the externalities of a resource that is itself free.
 
+A deeper caveat is owed. Ostrom's framework was built for fish, not algorithms. AI models are non-rivalrous, global in scope, and change faster than any resource she studied. At least five scholars have argued that applying her principles to AI constitutes a category mistake (Wiley 2018, Araral 2014, China-CEE Institute 2026). The framework's value for AI lies not in its specific principles — boundaries, monitoring, graduated sanctions — but in its deeper methodology: the insistence on polycentric, context-sensitive governance over both state centralization and market laissez-faire. The practical implementations that work (Te Hiku Media's Māori language AI, the READ-COOP consortium for text recognition, the GovAI Coalition for government procurement) are all small-scale and community-bounded — precisely the conditions where Ostrom's original principles were validated. Whether the framework can scale to govern foundation models developed by trillion-dollar corporations remains genuinely uncertain.
+
 ---
 
 ## The Nuclear Mirror

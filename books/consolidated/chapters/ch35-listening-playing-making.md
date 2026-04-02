@@ -1,4 +1,4 @@
-# Chapter 34: Listening, Playing, Making
+# Chapter 35: Listening, Playing, Making
 
 ---
 
@@ -18,7 +18,7 @@ Real listening — the kind that regulates the speaker's nervous system — requ
 
 What happens when the face is *fully* present? When someone turns toward you, puts down their phone, makes eye contact, and gives you their complete, unhurried attention?
 
-The answer is physiological before it is emotional. Heart rate decelerates. Breathing deepens. Cortisol drops. The vagal brake engages — the parasympathetic system shifts online, and the social engagement system activates. This is Porges's ventral vagal state: the state where you can think clearly, feel proportionately, and connect.
+The answer is physiological before it is emotional. Heart rate decelerates. Breathing deepens. Cortisol drops. The vagal brake engages — the parasympathetic system shifts online, and the social engagement system activates. This is what the clinical literature calls the ventral vagal state — the parasympathetic condition where you can think clearly, feel proportionately, and connect. (The biological premises of polyvagal theory are contested; the phenomenology is not. See Chapter 14.)
 
 You can give someone this state without saying a word. You can give it by listening.
 
@@ -185,6 +185,8 @@ A family grammar has four components:
 **The repair ritual.** When someone hurts someone else — not if, but when — there is a practice for what comes next. The person who was hurt describes what happened. The person who caused the hurt mirrors back what they heard. Then both decide together what repair looks like. This is the Imago dialogue adapted for families, and it teaches the Tronick finding in real time: the mismatch is not the catastrophe. The repair is the practice.
 
 ---
+
+Not all containers are noisy or social. The Quaker meeting's power comes from shared silence. The solo walk in nature regulates the nervous system through rhythm and sensory immersion, not conversation. The child reading alone in a room where a parent is present — not interacting, just *there* — is co-regulating through proximity, not exchange. recursive.eco is designed for this: solo grammar exploration, individual reading, the quiet encounter with a symbol system at your own pace. The defining feature of an adaptive container is not social density but relational availability — the knowledge that connection is possible, even when it is not active. Diversity of temperament is an asset, and creating spaces where that diversity can flourish — the loud drum circle and the silent reading room, the improv stage and the garden bench — is itself a grammar-building act.
 
 **Practice box: Making**
 

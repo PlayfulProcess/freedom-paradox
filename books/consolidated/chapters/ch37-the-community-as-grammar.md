@@ -1,4 +1,4 @@
-# Chapter 36: The Community as Grammar
+# Chapter 37: The Community as Grammar
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 32: Telling (The Live Voice)
+# Chapter 33: Telling (The Live Voice)
 
 ---
 
