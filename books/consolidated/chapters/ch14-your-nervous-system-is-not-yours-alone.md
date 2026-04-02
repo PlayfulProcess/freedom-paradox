@@ -48,6 +48,8 @@ And at the deprivation level — the level where the evidence becomes morally ha
 
 There is a term in the clinical literature — psychosocial dwarfism — for the finding that emotional deprivation suppresses growth hormone independently of nutrition. After the Second World War, Elsie Widdowson studied two orphanages with identical diets but different caregivers. Children under the harsh caretaker simply did not grow. When a nurturing nurse arrived, growth resumed. When she left, it stopped. When she returned, it resumed again. The body cannot grow without relational regulation. This is not a psychological observation. It is an endocrinological one.
 
+Resmaa Menakem's work extends the nervous system thesis into its most uncomfortable territory. White body supremacy, he argues, is not an ideology. It is a somatic inheritance — rooted in a thousand years of European brutalization (public torture, witch burnings, religious persecution) that preceded and produced the colonial project. The trauma lives in the vagus nerve, not the mind. When Menakem says "the body keeps the score" he means it literally: racialized patterns of contraction and reactivity are transmitted intergenerationally through the same co-regulatory channels this chapter has been describing. Decontextualized, trauma looks like a personality trait. In families, it looks like culture. In peoples, it looks like structural racism. The nervous system that is not yours alone carries not just your parents' regulatory patterns but your people's history of what was done to their bodies.
+
 ---
 
 ## The Warm Bath Test

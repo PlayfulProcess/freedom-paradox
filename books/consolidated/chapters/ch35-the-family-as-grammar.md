@@ -6,6 +6,8 @@ The family is the first grammar anyone encounters. Before school, before communi
 
 This chapter is about tending that grammar on purpose.
 
+Bruce Perry's three-word sequence — regulate, relate, reason — provides the meta-principle for everything in this chapter and the five that precede it. You cannot reason with a dysregulated nervous system. You must first regulate (bring the body into a state where the social engagement system can function), then relate (establish co-regulatory connection), then reason (engage the prefrontal cortex). The sequence is not optional. It is neurobiological. Every parent who has tried to explain something to a screaming child knows this. Every therapist who has tried to do cognitive work with a flooded client knows this. The practice chapters of this book follow Perry's sequence: Part IV (The Body) regulates. Part VI (The Ground) relates. Part VIII (The Grammar We Need) reasons. The sequence is the grammar.
+
 ---
 
 ## The Co-Regulation Budget
