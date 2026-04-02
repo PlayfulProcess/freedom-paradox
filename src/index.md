@@ -1,4 +1,4 @@
-# The Species That Got Fire
+# Fire Before Responsibility
 
 *By PlayfulProcess*
 
