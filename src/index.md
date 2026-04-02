@@ -6,7 +6,7 @@
 
 ## Download
 
-**[Download EPUB](the-species-that-got-fire.epub)** — Send to Kindle via [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle)
+**[Download EPUB](https://github.com/PlayfulProcess/freedom-paradox/raw/master/epub-build/freedom-paradox-project-complete.epub)** — Previous edition (4-book version). Updated EPUB coming soon.
 
 **Audiobook** — Coming soon (AI-narrated via Whisper)
 
