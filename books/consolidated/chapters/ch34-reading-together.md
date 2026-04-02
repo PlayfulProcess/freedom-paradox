@@ -1,4 +1,4 @@
-# Chapter 33: Reading Together (The Co-Regulatory Text)
+# Chapter 34: Reading Together (The Co-Regulatory Text)
 
 ---
 

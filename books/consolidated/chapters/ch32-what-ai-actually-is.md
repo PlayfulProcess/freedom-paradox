@@ -1,4 +1,4 @@
-# Chapter 38: What AI Actually Is
+# Chapter 32: What AI Actually Is
 
 ---
 

@@ -61,10 +61,6 @@
 
 ---
 
-# Book Two: The 31%
-
----
-
 # Part VI — The Ground
 
 - [Chapter 27: Consciousness as Ground](consolidated/ch27-consciousness-as-ground.md)
@@ -72,23 +68,27 @@
 - [Chapter 29: What Tillich Would Say to Wallis](consolidated/ch29-what-tillich-would-say-to-wallis.md)
 - [Chapter 30: The Invisible World](consolidated/ch30-the-invisible-world.md)
 - [Chapter 31: Relationship to What Cannot Be Seen](consolidated/ch31-relationship-to-what-cannot-be-seen.md)
+- [Chapter 32: What AI Actually Is](consolidated/ch32-what-ai-actually-is.md)
+
+---
+
+# Book Two: The 31%
 
 ---
 
 # Part VII — The Practice
 
-- [Chapter 32: Telling](consolidated/ch32-telling.md)
-- [Chapter 33: Reading Together](consolidated/ch33-reading-together.md)
-- [Chapter 34: Listening, Playing, Making](consolidated/ch34-listening-playing-making.md)
-- [Chapter 35: The Family as Grammar](consolidated/ch35-the-family-as-grammar.md)
-- [Chapter 36: The Community as Grammar](consolidated/ch36-the-community-as-grammar.md)
-- [Chapter 37: The Commons](consolidated/ch37-the-commons.md)
+- [Chapter 33: Telling](consolidated/ch33-telling.md)
+- [Chapter 34: Reading Together](consolidated/ch34-reading-together.md)
+- [Chapter 35: Listening, Playing, Making](consolidated/ch35-listening-playing-making.md)
+- [Chapter 36: The Family as Grammar](consolidated/ch36-the-family-as-grammar.md)
+- [Chapter 37: The Community as Grammar](consolidated/ch37-the-community-as-grammar.md)
+- [Chapter 38: The Commons](consolidated/ch38-the-commons.md)
 
 ---
 
 # Part VIII — The Grammar We Need
 
-- [Chapter 38: What AI Actually Is](consolidated/ch38-what-ai-actually-is.md)
 - [Chapter 39: The Grammar We Need](consolidated/ch39-the-grammar-we-need.md)
 - [Chapter 40: The Honest Practitioner](consolidated/ch40-the-honest-practitioner.md)
 - [Chapter 41: The Species That Tells Stories](consolidated/ch41-the-species-that-tells-stories.md)
