@@ -19,6 +19,21 @@
 
 ---
 
+## Deep Research Findings (April 2026)
+
+Three deep research investigations identified critical issues. All have been resolved:
+
+### 1. "Linehan Wager" — Misattribution (RESOLVED)
+The three-filter test (useful, fits data, compassionate) was the book's own coinage, wrongly attributed to Linehan as "the Linehan wager." No such formulation exists in any published Linehan source. **Fix:** Renamed to "the three-filter test" throughout (~12 occurrences across 10 chapters). Ch14 now contains proper attribution: inspired by Linehan's biosocial model design criteria (Linehan & Wilks, 2015), with the book's expansion clearly named as such.
+
+### 2. Polyvagal Theory — Core Biology Contested (RESOLVED)
+Thirty-nine experts in autonomic physiology declared polyvagal theory "untenable" in its core biological premises (Grossman et al., 2026). The specific claims about myelinated cardiac vagal fibers, dorsal motor nucleus, and the social engagement system as discrete circuit have been falsified. **Fix:** Ch14 disclaimer strengthened to name the specific contested claims and the independent evidence (Tronick, Coan, Feldman, Schore) the chapter actually relies on. Caveats added to ch15 and ch34 ventral vagal references. Other uses (ch18, ch19, ch24) left as clinical shorthand, since the ch14 disclaimer is now explicit.
+
+### 3. Ostrom Applied to AI — Possible Category Mistake (RESOLVED)
+At least five scholars argue that applying Ostrom's commons principles to AI is a category mistake (AI is non-rivalrous, global, faster-changing than any resource she studied). **Fix:** Caveat paragraph added to Ch12 after the principle-by-principle analysis. Names the critique, identifies the framework's actual value (polycentric methodology, not specific principles), and notes that working implementations are all small-scale and community-bounded.
+
+---
+
 ## Structural Tensions (Intentionally Unresolved)
 
 These are not errors. They are the book's honest tensions. Documented here for reader and editor awareness.
