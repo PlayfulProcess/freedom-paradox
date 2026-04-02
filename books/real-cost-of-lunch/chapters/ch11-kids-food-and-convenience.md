@@ -56,6 +56,8 @@ Nutritionally: a chicken nugget is roughly 50 percent breading and oil, 50 perce
 
 The packaging: cardboard box (recyclable) containing a plastic bag (recyclable in theory, rarely in practice).
 
+Raj Patel and Jason W. Moore's "seven cheap things" framework reveals the nugget as a microcosm. It requires cheap nature (a jungle fowl mutated beyond recognition), cheap work (processing plant workers including prison labor and recovering addicts on night shifts), cheap care (injured workers sent home to unpaid women), cheap food (corn and soy subsidized below the cost of production), cheap energy (fossil fuels at every stage), cheap money (low-interest agricultural loans), and cheap lives (communities of color bearing the health costs of proximity to processing plants). Every bite contains all seven.
+
 None of this means you should feel guilty about feeding your child chicken nuggets. It means the system that makes chicken nuggets the cheapest and most convenient protein option for time-pressed families has externalized its costs onto the chickens, the workers, and the environment. The question is not "why do parents buy nuggets?" The question is "why is this the cheapest option?"
 
 ## Baby Formula: Necessity, History, and Market Power

@@ -103,6 +103,8 @@ The rule that works: minimize ultra-processed foods (NOVA Group 4) when you can.
 
 ---
 
+The deeper reason simple rules fail is that they operate through market mechanisms where structural change is needed. Garrett Hardin's "tragedy of the commons" — the foundational argument for privatization — was not historical analysis. Actual commons operated for centuries through stinting (limiting extraction) and gleaning (ensuring access for the poorest). Capitalism destroyed commons not because commoning failed but because it worked — it prevented the accumulation that enclosure enabled. Voluntary certifications, conscious consumerism, and "vote with your dollar" are the food system's equivalent of Hardin's myth: they locate systemic failure in individual choice.
+
 ## Why Systems Literacy Beats Simple Rules
 
 Every one of these rules — local, organic, plant-based, unprocessed — captures a real insight. Local food reduces transport emissions *when the climate supports the crop*. Organic farming protects soil and pollinators *when the yield gap is manageable*. Plant-based diets reduce environmental impact *when the plants in question aren't driving their own forms of destruction*. Minimally processed food is generally healthier *when you have the time and resources to cook*.

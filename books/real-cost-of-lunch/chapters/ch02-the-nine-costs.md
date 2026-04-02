@@ -8,6 +8,8 @@ Same species. Same molecule giving you that alertness — caffeine, C₈H₁₀N
 
 This chapter introduces the framework this book uses to trace those costs. Not one cost. Nine.
 
+The economic logic that hides these costs is not a failure of accounting. It is accounting working as designed. Adrienne Buller documents how the IMF valued a great whale at two million dollars — based on carbon sequestration and eco-tourism revenue. William Nordhaus's DICE model, the foundation of climate economics for which he received the Nobel Prize, prescribes three-and-a-half to four degrees of warming as "economically optimal." The nine costs are not externalities waiting to be internalized. They are what happens when the value of a living system is reduced to a price signal.
+
 ---
 
 ## Cost 1: Carbon

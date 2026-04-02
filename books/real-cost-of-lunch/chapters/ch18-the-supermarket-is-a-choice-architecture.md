@@ -77,6 +77,8 @@ Limitations: often located in wealthier areas, membership fees, higher prices fo
 
 **Online direct-to-consumer**: Farm-to-door delivery services, meal kits, online farmers markets. Reduced impulse buying (no store aisles to navigate). But: packaging for shipping (insulation, ice packs, cardboard), delivery emissions (though consolidated delivery can be more efficient than individual car trips to stores), and the digital divide (not everyone has internet access and credit cards).
 
+Worker cooperatives demonstrate that the extractive architecture is not inevitable. Richard Wolff documents the comparison: US non-cooperative companies average a 271-to-1 pay ratio between CEO and median worker. Cooperatives operate at ratios approaching 1-to-1. They are more stable, more resilient during downturns, and at least as efficient as traditional models. The workplace — including the food workplace — is the largest undemocratic space in American life. The cooperative model applies democracy to the place where most Americans spend most of their waking hours.
+
 None of these alternatives is perfect. Each has trade-offs — cost, access, time, convenience. The point is not that alternatives are morally superior to supermarkets. The point is that the way food reaches you shapes what food you eat. When you change the architecture, you change the outcome.
 
 ---

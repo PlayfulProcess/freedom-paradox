@@ -25,6 +25,8 @@ The American Psychological Association formally recognized eco-anxiety in its 20
 
 This isn't niche. A 2023 Pew Research survey found that roughly 37 percent of Americans aged 18-29 report anxiety about climate change "often" or "a great deal" [VERIFY]. The numbers are higher in Europe and highest in countries most directly affected by climate impacts.
 
+Ajay Singh Chaudhary names the condition more precisely than anxiety: exhaustion. Not tiredness but the systematic depletion of capacity — of bodies, ecosystems, and minds — produced by the same extractive circuit. The lithium miner, the gig worker, and the eco-anxious consumer are connected by a single logic of depletion. Exhaustion is not a personal failure of resilience. It is the political condition of living inside a system that extracts faster than anything can regenerate. The ninth cost — the cost to meaning — is what exhaustion feels like from the inside.
+
 Food is where climate anxiety meets daily life. You eat three times a day. Each meal is a series of micro-decisions with environmental, ethical, and health dimensions. The grocery store is not a neutral space — it is a landscape of hidden costs, misleading labels, and impossible optimization problems.
 
 For people who are aware of these dimensions — who have read books like this one, followed the news, paid attention — every trip to the store becomes a low-grade moral exam.

@@ -16,6 +16,8 @@ Then it went on a truck. Then it went to a distribution center. Then it went on 
 
 Six countries touched in the supply chain. At least 14 distinct chemical inputs. Three bodies of water crossed. The banana cost you sixty-two cents.
 
+The world produces roughly one and a half times the food needed for every person on earth. The Irish Potato Famine — the paradigmatic hunger crisis — saw food exported from Ireland throughout because markets paid better elsewhere. A million people starved while ships left Dublin full of grain. The problem was never production. The problem was distribution. This is the food system's foundational lie: that hunger exists because we don't grow enough. We grow too much. And the surplus follows money, not need.
+
 ---
 
 Now here is a different banana.
