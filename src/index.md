@@ -24,9 +24,9 @@ Open source, a forty-year freedom movement, confronts genuine civilizational ris
 
 ## The Arc
 
-### Book One: The Dilemmas
+### Book One: The 69%
 
-The sixty-nine percent that never resolves. The perpetual problems of a species that got fire before it had the grammars to hold it.
+The perpetual problems. The discipline of learning to stop trying to solve the unsolvable.
 
 **Part I — The Clause:** Anthropic says no. Code can clone itself. The Four Freedoms meet their limit.
 
@@ -38,9 +38,9 @@ The sixty-nine percent that never resolves. The perpetual problems of a species 
 
 **Part V — The Fire:** Grammars are responsibility structures. The species question. The axiom beneath the ground.
 
-### Book Two: Relational Responsibilities
+### Book Two: The 31%
 
-The dilemmas don't resolve. They dissolve into practice. What matters is repair capacity — the ability to return to connection after rupture, at every scale.
+What you can actually do. Build the viewer. Tell the story. Fix the roof. The discipline of acting where action works.
 
 **Part VI — The Ground:** Consciousness as ground. The circularity. The invisible world.
 

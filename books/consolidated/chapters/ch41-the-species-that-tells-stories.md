@@ -2,9 +2,11 @@
 
 This book has made one argument through two movements.
 
-Book One — The Dilemmas — traced the human pattern: the species got fire before it had the grammars to hold it. The political economy of openness. The nervous system that requires co-regulation. The stories that build capacity to face the dark. The grammars that are responsibility structures. The thesis chapter's claim: adaptive systems match power with responsibility. The axiom: inherent value is chosen, not given — and the choice is the only posture that works. These are the dilemmas. They do not resolve. They are the sixty-nine percent.
+Book One was the sixty-nine percent. The perpetual problems. The political economy of openness. The nervous system that requires co-regulation. The stories that build capacity to face the dark. The grammars that are responsibility structures. The thesis: adaptive systems match power with responsibility. The axiom: inherent value is chosen, not given. These are the dilemmas. They do not resolve. The discipline was learning to stop trying to solve them.
 
-Book Two — Relational Responsibilities — asked what practice looks like when you've absorbed the diagnosis. Consciousness as ground. The circularity. The invisible world. Telling, reading, listening, playing, making. The family as grammar. The community as grammar. The commons. What AI actually is. The grammar we need. The honest practitioner. These are the relational responsibilities. Not solutions. Practices. The capacity to return to connection after rupture — at every scale, from the bedtime story to the civilization.
+Book Two was the thirty-one percent. What you can actually do. Commit to a tradition — not because you've resolved the philosophical question but because the commitment IS the practice. Tell stories. Read together. Listen. Play. Build the family grammar, the community grammar, the commons. Lock down the viewer. Fork the deck. Name the fudged benchmark. Say no to the Pentagon. These are not solutions to the sixty-nine percent. They are the thirty-one percent — the problems that move when you act on them. The discipline was learning to act where action works.
+
+The wisdom the book has been building toward is the discernment between the two. Without a practice, without a community, without sustained attention, everything looks perpetual. With them, you begin to see what moves.
 
 The synthesis is this:
 

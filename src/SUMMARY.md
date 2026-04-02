@@ -4,7 +4,7 @@
 
 ---
 
-# Book One: The Dilemmas
+# Book One: The 69%
 
 - [Introduction: The Species That Got Fire](consolidated/ch00-introduction.md)
 
@@ -61,7 +61,7 @@
 
 ---
 
-# Book Two: Relational Responsibilities
+# Book Two: The 31%
 
 ---
 
