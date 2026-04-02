@@ -1,4 +1,4 @@
-# Chapter 2: The Darkness Is the Medicine
+# Chapter 17: The Darkness Is the Medicine
 
 Every parent knows the phase. A child — four years old, maybe five — locks onto one story and will not let go. Not a gentle story. A story with teeth. A bear who tears through a village, swallows children whole, and is eventually tricked into falling off a cliff by the youngest sibling, the one everyone had overlooked.
 

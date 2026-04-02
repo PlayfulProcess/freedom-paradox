@@ -1,4 +1,4 @@
-# Chapter 16: The Freedom Paradox
+# Chapter 13: The Freedom Paradox
 
 It began with a printer.
 

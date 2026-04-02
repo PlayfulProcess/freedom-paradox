@@ -1,10 +1,10 @@
-# Conclusion: Grammars Are Responsibility Structures
+# Chapter 41: The Species That Tells Stories
 
-This book has made one argument through two lenses.
+This book has made one argument through two movements.
 
-The first lens — Chapters 1 through 3 — examined the technology. The bedtime story is the oldest technology for building a human nervous system's capacity to face the dark. It works through five containment conditions: the fiction frame, the co-regulatory body, graduated dosing, child agency, and bounded structure. Every culture for which we have evidence built its version. Every version encoded adaptive wisdom — ecological knowledge inseparable from moral instruction, survival technology inseparable from love. When the container is present, dark content heals. When the container is stripped — by editorial softening, colonial suppression, or algorithmic delivery — the same darkness that built capacity begins to erode it.
+Book One — The Dilemmas — traced the human pattern: the species got fire before it had the grammars to hold it. The political economy of openness. The nervous system that requires co-regulation. The stories that build capacity to face the dark. The grammars that are responsibility structures. The thesis chapter's claim: adaptive systems match power with responsibility. The axiom: inherent value is chosen, not given — and the choice is the only posture that works. These are the dilemmas. They do not resolve. They are the sixty-nine percent.
 
-The second lens — Chapters 4 and 5 — examined the species. We got fire before we had the grammars to hold it. Thirteen thousand years of burning California, eighty-five percent of Australian megafauna, two thousand bird species across Polynesia. Fire, then agriculture, then industry, then artificial intelligence — each one is more power arriving faster than the responsibility structures needed to wield it. But the record also shows the deeper pattern: collaboration runs deeper than extraction. The parasite becomes the partner. The toxin becomes the foundation. Every adaptive system that survives matches power with responsibility.
+Book Two — Relational Responsibilities — asked what practice looks like when you've absorbed the diagnosis. Consciousness as ground. The circularity. The invisible world. Telling, reading, listening, playing, making. The family as grammar. The community as grammar. The commons. What AI actually is. The grammar we need. The honest practitioner. These are the relational responsibilities. Not solutions. Practices. The capacity to return to connection after rupture — at every scale, from the bedtime story to the civilization.
 
 The synthesis is this:
 

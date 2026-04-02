@@ -1,4 +1,4 @@
-# Chapter 1: The Oldest Technology
+# Chapter 16: The Oldest Technology
 
 A child's body is warm against a parent's. They are on the couch, a book propped between them. Outside, the light is going. Inside, the lamp makes the room a world.
 

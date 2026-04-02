@@ -1,4 +1,4 @@
-# Chapter 5: The Polarization of the Polis
+# Chapter 19: The Polarization of the Polis
 
 ---
 

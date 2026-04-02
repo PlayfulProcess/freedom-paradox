@@ -1,4 +1,4 @@
-# Chapter 3: What the Old Stories Knew
+# Chapter 23: What the Old Stories Knew
 
 Every culture that survived long enough to study left its children a curriculum. Not a textbook — a body of stories. And when you lay these bodies of stories beside each other — Akan spider tales and Buddhist birth stories, Aboriginal songlines and Haudenosaunee creation narratives, the *Thousand and One Nights* and the Grimms' fireside tales — a pattern emerges so consistent it cannot be coincidence. Every tradition encoded the same insight: the human is a participant in a larger living system, not its master. The trickster teaches the weak to survive. The darkness builds regulatory capacity. The communal telling is itself the container. And the storyteller — the elder, the parent, the grandmother — matters as much as the story.
 

@@ -1,4 +1,4 @@
-# Chapter 24: The Axiom
+# Chapter 26: The Axiom
 
 ---
 

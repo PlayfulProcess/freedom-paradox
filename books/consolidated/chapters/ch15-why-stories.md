@@ -1,4 +1,4 @@
-# Chapter 2: Why Stories — The Intellect's Need for Grammar
+# Chapter 15: Why Stories — The Intellect's Need for Grammar
 
 ---
 

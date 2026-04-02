@@ -1,4 +1,4 @@
-# Chapter 4: Consciousness as Ground
+# Chapter 27: Consciousness as Ground
 
 ---
 

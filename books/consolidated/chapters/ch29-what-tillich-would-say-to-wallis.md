@@ -1,4 +1,4 @@
-# Chapter 6: What Tillich Would Say to Wallis (And Vice Versa)
+# Chapter 29: What Tillich Would Say to Wallis (And Vice Versa)
 
 ---
 

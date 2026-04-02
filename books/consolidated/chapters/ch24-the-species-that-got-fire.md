@@ -1,4 +1,4 @@
-# Chapter 22: The Species That Got Fire
+# Chapter 24: The Species That Got Fire
 
 This chapter makes the book's central argument. Everything before it — the body, the stories, the crisis, the grammars — has been preparation. Everything after it — the trap of solving, the gesture toward what comes next — depends on what happens here. So the argument must be stated clearly before it is developed.
 

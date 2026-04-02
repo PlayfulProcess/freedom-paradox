@@ -1,4 +1,4 @@
-# Chapter 14: The Commons That Can Kill
+# Chapter 12: The Commons That Can Kill
 
 In 2009, the Nobel Committee in Economics did something unusual. It gave the prize to a political scientist.
 

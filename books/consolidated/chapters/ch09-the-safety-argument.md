@@ -1,4 +1,4 @@
-# Chapter 10: The Safety Argument
+# Chapter 9: The Safety Argument
 
 Every technology in history has been released into the world and then regulated after the damage became clear. Asbestos was installed in buildings for decades before we understood it caused cancer. Leaded gasoline was burned in engines for half a century before the evidence of neurological harm became undeniable. Social media was handed to three billion people before anyone studied what it did to teenage mental health. The pattern is so consistent it has a name: the Collingridge dilemma. By the time you understand a technology well enough to regulate it, it is already so deeply embedded in society that regulation is nearly impossible.
 

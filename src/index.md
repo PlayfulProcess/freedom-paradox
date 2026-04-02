@@ -18,11 +18,15 @@ When we have fire — power — what makes the difference between societies that
 
 Open source, a forty-year freedom movement, confronts genuine civilizational risk when applied to AI. The diagnosis: power without responsibility. The response: stories, grammars, and the practices that make responsibility transmissible across generations. The question: whether the species that got fire before it had the grammars to hold it can build those grammars now — consciously, in time.
 
-**42 chapters · 8 parts · 2 appendices · ~125,000 words**
+**42 chapters · 2 books · 8 parts · 2 appendices · ~130,000 words**
 
 ---
 
 ## The Arc
+
+### Book One: The Dilemmas
+
+The sixty-nine percent that never resolves. The perpetual problems of a species that got fire before it had the grammars to hold it.
 
 **Part I — The Clause:** Anthropic says no. Code can clone itself. The Four Freedoms meet their limit.
 
@@ -33,6 +37,10 @@ Open source, a forty-year freedom movement, confronts genuine civilizational ris
 **Part IV — The Body:** The nervous system is an open circuit. Stories write to the limbic system. The container is disappearing.
 
 **Part V — The Fire:** Grammars are responsibility structures. The species question. The axiom beneath the ground.
+
+### Book Two: Relational Responsibilities
+
+The dilemmas don't resolve. They dissolve into practice. What matters is repair capacity — the ability to return to connection after rupture, at every scale.
 
 **Part VI — The Ground:** Consciousness as ground. The circularity. The invisible world.
 

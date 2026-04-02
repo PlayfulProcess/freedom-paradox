@@ -1,4 +1,4 @@
-# Chapter 5: But Collaboration Runs Deeper
+# Chapter 25: But Collaboration Runs Deeper
 
 The previous chapter described the pattern of overshoot — power without responsibility, fire without grammar. Read in isolation, it is a story of inevitable collapse. But it is not the only pattern in the record. There is another one, older and more consistent, and it looks like this: invasion, crisis, adaptation, incorporation, indispensability. The parasite becomes the partner. The poison becomes the building block. The catastrophe becomes the precondition for new complexity.
 

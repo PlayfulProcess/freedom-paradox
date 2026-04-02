@@ -1,4 +1,4 @@
-# Chapter 32: The Grammar We Need
+# Chapter 39: The Grammar We Need
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 7: Survival and Capture
+# Chapter 22: Survival and Capture
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 6: Machines for Constructing Stories
+# Chapter 20: Machines for Constructing Stories
 
 ---
 

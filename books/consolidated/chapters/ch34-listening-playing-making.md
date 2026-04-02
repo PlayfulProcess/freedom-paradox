@@ -1,4 +1,4 @@
-# Chapter 27: Listening, Playing, Making
+# Chapter 34: Listening, Playing, Making
 
 ---
 

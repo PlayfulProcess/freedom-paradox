@@ -1,4 +1,4 @@
-# Chapter 33: The Honest Practitioner
+# Chapter 40: The Honest Practitioner
 
 ---
 

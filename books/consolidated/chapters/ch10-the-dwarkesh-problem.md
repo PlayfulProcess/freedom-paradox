@@ -1,4 +1,4 @@
-# Chapter 12: The Dwarkesh Problem
+# Chapter 10: The Dwarkesh Problem
 
 On March 11, 2026 — two days after Anthropic filed a lawsuit against the Trump administration for labeling it a supply chain risk — a twenty-five-year-old podcaster and essayist named Dwarkesh Patel published a piece on his Substack titled "The most important question nobody's asking about AI." The essay was not about whether Anthropic was right to refuse the Pentagon's demand that Claude be made available for mass surveillance and autonomous weapons. It was not about whether the Department of War's retaliation was constitutional. It was not about the legal strategy or the judge who would, two weeks later, block the government's designation as an unconstitutional overreach.
 

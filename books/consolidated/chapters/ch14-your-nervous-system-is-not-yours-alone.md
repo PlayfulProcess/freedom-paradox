@@ -1,4 +1,4 @@
-# Chapter 13: Your Nervous System Is Not Yours Alone
+# Chapter 14: Your Nervous System Is Not Yours Alone
 
 ---
 
