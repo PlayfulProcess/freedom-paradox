@@ -65,6 +65,14 @@ In 2021, Tony's was removed from an independent slave-free chocolate list after 
 
 The question the chocolate industry forces is the question the whole book circles: can you consume your way to justice? Can buying the right bar of chocolate end child labor? The honest answer is no — not at the individual level, not through market mechanisms alone. What buying differently can do is demonstrate demand for a different system, support farmers and cooperatives who are trying to build one, and keep the conversation visible.
 
+## Vanilla: The Twelve-Year-Old's Discovery
+
+Vanilla is the world's most popular flavor and one of its most labor-intensive crops. Every vanilla orchid flower must be pollinated by hand — a technique discovered in 1841 by Edmond Albius, a twelve-year-old enslaved child on the French colony of Réunion. His simple flick of a bamboo splinter made commercial vanilla cultivation possible across the tropics. Edmond was never compensated. He was freed in 1848, later imprisoned for theft, and died in poverty in 1880. The industry his hands built is now worth billions.
+
+Today roughly 80 percent of natural vanilla comes from Madagascar, nearly all descended from a handful of original plants — perhaps five or six — brought from Mexico. This genetic bottleneck makes the crop extraordinarily vulnerable: cyclones, theft, and disease can devastate entire harvests, as happened in 2017 when prices spiked above $600 per kilogram. Synthetic vanillin, produced from wood pulp or petrochemicals, costs roughly 150 times less than the real extract — and now accounts for over 99 percent of vanilla flavor used globally [VERIFY]. The economics push relentlessly toward the synthetic, while the farmers who hand-pollinate each flower and cure each bean over months earn a fraction of what the market will bear.
+
+The vanilla story condenses the sweet problem into a single spice: an enslaved child's ingenuity, colonial extraction, genetic fragility from monoculture, and the industrial replacement of craft with chemistry. The flavor in your ice cream likely has no connection to any orchid, any hand, any place at all.
+
 ## Honey: The Pollinator Paradox
 
 Honey is the feel-good sweetener — bees! flowers! nature! — and the reality is typically positive but nuanced.

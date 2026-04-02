@@ -46,7 +46,7 @@ William James argued a version of this in *The Varieties of Religious Experience
 
 ## A clarification the book owes its sources
 
-The Linehan filter — useful, fits the data, compassionate — governs this author's claims. It does not govern the traditions it examines. When Josh Schrei argues that animism was the normative human consciousness for ninety-eight percent of our species' history, this is not a claim submitted for the filter's evaluation. It is a claim made from within its own epistemological authority — an authority earned through millennia of practice, not through the Western empirical methods this book happens to employ. The filter applies to what this book says about animism. It does not apply to animism itself.
+The three-filter test — useful, fits the data, compassionate — governs this author's claims. It does not govern the traditions it examines. When Josh Schrei argues that animism was the normative human consciousness for ninety-eight percent of our species' history, this is not a claim submitted for the filter's evaluation. It is a claim made from within its own epistemological authority — an authority earned through millennia of practice, not through the Western empirical methods this book happens to employ. The filter applies to what this book says about animism. It does not apply to animism itself.
 
 ---
 

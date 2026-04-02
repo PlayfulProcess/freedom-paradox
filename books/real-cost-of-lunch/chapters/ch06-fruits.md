@@ -43,7 +43,7 @@ ripened)
 
 The avocado boom is a story about how a nutrient-dense fruit became an emblem of aspiration — and how aspiration reshapes landscapes.
 
-Global avocado production roughly tripled between 2000 and 2020 [VERIFY]. Instagram-ready avocado toast became a cultural phenomenon. US avocado consumption grew from about 1 billion pounds in 2000 to over 3 billion pounds by 2022 [VERIFY].
+The avocado's origin story is itself improbable. The Hass variety — now roughly 80 percent of the world market — traces to a single tree grown from a seed by Rudolph Hass, a postal worker in La Habra Heights, California, in the 1920s. For decades, avocados remained a regional curiosity. The US banned Mexican avocado imports until 1997, when NAFTA-era trade liberalization opened the border. American consumption leaped from roughly one pound per person to seven pounds per person within two decades. Instagram-ready avocado toast became a cultural phenomenon. US avocado consumption grew from about 1 billion pounds in 2000 to over 3 billion pounds by 2022 [VERIFY].
 
 The costs followed the demand.
 
@@ -56,6 +56,12 @@ The costs followed the demand.
 And yet: avocados are nutrient-dense. Healthy monounsaturated fats, potassium, fiber, folate. For people who can afford them, they're an excellent food nutritionally. In Kenya, smallholder avocado farming is providing livelihood opportunities, though the same water and monoculture pressures are beginning to emerge [VERIFY].
 
 The question isn't "are avocados good or bad." It's: which avocado? From where? At what cost to whose water, whose forest, whose safety?
+
+## Tomatoes and Watermelons: What Breeding Erases
+
+The avocado story has companions. The Florida tomato was once a flavorful, regionally adapted fruit. Industrial breeding selected for traits that serve the supply chain — thick skin for mechanical harvest, uniformity for packing, the ability to be picked green and gassed red — while systematically discarding the genetic components that produce flavor. The result is the supermarket tomato: a sturdy, photogenic object that tastes like almost nothing. The cost is invisible because consumers under forty have never tasted what was lost.
+
+Watermelon carries a different erasure. In the nineteenth century, the Bradford watermelon was legendary in the American South — so prized that farmers sat up at night with shotguns to guard their crop. After the Civil War, racist caricatures deliberately weaponized watermelon as a symbol of Black laziness and disorder, reframing a food that formerly enslaved people had grown as a source of autonomy and income into an instrument of humiliation. Meanwhile, industrial breeding did to watermelon what it did to tomatoes: selecting for rind toughness, seedlessness, and shipping durability at the expense of the complex sweetness that made the Bradford famous. The original variety nearly vanished. Today a small number of growers are bringing it back — but the cultural damage, unlike the genetics, doesn't breed out.
 
 ## Berries: The Season That Vanished
 

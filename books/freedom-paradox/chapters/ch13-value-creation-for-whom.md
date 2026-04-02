@@ -86,6 +86,8 @@ The PEXT finding, applied to AI, is even more stark. Open weights are the compil
 
 DeepSeek broke this pattern by publishing its training methodology alongside its weights. That is why DeepSeek was so threatening — not because the model was good, but because the recipe was included. The exception proves the rule. The companies that practice "open behind the frontier" are not sharing knowledge. They are distributing products.
 
+There is a deeper layer beneath the distribution question, and it concerns the commodity that distribution is designed to capture. Human attention has been industrialized in precisely the way that human labor was industrialized two centuries ago: pooled and aggregated, it is immensely valuable; individually, it is nearly worthless. What Tim Wu and others have called "attention fracking" extends extraction into reserves that were previously untouched — sleep, childhood, grief, the minutes between waking and reaching for a screen. The parallel to labor commodification is not metaphorical. It is structural. And in the political economy of platforms, attention has begun to outweigh money as the operative currency. Campaign donors matter less than the ability to command a feed. This is the economic logic that makes distribution control so lucrative: the open-source code builds the pipeline, but the pipeline exists to pump attention, and attention — aggregated at sufficient scale — is the most valuable commodity the platform economy has produced.
+
 ---
 
 ## The Spectrum

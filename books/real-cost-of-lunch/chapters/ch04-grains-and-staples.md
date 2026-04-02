@@ -61,7 +61,9 @@ The US grows approximately 90 million acres of corn [VERIFY] — an area larger 
 
 The ethanol mandate is particularly perverse. The Renewable Fuel Standard requires blending corn ethanol into gasoline, consuming roughly 5 billion bushels of corn annually [VERIFY]. The lifecycle emissions of corn ethanol are debated, but recent analyses suggest it may be no better than — and possibly worse than — gasoline when land-use change is factored in [VERIFY]. We are burning food in cars to avoid burning oil, and the net climate benefit may be zero.
 
-But corn has another face.
+But corn has another face — and a cautionary tale about what happens when you take a crop without its knowledge system.
+
+When Europeans brought corn back from the Americas, they took the grain but not the processing. Mesoamerican peoples had developed nixtamalization over thousands of years — soaking corn in alkaline lime water — which releases niacin (vitamin B3) that is otherwise locked in the kernel. Without this step, corn-dependent diets cause pellagra, a devastating deficiency disease marked by dermatitis, diarrhea, dementia, and death. Pellagra epidemics ravaged northern Italy, Spain, and Eastern Europe for two centuries after corn adoption. At Cahokia, the largest pre-Columbian city north of Mexico, the population thrived on corn precisely because they processed it correctly. The knowledge was there. The colonizers just didn't think to ask.
 
 In Oaxaca, Mexico, indigenous farmers grow corn in milpa — a polyculture system that interplants corn, beans, and squash together. The corn provides a stalk for the beans to climb. The beans fix nitrogen in the soil, reducing the need for fertilizer. The squash covers the ground, suppressing weeds and retaining moisture. Three crops, one field, mutual benefit.
 

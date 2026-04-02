@@ -2,7 +2,7 @@
 
 ---
 
-Try this. Sit comfortably. Close your eyes. Breathe slowly enough that your heart rate drops, your shoulders release, your jaw unclenches. Hold it. You are, if Chapter 14's evidence holds, shifting toward parasympathetic dominance — ventral vagal activation, the social engagement system coming online. The window of tolerance opens. The prefrontal cortex quiets its vigilance. You are, in the language of every contemplative tradition, becoming available.
+Try this. Sit comfortably. Close your eyes. Breathe slowly enough that your heart rate drops, your shoulders release, your jaw unclenches. Hold it. You are, if Chapter 14's evidence holds, shifting toward parasympathetic dominance — what the clinical literature calls ventral vagal activation (see Chapter 14's scientific note on the contested biology), the social engagement system coming online. The window of tolerance opens. The prefrontal cortex quiets its vigilance. You are, in the language of every contemplative tradition, becoming available.
 
 Available for what?
 
@@ -102,7 +102,7 @@ If the Blackfoot tipi and the Buddhist chain and the San cosmology are all "stor
 
 No. And the distinction matters.
 
-The hypothesis at the center of this book is not that all stories are equally good. It is that stories — grammars — are relational infrastructure, and their value is measured not by their correspondence to external reality but by what they *produce* in the people and communities that practice them. This is the Linehan filter applied to narrative: not "is this story true?" but "is it useful? Does it fit the data? Is it compassionate?"
+The hypothesis at the center of this book is not that all stories are equally good. It is that stories — grammars — are relational infrastructure, and their value is measured not by their correspondence to external reality but by what they *produce* in the people and communities that practice them. This is the three-filter test applied to narrative: not "is this story true?" but "is it useful? Does it fit the data? Is it compassionate?"
 
 Some stories produce communities where eighty to ninety percent of the population flourishes. Some stories produce communities where depression, anxiety, and loneliness are epidemic. Some stories produce communities that sustain ceremonies, knowledge, and relationships across seven generations. Some stories produce communities that cannot plan past the next quarterly earnings report.
 
