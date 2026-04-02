@@ -36,7 +36,7 @@ Consider what repetition accomplishes in the exposure therapy framework. Each re
 
 This is what clinicians call habituation: the gradual reduction of the fear response through repeated, contained exposure. But it is also something more. The child who demands the story again is not only habituating to the content. She is mastering the narrative structure. She knows what comes next. She anticipates the scary part. She braces for it, survives it, and feels the satisfaction of having known it was coming and having been right that it would end.
 
-This is agency — the fourth containment condition from Chapter 1. The child controls the dose. "Again!" means: I am ready to go back. "Stop — I don't like that part" means: not tonight, not that far. The child is the author of her own therapeutic protocol, titrating her encounters with the dark according to an internal wisdom that operates below language. She does not know she is building regulatory capacity. She knows she wants the bear story. The wanting is the wisdom.
+This is agency — the fourth containment condition from Chapter 16. The child controls the dose. "Again!" means: I am ready to go back. "Stop — I don't like that part" means: not tonight, not that far. The child is the author of her own therapeutic protocol, titrating her encounters with the dark according to an internal wisdom that operates below language. She does not know she is building regulatory capacity. She knows she wants the bear story. The wanting is the wisdom.
 
 The complication is screens. When a child controls the remote or the tablet, they have agency — but the algorithm has already curated the options. "Again!" shouted at a parent is a bid within a relationship. "Again!" clicked on YouTube is a bid within a system designed to serve engagement, not development. The child's agency is real in both cases, but the container is different. In one, the parent modulates. In the other, the algorithm optimizes. kids.recursive.eco was built because this distinction matters: a locked-down space where the parent curates the playlist and the child chooses within it — agency within a relational container, not agency within an extractive one.
 
@@ -102,4 +102,3 @@ The darkness is the medicine. Not despite being frightening but because of it. T
 
 We know how it works now. The science has caught up with what the body always knew. What we do with that knowledge — how we hold it in a world where the container is disappearing — is the question the rest of this book will try, humbly, to hold.
 
-<!-- PP: -->

@@ -2,7 +2,7 @@
 
 ---
 
-Try this. Sit comfortably. Close your eyes. Breathe slowly enough that your heart rate drops, your shoulders release, your jaw unclenches. Hold it. You are, if the first chapter's evidence holds, shifting toward parasympathetic dominance — ventral vagal activation, the social engagement system coming online. The window of tolerance opens. The prefrontal cortex quiets its vigilance. You are, in the language of every contemplative tradition, becoming available.
+Try this. Sit comfortably. Close your eyes. Breathe slowly enough that your heart rate drops, your shoulders release, your jaw unclenches. Hold it. You are, if Chapter 14's evidence holds, shifting toward parasympathetic dominance — ventral vagal activation, the social engagement system coming online. The window of tolerance opens. The prefrontal cortex quiets its vigilance. You are, in the language of every contemplative tradition, becoming available.
 
 Available for what?
 
@@ -38,7 +38,7 @@ If this is right — if emotions are relational events rather than individual po
 
 Return to the Siksika reserve, 1938. To what Maslow saw and what he missed.
 
-The first chapter told the story of the inversion — how Maslow took the Blackfoot understanding of human development and flipped it, placing self-actualization at the apex of an individual pyramid rather than at the base of a communal tipi. But the inversion was not merely structural. It was narrative. What Maslow missed was not just the arrangement of the elements but the *story* that held them together.
+The previous chapter told the story of the inversion — how Maslow took the Blackfoot understanding of human development and flipped it, placing self-actualization at the apex of an individual pyramid rather than at the base of a communal tipi. But the inversion was not merely structural. It was narrative. What Maslow missed was not just the arrangement of the elements but the *story* that held them together.
 
 The Blackfoot model, as reconstructed by Cindy Blackstock and Ryan Heavy Head, is not a theory of motivation. It is a story about what a person is. You are born whole. Your wholeness is not earned through striving but given through belonging. The community's task is not to develop you — you are already developed — but to create the conditions in which your innate completeness can serve the collective. Community actualization builds on self-actualization, and cultural perpetuity — the continuation of ceremonies, stories, knowledge, and relationships across generations — builds on both.
 
@@ -68,13 +68,13 @@ Stories give the intellect something to do with the opening the body creates. Th
 
 Stories give relationships shared ground. When two practitioners sit together and one says "craving is present," the other knows — not as abstract knowledge but as practiced recognition — what that means. They have a shared language for the territory of inner experience, which is the most private and therefore the most isolating territory there is. Without shared language, each person's suffering is an island. With it, suffering becomes — not less painful, but less alone.
 
-And stories give communities a way to metabolize experience together. The Dagara grief ritual from the first chapter is not just synchronized movement. It is synchronized movement *inside a story* — a shared understanding of what grief is, where the dead go, what the living owe them, and how the community holds all of it. The San healing dance is not just rhythmic trance. It is trance *inside a cosmology* — a shared understanding of illness, spirit, and the healer's role. Strip the story and you have technique. Technique soothes. Story weaves.
+And stories give communities a way to metabolize experience together. The Dagara grief ritual is not just synchronized movement. It is synchronized movement *inside a story* — a shared understanding of what grief is, where the dead go, what the living owe them, and how the community holds all of it. The San healing dance is not just rhythmic trance. It is trance *inside a cosmology* — a shared understanding of illness, spirit, and the healer's role. Strip the story and you have technique. Technique soothes. Story weaves.
 
 ---
 
 ## The Extraction Pattern
 
-There is a pattern that connects the first chapter's clinical evidence to this chapter's cultural argument, and it must be stated plainly because it will return in every chapter that follows.
+There is a pattern that connects Chapter 14's clinical evidence to this chapter's cultural argument, and it must be stated plainly because it will return in every chapter that follows.
 
 Western psychology, over the past century and a half, has performed a consistent operation on the contemplative traditions it has encountered. It has taken communal, embodied, story-rich practices and extracted the technique — severing it from the relational context that made it functional.
 
@@ -88,7 +88,7 @@ The pattern is not malicious. It is the logical consequence of a culture that ce
 
 But the packaging is not packaging. The story is not incidental to the practice. The story is the structure that makes the practice relational — that connects the individual's experience to a shared vocabulary, a shared community, a shared understanding of what the practice is for. Without the story, the practice becomes self-optimization. With the story, it becomes grammar.
 
-This is the distinction the second chapter of this book exists to make. The body opens — the first chapter established this. But an open body without a story is either restless or dissociating. The extraction pattern — technique without story, method without meaning-making context, practice without community — produces individuals who can access parasympathetic states but cannot weave those states into relational fabric. They can meditate but cannot build the communal structures that meditation, in every tradition that developed it, was designed to serve.
+This is the distinction this chapter exists to make. The body opens — Chapter 14 established this. But an open body without a story is either restless or dissociating. The extraction pattern — technique without story, method without meaning-making context, practice without community — produces individuals who can access parasympathetic states but cannot weave those states into relational fabric. They can meditate but cannot build the communal structures that meditation, in every tradition that developed it, was designed to serve.
 
 The MINE model and the extraction pattern are not two different things. They are the same thing — the assumption that meaning lives inside individual minds, applied to practices that were designed for the spaces between minds.
 

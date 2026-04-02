@@ -2,7 +2,7 @@
 
 ---
 
-<!-- PLACEHOLDER: Opening case needed. Research prompt saved in prompts/ directory. Candidates: post-conflict reconciliation (Rwanda gacaca courts, Northern Ireland cross-community storytelling), community rebuilding (factory town, school integration), indigenous revitalization with measurable social outcomes. The opening should be concrete, embodied, narrative — like the still-face experiment opening of Ch 1. -->
+<!-- PLACEHOLDER: Opening case needed. Research prompt saved in prompts/ directory. Candidates: post-conflict reconciliation (Rwanda gacaca courts, Northern Ireland cross-community storytelling), community rebuilding (factory town, school integration), indigenous revitalization with measurable social outcomes. The opening should be concrete, embodied, narrative — like the still-face experiment opening of Ch 14. -->
 
 John Gottman spent forty years at the University of Washington studying couples — three thousand of them, with cameras measuring everything from facial expressions to heart rate. His single most consequential finding: sixty-nine percent of relationship conflicts are perpetual problems that never get resolved.
 
