@@ -76,7 +76,7 @@ The honest practitioner lives at the intersection of two findings.
 
 From Part I of the argument: the ground is chosen. Inherent value is an axiom — a foundational commitment that cannot be derived from anything more basic. Paul Tillich named this honestly: the courage to be is what remains when every ground has been removed. Christopher Wallis claimed the axiom resolves into recognition — that sustained practice reveals consciousness as the ground. This book took both seriously and did not resolve the tension.
 
-From Part II: the invisible is almost certainly real. Relationship to it is possible. The relationship requires a tradition — a language, a community, a lineage, a practice sustained over decades.
+From Part II: there is almost certainly more than we perceive, and the practices that relate to it produce measurable adaptive outcomes. Whether the invisible is ontologically real or functionally real — whether the ancestors answer or the practice of addressing them rewires the practitioner — may not matter. What matters is the relationship, and the relationship requires a tradition — a language, a community, a lineage, a practice sustained over decades.
 
 Together: I practice within a tradition whose ontological claims I cannot verify, maintaining relationships with entities whose existence I cannot prove, on a ground I know to be chosen rather than discovered — and the practice, over time, produces a life of meaning, coherence, and connection that no alternative has matched.
 
@@ -128,7 +128,7 @@ She knows several things simultaneously:
 
 **The ground is chosen.** Inherent value is an axiom, not a discovery. The doubt does not resolve. The practice continues anyway.
 
-**The invisible is real.** Not in every specific claimed by every tradition, but structurally — there is almost certainly more than we perceive, and relationship to it is possible and consequential.
+**The invisible may be real.** There is almost certainly more than we perceive, and the practices that relate to it — prayer, ceremony, contemplation, ancestor veneration — demonstrably produce adaptive outcomes. Whether the invisible entities those practices address exist as ontological fact is, in the end, a question each practitioner must hold for themselves. The Spinoza matrix applies: whether or not God exists, if the practice of relating to something larger than yourself produces responsibility, appreciation, and care, it passes the three-filter test. The key — and this is the line Harris rightly draws — is not to overidentify with the story. The moment "useful frame" hardens into "my truth," the near enemy has won.
 
 **Relationship requires a language.** The language is provided by tradition — by the accumulated practices, stories, symbols, and communities that form a coherent symbolic field. Depth within one field produces something that breadth across many fields does not.
 
