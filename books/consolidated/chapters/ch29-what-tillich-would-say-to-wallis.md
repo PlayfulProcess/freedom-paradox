@@ -2,7 +2,7 @@
 
 ---
 
-This chapter stages a dialogue that never happened — and then widens the frame to include every major nondual tradition that has faced the same question. Because the practice paradox is not unique to Kashmir Shaivism or to existential theology. It is the structural tension at the heart of every tradition that claims reality is already complete while simultaneously prescribing methods for realizing that completeness.
+This chapter stages a dialogue that never happened — and then widens the frame to include every major nondual tradition that has faced the same question. Because the practice paradox is not unique to Kashmir Shaivism or to existential theology. It is the structural tension at the heart of virtually every tradition that claims reality is already complete while simultaneously prescribing methods for realizing that completeness.
 
 ---
 

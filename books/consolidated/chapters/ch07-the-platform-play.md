@@ -148,7 +148,7 @@ This pattern matters because it is about to be applied to artificial intelligenc
 
 In July 2024, Mark Zuckerberg published an essay that read like a strategic manifesto disguised as an open letter. The title was "Open Source AI Is the Path Forward." The occasion was Meta's release of Llama 3.1, a large language model with 405 billion parameters — the most powerful open-weight AI model released to that date.
 
-The essay made philosophical, technical, and economic arguments for open-source AI. But buried in the middle was a confession that illuminated the strategic logic more clearly than anything else Zuckerberg wrote.
+The essay made philosophical, technical, and economic arguments for open-source AI. But buried in the middle was an explanation that illuminated the strategic logic more clearly than anything else Zuckerberg wrote.
 
 He described how building Meta's services under Apple's constraints on iOS had been one of his "formative experiences" — the developer taxes, the restrictions on what Meta could build, the product innovations that Apple blocked. Apple's App Tracking Transparency framework, introduced in 2021, wiped an estimated ten billion dollars from Meta's annual advertising revenue by making it harder to track users across apps. Meta's CFO confirmed the magnitude in early 2022, stating that the iOS changes represented a headwind "on the order of $10 billion" for that year alone.
 

@@ -52,7 +52,7 @@ You do not need to be a good storyteller. You need to be present.
 
 ## Four Traditions, One Architecture
 
-The live voice is not one tradition's practice. It is every tradition's practice. And the structural similarities across unconnected cultures are the strongest evidence that storytelling is not cultural decoration but adaptive technology.
+The live voice is not one tradition's practice. It is virtually every tradition's practice. And the structural similarities across unconnected cultures are the strongest evidence that storytelling is not cultural decoration but adaptive technology.
 
 **West African call-and-response.** "Tales by Moonlight" — the tradition of communal storytelling around fires, found across West Africa with local variations — begins with a formulaic opening. The teller calls. The audience responds. This is not decorative. The call-and-response makes the audience physiologically active participants — their vocalization synchronizes breathing, their shared response triggers the endorphin release that Dunbar's research documents, and the structure ensures that no one is a passive consumer. Everyone has a role. The grammar is communal.
 

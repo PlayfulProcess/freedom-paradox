@@ -4,7 +4,7 @@
 
 If the invisible is real — if there is almost certainly more than we perceive — then the question becomes practical: how do you relate to it?
 
-The answer, across every tradition that has attempted it, is the same grammar applied to every other relationship: reciprocity, attention, practice, and fidelity over time.
+The answer, across nearly every tradition that has attempted it, is the same grammar applied to every other relationship: reciprocity, attention, practice, and fidelity over time.
 
 ---
 
