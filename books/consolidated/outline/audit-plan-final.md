@@ -98,6 +98,8 @@ For each hit: evaluate if literally true. If not, soften. "The only Western thin
 
 **C6: Designed structures vs emergent strategy** — Already implicit in Ch39 (trap of solving / building with eyes open). No change needed. Document as intentional tension.
 
+**CORRECTED: Ch27 bridge** — Previous version said "you cannot practice what you don't understand." This is false and contradicts the book's thesis. Practice precedes understanding. The giraffe browses one tree in ten without understanding ecology. The parent holds the child in the void without resolving the axiom question. Tillich's courage is enacted, not argued. Fixed to: the tradition is examined not as prerequisite to practice but as an example of holding the axiom question for a thousand years — and practicing through it.
+
 **C7: Trance as universal good vs weaponizable** — Add to Ch21 (Drawing from the Well) or Ch27: "Every contemplative technology can be weaponized. Trance can be used for healing or for manipulation. The grammar's function depends on the container — the relational, communal, ethical context within which it is practiced. A tarot deck in a therapeutic relationship is medicine. The same deck in a cult is a control mechanism. The technology is neutral. The container determines the function."
 
 **C8: Khan as proof vs parasocial** — Already resolved by Ch38 rewrite (secure attachment frame + edtech fever debunking). No change needed.

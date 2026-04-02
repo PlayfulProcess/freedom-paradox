@@ -1,6 +1,6 @@
 # Chapter 27: Consciousness as Ground
 
-Book One diagnosed the dilemmas. Book Two asks what to do with them — and it begins, perhaps surprisingly, not with practice but with philosophy. The reason is structural: you cannot practice what you don't understand, and you cannot understand relational responsibility without first asking what the ground of relationship is. Is there a ground? Is it given or chosen? Does the question matter? These five chapters (27-31) take one tradition's answer seriously — not as the answer but as the most rigorous example of what an answer looks like. The practice chapters that follow (32-37) are what you do when you've absorbed this and decided to act anyway.
+Book One diagnosed the dilemmas. Book Two does not wait for the diagnosis to resolve before acting — that would be the trap of solving in its purest form. Instead, it asks: what does one tradition look like when taken seriously on its own terms? These five chapters (27-31) take Kashmir Shaivism not as the answer but as the most rigorous example of a tradition that has held the axiom question for a thousand years — and practiced through it. The practice chapters that follow (32-37) are what everyone can do, regardless of tradition. Both movements are acts of courage: the courage to go deep, and the courage to begin.
 
 ---
 
