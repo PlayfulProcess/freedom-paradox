@@ -1,13 +1,18 @@
 [book]
-title = "PlayfulProcess — Collected Drafts"
+title = "The Species That Got Fire"
 authors = ["PlayfulProcess"]
+description = "When we have fire — power — what makes the difference between societies that burn themselves to ash and societies that tend the flame responsibly?"
 language = "en"
-multilingual = false
 src = "src"
 
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "ayu"
-additional-css = ["mdbook-theme/substack.css"]
+additional-css = ["mdbook-theme/substack.css", "mdbook-theme/annotator.css"]
+additional-js = ["mdbook-theme/annotator.js"]
 no-section-label = true
 git-repository-url = ""
+
+# [output.epub]
+# additional-css = ["mdbook-theme/substack.css"]
+# Note: epub backend enabled in CI only (GitHub Actions installs mdbook-epub)

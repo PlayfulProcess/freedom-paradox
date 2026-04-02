@@ -89,6 +89,8 @@ The most insidious packaging innovation of the past fifty years is multi-layer l
 
 These packages are designed with extreme sophistication for product protection and shelf life. End-of-life was not a design consideration. The companies that design them capture the benefit (products stay fresh, consumers buy more). The cost (unrecyclable waste in landfill for centuries) is externalized onto municipalities, taxpayers, and the environment.
 
+The proliferation of single-use plastic packaging is not driven by consumer demand. It is supply-driven. Amy Westervelt's investigation traced the pipeline: as transportation fuel demand plateaus, the fossil fuel industry needs new markets for petrochemical output. The fracking-to-plastics pipeline produces ethylene, which becomes polyethylene, which becomes the pouch, the wrapper, the clamshell, the film. Packaging exists because oil companies need to sell product, not because consumers need pouches. The recycling narrative — consumer responsibility for a producer's problem — completes the inversion.
+
 ## Why Plastic Is So Cheap: The Fossil Fuel Entanglement
 
 To understand why plastic packaging dominates — and why recycling can't compete — you have to follow the money upstream. Way upstream. To the oil well.

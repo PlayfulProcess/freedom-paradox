@@ -131,4 +131,6 @@ Something more modest. More honest. More sustainable — in the truest sense of 
 
 Cook dinner tonight. Make something simple. Use what you have. Share it with someone. Compost the scraps if you can.
 
+The deeper shift is collective, not individual. Eduardo Gudynas describes Buen Vivir — enshrined in the constitutions of Ecuador and Bolivia — as a framework that is communal rather than individual, that includes all living beings rather than only humans, and that is rooted to specific landscapes rather than abstractly universal. It is not a development alternative. It is an alternative to development. During the Greek debt crisis, when the formal economy collapsed, mutual aid structures emerged spontaneously: community kitchens, time banks, free clinics, food cooperatives. These solidarity networks proved more adaptive than the institutions they replaced. The 80/20 plate is where you start. The solidarity economy is where the practice leads.
+
 Not perfection. Not guilt. Direction — held lightly, with grief and humor and dinner on the table.

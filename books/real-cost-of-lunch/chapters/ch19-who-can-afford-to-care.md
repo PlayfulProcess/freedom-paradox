@@ -32,6 +32,8 @@ The result: in low-income communities across America, the most accessible food i
 
 The irony cuts deep: the communities that can least afford the externalized costs — healthcare for diet-related disease, environmental cleanup, climate adaptation — are the ones most burdened by them.
 
+Rupa Marya and Raj Patel name what conventional medicine cannot: the "colonized syndrome." Heart disease, diabetes, depression, autoimmune conditions — they appear with greater prevalence in exactly the communities that suffered the worst colonial extraction. Inflammation, they argue, is the body having a normal reaction to pathological social conditions. Debt alone is an independent risk factor for inflammatory disease. The health costs of industrial food are not random. They follow the map of colonial extraction with demographic precision.
+
 ## Time Poverty: The Invisible Barrier
 
 Money is the visible barrier to sustainable eating. Time is the invisible one.
@@ -63,6 +65,8 @@ Fruits and vegetables — the foods that every dietary guideline recommends eati
 The result: the US government subsidizes the production of the crops that make ultra-processed food cheap, then spends billions on healthcare to treat the diet-related diseases that ultra-processed food causes (obesity, type 2 diabetes, cardiovascular disease cost the US healthcare system an estimated $1 trillion or more per year [VERIFY]), then provides nutrition assistance insufficient to afford anything other than the subsidized food.
 
 This is not a conspiracy. It's a policy structure built incrementally over decades by agricultural lobbying, congressional compromise, and institutional inertia. But the effect is systemic: cheap, harmful food is subsidized. Healthy, lower-impact food is not. And then individuals are blamed for choosing the subsidized option.
+
+The absence of cooperative alternatives in communities of color is not an accident. Jessica Gordon Nembhard documented what a century of erasure concealed: W.E.B. Du Bois published a study of cooperative economics in 1907. The next national study did not appear until 2014 — a hundred-year gap. Three peak periods of Black cooperatives — the 1880s, the 1930s-40s, the 1960s-70s — were each met with white supremacist economic sabotage specifically designed to prevent collective self-determination. The Underground Railroad itself was a cooperative economic network. The question "who can afford to care?" has a structural answer: the same communities who have always cared were systematically prevented from building the institutions that would have made care affordable.
 
 ## The Equity Paradox
 
