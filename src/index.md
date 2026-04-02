@@ -6,7 +6,7 @@
 
 ## Download
 
-**[Download EPUB](https://github.com/PlayfulProcess/freedom-paradox/raw/master/epub-build/freedom-paradox-project-complete.epub)** (358 KB) — Send to Kindle via [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle)
+**[Download EPUB](the-species-that-got-fire.epub)** — Send to Kindle via [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle)
 
 **Audiobook** — Coming soon (AI-narrated via Whisper)
 

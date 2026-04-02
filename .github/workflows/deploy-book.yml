@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -20,17 +20,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install mdbook
+      - name: Install mdbook and mdbook-epub
         run: |
           curl -sL https://github.com/rust-lang/mdBook/releases/download/v0.4.44/mdbook-v0.4.44-x86_64-unknown-linux-gnu.tar.gz | tar xz
           chmod +x mdbook
           sudo mv mdbook /usr/local/bin/
+          cargo install mdbook-epub --version 0.4.39 2>/dev/null || echo "mdbook-epub install failed, EPUB will be skipped"
 
       - name: Sync chapter files to src/
         run: |
           # The Species That Got Fire (consolidated book)
           mkdir -p src/consolidated
-          cp books/consolidated/chapters/ch*.md src/consolidated/
+          cp books/consolidated/chapters/*.md src/consolidated/
 
           # The Real Cost of Lunch (standalone companion)
           mkdir -p src/real-cost-of-lunch
@@ -40,15 +41,26 @@ jobs:
           mkdir -p src/images
           cp models/charts/*.png src/images/ 2>/dev/null || true
 
-      - name: Build mdbook
+      - name: Build mdbook (HTML + EPUB)
         run: |
           mdbook build
           cp CNAME book/ 2>/dev/null || true
+          # Copy EPUB to book/ for download
+          if [ -f book/epub/The\ Species\ That\ Got\ Fire.epub ]; then
+            cp "book/epub/The Species That Got Fire.epub" book/the-species-that-got-fire.epub
+          fi
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: book
+
+      - name: Upload EPUB artifact
+        if: hashFiles('book/the-species-that-got-fire.epub') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: epub
+          path: book/the-species-that-got-fire.epub
 
   deploy:
     environment:
