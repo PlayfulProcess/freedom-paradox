@@ -112,7 +112,9 @@ Fidelity to a tradition works the same way. The practitioner commits to a path k
 
 ## What the Honest Practitioner Knows
 
-The honest practitioner who has read this book knows several things simultaneously:
+The honest practitioner who has read this book has outgrown the split between diagnosis and practice — between the fire and the stories. She has not rejected the diagnosis. She carries it. She knows the ground is chosen, the void is real, the species is in overshoot, and even the best epistemic tools stand on an axiom they cannot justify. She has absorbed all of this and she practices anyway. Not because she resolved the doubt but because she discovered that the doubt and the practice are the same movement — the species that got fire is also the species that tells stories, and the telling is itself the tending of the fire.
+
+She knows several things simultaneously:
 
 **The ground is chosen.** Inherent value is an axiom, not a discovery. The doubt does not resolve. The practice continues anyway.
 

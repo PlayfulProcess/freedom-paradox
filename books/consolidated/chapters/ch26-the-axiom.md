@@ -122,6 +122,16 @@ The axiom is not the obstacle to the spiritual life. It is its foundation — th
 
 ---
 
+This chapter closes the first movement of the book.
+
+Twenty-six chapters have traced a single pattern: the species got fire before it had the grammars to hold it. The political economy of openness. The nervous system that requires co-regulation. The stories that build the capacity to face the dark. The grammars that constrain power through shared practice. The thesis that adaptive systems match power with responsibility. And now the axiom — the ground that cannot be proven, only enacted.
+
+The diagnosis is complete. The gap between what we can do and what we know how to do well — between fire and grammar — is the human condition. Not a modern condition. Not a Western condition. The human condition. Every culture that survived long enough to study built structures to close the gap. Every culture that didn't, collapsed.
+
+The question that remains is not whether the diagnosis is correct. It is what to do with it. What does practice look like when you've absorbed the diagnosis — when you know the ground is chosen, the void is real, the filters self-undermine, and there is no alternative to identifying with the whole? The second half of this book is the answer. Not going back to a world before the fire. Not pretending the ground is given. Practicing anyway — within a tradition, with fidelity, through the body, in community. Building the containers that the diagnosis says we need.
+
+---
+
 *CC BY-SA 4.0*
 
 [DECOLONIAL FRAME: The five domains of coloniality — Body, Mind, Spirit, Collective, Planet — represent the five places where the axiom has been systematically denied. The colonial project is, at its root, the refusal to extend inherent value to certain bodies, certain knowledge systems, certain spiritual practices, certain forms of collective governance, certain relationships to land. The axiom is not abstract philosophy. It is the ground that colonialism removes. See the Decolonization grammar at books.recursive.eco for the full domain-by-domain analysis. — TO BE EXPANDED WHEN DECOLONIZATION DECK IS PUBLISHED]

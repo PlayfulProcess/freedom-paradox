@@ -4,6 +4,8 @@
 
 ---
 
+# Book One: The Fire
+
 - [Introduction: The Species That Got Fire](consolidated/ch00-introduction.md)
 
 ---
@@ -56,6 +58,10 @@
 - [Chapter 24: The Species That Got Fire](consolidated/ch24-the-species-that-got-fire.md)
 - [Chapter 25: But Collaboration Runs Deeper](consolidated/ch25-but-collaboration-runs-deeper.md)
 - [Chapter 26: The Axiom](consolidated/ch26-the-axiom.md)
+
+---
+
+# Book Two: The Stories
 
 ---
 
