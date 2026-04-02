@@ -38,3 +38,28 @@ But by going forward with the architecture intact. Honest darkness. Communal hol
 
 The Campfire Stories — the companion to this book, five bedtime story collections for ages three to seven — are one small proof of concept. Built from the cross-cultural story arcs this book has documented, designed for actual parents in actual bedtimes, tested against the three-filter test: is it useful, does it fit the data, and is it compassionate? They are not the answer. They are evidence that the answer is buildable.
 
+<!-- [PP REVIEW: The Campfire Stories reference connects to the separate repo. Decide if you want to keep this or save it for a note/appendix. It's a nice proof-of-concept moment but may feel like a plug.] -->
+
+---
+
+## The species that tells stories
+
+We are the species that got fire before it had the grammars to hold it. We are also the species that tells stories to its children. The fire is real. The stories are real. The question of our time is which one defines us.
+
+Every parent who holds a child and reads a story is making the oldest offering on earth — the offering of a regulated nervous system to a developing one, of a known darkness to a child learning to face the unknown. Not as sacrifice. Not as duty. As the most natural act available to a mammal: holding the young within the warmth of one's own body until the young can hold their own.
+
+Every elder who gathers children and tells them how the world works is transmitting adaptive technology that has been tested for longer than agriculture, longer than writing, longer than civilization itself. Every community that insists on telling its stories — despite boarding schools, despite colonization, despite the algorithm — is demonstrating that offering is more durable than extraction.
+
+This is the ontological truth beneath the adaptive frame, beneath the neuroscience, beneath the political economy, beneath the philosophy: life moves toward wholeness through offering. The coral builds the reef. The mycorrhiza feeds the seedling. The mother holds the child. The storyteller holds the darkness. None of these is sacrifice. All of them are participation in what life is already doing — elaborating itself into greater complexity, greater beauty, greater capacity to hold what comes.
+
+The grammars are still here. The stories are still here. Love is still the mechanism.
+
+We come to the whole. We offer to the whole. That is the grammar. That is the fire tended, not the fire that burns.
+
+The rest is practice.
+
+---
+
+*CC BY-SA 4.0*
+
+<!-- PP: -->

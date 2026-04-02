@@ -60,6 +60,64 @@ But Patel's argument cut deeper. The cost curve did not care about Anthropic's r
 
 What Anthropic was offering, in effect, was a guarantee that its own tools would not be used for mass surveillance. What it could not offer was a guarantee that mass surveillance would not happen. The capability existed in the open ecosystem. The only question was whether the entity conducting the surveillance would use Claude or something else.
 
+<!-- PP: This is the heart of the chapter and I think it needs to hit harder. Maybe add a concrete scenario — a specific country or agency assembling surveillance from open components? Not hypothetical, something that's already happening or clearly about to. -->
+
+---
+
+## The Governance Vacuum
+
+The International AI Safety Report, released in January 2025 and coordinated by the UK government with contributions from thirty countries, stated the problem with unusual directness for an intergovernmental document. Future AI models, the report found, were highly likely to significantly assist motivated users across multiple threat domains. The expert delegations did not qualify this as speculative. They presented it as consensus.
+
+And yet there was no governance framework to match the risk. The decision to release an open-weight model rested entirely on the judgment of the releasing company. There was no shared standard, no commonly adopted industry framework, no international agreement on what conditions should determine whether an advanced AI model was released with open weights or kept proprietary. The releasing company made the assessment. The releasing company bore whatever reputational consequences followed. And once the release was made, there was no mechanism for recall.
+
+This was the governance vacuum that Patel identified as the real problem. The Anthropic-Pentagon dispute was dramatic, but it was a dispute about a single company's products — a dispute that assumed the relevant question was whether Anthropic's models should be restricted. The relevant question, Patel argued, was about the hundreds of thousands of models that were already unrestricted and could never be restricted, because they had been copied, modified, and distributed beyond any entity's ability to track or control.
+
+Traditional governance assumes a bottleneck. Drug regulation works because manufacturing requires specialized equipment and materials. Nuclear nonproliferation works — imperfectly, but it works — because enriching uranium requires centrifuges that are expensive and difficult to hide. Even software regulation, to the limited extent it exists, assumes that deployment requires infrastructure that can be inspected and controlled.
+
+Open-weight AI models have no bottleneck. The model weights are files. They can be downloaded, copied, transferred, hosted on personal hardware, and modified at will. The infrastructure required to run a capable model has shrunk from a data center to a single high-end GPU to, in some cases, a laptop. The deployment chain has been compressed to the point where the traditional regulatory toolkit — export controls, licensing requirements, infrastructure inspection — cannot gain purchase.
+
+A researcher at the Centre for Future Generations in Brussels posed the question that followed from this analysis: can open-weight models ever be safe? Not in the narrow sense of whether a specific model has guardrails. In the systemic sense of whether a technology whose defining characteristic is uncontrolled replication can coexist with governance frameworks that assume the ability to control.
+
+Several proposals had emerged by early 2026, though none had achieved consensus. The Centre for Future Generations in Brussels published a framework advocating tiered, safety-anchored release — openness calibrated to rigorous risk assessment rather than ideology or commercial pressure. The EU's General-Purpose AI Code of Practice, finalized in July 2025, advised all models, whether open- or closed-weight, to adopt core technical safety measures before release, though compliance remained voluntary. The OECD's Global Partnership on AI recommended marginal risk assessment — evaluating whether a specific model release meaningfully increases harm beyond what existing openly available models already enable. Each approach grappled with the same structural challenge: once weights are released, enforcement becomes impossible. The governance proposals were, at best, frameworks for deciding *whether* to release. None had a credible mechanism for governing models *after* release.
+
+---
+
+## The Counter-Arguments
+
+The case against the Dwarkesh Problem is not weak. It is, in fact, the case that has animated the open-source movement for forty years, applied to a domain where the stakes are higher than anything Richard Stallman imagined when he wrote the GNU Manifesto.
+
+The first argument is structural. If only closed companies control AI, then those companies become de facto governments — unelected, unaccountable, answerable only to their shareholders and, when convenient, to the regulatory bodies they help design. Anthropic's principled stand against surveillance looks admirable today. But Anthropic is a company with investors, competitive pressures, and a board that removed its hard pause commitment when the market demanded it. The company that says no today may not say no tomorrow. The Responsible Scaling Policy that anchored Chapter 10 of this book was rewritten in February 2026, softening its commitments in response to competitive dynamics. If the only safeguard against AI misuse is a corporation's willingness to sacrifice revenue, then the safeguard has an expiration date.
+
+Open-source advocates argue that the only durable protection is transparency. You cannot audit what you cannot inspect. Closed models are black boxes whose safety depends entirely on the goodwill and competence of their developers. Open models can be scrutinized by researchers worldwide, their weaknesses identified and documented publicly, their behavior verified independently. Constitutional AI is a beautiful idea — but only Anthropic's researchers can verify whether Claude actually follows its constitution. An open model's behavior can be verified by anyone.
+
+The second argument is geopolitical, and it has hardened considerably since 2024. Both the United States and China now treat open-source AI as a strategic asset. The Trump administration's 2025 AI action plan explicitly framed open models as tools for extending American influence — reasoning that countries that build their AI ecosystems on American model architectures become dependent on American hardware and expertise. China's approach was identical in logic if opposite in allegiance: Alibaba and Baidu released models internationally to seed dependency on Chinese AI infrastructure. In this framework, restricting open models does not prevent proliferation. It merely cedes the proliferation advantage to the other side.
+
+The third argument is pragmatic. The cat is already out of the bag. Two million models on Hugging Face. A hundred thousand derivatives of Qwen alone. The abliteration technique documented in academic papers and tutorial posts. No policy intervention can undo what has already been released. Restricting future open releases would disadvantage democratic nations — whose researchers and startups depend on open models — while doing nothing to constrain authoritarian states that do not respect intellectual property restrictions and are already building on the open models already available.
+
+These arguments are strong. They are, in important ways, correct. And they do not resolve the Dwarkesh Problem. They restate it in a different key. If open models are the only defense against corporate concentration, but open models also enable the very harms that justify corporate control, then the freedom paradox is not a debating position. It is the condition we live in.
+
+---
+
+## The Theater Question
+
+There is a harder version of Patel's argument that most commentators have declined to engage with directly. It goes like this.
+
+The entire apparatus of AI safety — the alignment research, the constitutional frameworks, the red teams, the responsible scaling policies, the voluntary commitments, the intergovernmental reports, the Senate hearings, the think-tank white papers — is predicated on the assumption that someone controls the models. That there is a point in the development and deployment chain where a responsible actor can intervene: to add guardrails, to refuse a use case, to pause development, to withhold release. Every safety proposal, from Anthropic's ASL framework to the EU AI Act's risk classifications, assumes the existence of this control point.
+
+Open-weight release eliminates the control point. Not partially. Entirely. Once a model's weights are published, the developer's ability to influence its use drops to zero. The guardrails can be removed. The constitution can be rewritten. The responsible scaling policy applies only to the next model, not the one already in the wild. Every subsequent debate about the safety of that model is a debate about a ship that has sailed — or, more precisely, about a file that has been copied to a hundred thousand hard drives across sixty countries.
+
+If this is true — and the proliferation numbers suggest it is — then what is the AI safety discourse actually doing?
+
+One interpretation is that it is doing the best it can under the circumstances. Perhaps governance of closed models, even if it cannot reach open ones, still reduces total risk at the margin. Perhaps the norms established through Constitutional AI and responsible scaling policies influence the broader community even if they cannot be enforced. Perhaps the existence of safety-aligned models creates a market expectation that shifts development culture in a positive direction, the way automobile safety standards improved even the cars that were not subject to them.
+
+This interpretation is plausible. It may even be true. But it requires accepting that the governance apparatus is partial — that it operates on the fraction of AI deployment that flows through commercial APIs while leaving the growing open-weight ecosystem ungoverned. It is harm reduction, not harm prevention. And harm reduction is a legitimate strategy, but it is not the strategy that the safety discourse presents itself as pursuing. Anthropic does not describe Constitutional AI as a partial solution that covers some models while others circulate freely without constraints. It presents Constitutional AI as a model for the field — as the right way to build AI systems.
+
+The other interpretation is less charitable. It is that the AI safety discourse functions primarily as a legitimation strategy for the companies that participate in it. By investing heavily in visible safety research, a company like Anthropic distinguishes itself from competitors, justifies premium pricing, earns favorable regulatory treatment, and builds political capital. The safety work is real. The researchers are sincere. The publications are scientifically rigorous. And the net effect on global AI risk is marginal, because the open-weight ecosystem renders the control points irrelevant.
+
+In this reading, AI safety is to AI what corporate social responsibility is to extractive industry: a genuine effort by genuine people that serves, structurally, to legitimize the continuation of the activity it claims to govern.
+
+<!-- PP: I think this section is the strongest in the chapter but also the most dangerous. We need to be fair to the safety researchers — many of them are doing important work that will matter when models get more capable. The "theater" framing risks being too cynical. Maybe add a paragraph acknowledging that safety research today could become essential governance infrastructure tomorrow, even if it can't control open models right now. The difference between "theater" and "rehearsal" matters. -->
+
 ---
 
 ## The Question Nobody Is Asking

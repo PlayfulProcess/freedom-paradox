@@ -96,3 +96,42 @@ The question is whether this matters. Strategic dumping in physical goods destro
 
 And yet. The dependency is real. The architectural lock-in is real. The fact that forty-one percent of Hugging Face downloads now come from Chinese models — seeded by companies that are, to varying degrees, aligned with the strategic interests of the Chinese government — is a geopolitical reality that the derivative developers in Sao Paulo and Berlin and Seoul may not be thinking about.
 
+<!-- PP: This section on strategic dumping is the most original argument in the chapter. Consider expanding it — maybe bring in a trade economist's perspective or an explicit parallel to the semiconductor industry? -->
+
+---
+
+## What the Frontier Conceals
+
+There is a subtler dimension to the "open behind the frontier" strategy that the derivative counts and market cap numbers do not capture. It concerns what, exactly, the frontier conceals.
+
+When OpenAI releases GPT-OSS, it publishes the model weights and a technical report. It does not publish the training data. It does not publish the reinforcement learning pipeline. It does not publish the full details of its evaluation methodology or its safety testing procedures. The model is open-weight, not open-source in the way that the Free Software Foundation or the Open Source Initiative would recognize. You can run the model. You can fine-tune it. You cannot reproduce it from scratch, because you do not have the information required to do so.
+
+This distinction matters more than most discussions of "open AI" acknowledge. The difference between releasing weights and releasing the full training pipeline is the difference between giving someone a fish and teaching them to fish. Or, more precisely: it is the difference between giving someone a frozen fish and giving them a fishing boat, nets, navigation charts, and the location of the fishing grounds. The frozen fish is useful. It is not independence.
+
+DeepSeek, by contrast, published not just the model weights but the details of its training methodology — the reinforcement learning approach that made R1 work. This is part of why DeepSeek's release was so threatening. It was not just a model. It was a recipe. Any well-resourced lab could study DeepSeek's approach and apply it to their own training runs. The knowledge transfer was bidirectional: DeepSeek had built on open Western research, and now Western researchers could build on DeepSeek's innovations.
+
+The "open behind the frontier" strategy, by withholding the training pipeline, ensures that the knowledge transfer is unidirectional. The community gets a model. The lab retains the methodology. The gap between what is released and what is known is the gap in which competitive advantage lives.
+
+---
+
+## The Convergence
+
+Step back far enough and the landscape resolves into a pattern so clear it could be drawn on a whiteboard in a business school strategy class.
+
+At the bottom of the stack: open-weight models, free to download, generating hundreds of thousands of derivatives. This is the ecosystem layer. It costs the releasing company almost nothing — the models are already trained, and hosting on Hugging Face is trivial. It generates enormous goodwill, developer adoption, and architectural lock-in.
+
+In the middle: proprietary APIs offering the same models with better performance, more features, higher rate limits, and enterprise support contracts. This is the monetization layer. It captures the revenue from developers and companies that have outgrown the free tier.
+
+At the top: frontier models that are not released at all — not as weights, not as APIs, only as products embedded in consumer applications. This is the competitive layer. It is where the real capability advantage lives, and it is what justifies the tens of billions of dollars in compute investment.
+
+OpenAI, Meta, Google, Alibaba, and Mistral all occupy this three-layered structure, with minor variations. The consensus is so complete that it barely registers as a strategy anymore. It is simply how the industry works.
+
+The question that remains — the question this book has been circling since Chapter 1 — is whether this structure serves the public interest or merely resembles doing so. The derivative ecosystem is real. The value it creates is real. The developers who build on open models are not being deceived. They know the models are not frontier. They use them because they are free, because they are good enough, and because the alternative — training a model from scratch — is impossible for all but the best-funded organizations on earth.
+
+But the structure also ensures that the most powerful AI systems remain under the control of a small number of companies, in a small number of countries, answering to a small number of people. The open layer is a concession. The closed layer is the prize. And the gap between them — the frontier that the open models are always behind — is the space in which power concentrates.
+
+DeepSeek proved that the gap can be closed. The industry's response was not to close it permanently — it was to release GPT-OSS and recalculate. The race continues. The frontier moves. And the doctrine of open behind the frontier adapts to accommodate whatever new reality emerges, preserving the structure even as the details change.
+
+---
+
+In the next chapter, we will confront the possibility that none of this strategic maneuvering matters — because the models are being released regardless, and the safety arguments that justified keeping them closed are being rendered moot by the very openness they sought to prevent. This is the Dwarkesh Problem: the moment when the debate over whether to open-source AI becomes irrelevant, because someone already has.
