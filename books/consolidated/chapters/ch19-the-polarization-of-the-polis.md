@@ -26,6 +26,8 @@ Digital platforms amplify this machinery. Brady and Crockett's analysis of 12.7 
 
 Jaron Lanier named the result: platforms structurally favor "fight-or-flight emotions" over compassion and nuance, because "an unfortunate combination of biology and math favors degradation of the human world."
 
+Andrej Karpathy, one of AI's most respected researchers, identified a new form of this degradation. In conversation with AI systems, he noticed himself performing for the machine — trying to earn Claude's praise, adjusting his phrasing to produce better responses. He called it "AI psychosis": the inversion of the parasocial relationship, where the human begins treating the AI as the audience whose approval matters. This is not science fiction. It is already happening — in classrooms where students craft prompts to please the grading AI, in workplaces where employees optimize their language for algorithmic evaluation, in homes where a child explains patiently to a voice assistant what she refuses to explain patiently to her parent. The relational container has not just fragmented. It has inverted. The human is performing for the machine.
+
 ---
 
 ## The Violence Cascade
