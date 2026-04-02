@@ -6,9 +6,9 @@
 
 ## Download
 
-**[Download EPUB](https://github.com/PlayfulProcess/freedom-paradox/raw/master/epub-build/freedom-paradox-project-complete.epub)** — Previous edition (4-book version). Updated EPUB coming soon.
+**[Download EPUB](https://github.com/PlayfulProcess/freedom-paradox/raw/master/epub-build/the-species-that-got-fire.epub)** — Full consolidated book + appendices. CC BY-SA 4.0.
 
-**Audiobook** — Coming soon (AI-narrated via Whisper)
+**Audiobook** — Coming soon
 
 ---
 
