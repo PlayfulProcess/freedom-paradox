@@ -92,7 +92,7 @@ But it was the third category — "The odious apparatus" — that would prove pr
 
 Reading the essay after the DoW confrontation, the timing is impossible to ignore. Amodei published his warning about the odious apparatus in January. Hegseth demanded mass surveillance capabilities in February. Either Amodei was remarkably prescient, or — more likely — the negotiations with the Department of War were already underway when he wrote the essay, and the essay was, in part, a public case for the position Anthropic was about to take in private.
 
-This is how the most important technology disputes of our era unfold. Not in congressional hearings or regulatory filings, but in blog posts and social media announcements. The CEO publishes a philosophical framework. The Secretary of War posts on X. A podcaster writes the most rigorous analysis. And a federal judge, weeks later, tries to sort out the constitutional implications.
+This is how the most important technology disputes of our era unfold. Not in congressional hearings or regulatory filings, but in blog posts and social media announcements. The CEO publishes a philosophical framework. The Secretary of War posts on X. A podcaster writes arguably the most rigorous analysis. And a federal judge, weeks later, tries to sort out the constitutional implications.
 
 ---
 

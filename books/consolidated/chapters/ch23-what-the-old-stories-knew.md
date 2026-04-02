@@ -66,7 +66,7 @@ In China, the tales adapted. The Syama Jataka — about a filial son caring for 
 
 In Sri Lanka today, the Apaṇṇaka Jataka is included in the Grade 7 national curriculum. Villagers reference Jataka characters in colloquial speech — "king Vessantara" for generosity, "prince Mahaushadha" for wisdom. Temple murals across Thailand, Myanmar, Sri Lanka, and Cambodia constitute visual curricula complementing oral tradition, ensuring that even pre-literate children absorbed the stories through art.
 
-Twenty-five centuries. The same stories. Adapted to every culture they entered. Teaching the same thing in each: you are not separate from the living world. Your compassion is not optional. And it will cost you.
+Twenty-five centuries. The same stories. Adapted to virtually every culture they entered across Asia. Teaching the same thing in each: you are not separate from the living world. Your compassion is not optional. And it will cost you.
 
 ---
 

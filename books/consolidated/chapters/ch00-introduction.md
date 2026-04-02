@@ -42,7 +42,7 @@ And the delivery system — the technology that carried these responsibility str
 
 A parent holds a child. The lamp makes the room a world. The story begins. A girl walks into a dark forest. Something wants to eat her. The child's body tenses. The parent's body stays steady. The story ends. The child survives.
 
-This has been happening for longer than we have been planting seeds. It is the oldest technology on earth — not the story itself, but the container: the warm body, the calibrated darkness, the reliable return to safety. Every culture built its version. Every version worked. And every version encoded, in the felt experience of the child's body, the same lesson: you are held. The dark is survivable. You are not alone.
+This has been happening for longer than we have been planting seeds. It is the oldest technology on earth — not the story itself, but the container: the warm body, the calibrated darkness, the reliable return to safety. Every culture for which we have evidence built its version. Every version that lasted encoded the same core logic. And every version encoded, in the felt experience of the child's body, the same lesson: you are held. The dark is survivable. You are not alone.
 
 ---
 
@@ -54,7 +54,7 @@ The open source movement is the test case. For forty years, programmers built th
 
 This book traces the paradox through eight parts. It begins with the political economy of openness and AI. It moves through the body — what stories do in the nervous system, how containers build the capacity to face the dark. It arrives at the fire — the thesis that grammars are responsibility structures, and that the species got fire before it had the grammars to hold it. It descends into the ground — the philosophical question of whether inherent value is truth or axiom, and why the answer may not matter. It surfaces into practice — what to do Monday morning, with a story, with a voice, with a community. And it closes with the grammar we need — the one this species must build, consciously, in time, if it is to survive what it has created.
 
-The conclusion is not triumphant. The answer, for this species — the one that got fire before it had the grammars to hold it — is not known yet. But sixty thousand years of storytelling says the technology exists. Every adaptive system in the history of life says the pattern works. And the pattern is always the same: the part that identifies with the whole offers itself back, and the whole endures. The part that identifies only with itself extracts, and the system collapses.
+The conclusion is not triumphant. The answer, for this species — the one that got fire before it had the grammars to hold it — is not known yet. But sixty thousand years of storytelling says the technology exists. Every adaptive system studied long enough says the pattern works. And the pattern is always the same: the part that identifies with the whole offers itself back, and the whole endures. The part that identifies only with itself extracts, and the system collapses.
 
 The question is which one we choose. The practice starts tonight, with a story, told with love.
 

@@ -10,7 +10,7 @@ Listening, playing, and making are three modes of a single capacity: the willing
 
 ## Part One: Listening
 
-Listening is the most powerful co-regulatory act available to a human being. It is also the rarest. Most of what passes for listening is waiting to speak. The body is present. The mind is composing a response. The nervous system is in a mildly sympathetic state — alert, evaluating, preparing. This is not listening. This is surveillance dressed as attention.
+Listening is among the most powerful co-regulatory acts available to a human being. It is also the rarest. Most of what passes for listening is waiting to speak. The body is present. The mind is composing a response. The nervous system is in a mildly sympathetic state — alert, evaluating, preparing. This is not listening. This is surveillance dressed as attention.
 
 Real listening — the kind that regulates the speaker's nervous system — requires the listener to do something the modern world almost never asks: be present without producing anything.
 

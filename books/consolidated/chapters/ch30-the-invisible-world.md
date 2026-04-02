@@ -22,7 +22,7 @@ Physics extends the point further. Dark matter and dark energy constitute roughl
 
 ## What every tradition already knows
 
-Every culture that has lasted long enough to build a knowledge system has concluded, independently, that the perceptible world is not the whole of reality.
+Every culture for which we have sufficient records that lasted long enough to build a knowledge system has concluded, independently, that the perceptible world is not the whole of reality.
 
 The Hindu tradition posits multiple lokas — planes of existence — of which the physical (bhuloka) is only one. The Buddhist cosmology maps thirty-one planes of existence. The Dagara of West Africa maintain ongoing relationship with kontomblé — nature spirits whose existence is as self-evident to the Dagara as the existence of trees. The Aboriginal Australians live within the Dreaming — a dimension of reality that is not past but always-present, accessible through ceremony, country, and story. The Yoruba recognize an orun (invisible realm) and an aiyé (visible realm) that interpenetrate and cannot be separated. The medieval Christian tradition mapped nine orders of angels, a communion of saints, purgatory — an elaborate invisible architecture maintained through prayer, sacrament, and relationship.
 
@@ -41,6 +41,12 @@ The unknowable is not the same as the nonexistent. The ultraviolet flowers that 
 The traditions that maintain relationship with the invisible are doing something that may be more empirically grounded than the secular dismissal of them suggests. They are saying: there is more here than we can see, and we have developed practices for relating to it. The practices may be imprecise. The maps may be inaccurate. But the core claim — that the perceptible is not the whole, and that the imperceptible can be related to — deserves more respect than modernity has given it.
 
 William James argued a version of this in *The Varieties of Religious Experience*: the visible world is part of a larger spiritual universe from which it draws its significance, and union or harmonious relation with that universe is our truest end. James was not making a theological claim. He was making a pragmatic one: the hypothesis that there is more produces better lives than the hypothesis that there is not. And the hypothesis cannot be disproven — which means dismissing it is not science but prejudice.
+
+---
+
+## A clarification the book owes its sources
+
+The Linehan filter — useful, fits the data, compassionate — governs this author's claims. It does not govern the traditions it examines. When Josh Schrei argues that animism was the normative human consciousness for ninety-eight percent of our species' history, this is not a claim submitted for the filter's evaluation. It is a claim made from within its own epistemological authority — an authority earned through millennia of practice, not through the Western empirical methods this book happens to employ. The filter applies to what this book says about animism. It does not apply to animism itself.
 
 ---
 

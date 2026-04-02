@@ -118,7 +118,7 @@ For two decades, that was fine. Infrastructure software benefits from being open
 
 Then came AI.
 
-And for the first time, the thing being potentially "opened" wasn't infrastructure that makes everyone's life easier. It was a technology that could, in the wrong hands, make everyone's life dramatically worse. A technology capable of mass surveillance, autonomous warfare, and the concentration of power at a scale the world has never seen. Suddenly, the question Stallman had been asking since 1983 — the *ethical* question, the question about freedom and responsibility and what humans owe each other — was the only question that mattered.
+And for the first time, the thing being potentially "opened" wasn't infrastructure that makes everyone's life easier. It was a technology that could, in the wrong hands, make everyone's life dramatically worse. A technology capable of mass surveillance, autonomous warfare, and the concentration of power at a scale the world has never seen. Suddenly, the question Stallman had been asking since 1983 — the *ethical* question, the question about freedom and responsibility and what humans owe each other — was the question that mattered most.
 
 The movement that had spent twenty-five years cultivating a vocabulary of efficiency, quality, and business value found itself without the words it needed. When Meta releases the weights for a model capable of generating biological weapon instructions, the open source framework offers no guidance. "Will this produce better software?" is not the relevant question. "Should this be open?" is — and that is an ethical question the movement had deliberately, systematically, and with great commercial success trained itself not to ask.
 

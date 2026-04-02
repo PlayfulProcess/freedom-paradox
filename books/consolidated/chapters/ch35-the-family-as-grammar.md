@@ -60,7 +60,7 @@ Every story system that endured across centuries had a funding mechanism. The fa
 
 ## Intergenerational Storytelling
 
-The research on co-regulation focuses overwhelmingly on the parent-child dyad. But the anthropological record suggests that the most powerful co-regulatory relationships in most human cultures were not parent-child but grandparent-child.
+The research on co-regulation focuses overwhelmingly on the parent-child dyad. But the anthropological record suggests that among the most powerful co-regulatory relationships in most human cultures were not parent-child but grandparent-child.
 
 Sarah Hrdy's cooperative breeding hypothesis argues that human children evolved to be raised not by one or two caregivers but by a network of fifteen to twenty. The grandmother hypothesis — that post-menopausal women evolved specifically to invest in grandchildren's survival — is supported by demographic data from pre-industrial societies showing that the presence of a maternal grandmother significantly reduced child mortality.
 
@@ -74,7 +74,7 @@ If you have access to a grandparent — your child's or someone else's — the s
 
 ## The Repair Principle
 
-The most important finding from the co-regulation research, stated one more time for the chapter that applies it most directly: the mismatch is not the catastrophe. The repair is the practice.
+Among the most important findings from the co-regulation research, stated one more time for the chapter that applies it most directly: the mismatch is not the catastrophe. The repair is the practice.
 
 Tronick's seventy percent. Winnicott's good enough mother. Gottman's sixty-nine percent. The data converges from every direction: relationships that try to avoid rupture produce fragility. Relationships that practice repair produce resilience.
 

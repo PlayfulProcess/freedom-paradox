@@ -64,7 +64,7 @@ The question is not why humans build grammars. The question is why we keep build
 
 ## Embodied, Not Abstract
 
-There is a feature of these grammars that the five properties do not capture, and it may be the most important one for the argument of this book: they are embodied communal technologies. The casting slows you down. The physical act — the tossing of coins, the shuffling of cards, the manipulation of palm nuts — focuses attention, activates the social engagement system, and shifts the nervous system toward the parasympathetic state that the first chapter identified as the precondition for genuine relating.
+There is a feature of these grammars that the five properties do not capture, and it may be among the most important for the argument of this book: they are embodied communal technologies. The casting slows you down. The physical act — the tossing of coins, the shuffling of cards, the manipulation of palm nuts — focuses attention, activates the social engagement system, and shifts the nervous system toward the parasympathetic state that the first chapter identified as the precondition for genuine relating.
 
 The I Ching's traditional consultation method requires sorting forty-nine yarrow stalks through a precise, repetitive, meditative process that takes approximately twenty minutes. This is not an inefficient randomization algorithm. It is a co-regulatory technology. By the time the hexagram is complete, the querent's nervous system has been in a focused, rhythmic, contemplative state for twenty minutes. The reading that follows occurs in a different physiological register than the question that preceded it — calmer, more receptive, more capable of holding complexity.
 

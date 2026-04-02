@@ -18,6 +18,8 @@ Pace is not just aesthetic. It is physiological. When you speak slowly to a chil
 
 Prosody — the music of speech, its rises and falls, its rhythm and stress — carries emotional information that text cannot. A mother reading "and then the wolf came to the door" in a low, conspiratorial whisper is doing something to the child's amygdala that the printed words cannot do. She is providing a real-time emotional score for the narrative — telling the child's limbic system how to feel about what is happening, how much danger is present, how much the container can hold.
 
+Some parents hold their voice steady at the climax. Others speed up, or whisper, or pause dramatically, or make the monster voice so silly the child laughs instead of trembles. There is no right technique. The mechanism is not the vocal choice but the attunement — the teller's nervous system responding in real time to the listener's. A parent who reads in a monotone but is fully present is doing more regulatory work than a performer who nails every dramatic beat but is thinking about tomorrow's meeting. The quality of attention between teller and listener is the container. Everything else is style.
+
 This is why audiobooks are better than text for children but worse than a live teller. The audiobook has prosody but no responsiveness. The live teller has both. When the child's eyes widen, the live teller pauses. When the child buries their face, the live teller softens. When the child says "again!" the live teller knows which part they need to rehearse. The audiobook plays through regardless.
 
 ---

@@ -158,7 +158,7 @@ Wallis: "Your worth and value is proven by your very existence, and it needs no 
 
 Palmer: "Before you tell your life what you intend to do with it, listen for what it intends to do with you."
 
-The honest practitioner does not resolve the tension between these three. She lives inside it. And what she discovers — what every tradition that has lasted long enough to study has discovered — is that identity with the whole is not a philosophical achievement. It is the only alternative to destruction. The part that identifies only with itself extracts until the system collapses. The part that identifies with the whole offers itself back — not as sacrifice but as participation in what life is already doing. This is not optimism. It is the pattern in the data, observed across every adaptive system from the coral reef to the mycorrhizal network to the sixty-thousand-year record of stories told in the dark.
+The honest practitioner does not resolve the tension between these three. She lives inside it. And what she discovers — what nearly every tradition that has lasted long enough to study has discovered — is that identity with the whole is not a philosophical achievement. It is the only alternative to destruction. The part that identifies only with itself extracts until the system collapses. The part that identifies with the whole offers itself back — not as sacrifice but as participation in what life is already doing. This is not optimism. It is the pattern in the data, observed across adaptive systems from the coral reef to the mycorrhizal network to the sixty-thousand-year record of stories told in the dark.
 
 The fire is given. The grammar is the tending. And the tending is the life.
 

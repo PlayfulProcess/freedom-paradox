@@ -96,7 +96,7 @@ When the mixing is not collision but absorption — when one culture simply diss
 
 ---
 
-## What stories do that nothing else can
+## What stories do that few other technologies can
 
 This chapter has moved between scales — cellular, ecological, cultural, philosophical — but the thread is the same. Every adaptive system that survives matches power with responsibility. The mechanism varies: chemical feedback in the acacias, reciprocal exchange in the mycorrhizae, ceremonial constraint in the Haudenosaunee, formal logic in the categorical imperative. But the principle is constant.
 
@@ -110,7 +110,7 @@ The Jataka tales do not argue for inter-species compassion. They dramatize it �
 
 The Aboriginal songlines do not lecture about ecological management. They sing it — the fire regime encoded in verse, the conservation principles embedded in narrative, the legal obligations woven into the landscape itself — and the child who grows up inside the songlines does not need an environmental science textbook. The textbook is the land, read through story.
 
-This is what stories do that nothing else can. They transmit adaptive behavior across generations without requiring genetic selection. They encode responsibility structures in the felt experience of the body rather than the abstract propositions of the mind. They work because they engage the co-regulatory mechanism — the warm body, the shared attention, the calibrated darkness — that builds the nervous system's capacity to hold complexity.
+This is what stories do that nothing else has done as consistently. They transmit adaptive behavior across generations without requiring genetic selection. They encode responsibility structures in the felt experience of the body rather than the abstract propositions of the mind. They work because they engage the co-regulatory mechanism — the warm body, the shared attention, the calibrated darkness — that builds the nervous system's capacity to hold complexity.
 
 And they are the one form of power that cannot be confiscated. The Anansi stories survived the Middle Passage. The Haudenosaunee creation narrative survived four hundred boarding schools. The Jataka tales crossed every border in Asia before any doctrinal text arrived. The Dreamtime stories lasted twelve thousand years.
 
