@@ -18,7 +18,7 @@ Real listening — the kind that regulates the speaker's nervous system — requ
 
 What happens when the face is *fully* present? When someone turns toward you, puts down their phone, makes eye contact, and gives you their complete, unhurried attention?
 
-The answer is physiological before it is emotional. Heart rate decelerates. Breathing deepens. Cortisol drops. The vagal brake engages — the parasympathetic system shifts online, and the social engagement system activates. This is Porges's ventral vagal state: the state where you can think clearly, feel proportionately, and connect.
+The answer is physiological before it is emotional. Heart rate decelerates. Breathing deepens. Cortisol drops. The vagal brake engages — the parasympathetic system shifts online, and the social engagement system activates. This is what the clinical literature calls the ventral vagal state — the parasympathetic condition where you can think clearly, feel proportionately, and connect. (The biological premises of polyvagal theory are contested; the phenomenology is not. See Chapter 14.)
 
 You can give someone this state without saying a word. You can give it by listening.
 

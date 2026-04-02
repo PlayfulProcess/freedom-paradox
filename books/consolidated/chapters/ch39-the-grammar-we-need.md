@@ -82,7 +82,7 @@ The Torah was received in the wilderness. Not in the Promised Land. Not in the T
 
 Andreotti's position is that this is where we are now: "We are not yet ready to build. We are in the composting phase." The old grammar — modernity, the sovereignty of the individual, the extraction economy — is dying. The new grammar has not yet been received. And the golden calf is always available — regression to simulacra of old certainty: nationalism, fundamentalism, techno-utopianism, the app that promises to solve your loneliness.
 
-A gesture is not a solution. It is the Linehan wager applied to building: we cannot know if this will work. We can ask if it is useful, if it fits the data, and if it is compassionate. And we can build it with the Protestant Principle built into the architecture — the commitment to continuously negate every concrete form that claims to be final. Keep the draft open. Treat every version as provisional. Build the capacity for modification deeper than the capacity for certainty.
+A gesture is not a solution. It is the three-filter test applied to building: we cannot know if this will work. We can ask if it is useful, if it fits the data, and if it is compassionate. And we can build it with the Protestant Principle built into the architecture — the commitment to continuously negate every concrete form that claims to be final. Keep the draft open. Treat every version as provisional. Build the capacity for modification deeper than the capacity for certainty.
 
 ---
 
@@ -180,7 +180,7 @@ The grammar is the vehicle for that choice. Not a single grammar imposed from ab
 
 The gap between capacity and responsibility is the gap in which everything burns. The species that got fire before it had the grammars to hold it is running out of time to learn what every adaptive system in the history of life already knows: power must be matched by responsibility, and the ratio between them determines whether a system builds complexity or destroys it.
 
-This is not a solution. It is a gesture. A wager. The Linehan wager applied to civilization itself: we cannot know if it will work. We can ask if it is useful, if it fits the data, and if it is compassionate. And we can build it — treating every version as a draft, privileging the community's capacity to adapt over any individual's capacity to plan — and see what happens.
+This is not a solution. It is a gesture. A wager. The three-filter test applied to civilization itself: we cannot know if it will work. We can ask if it is useful, if it fits the data, and if it is compassionate. And we can build it — treating every version as a draft, privileging the community's capacity to adapt over any individual's capacity to plan — and see what happens.
 
 Christopher Wallis, teaching from the nondual Shaiva Tantra of Abhinavagupta, provides the metaphysical frame for this closing. *Svātantrya-śakti* — the Power of Autonomy — belongs exclusively to Consciousness as a whole, not to individual parts. When the Power of Acting operates through the contracted ego, the result is *karma* — bound, effortful action. When the same power operates through one who has recognized identity with the whole, the result is *kriya* — spontaneous, aligned action that does not bind. The distinction is not between action and inaction but between action from contraction and action from recognition.
 

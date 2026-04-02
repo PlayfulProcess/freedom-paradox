@@ -80,7 +80,7 @@ From Part II: the invisible is almost certainly real. Relationship to it is poss
 
 Together: I practice within a tradition whose ontological claims I cannot verify, maintaining relationships with entities whose existence I cannot prove, on a ground I know to be chosen rather than discovered — and the practice, over time, produces a life of meaning, coherence, and connection that no alternative has matched.
 
-This is not cognitive dissonance. It is mature practice. It is the Linehan posture applied to the spiritual life: we cannot know if this is ultimately true. We can ask if it is useful (the life it produces), if it fits the data (the convergence of traditions, the resilience of communities that practice it), and if it is compassionate (the quality of relationship it cultivates — with the visible and the invisible, with the living and the dead, with the human and the more-than-human).
+This is not cognitive dissonance. It is mature practice. It is the three-filter test applied to the spiritual life: we cannot know if this is ultimately true. We can ask if it is useful (the life it produces), if it fits the data (the convergence of traditions, the resilience of communities that practice it), and if it is compassionate (the quality of relationship it cultivates — with the visible and the invisible, with the living and the dead, with the human and the more-than-human).
 
 ---
 
@@ -130,7 +130,7 @@ She knows several things simultaneously:
 
 **Fidelity is the practice.** Not certainty. Not belief. Fidelity — the daily renewal of the commitment to show up, to attend, to listen, to offer, to stay. The fidelity is what makes the relationship real. The fidelity is what the axiom looks like when it has a body.
 
-**The Linehan filter holds.** Is the practice useful? Does it produce a life of coherence, meaning, and relational depth? Does it fit the data? Do the communities that practice it demonstrate resilience, continuity, and care? Is it compassionate? Does the practice cultivate tenderness — toward the self, toward others, toward the visible and the invisible?
+**The three-filter test holds.** Is the practice useful? Does it produce a life of coherence, meaning, and relational depth? Does it fit the data? Do the communities that practice it demonstrate resilience, continuity, and care? Is it compassionate? Does the practice cultivate tenderness — toward the self, toward others, toward the visible and the invisible?
 
 If the answer to all three is yes, the honest practitioner continues. Not because they have resolved the doubt. Because the doubt and the practice coexist — and the coexistence, held in fidelity, within community, through the body, is itself the answer.
 
@@ -138,7 +138,7 @@ If the answer to all three is yes, the honest practitioner continues. Not becaus
 
 ## The Axiom as Grammar
 
-This book has argued that inherent value is an axiom, not a truth — a foundational commitment that cannot be derived from anything more basic. It has shown that the same conclusion emerges from existential theology (Tillich) and from nondual Shaiva Tantra (Wallis), though each tradition holds it differently. It has named the circularity honestly and refused to resolve it. It has applied the axiom to the species and found that the species is learning — slowly, incompletely, possibly too slowly — to cooperate at the scale the crisis requires. It has applied the Linehan filters to themselves and found that they stand on the axiom whether they know it or not.
+This book has argued that inherent value is an axiom, not a truth — a foundational commitment that cannot be derived from anything more basic. It has shown that the same conclusion emerges from existential theology (Tillich) and from nondual Shaiva Tantra (Wallis), though each tradition holds it differently. It has named the circularity honestly and refused to resolve it. It has applied the axiom to the species and found that the species is learning — slowly, incompletely, possibly too slowly — to cooperate at the scale the crisis requires. It has applied the three filters to themselves and found that they stand on the axiom whether they know it or not.
 
 What remains is the practice. The axiom is not a belief to be defended. It is a grammar — a finite set of practices, held in community, enacted through the body, renewed daily in the face of doubt that never fully resolves. The 112 dharanas. The bedtime story. The Dagara grief ritual. The San healing dance. The Quaker silence. The therapist's unconditional positive regard. The parent's arms around the child in the dark.
 
