@@ -4,11 +4,21 @@
 
 ---
 
+## Download
+
+**[Download EPUB](https://github.com/PlayfulProcess/freedom-paradox/raw/master/epub-build/freedom-paradox-project-complete.epub)** (358 KB) — Send to Kindle via [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle)
+
+**Audiobook** — Coming soon (AI-narrated via Whisper)
+
+---
+
+## The Book
+
 When we have fire — power — what makes the difference between societies that burn themselves to ash and societies that tend the flame responsibly?
 
 Open source, a forty-year freedom movement, confronts genuine civilizational risk when applied to AI. The diagnosis: power without responsibility. The response: stories, grammars, and the practices that make responsibility transmissible across generations. The question: whether the species that got fire before it had the grammars to hold it can build those grammars now — consciously, in time.
 
-**33 chapters · 7 parts · ~120,000 words**
+**42 chapters · 8 parts · 2 appendices · ~125,000 words**
 
 ---
 
@@ -24,45 +34,39 @@ Open source, a forty-year freedom movement, confronts genuine civilizational ris
 
 **Part V — The Fire:** Grammars are responsibility structures. The species question. The axiom beneath the ground.
 
-**Part VI — The Practice:** What to do Monday morning. Telling, reading, listening, playing, making. Family, community, commons.
+**Part VI — The Ground:** Consciousness as ground. The circularity. The invisible world.
 
-**Part VII — The Grammar We Need:** What AI actually is. Intelligence vs. wisdom. The trap of solving. The honest practitioner.
+**Part VII — The Practice:** What to do Monday morning. Telling, reading, listening, playing, making. Family, community, commons.
 
----
+**Part VIII — The Grammar We Need:** What AI actually is. Intelligence vs. wisdom. The trap of solving. The honest practitioner.
 
-## Companion Works
+**Appendix A — [The Real Cost of Lunch](real-cost-of-lunch/ch01-youre-not-eating-food.md):** 20 chapters on what your food actually costs. The nine hidden costs behind every plate.
 
-### [The Real Cost of Lunch](real-cost-of-lunch/ch01-youre-not-eating-food.md)
-**20 chapters · ~43K words** — What your food actually costs. The nine hidden costs behind every plate. A standalone application of the framework to food systems.
-
-### [The Campfire Stories](https://github.com/PlayfulProcess/campfire-stories)
-**10 stories · ~9K words** — Five-minute bedtime stories for ages 3–7. Proof of concept #1. *(Separate repo)*
+**Appendix B — [The Campfire Stories](consolidated/appendix-campfire-stories.md):** Ten bilingual bedtime stories for ages 3–7 from six continents. Proof of concept #1.
 
 ---
 
-## Grammar Decks *(browsable reference collections)*
+## Grammar Decks *(coming to [recursive.eco](https://recursive.eco))*
 
-These structured collections are designed as card decks for the [recursive.eco](https://recursive.eco) platform. Each card examines a topic through multiple lenses (Research, Clinical, Spiritual, Practices, and more).
+[THE REPAIR DECK — 17 cards on archetypal repair patterns. Gottman, Bowlby, Johnson, Linehan, Ostrom. LINK TO BE UPDATED WHEN PUBLISHED]
 
-[THE REPAIR DECK — 17 cards on archetypal repair patterns. Gottman, Bowlby, Johnson, Linehan, Ostrom. LINK TO BE UPDATED WHEN PUBLISHED ON RECURSIVE.ECO]
+[THE WISE HEART — 35 stories teaching DBT skills through world myths for ages 4-8. LINK TO BE UPDATED WHEN PUBLISHED]
 
-[THE WISE HEART — 35 stories teaching DBT skills through world myths for ages 4-8. LINK TO BE UPDATED WHEN PUBLISHED ON RECURSIVE.ECO]
+[DECOLONIZATION — 54 entries across Body, Mind, Spirit, Collective, Planet. LINK TO BE UPDATED WHEN PUBLISHED]
 
-[DECOLONIZATION — 54 entries across Body, Mind, Spirit, Collective, Planet. The Tree of Coloniality (Andreotti). LINK TO BE UPDATED WHEN PUBLISHED ON RECURSIVE.ECO]
-
-[SOCIAL WORKING — 107 cards across 8 suits. The verb, not the profession. LINK TO BE UPDATED WHEN PUBLISHED ON RECURSIVE.ECO]
+[SOCIAL WORKING — 107 cards across 8 suits. The verb, not the profession. LINK TO BE UPDATED WHEN PUBLISHED]
 
 ---
 
 ## How to Read
 
-Use the sidebar (☰) to navigate. Press `s` to search across all chapters. Select text to highlight and take notes — export to any cloud folder.
+Use the sidebar to navigate. Press `s` to search across all chapters. Select text to highlight and take notes — export to any cloud folder.
 
 ---
 
 ## Prior Versions
 
-This book consolidates five earlier drafts: *The Freedom Paradox*, *Grammars of the Living World*, *The Species That Tells Stories*, *Working Architecture*, *The Axiom Beneath the Ground*, and *Fire and Intelligence*. The originals are preserved as git tags (`prior-version/*`).
+This book consolidates six earlier drafts: *The Freedom Paradox*, *Grammars of the Living World*, *The Species That Tells Stories*, *Working Architecture*, *The Axiom Beneath the Ground*, and *Fire and Intelligence*. The originals are preserved as git tags (`prior-version/*`).
 
 ---
 

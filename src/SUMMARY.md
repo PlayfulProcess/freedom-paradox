@@ -86,3 +86,34 @@
 - [Chapter 39: The Grammar We Need](consolidated/ch39-the-grammar-we-need.md)
 - [Chapter 40: The Honest Practitioner](consolidated/ch40-the-honest-practitioner.md)
 - [Chapter 41: The Species That Tells Stories](consolidated/ch41-the-species-that-tells-stories.md)
+
+---
+
+# Appendix A — The Real Cost of Lunch
+
+- [Chapter 1: You're Not Eating Food](real-cost-of-lunch/ch01-youre-not-eating-food.md)
+- [Chapter 2: The Nine Costs](real-cost-of-lunch/ch02-the-nine-costs.md)
+- [Chapter 3: Why Simple Rules Fail](real-cost-of-lunch/ch03-why-simple-rules-fail.md)
+- [Chapter 4: Grains and Staples](real-cost-of-lunch/ch04-grains-and-staples.md)
+- [Chapter 5: Protein](real-cost-of-lunch/ch05-protein.md)
+- [Chapter 6: Fruits](real-cost-of-lunch/ch06-fruits.md)
+- [Chapter 7: Vegetables](real-cost-of-lunch/ch07-vegetables.md)
+- [Chapter 8: Dairy and Alternatives](real-cost-of-lunch/ch08-dairy-and-alternatives.md)
+- [Chapter 9: The Sweet Problem](real-cost-of-lunch/ch09-the-sweet-problem.md)
+- [Chapter 10: Drinks](real-cost-of-lunch/ch10-drinks.md)
+- [Chapter 11: Kids Food and Convenience](real-cost-of-lunch/ch11-kids-food-and-convenience.md)
+- [Chapter 12: There Is No Away](real-cost-of-lunch/ch12-there-is-no-away.md)
+- [Chapter 13: Composting as Infrastructure](real-cost-of-lunch/ch13-composting-as-infrastructure.md)
+- [Chapter 14: The Packaging Problem](real-cost-of-lunch/ch14-the-packaging-problem.md)
+- [Chapter 15: The Ninth Cost](real-cost-of-lunch/ch15-the-ninth-cost.md)
+- [Chapter 16: Hospicing the Fantasy](real-cost-of-lunch/ch16-hospicing-the-fantasy.md)
+- [Chapter 17: Composting Grief](real-cost-of-lunch/ch17-composting-grief.md)
+- [Chapter 18: The Supermarket Is a Choice Architecture](real-cost-of-lunch/ch18-the-supermarket-is-a-choice-architecture.md)
+- [Chapter 19: Who Can Afford to Care?](real-cost-of-lunch/ch19-who-can-afford-to-care.md)
+- [Chapter 20: The 80/20 Plate](real-cost-of-lunch/ch20-the-80-20-plate.md)
+
+---
+
+# Appendix B — The Campfire Stories
+
+- [Ten Bedtime Stories from Six Continents](consolidated/appendix-campfire-stories.md)
