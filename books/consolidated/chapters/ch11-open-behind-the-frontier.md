@@ -134,4 +134,4 @@ DeepSeek proved that the gap can be closed. The industry's response was not to c
 
 ---
 
-In the next chapter, we will confront the possibility that none of this strategic maneuvering matters — because the models are being released regardless, and the safety arguments that justified keeping them closed are being rendered moot by the very openness they sought to prevent. This is the Dwarkesh Problem: the moment when the debate over whether to open-source AI becomes irrelevant, because someone already has.
+In the next chapter, we confront a deeper question. All of this strategic maneuvering — the tiered releases, the open ecosystems, the proprietary frontiers — assumes that the commons framework can govern what has been released. But can it? The Nobel Prize-winning framework for managing shared resources was designed for fisheries and forests. The next chapter tests it against a commons that can kill.

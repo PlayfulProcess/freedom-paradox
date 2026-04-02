@@ -12,15 +12,15 @@ This is that moment.
 
 ---
 
-## The Confession
+## The Explanation
 
 In July 2024, Mark Zuckerberg did something unusual for a tech CEO: he told the truth about why he was doing what he was doing.
 
-The occasion was the release of Llama 3.1, Meta's latest large language model, which the company was making available for anyone to download, modify, and deploy. Alongside the release, Zuckerberg published an open letter titled "Open Source AI Is the Path Forward." Most corporate manifestos bury their real motivations under layers of altruistic language. Zuckerberg's letter contained a confession so direct it was almost startling.
+The occasion was the release of Llama 3.1, Meta's latest large language model, which the company was making available for anyone to download, modify, and deploy. Alongside the release, Zuckerberg published an open letter titled "Open Source AI Is the Path Forward." Most corporate manifestos bury their real motivations under layers of altruistic language. Zuckerberg's letter was startlingly direct about his.
 
 "One of my formative experiences," he wrote, "has been building our services constrained by what Apple will let us build on their platforms. Between the way they tax developers, the arbitrary rules they apply, and all the product innovations they block from shipping..."
 
-There it was. Not a lofty argument about the commons or the future of knowledge. A wound. Apple had spent a decade dictating what Meta could build, how it could monetize, and what data it could access. The App Tracking Transparency framework alone had cost Meta an estimated ten billion dollars in annual advertising revenue. Zuckerberg wasn't open-sourcing AI because he believed in freedom. He was open-sourcing AI because he had experienced captivity.
+There it was. Not a lofty argument about the commons or the future of knowledge. A wound. Apple had spent a decade dictating what Meta could build, how it could monetize, and what data it could access. The App Tracking Transparency framework alone had cost Meta an estimated ten billion dollars in annual advertising revenue. Zuckerberg wasn't open-sourcing AI because he believed in freedom. He was open-sourcing AI because he understood — from direct, costly experience — what it meant to build on a platform someone else controlled.
 
 The strategy worked — for a while. Meta sells advertising, not AI. Its models power recommendation algorithms, content moderation, ad targeting, and the chatbot features across Instagram, WhatsApp, and Facebook. Releasing the models strengthened Meta's position: every developer who built on Llama created another node in an ecosystem that defaulted to Meta's infrastructure. Llama was the new Android: give away the technology to own the ecosystem.
 
@@ -30,7 +30,7 @@ Then the earthquake hit. DeepSeek, a Chinese startup operating under US chip san
 
 What followed was swift. Llama 4 underperformed. Independent researchers discovered that Meta's benchmark submissions used an unreleased "experimental" variant; the publicly available model landed in thirty-second place. The benchmarks had been, in Yann LeCun's own word, "fudged." Zuckerberg sidelined the GenAI team, hired Scale AI's founder as Chief AI Officer, and began developing Avocado — a model that, according to multiple reports, might not be open source at all.
 
-The confession was amended. The original version said: we support open source because we learned what it means to be trapped. The amended version says: we support open source when it serves us.
+The strategy was amended. The original version said: we support open source because we learned what it means to be trapped. The amended version says: we support open source when it serves us.
 
 ---
 

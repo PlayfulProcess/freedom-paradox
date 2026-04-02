@@ -100,8 +100,6 @@ That version of the story is true. It is also incomplete.
 
 The economics of Android are counterintuitive until you understand what Google is actually selling.
 
-The economics are counterintuitive.
-
 Apple's iOS holds roughly twenty-eight percent of the global mobile market but captures sixty-seven percent of global app spending. In 2024, the App Store generated over $103 billion in consumer spending while Google Play generated roughly $47 billion — despite serving a market nearly three times as large. Some of this gap is explained by demographics. The average iPhone user earns fifty-three thousand dollars a year. The average Android user earns thirty-seven thousand. iOS dominates the United States, Japan, and the premium segment globally — the markets where consumers have the most disposable income. Android dominates everywhere else.
 
 But the revenue gap is not a problem Google needs to solve, because app store revenue is not what Google is after. Apple charges a thirty-percent commission on app purchases and fights over every percentage point. Google takes the same commission but cares less about the revenue it generates. The Play Store is not a profit center. It is a distribution channel for the services that are. In 2024, Alphabet's total revenue reached $350 billion, with advertising accounting for roughly $230 billion. The advertising business depends on two things: user data and user attention. Android provides both. Every Android phone ships with Google Search as the default, Chrome as the default browser. Every search query, every website visit, every YouTube video, every Maps navigation generates data that feeds the advertising engine.
