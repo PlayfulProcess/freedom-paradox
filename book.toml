@@ -13,5 +13,6 @@ additional-js = ["mdbook-theme/annotator.js"]
 no-section-label = true
 git-repository-url = ""
 
-[output.epub]
-additional-css = ["mdbook-theme/substack.css"]
+# [output.epub]
+# additional-css = ["mdbook-theme/substack.css"]
+# Note: epub backend enabled in CI only (GitHub Actions installs mdbook-epub)

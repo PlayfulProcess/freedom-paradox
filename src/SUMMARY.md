@@ -4,7 +4,7 @@
 
 ---
 
-# Book One: The Fire
+# Book One: The Dilemmas
 
 - [Introduction: The Species That Got Fire](consolidated/ch00-introduction.md)
 
@@ -61,7 +61,7 @@
 
 ---
 
-# Book Two: The Stories
+# Book Two: Relational Responsibilities
 
 ---
 

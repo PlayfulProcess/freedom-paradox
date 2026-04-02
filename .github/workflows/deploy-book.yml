@@ -41,6 +41,12 @@ jobs:
           mkdir -p src/images
           cp models/charts/*.png src/images/ 2>/dev/null || true
 
+      - name: Enable epub backend for CI
+        run: |
+          # Uncomment epub backend in book.toml for CI builds
+          sed -i 's/^# \[output\.epub\]/[output.epub]/' book.toml
+          sed -i 's/^# additional-css/additional-css/' book.toml
+
       - name: Build mdbook (HTML + EPUB)
         run: |
           mdbook build
