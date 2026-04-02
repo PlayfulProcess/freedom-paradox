@@ -1,132 +1,121 @@
 # Next Session Plan
 
-## Two major restructures + research integration
+## Two-Part Reframe + Research Integration
 
 ---
 
-## 1. Two-Part Reframe: Hospicing / Outgrowing Modernity
+## 1. Two-Part Reframe: The Fire / The Stories (NOT "modernity")
 
-The book already has this architecture implicitly. It needs ~500 words of explicit naming.
+The book is about the **human condition** — the species that got fire before it had the grammars to hold it. Not modernity specifically. The megafauna extinctions are 13,000 years old. Agriculture is 10,000. The Prometheus myth is pre-Socratic. The gap between power and responsibility is the human condition. Modernity accelerated it. AI is the latest acceleration.
 
-### Current structure (8 parts):
-```
-I    The Clause        (diagnosis: AI breaks openness)
-II   The Movement      (diagnosis: open source history)  
-III  The Paradox       (diagnosis: freedom paradox named)
-IV   The Body          (turn: nervous system, stories)
-V    The Fire          (thesis: grammars, axiom)
-VI   The Ground        (depth: Kashmir Shaivism, invisible)
-VII  The Practice      (action: telling, reading, commons)
-VIII The Grammar We Need (synthesis: AI, trap, honest practitioner)
-```
+Andreotti's "hospicing modernity" is her framework, referenced in the decolonial brackets. The book's own frame is older and bigger.
 
-### Proposed reframe (same chapters, new superstructure):
+### Proposed superstructure:
 
 ```
-BOOK ONE: HOSPICING MODERNITY
+BOOK ONE: THE FIRE (Diagnosis)
+  Introduction: The Species That Got Fire (Ch00)
   Part I    The Clause       (Ch01-03)
   Part II   The Movement     (Ch04-08)
   Part III  The Paradox      (Ch09-13)
   Part IV   The Body         (Ch14-19)
   Part V    The Fire         (Ch20-26)
 
-BOOK TWO: OUTGROWING MODERNITY  
+BOOK TWO: THE STORIES (Practice)
   Part VI   The Ground       (Ch27-31)
   Part VII  The Practice     (Ch32-37)
   Part VIII The Grammar We Need (Ch38-41)
+  Appendices
 ```
 
-### What needs writing:
-1. **Ch01 or Ch03** — paragraph naming modernity as producer of the void
-2. **Transition between Ch26 and Ch27** — "Part I diagnosed what modernity did to the ground. Part II asks what practice looks like when you've absorbed that diagnosis but refuse to stay in the void."
-3. **Ch40** — name the honest practitioner as someone who has outgrown (not rejected) modernity
-4. **Ch40 Ch13** — name eclecticism as modern consumer logic applied to the sacred
-5. **SUMMARY.md** — add "Book One" / "Book Two" headers
+### What this reframe does:
+- Book One = the human pattern: power outruns responsibility, from California megafauna through AI
+- Book Two = what to do on the other side: not going back, not pretending, practicing anyway
+- The cut at Ch26/Ch27 is clean: Ch26 ends the diagnostic arc (the axiom, the filters self-undermine, the ground is chosen). Ch27 begins the constructive move (consciousness as ground, taken seriously on its own terms)
+- The honest practitioner (Ch40) becomes someone who has absorbed the diagnosis but refuses to stay in the void
 
-### Decision needed from PlayfulProcess:
-- Do you want "Book One / Book Two" in SUMMARY.md, or just a visual break?
-- The Introduction stays above both — it frames the whole
+### What needs writing (~500 words total):
+1. **Ch03 or Ch13** — paragraph naming the human condition (not modernity) as the source of the gap
+2. **Transition between Ch26 and Ch27** — explicit naming: "Book One diagnosed the gap. Book Two asks what practice looks like when you've absorbed the diagnosis."
+3. **Ch40** — name the honest practitioner as having outgrown the fire/stories binary
+4. **Ch40** — name eclecticism as consumer logic applied to the sacred (already implied, needs one sentence)
+5. **SUMMARY.md** — add "Book One: The Fire" / "Book Two: The Stories" headers
 
 ---
 
-## 2. Research Integration (from podcasts + compendium)
+## 2. Research Integration
 
-### Already integrated (this session):
-- Khan Academy 3-4x → Ch38
-- Cotra crunch-time → Ch39
-- Leike collapse → Ch09
-- Gopnik gardener/carpenter → Ch16
-- Emerald 5 stress tests → Ch24
+### New files pulled from master (12 podcast files):
 
-### Remaining HIGH priority (from research-integration-plan.md):
-- Menakem somatic racialization → Ch14 (Nervous System)
-- Kimmerer animate grammar → Ch24 (Thesis)
-- SB 1047 veto + OpenAI erotica timing → Ch09 or Ch13
-- Andreotti "AI as Earth speaking" → Ch38
-- Hemphill cyclical healing → Ch39
+| File | Book | Content |
+|---|---|---|
+| podcast-tantra-illuminated.md | Axiom | Wallis on recognition, five acts of Shiva, practice vs philosophy |
+| podcast-80k-fire-gaps.md | Fire & Intelligence | Gap-filling on alignment, compute governance, race dynamics |
+| podcast-dwarkesh.md | Fire & Intelligence | Patel's original arguments, proliferation math, the essay from Ch10 |
+| podcast-lex-fridman.md | Fire & Intelligence | Amodei, Altman, Hassabis interviews — AI leadership in their own words |
+| podcast-ezra-klein.md | Freedom Paradox | Political economy of AI, regulation, institutional design |
+| podcast-emerald-culture-ai-ecology.md | Grammars | Culture/AI/ecology intersection, deanimation, indigenous AI |
+| podcast-emerald-embodiment-consciousness.md | Grammars | Embodied cognition, consciousness studies, somatic practice |
+| podcast-emerald-myth-initiation.md | Grammars | Mythic structures, initiation rites, threshold experiences |
+| podcast-tarot-diagnosis.md | Grammars | Tarot as diagnostic/therapeutic tool — directly supports Ch21 |
+| podcast-upstream.md | Real Cost of Lunch | Food systems, economic alternatives, cooperative models |
+| podcast-on-being-axiom-working-architecture.md | Research Compendium | Cross-cutting: axiom + practice intersections |
+| podcast-being-well.md | Working Architecture | Well-being research, mindfulness, family practice |
 
-### New material from branch (Disney):
-- Walt-to-Iger inversion → Ch37 (The Commons) — mission-locking governance
-- Campbell-Vogler pipeline → Ch23 (What the Old Stories Knew) — mythic capture
-- Encanto/Coco counter-argument → Ch37 — honest both-sides
-- Disney's Wish as allegory → Ch37 — warning to recursive.eco
-- "Disney World test" → methodology note
+### Integration priorities (by chapter):
 
-### Bring from master to this branch:
-- All podcast research files (DONE)
-- Research compendium parts 03-05 (pulled but need targeted reads)
-- 509 anti-oppressive SW files (NOT YET ON MASTER — waiting for upload)
+**HIGH — fills gaps in argument:**
+- podcast-tarot-diagnosis.md → Ch21 (Drawing from the Well) — therapeutic framing of tarot
+- podcast-tantra-illuminated.md → Ch27-28 (Consciousness/Circularity) — Wallis in his own voice
+- podcast-lex-fridman.md → Ch09 (Safety) + Ch38 (What AI Is) — Amodei/Altman firsthand
+- podcast-dwarkesh.md → Ch10 (Dwarkesh Problem) — his actual arguments, not paraphrased
+- podcast-ezra-klein.md → Ch13 (Freedom Paradox) — political economy framing
+
+**MEDIUM — strengthens existing points:**
+- podcast-emerald-myth-initiation.md → Ch23 (What Old Stories Knew) — initiation as grammar
+- podcast-emerald-embodiment-consciousness.md → Ch14 (Nervous System) — embodied cognition
+- podcast-being-well.md → Ch35 (Family as Grammar) — well-being practice research
+- podcast-on-being-axiom-working-architecture.md → Ch26 + Ch32-37 — cross-cutting
+
+**LOW — nice to have:**
+- podcast-emerald-culture-ai-ecology.md → Ch24 (Thesis) — deanimation sequence
+- podcast-upstream.md → Appendix A (Real Cost of Lunch) — economic alternatives
+- podcast-80k-fire-gaps.md → Ch09/Ch38 — compute governance detail
+
+### Disney material (from branch, needs pulling):
+- Walt-to-Iger inversion → Ch37 (The Commons)
+- Campbell-Vogler pipeline → Ch23 (What Old Stories Knew)
+- Encanto/Coco counter-argument → Ch37
+- Disney's Wish allegory → Ch37 (warning to recursive.eco)
+- Weave into chapters, NOT separate appendix
 
 ---
 
 ## 3. Appendix Restructure
 
 ### Current:
-- Appendix A: Real Cost of Lunch (20 chapters, food systems)
-- Appendix B: Campfire Stories (10 stories, placeholder)
+- Appendix A: Real Cost of Lunch (20 chapters)
+- Appendix B: Campfire Stories (placeholder)
 
-### Proposed:
-- **Appendix A: The Real Cost of Lunch** — food systems manual
-- **Appendix B: The Campfire Stories** — bedtime stories (proof of concept #1)
-- **Appendix C: The Disney Question** — mythic capture, mission-locking, the Encanto counter-argument (from branch Disney material)
-
-Or alternatively, weave Disney into Ch37 (The Commons) and Ch23 (What the Old Stories Knew) without a separate appendix.
-
-### Decision needed from PlayfulProcess:
-- Separate Disney appendix, or weave into existing chapters?
-- Should Real Cost of Lunch become "Appendix A: Sustainability" with a subtitle like "The Nine Hidden Costs Behind Every Plate"?
+### No change needed. These work as-is. Disney goes into Ch37/Ch23, not an appendix.
 
 ---
 
-## 4. Substack Serialization Prep
+## 4. Remaining from this session
 
-### Done:
-- Post 0 draft: "What I Built and Why I'm Reading It Slowly"
-
-### Next:
-- Post 1 = Ch00 Introduction (already strong, ready to post)
-- One post per week, 42 weeks
-- Each post: chapter text + 1-2 paragraph intro connecting to the arc
-- Manual, not automated — the review IS the practice
+### Still pending:
+- 509 anti-oppressive SW files — NOT YET ON MASTER
+- Research compendium parts 03-05 — pulled but need targeted reads
+- EPUB regeneration with 42-chapter structure
+- Audiobook workflow (Whisper)
 
 ---
 
 ## Execution Order (next session)
 
-1. Add two-part superstructure to SUMMARY.md (Book One / Book Two)
-2. Write 3 transitional paragraphs (~500 words total)
-3. Integrate remaining 5 HIGH podcast findings
-4. Bring Disney material from branch, weave into Ch37 + Ch23
+1. Read the 5 HIGH-priority new podcast files
+2. Add two-part superstructure to SUMMARY.md + write ~500 words of transitions
+3. Integrate podcast findings into chapters
+4. Pull Disney material from branch, weave into Ch37 + Ch23
 5. Build, commit, push
-6. Generate updated EPUB
-
----
-
-## Open Questions for PlayfulProcess
-
-1. Book One / Book Two as explicit headers, or just a visual break in SUMMARY.md?
-2. Disney as appendix C, or woven into existing chapters?
-3. Real Cost of Lunch subtitle change?
-4. 509 course files — when will you upload to master?
-5. Do you want the EPUB regenerated with the current 42-chapter structure?
-6. Audiobook: do you have a Whisper workflow, or do you need help setting one up?
+6. Regenerate EPUB
