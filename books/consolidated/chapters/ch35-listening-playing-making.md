@@ -186,6 +186,8 @@ A family grammar has four components:
 
 ---
 
+Not all containers are noisy or social. The Quaker meeting's power comes from shared silence. The solo walk in nature regulates the nervous system through rhythm and sensory immersion, not conversation. The child reading alone in a room where a parent is present — not interacting, just *there* — is co-regulating through proximity, not exchange. recursive.eco is designed for this: solo grammar exploration, individual reading, the quiet encounter with a symbol system at your own pace. The defining feature of an adaptive container is not social density but relational availability — the knowledge that connection is possible, even when it is not active. Diversity of temperament is an asset, and creating spaces where that diversity can flourish — the loud drum circle and the silent reading room, the improv stage and the garden bench — is itself a grammar-building act.
+
 **Practice box: Making**
 
 Create one new ritual this month. It can be small. A song before dinner. A walk on Sunday. A story every Tuesday night. A moment of silence before meals.

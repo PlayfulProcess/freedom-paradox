@@ -53,3 +53,11 @@ Frame as **near enemies of the body** (Christopher Wallis's "near enemies of the
 3. Personal "why" — this is my gesture toward responsibility
 4. The Max plan → book writing origin story
 5. Substack posts 0 and 1 as entry point
+
+## Okun "White Supremacy Culture" — 2021 Revision (Note for Decolonization Book)
+
+**Do NOT insert into the main book.** Flag for potential use in the decolonization book context.
+
+Tema Okun's 2021 revision of the "White Supremacy Culture" framework (originally 1999, via Kenneth Jones and Okun for dRworks) made significant additions: fear as the overarching driver of all listed characteristics, and explicit naming of class, capitalism, and Christian hegemony as structural forces. Okun also acknowledged that the original list had been misused — applied as a checklist for shaming rather than as a tool for organizational reflection. The revised framework is available at whitesupremacyculture.info.
+
+**Why this matters for the decolonization book**: The revision addresses the most common critique (reductive checklist culture) and adds structural depth (capitalism, class) that aligns with Andreotti's Tree of Coloniality. Worth integrating when drafting the decolonization chapters on organizational culture and institutional patterns. Not needed in the main book's argument, which operates at a different level of abstraction.
