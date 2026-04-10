@@ -210,3 +210,44 @@ Five practices for the AI age — not "how to use ChatGPT" but how to maintain d
 Intelligence asks the question. Wisdom lives the answer. The grammar is the practice of the answer — enacted daily, in community, with the courage to continue.
 
 **Endnotes hold**: Full Dąbrowski. Van Gennep/Turner. Sean Kelly. Campbell's threshold guardian. Thomassen's permanent liminality. Democratic governance (cross-ref Ch 4). Sesame/Ghibli/Ghost details.
+
+---
+
+## Architecture at a Glance
+
+| Part | Title | Chapters | Word Count (main) | Move |
+|------|-------|----------|-------------------|------|
+| I | The Fire | 1–2 | ~5,000 | The pattern: power outpacing wisdom |
+| II | Know Before You Do | 3–4 | ~4,500 | The best attempt at control, and why it fails |
+| III | The Gap | 5–6 | ~5,000 | Why knowing isn't enough |
+| IV | Do Before You Know | 7–9 | ~7,500 | The grammar alternative |
+| | **Total main text** | **9** | **~22,000** | |
+| | **Endnotes** | | **~10,000** | Deep research, extended arguments, full case studies |
+| | **Total book** | | **~32,000** | |
+
+### What was cut from the 12-chapter draft (~14,500 words)
+- Fire myths: told once (Ch 1), not four times
+- Dąbrowski/initiation: introduced briefly (Ch 1), developed once (Ch 9)
+- Vallor: one treatment (Ch 6 endnote + brief Ch 8), not two full treatments
+- Democratic governance: one treatment (Ch 4 endnote), not two
+- Amodei + Anthropic: one continuous narrative (Ch 3), not two chapters
+- Redundant sections eliminated; nothing lost — moved to endnotes
+
+### What's new from April 2026 research
+- Liveness neuroscience (Kuhl, Cirelli, Strouse/Samson) grounds "fire as shared attention"
+- Waldorf pedagogy (Steiner, Lenhart, Yabe) grounds "do before you know" as embodied practice
+- Narrative therapy + evidence-based child therapies (White/Epston, PCIT, Bratton) prove grammars outperform agendas clinically
+- Rogers/McFarland portrait deepened from anecdote to rigorous case study
+
+### Endnote format
+Substantial mini-essays modeled on Harari's *Sapiens* endnotes. Each endnote is a self-contained exploration that enriches without interrupting. The Six Voices (Illich, Franklin, Weil, Haraway, Wiener, Jonas) live here as one sustained essay — the book's most philosophical writing, available to readers who want depth.
+
+### Title
+**Fire Before Responsibility** remains the diagnosis. Subtitle options:
+- *Fire Before Responsibility: Intelligence, AI, and the Wisdom We Need*
+- *Fire Before Responsibility: Do Before You Know*
+- *Fire Before Responsibility: A Grammar for the AI Age*
+
+---
+
+*Skeleton v3 · April 2026 · CC BY-SA 4.0*
