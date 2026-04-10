@@ -172,3 +172,41 @@ Rogers didn't push an agenda. He built an alternative that embodied the values h
 Grammar vs agenda as structural distinction. An agenda says: here is what AI should do. A grammar says: here is a practice for relating to AI that maintains the capacities AI degrades.
 
 **Endnotes hold**: Full McFarland biography and Arsenal Center. Erikson's stages in show architecture. Full Freddish. Clemmons foot-bath. Daniel Tiger research. Full Esalen history. Adrienne Maree Brown's emergent strategy.
+
+---
+
+### Chapter 8: The Practices
+
+**Core argument (~2,000 words)**
+
+Five practices for the AI age — not "how to use ChatGPT" but how to maintain discernment, attention, and moral agency.
+
+1. **Attention to the pause between breaths.** The algorithmic feed has no pauses. The pause is the counter-technology.
+2. **One screen-free meal per day.** The achievable version beats the aspirational version because it actually happens.
+3. **Tell a story without a screen.** Backed by science: Lenhart (2020) — live oral storytelling produced higher eye contact, less restlessness, better comprehension. Yabe (2018) — prefrontal activation sustained during storytelling, habituated during picture-book reading. Horowitz-Kraus (2025) — parental storytelling elicited stronger neural connectivity than experimenter narration. The relationship IS the mechanism. The grammar is not anti-reading — it is pro-liveness (Isbell 2004: reading develops language complexity that oral storytelling does not).
+4. **Listen for three minutes without responding.** Mirror back what you heard. The itch to respond is the mode the algorithmic feed reinforces.
+5. **Sit with another person in silence.** Co-regulation without agenda. Presence alone.
+
+**Why structurally necessary**: Vallor's moral deskilling — every deferred judgment = a lost occasion for practicing virtue. The clinical evidence confirms: Bratton meta-analysis (93 studies, d = 0.80) — humanistic approaches outperform directive ones. PCIT's PRIDE skills are a parenting grammar — practiced behaviors that change the relational field before anyone understands why. Grammars work better than agendas, even in clinical settings.
+
+**Endnotes hold**: Full Vallor (cross-ref Ch 6). Wallace. 112 dharanas. Crawford. Full study details. Bratton. PCIT/CPP/CPRT.
+
+---
+
+### Chapter 9: The Fire Is Given
+
+**Core argument (~2,500 words) — the close**
+
+**Three models that work.** Sesame Workshop: 55 years, 150M children, mission-locked governance. Ghibli: self-imposed revenue caps, story comes first. Ghost: nonprofit, cannot be acquired, profitable since 2014. Pattern: mission-locking + diversified revenue + commercial activity serving the story = durability.
+
+**The open-source reframe.** Open the costs side (infrastructure, safety, standards). Hold the revenue side accountable. We open-source building codes, not the right to build without inspection.
+
+**Ostrom's eight principles as grammar.** Not policy but structural conditions under which communities self-govern: clear boundaries, locally adapted rules, participatory decision-making, graduated sanctions, accessible conflict resolution, self-governance rights, nested enterprises. The grammar does not specify the rules. It specifies the conditions for determining them.
+
+**What you can do.** Protect the co-regulation budget. Practice attention. Support commons. Build grammars, not agendas. The response is local, relational, ancient: two nervous systems in proximity, attending to each other.
+
+**The initiatory ordeal.** Van Gennep: separation, liminality, incorporation. Turner: "betwixt and between." Dąbrowski: Level II (chaotic, polarized) vs the multilevel shift. The fire is given — with obligations attached. The obligation to tend, to share, to become the kind of beings capable of holding it. Whether we make the passage is not guaranteed. Initiation can fail. But the capacity is already present. It awaits not invention but recognition.
+
+Intelligence asks the question. Wisdom lives the answer. The grammar is the practice of the answer — enacted daily, in community, with the courage to continue.
+
+**Endnotes hold**: Full Dąbrowski. Van Gennep/Turner. Sean Kelly. Campbell's threshold guardian. Thomassen's permanent liminality. Democratic governance (cross-ref Ch 4). Sesame/Ghibli/Ghost details.
