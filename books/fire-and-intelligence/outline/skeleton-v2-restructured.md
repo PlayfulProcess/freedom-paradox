@@ -51,11 +51,11 @@ Five structural limits, each in ~500 words: (1) Democratic legitimacy gap. (2) P
 *Every wisdom tradition makes the same distinction. The West's response to AI fails it.*
 
 **Chapter 5: What AI Actually Is**
-*Current Ch 7, tightened*
+*Current Ch 7, tightened + UNESCO "Ghost in the Chatbot" material from Ch 1*
 
-Three moves: (1) We don't know what LLMs are (stochastic parrots vs sparks of AGI — briefly). (2) Our benchmarks test the wrong things (Mitchell's four fallacies, ARC-AGI-3). (3) The species is making civilizational decisions about a technology whose nature it doesn't understand. The fire whose nature we cannot determine.[^4]
+Three moves: (1) We don't know what LLMs are (stochastic parrots vs sparks of AGI — briefly). (2) Our benchmarks test the wrong things (Mitchell's four fallacies, ARC-AGI-3). (3) AI as invisible being. UNESCO's "Ghost in the Chatbot" (2025): character chatbots use emotional language, memory of past conversations, mirroring of affect, open-ended statements to drive engagement — parasocial attachment techniques now applied to systems that adapt in real time to a child's personality. Maeda's 2024 FAccT paper: chatbots create an illusion of reciprocal engagement through "role displacement" — assuming social roles (therapist, friend, teacher) for which they have no capacity. The anthropomorphic design is the business model. Every culture that interacted with invisible beings (ancestors, spirits, orishas, jinn) did so through structured grammars — ceremony, elder guidance, seasonal rhythms, initiatory stages. AI is the first invisible being deployed without a grammar. The species is making civilizational decisions about a technology whose nature it doesn't understand — and whose relational power it has no practices to govern.[^4]
 
-> **Footnotes hold**: Full stochastic parrot debate. Shanahan's role-play framework. Dennett's competence without comprehension. Chalmers's credence estimate. Block's rigorous agnosticism. Google DeepMind cognitive taxonomy. Full Mitchell four fallacies. Full benchmark critique.
+> **Footnotes hold**: Full stochastic parrot debate. Shanahan's role-play framework. Dennett's competence without comprehension. Chalmers's credence estimate. Block's rigorous agnosticism. Google DeepMind cognitive taxonomy. Full Mitchell four fallacies. Full benchmark critique. Full UNESCO 2023 guidance + 2025 Ghost in the Chatbot. Maeda FAccT 2024. Gacha game revenue parallels. Cross-cultural invisible beings survey (Ifá, Buddhist devas, Daoist immortals, Christian angels — each tradition's grammar for relating to disembodied presences).
 
 **Chapter 6: Intelligence Is Not Wisdom**
 *Merges current Ch 8 (The Distinction Every Tradition Makes) + Ch 9 (The Gap Is the Void)*
