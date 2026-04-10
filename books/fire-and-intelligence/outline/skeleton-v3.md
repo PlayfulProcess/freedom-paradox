@@ -142,3 +142,33 @@ Then the Axiom book's thesis applied: the gap between intelligence and wisdom IS
 The grammar traditions don't wait for complete knowledge. They act — with restraint, with ceremony, with communal accountability — and the knowledge emerges from the practice. The fire myths encoded this: you don't understand fire before you tend it. You tend it, and the tending teaches you.
 
 **Endnotes hold**: Six Voices interlude (Illich, Franklin, Weil, Haraway, Wiener, Jonas — each ~300 words, told as one sustained essay on thinkers who saw the machine age coming). Vallor's technomoral virtues (told ONCE here). Ellul/Heidegger/Mumford. Wallace's contemplative science. Full Tillich analysis. Full Waldorf research (Steiner GA 34/295/311; Baldwin, Mellon, Perrow). Lenhart/Yabe/Isbell studies. Narrative therapy cases (Sneaky Poo, Gerry, Rachel). Epston's letters = 4.5 sessions. PCIT/CPP/CCPT evidence hierarchy. Tree of Life (Ncube-Mlilo).
+
+---
+
+## PART IV: DO BEFORE YOU KNOW
+
+*Not an agenda. A grammar.*
+
+### Chapter 7: The Grammar Builder
+
+**Core argument (~3,000 words) — the book's most accessible chapter**
+
+Akomolafe's question: "What if the way we respond to the crisis is part of the crisis?" The colonial reflex applied to AI governance (five moves — briefly, established in Ch 4). Then the turn.
+
+**Fred Rogers as the definitive example of "do before you know."**
+
+He studied with Margaret McFarland for thirty years — weekly meetings. McFarland co-founded the Arsenal Family & Children's Center with Benjamin Spock and Erik Erikson. Her foundational principle: "Attitudes aren't taught, they're caught." She reviewed every script. The show was not intuitive warmth dressed up as theory. It was rigorous developmental psychology expressed through radical simplicity.
+
+The fire episode proves the method. McFarland knew children's fire dreams relate to potty-training anxieties about controlling fluids. Rogers built water segments first — bathtubs, streams, waterfalls. When fire episodes aired, seven complaints came from parents of frightened children. Every one of those children had urinary difficulties. This is what a grammar looks like: the practitioner's deep understanding shapes the structure, so the child receives what they need without anyone explaining it.
+
+The Neighborhood of Make-Believe as psychological instrument: Daniel Tiger (Rogers' inner child — shy, afraid of being inadequate), King Friday (authority that can be challenged), Lady Elaine (disruption and insecurity), Henrietta Pussycat (anxiety). Rogers was never present in Make-Believe — deliberate, McFarland-informed — to help children practice the fantasy-reality distinction. The pianist's key changes during transitions incorporated notes from the old key into the new — Rogers compared it to a child seeing mother and teacher together at a new school.
+
+"Freddish" — the nine-step language protocol for pre-operational minds. "You Can Never Go Down the Drain" addressed a fear adults wouldn't anticipate but pre-operational children genuinely harbor.
+
+Rogers didn't push an agenda. He built an alternative that embodied the values he held — and trusted it to speak for itself. Thirty-three seasons. 895 episodes. The grammar outlasted every agenda of its era.
+
+**The Esalen counter-example**: fire without a hearth. Powerful consciousness techniques extracted from their cultural containers — Zen without sila, yoga without yamas, Vajrayana without foundation — distributed as weekend workshops. Stanford encounter group study: 8–9.4% casualty rate. Groups with highest casualties did NOT produce most positive change. Illich's "neo-Promethean follies."
+
+Grammar vs agenda as structural distinction. An agenda says: here is what AI should do. A grammar says: here is a practice for relating to AI that maintains the capacities AI degrades.
+
+**Endnotes hold**: Full McFarland biography and Arsenal Center. Erikson's stages in show architecture. Full Freddish. Clemmons foot-bath. Daniel Tiger research. Full Esalen history. Adrienne Maree Brown's emergent strategy.
