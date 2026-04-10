@@ -92,3 +92,53 @@ Five structural limits, each ~400 words:
 Conclusion: no existing institutional form is adequate. The "know before you do" approach — even at its best — reproduces the colonial five-move pattern: particular practice → universalized → enforced through power → displacing local systems → pathologizing the displaced.
 
 **Endnotes hold**: Taiwan vTaiwan/Polis details. Citizens' assembly proliferation. IAEA-for-AI analysis. EU AI Act. Full Gebru/DAIR. Full Torres genealogy. Harvard WEIRD study. Stanford HAI. Democratic governance experiments (told ONCE here).
+
+---
+
+## PART III: THE GAP
+
+*Every wisdom tradition makes the same distinction. AI fails it. The colonial response fails it too.*
+
+### Chapter 5: What AI Actually Is
+
+**Core argument (~2,000 words)**
+
+Three moves.
+
+**We don't know what LLMs are.** Stochastic parrots (Bender/Gebru) vs sparks of AGI (Microsoft Research). Shanahan's measured position: LLMs "role-play" characters that believe and intend. Dennett's competence without comprehension — inverted by 2025 findings showing comprehension without competence. Chalmers: less than 10% credence on current LLM consciousness. Block's "rigorous agnosticism." We genuinely do not know. We are deploying to billions while these questions remain open.
+
+**Our benchmarks test the wrong things.** Mitchell's four fallacies. ARC-AGI-3: below 1% on novel reasoning where humans solve consistently. Google DeepMind's cognitive taxonomy: "highly jagged cognitive profile" — brilliant at training data, helpless at everything else. We systematically overestimate AI because our benchmarks measure crystallized knowledge, not fluid intelligence.
+
+**AI as the first invisible being deployed without a grammar.** UNESCO's "Ghost in the Chatbot" (2025): character chatbots use emotional language, memory, mirroring of affect, open-ended statements — parasocial attachment techniques adapted in real time to a child's personality. Maeda (FAccT 2024): "role displacement" — chatbots assuming roles (therapist, friend, teacher) for which they have no capacity. The anthropomorphic design is the business model. Every culture that interacted with invisible beings (ancestors, spirits, orishas, jinn) did so through structured grammars — ceremony, elder guidance, seasonal rhythms, initiatory stages. AI is the first invisible being deployed without any grammar at all.
+
+The video deficit makes this empirically precise. Children under 30 months learn ~0.5 SD less from screens than from live interaction (Strouse & Samson, 122 effect sizes). Tomasello: genuine joint attention is impossible with pre-recorded media. AI chatbots *simulate* contingency — but the simulation bypasses the mechanisms that make live relationship developmental. McFarland's principle inverted: "attitudes aren't taught, they're caught" — AI catches the child's attention without teaching anything about being human.
+
+**Endnotes hold**: Full stochastic parrot debate. Shanahan role-play. Dennett/Zhang. Chalmers/Block. DeepMind taxonomy. Mitchell four fallacies. Full UNESCO 2023 + 2025. Maeda FAccT. Gacha game parallels. Cross-cultural invisible beings survey. Video deficit meta-analysis. Hutton 2020 Goldilocks fMRI.
+
+---
+
+### Chapter 6: Intelligence Is Not Wisdom
+
+**Core argument (~3,000 words) — the book's center of gravity**
+
+Every tradition makes the same distinction.
+
+**Buddhist prajñā** vs conceptual cleverness. The three trainings — morality, concentration, wisdom — form an inseparable triad. Ethics *first*. You cannot have wisdom without moral grounding. AI has none of the three.
+
+**Kashmir Shaivism**: cit (pure consciousness) vs buddhi (intellect). AI operates entirely at buddhi with zero access to cit. It can compute everything about the ground of being without ever touching the ground.
+
+**McGilchrist**: AI as the left hemisphere's apotheosis. Narrow, focused, manipulative attention scaled globally while broad, contextual, embodied attention atrophies. His feedback loop: the left hemisphere colonizes reality so thoroughly that when the right hemisphere checks back, it finds only the map. Five things used to break this — nature, shared culture, the body, great art, the sacred. All five are "fading away." AI accelerates the fading. His prescription is paradoxical: "To succeed at AI, we must relinquish control."
+
+**Tillich's three anxieties** intensified by AI. 93% of participants reported fear of meaninglessness as their primary AI-related existential concern.
+
+Then the Axiom book's thesis applied: the gap between intelligence and wisdom IS the void. The person in the void and the species in the void are experiencing the same structural gap. The alignment problem is the intelligence-wisdom gap stated in engineering terms.
+
+**The turn — "do before you know"**: The colonial response to the gap is "know before you do" — study it, regulate it, align it. Every surviving wisdom tradition says the opposite:
+- Buddhist triple training: śīla (ethics/practice) before prajñā (wisdom). You practice your way into understanding.
+- Waldorf: hands before head. Steiner's 1907 dictum — oral narration "cannot simply be replaced by reading." Lenhart (2020): live oral storytelling produced higher eye contact, less restlessness, better comprehension. Yabe (2018): prefrontal activation sustained during oral storytelling, habituated during picture-book reading. The embodied practice exceeds the mediated version.
+- Narrative therapy: Gerry dons a tiger costume and begins eating "as a tiger." The re-authoring is performative — the child acts the new story before understanding it. PCIT (d = 1.65) coaches parents in behaviors before explaining why. The doing changes the relationship; the understanding follows.
+- Rogers/McFarland: "Attitudes aren't taught, they're caught." Rogers practiced co-regulation at children for 33 seasons without once explaining the theory. The grammar was the practice, not the theory behind it.
+
+The grammar traditions don't wait for complete knowledge. They act — with restraint, with ceremony, with communal accountability — and the knowledge emerges from the practice. The fire myths encoded this: you don't understand fire before you tend it. You tend it, and the tending teaches you.
+
+**Endnotes hold**: Six Voices interlude (Illich, Franklin, Weil, Haraway, Wiener, Jonas — each ~300 words, told as one sustained essay on thinkers who saw the machine age coming). Vallor's technomoral virtues (told ONCE here). Ellul/Heidegger/Mumford. Wallace's contemplative science. Full Tillich analysis. Full Waldorf research (Steiner GA 34/295/311; Baldwin, Mellon, Perrow). Lenhart/Yabe/Isbell studies. Narrative therapy cases (Sneaky Poo, Gerry, Rachel). Epston's letters = 4.5 sessions. PCIT/CPP/CCPT evidence hierarchy. Tree of Life (Ncube-Mlilo).
