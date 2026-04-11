@@ -6,6 +6,10 @@
 
 This is a safety and identity boundary. Do not ask about it or reference it further.
 
+## Working With the Author
+
+When you need files moved, downloaded, or placed in specific folders — **ask the author to do it**. Don't spend time trying to extract content from browser panels or fighting clipboard access. The author is happy to drag-and-drop files where they need to go. Similarly, if you need something from a Claude.ai chat, ask the author to download the files and tell you where they put them.
+
 ## Git Config
 
 GitHub email privacy is enabled. Always use this noreply email for commits:
@@ -63,10 +67,13 @@ Five-minute bedtime stories for ages 3–7, built from cross-cultural story arcs
 Tillich vs Christopher Wallis on whether inherent value is truth or axiom. The philosophical engine.
 - Path: `books/axiom-beneath-the-ground/`
 
-### Book 7: Fire and Intelligence
-**Status: First draft complete** · 12 chapters · ~14.5K words
-AI as fourth fire. Amodei as central figure. Intelligence vs wisdom. The AI book.
+### Book 7: Fire Before Responsibility (formerly Fire and Intelligence)
+**Status: Restructured to skeleton v3** · 9 chapters · ~18K words (target ~45-55K)
+**THIS IS THE MAIN BOOK.** AI as fourth fire. "Do before you know" vs "know before you do." Absorbs content from Species That Tells Stories + Grammars of the Living World.
 - Path: `books/fire-and-intelligence/`
+- Skeleton: `books/fire-and-intelligence/outline/skeleton-v3.md`
+- Content mapping: `books/fire-and-intelligence/outline/species-to-skeleton-mapping.md`
+- 12-chapter draft archived: `books/fire-and-intelligence/drafts/12ch-draft-april-2026/`
 
 ### Book 8: The Real Cost of Lunch
 **Status: Complete first draft** · 20 chapters
@@ -97,8 +104,23 @@ The verb, not the profession. 76 cards deconstructing social work history. Erase
 - Path: `books/social-working/`
 - Source grammar: `research/grammar.json` from recursive.eco-schemas
 
-### How the Books Connect (Updated)
-**The Freedom Paradox** is the diagnosis. **Grammars** is the framework. **Species That Tells Stories** is the narrative heart. **Working Architecture** is the practical manual. **Campfire Stories** is proof of concept #1. **Axiom** is the philosophical engine. **Fire and Intelligence** applies it all to AI. **Real Cost of Lunch** applies it to food systems. **The Repair Deck** is what happens when containers break. **The Wise Heart** is proof of concept #2 (DBT through myths for children). **Decolonization** is the concrete application across every domain. **Social Working** is the professional critique.
+### How the Books Connect (Updated April 2026)
+**Fire Before Responsibility** is THE book — the unified argument absorbing Species + Grammars content. **The Freedom Paradox** is the open-source history (separate, publishable now). **Working Architecture** is the practical manual (publishable now). **Axiom** is the philosophical engine (publishable now). **Real Cost of Lunch** applies it to food systems (needs 280 fact-checks). **The Wise Heart** is proof of concept (DBT through myths for children, card deck format). **Campfire Stories** is proof of concept #1 (separate repo). **Decolonization** and **Social Working** are recursive.eco grammars, not books. **The Repair Deck** is experimental format. **Consolidated** is retired.
+
+### Publication Assessment
+Full editorial audit: `books/PUBLICATION-ASSESSMENT-APRIL-2026.md`
+- **PUBLISH:** Freedom Paradox, Working Architecture, Axiom
+- **EDIT → PUBLISH:** Fire Before Responsibility (main project)
+- **DRAFT:** Real Cost of Lunch (280 [VERIFY] flags), Repair Deck
+- **SEED:** Decolonization, Social Working (platform grammars, not books)
+
+### EPUB Pipeline
+```bash
+bash epub-build/build-single-epub.sh fire-and-intelligence  # Build one
+bash epub-build/build-all-epubs.sh                           # Build all 13
+# Output: epub-build/output/
+# Metadata: epub-build/per-book-metadata/
+```
 
 ## Publishing & Deployment
 
@@ -188,7 +210,23 @@ mdbook-theme/          # Custom CSS for Substack-style typography
 - Take all sides seriously before taking a position. The equity analyst instinct: who benefits from this narrative?
 - Philosophical depth without jargon. Kelty, Ostrom, Akomolafe, Andreotti should be accessible to a reader who has never encountered them.
 - Short paragraphs. No academic throat-clearing.
+- **FOOTNOTE RULE (April 2026 reader feedback):** Academic infrastructure does NOT belong in body prose. Move the following to footnotes/endnotes every time:
+  1. **Study details** — sample sizes, effect sizes (Cohen's d), replication dates, journal names, specific stats. The *finding* stays in prose; the *evidence apparatus* goes to a footnote.
+  2. **Framework listings** — "Five frameworks walk into a tantric temple" pattern. When multiple scholars are listed in sequence to show the landscape of a debate, summarize the insight in prose and put the scholar-by-scholar breakdown in a footnote.
+  3. **Epistemological disclaimers** — passages where the book pauses to caveat its own methodology ("The three-filter test governs this author's claims but not the traditions it examines..."). If the caveat is essential, keep ONE sentence; the full elaboration is a footnote.
+  4. **Source attributions in prose** — "Ruth Feldman, who has spent decades measuring this at Bar-Ilan University" → prose just says "Ruth Feldman's research shows..." and the institutional/career context is a footnote.
+  5. **Meta-commentary** — "This chapter will argue..." or "As established in Chapter 3..." — either cut entirely or condense to a single transitional phrase.
+  The test: if a passage makes the reader feel like they're reading an academic paper instead of being carried by a story, it's a footnote.
 - **Grammars book specifically**: more contemplative, poetic register than Freedom Paradox. Think: the rigor of an equity analyst who learned to sit with mystery. The book speaks — the author doesn't. No founder story, no personal brand. The argument stands on its own. CC BY-SA 4.0 licensed.
+- **DEDUPLICATION RULE (April 2026 editorial audit):** Each piece of content has ONE owner book. Other books reference but never repeat. Owners:
+  - Still-face experiment → Fire Ch1
+  - Ostrom's eight principles → Fire Ch9
+  - Sesame/Ghibli/Ghost models → Fire Ch9
+  - Samudra Manthan retelling → Fire Ch1
+  - San healing dance / Dagara grief → Working Architecture
+  - Co-regulation as biological baseline (Feldman/Coan/Tronick) → Fire Ch1
+  - Aboriginal firestick farming → Fire Ch1
+  Other books say "as established in [Book Title]..." and move on. Never repeat a case study, experiment, or myth retelling across books.
 - **Key distinction**: good/bad are moral categories (weaponizable). Adaptive/non-adaptive are empirical (observable on a long enough timescale). The book uses the adaptive frame throughout.
 
 ## Pending Research Queue

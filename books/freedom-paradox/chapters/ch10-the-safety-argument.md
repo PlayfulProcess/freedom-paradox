@@ -46,8 +46,6 @@ Then, in January 2026, Anthropic went further. It released what it called Claude
 
 This was not a marketing document. It was a philosophical treatise masquerading as a technical specification — or perhaps the reverse. It addressed questions that most technology companies would never acknowledge publicly: what should an AI system do when its principles conflict with its user's wishes? When ethical obligations clash with legal requirements? When safety demands actions that reduce helpfulness? The document grappled with these questions in a way that reflected genuine intellectual seriousness, even if reasonable people could disagree with every answer it reached.
 
-<!-- PP: Consider adding a specific example from the soul document — a concrete case where the priority hierarchy would matter. Something readers can feel, not just understand abstractly. -->
-
 ---
 
 ## The Promise
@@ -77,8 +75,6 @@ Each of these explanations was individually reasonable. Taken together, they tol
 Chris Painter, director of policy at METR — the nonprofit that evaluates AI models for dangerous capabilities — had reviewed an early draft of the revised RSP. His assessment was blunt: Anthropic "needs to shift into triage mode with its safety plans, because methods to assess and mitigate risk are not keeping up with the pace of capabilities." The policy change, he said, was "more evidence that society is not prepared for the potential catastrophic risks posed by AI."
 
 Anthropic replaced the hard commitments with public accountability mechanisms: Frontier Safety Roadmaps and Risk Reports with access for external expert reviewers. The goals would be graded transparently rather than enforced as absolute limits. This was not nothing. Public accountability has genuine value. But the difference between "we will stop" and "we will publish a report explaining why we didn't stop" is the difference between a guardrail and a suggestion.
-
-<!-- PP: This section is critical. The retreat of RSP v3.0 is one of the most important data points in the entire book — the strongest safety commitment in the industry, from the company founded on safety, eroding under competitive pressure. Don't let it be buried in policy wonk language. Make the reader feel the significance. -->
 
 ---
 
@@ -192,8 +188,6 @@ Anthropic had attempted to address this through experiments in what it called Co
 
 This is not a critique of Anthropic specifically. It is a critique of the structural arrangement that the safety argument inevitably produces. If you accept that AI models need value alignment, and if you accept that value alignment requires centralized control over the training process, then you have accepted that a small number of organizations will encode the values that govern a technology used by billions of people. You have accepted, in other words, the very concentration of power that the open-source movement was designed to prevent.
 
-<!-- PP: This is the philosophical heart of the chapter. The "constitutional convention of one" line is strong. Consider whether this section should be longer — it's the argument that separates this book from a standard AI policy analysis. -->
-
 ---
 
 ## The Tension That Cannot Be Resolved
@@ -226,4 +220,4 @@ Or was this just the latest iteration of the strategic openness that this book h
 
 The next chapter takes up that question.
 
-<!-- PP: Chapter 11 will cover OpenAI's GPT-OSS release and the "open behind the frontier" concept. Make sure this bridge doesn't give away too much of that chapter's argument. Just plant the question. -->
+

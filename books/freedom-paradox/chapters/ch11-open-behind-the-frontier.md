@@ -96,8 +96,6 @@ The question is whether this matters. Strategic dumping in physical goods destro
 
 And yet. The dependency is real. The architectural lock-in is real. The fact that forty-one percent of Hugging Face downloads now come from Chinese models — seeded by companies that are, to varying degrees, aligned with the strategic interests of the Chinese government — is a geopolitical reality that the derivative developers in Sao Paulo and Berlin and Seoul may not be thinking about.
 
-<!-- PP: This section on strategic dumping is the most original argument in the chapter. Consider expanding it — maybe bring in a trade economist's perspective or an explicit parallel to the semiconductor industry? -->
-
 ---
 
 ## What the Frontier Conceals

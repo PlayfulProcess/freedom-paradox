@@ -28,8 +28,6 @@ The numbers suggested the strategy was working spectacularly. By December 2024, 
 
 LlamaCon itself was a statement of ambition. Meta announced the Llama API — customizable, compatible with OpenAI's SDK, explicitly no lock-in. It released Llama Guard 4 and LlamaFirewall, security tools for the open-source community. It awarded $1.5 million in Llama Impact Grants. It announced partnerships with Cerebras and Groq for faster inference. This was not the behavior of a company grudgingly releasing research artifacts. This was a company building a platform.
 
-<!-- PP: The LlamaCon section could use more flavor. Was there video of Zuckerberg presenting? What was the vibe? Developer conferences have a liturgical quality worth capturing. -->
-
 ---
 
 ## The Name Game
@@ -49,8 +47,6 @@ The Free Software Foundation weighed in the following month, classifying the Lla
 What Meta was doing, the emerging terminology suggested, was releasing "open weights." The distinction matters. An open-weights model shares its learned parameters — the billions of numbers that encode the model's knowledge — but withholds the training data, the training code, and the full methodology. You can run the model. You can fine-tune it. You can build applications on top of it. But you cannot reproduce it, audit it for bias, verify its safety claims, or understand why it behaves the way it does. As one analysis put it: open weights enable replication; open source enables advancement.
 
 This was not a new pattern. It was the license wars of Chapter 6 transposed into a new technological context, with a new question at its center: what counts as "source" when the artifact is not code but a neural network? For traditional software, the source code is the human-readable form from which the executable is compiled. For an AI model, the weights are more like the compiled binary — the end product of a process. The true "source" is the combination of training data, training code, hyperparameters, and computational infrastructure that produced those weights. By this logic, releasing weights without training data is the AI equivalent of releasing a compiled binary without source code. It is precisely the kind of strategic half-openness that the free software movement was created to resist.
-
-<!-- PP: This is one of the most important sections of the chapter. The "open weights = compiled binary" analogy might be the single most clarifying thing in the whole book. Make sure this comes through clearly. -->
 
 ---
 
@@ -90,8 +86,6 @@ The new lab was developing a model codenamed Avocado. And Avocado, according to 
 
 The irony was exquisite. The company that had positioned itself as open source's greatest corporate champion — that had hosted LlamaCon, published the manifesto, awarded the grants, built the ecosystem — was now funneling its most ambitious AI work into a proprietary lab led by an outside hire, developing a closed model that it hoped would catch up to Google, OpenAI, and Anthropic.
 
-<!-- PP: The "Llamas to Avocados" CNBC headline from December 2025 is perfect. Consider using it as section title or at least referencing it. -->
-
 By December 2025, the confusion was visible from outside the company. CNBC reported that Meta's shifting AI strategy was causing internal disarray, with engineers unsure whether the future was open or closed. Avocado's release, originally targeted for the first quarter of 2026, was postponed again. Internal tests reportedly showed it lagging behind the latest models from Google, OpenAI, and Anthropic. There were even reports that Meta had considered licensing Google's Gemini model as a fallback — the AI equivalent of admitting that your homegrown strategy had failed and you needed to buy from the competition.
 
 The capital expenditure numbers told the story of escalating commitment. Meta's 2025 capex reached $70 to $72 billion, roughly seventy percent higher than the previous year. The guidance for 2026 was $115 to $135 billion. Zuckerberg projected at least $600 billion in US data center and infrastructure spending by 2028. These were not the budgets of a company confident in the efficiency of open-source development. They were the budgets of a company trying to brute-force its way to the frontier through sheer capital deployment.
@@ -126,4 +120,4 @@ But the confession has been amended. The original version said: we support open 
 
 This is not a betrayal. It is a clarification. And it is exactly the clarification that Part IV of this book will explore — applied not just to competitive strategy, but to the question of what happens when the technology itself becomes too powerful for the paradox to hold.
 
-<!-- PP: Strong ending. The "confession has been amended" line is good. Make sure it lands. Consider whether the bridge to Part IV could be slightly shorter — you don't want to preview Ch10 so much that the reader feels they already know what's coming. -->
+

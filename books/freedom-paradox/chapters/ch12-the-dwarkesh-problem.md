@@ -60,8 +60,6 @@ But Patel's argument cut deeper. The cost curve did not care about Anthropic's r
 
 What Anthropic was offering, in effect, was a guarantee that its own tools would not be used for mass surveillance. What it could not offer was a guarantee that mass surveillance would not happen. The capability existed in the open ecosystem. The only question was whether the entity conducting the surveillance would use Claude or something else.
 
-<!-- PP: This is the heart of the chapter and I think it needs to hit harder. Maybe add a concrete scenario — a specific country or agency assembling surveillance from open components? Not hypothetical, something that's already happening or clearly about to. -->
-
 ---
 
 ## The Governance Vacuum
@@ -115,8 +113,6 @@ This interpretation is plausible. It may even be true. But it requires accepting
 The other interpretation is less charitable. It is that the AI safety discourse functions primarily as a legitimation strategy for the companies that participate in it. By investing heavily in visible safety research, a company like Anthropic distinguishes itself from competitors, justifies premium pricing, earns favorable regulatory treatment, and builds political capital. The safety work is real. The researchers are sincere. The publications are scientifically rigorous. And the net effect on global AI risk is marginal, because the open-weight ecosystem renders the control points irrelevant.
 
 In this reading, AI safety is to AI what corporate social responsibility is to extractive industry: a genuine effort by genuine people that serves, structurally, to legitimize the continuation of the activity it claims to govern.
-
-<!-- PP: I think this section is the strongest in the chapter but also the most dangerous. We need to be fair to the safety researchers — many of them are doing important work that will matter when models get more capable. The "theater" framing risks being too cynical. Maybe add a paragraph acknowledging that safety research today could become essential governance infrastructure tomorrow, even if it can't control open models right now. The difference between "theater" and "rehearsal" matters. -->
 
 ---
 
