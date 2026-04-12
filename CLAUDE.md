@@ -1,3 +1,9 @@
+NExt session:
+1) in the books/research-compedium folder
+a)search for the merald episode on fire and see if it can help us weave this story better 
+b) Check direct quotes from Gottman's new research file
+3) Organizw all researhc into one folder and old book files into one folder called Old and whatever else you think might be clearner
+
 # CLAUDE.md — Instructions for Claude Code
 
 ## PRIVACY — CRITICAL RULE

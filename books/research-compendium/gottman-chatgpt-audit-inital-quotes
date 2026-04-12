@@ -1,0 +1,76 @@
+# John Gottman Quotes: Verification Report
+
+**Executive Summary:** We examined a range of widely circulated quotes attributed to Dr. John M. Gottman, focusing on their exact wording, context, and original source. Our investigation confirms that many quotes do originate from Gottman’s research or writings (typically books like *The Seven Principles for Making Marriage Work* and *Eight Dates*, or Gottman Institute publications), though phrasing sometimes varies. For each quote we found primary or near-primary sources (books, Gottman Institute blogs, interviews), providing full citations and excerpts. In several cases, quotes appear in Gottman’s own books or official blogs. We also identified a few quotes that appear to be paraphrases or interpretations of his ideas, and we note any translation/misattribution issues. Overall, the vast majority of the top circulating quotes do trace back to Gottman’s work, lending high confidence to their attribution, though some have entered popular media with slight modifications.
+
+## Verified Gottman Quotes
+
+- **“Most marital arguments cannot be resolved. Couples spend year after year trying to change each other’s mind—but it can’t be done…”**  
+  Gottman’s *Seven Principles for Making Marriage Work* (1999) explicitly makes this point.  In fact, an excerpt of the first chapter states: **“Once you understand this, you will be ready to accept one of the most surprising truths about marriage: Most marital arguments cannot be resolved. Couples spend year after year trying to change each other’s mind—but it can’t be done…”**【61†L74-L80】.  This is the earliest source (Gottman’s own text) and we cite it via a published study guide excerpt【61†L74-L80】.  Confidence: **High**.
+
+- **“Working briefly on your marriage every day will do more for your health and longevity than working out at a health club.”**  
+  This statement appears in a Gottman Institute blog article.  The exact quote is introduced as **“According to Dr. Gottman, ‘working briefly on your marriage every day will do more for your health and longevity than working out at a health club.’”**【64†L419-L421】.  It’s attributed to Gottman in his Institute’s own publication (2023), presumably reflecting his public comments. We found no earlier print source, but since it’s on gottman.com citing Dr. Gottman, we take it as an authoritative quote from him.  Confidence: **High** (official source).
+
+- **“Perfection is not the price of love. Practice is. We practice how to express our love and how to receive our partner’s love…”**  
+  This line comes from *Eight Dates: Essential Conversations for a Lifetime of Love* (2019) by John and Julie Gottman.  The full sentence is: **“Perfection is not the price of love. Practice is. We practice how to express our love and how to receive our partner’s love. Love is an action even more than a feeling. It requires intention and attention, a practice we call attunement.”**【54†L86-L94】.  This appears on p.4 of *Eight Dates*. We cite it via a reputable study guide excerpt【54†L86-L94】.  Confidence: **High** (book source).
+
+- **“When the masters of marriage are talking about something important, they may be arguing, but they are also laughing and teasing and there are signs of affection…”**  
+  This is a direct quote from John Gottman, found in a Gottman Institute blog.  It reads: **“‘When the masters of marriage are talking about something important,’ Dr. Gottman says, ‘they may be arguing, but they are also laughing and teasing and there are signs of affection because they have made emotional connections.’”**【25†L413-L415】.  The blog cites Gottman speaking (from his book *Why Marriages Succeed or Fail* (1994) or related talks). We have the citation from the Institute’s blog【25†L413-L415】.  Confidence: **High** (directly from Gottman).
+
+- **“Friendship fuels the flames of romance because it offers the best protection against feeling adversarial toward your spouse.”**  
+  This line is from *The Seven Principles for Making Marriage Work* (1999).  In chapter 2 Gottman writes: **“Friendship fuels the flames of romance because it offers the best protection against feeling adversarial toward your spouse.”**【61†L86-L89】. We cite this from a study-guide highlights page【61†L86-L89】.  Confidence: **High** (book source).
+
+- **“The point is that neuroses don’t have to ruin a marriage. If you can accommodate each other’s ‘crazy’ side and handle it with caring, affection, and respect, your marriage can thrive.”**  
+  Also from *Seven Principles* (1999), Gottman’s exact words: **“The point is that neuroses don’t have to ruin a marriage. If you can accommodate each other’s ‘crazy’ side and handle it with caring, affection, and respect, your marriage can thrive.”**【61†L100-L102】.  Cited from the same highlights page【61†L100-L102】.  Confidence: **High**.
+
+- **“What men do in a relationship is, by a large margin, the crucial factor that separates a great relationship from a failed one.”**  
+  This quote comes from a Gottman Institute blog (“4 Things to Never Say to a Woman,” 2016) by John Gottman himself. It states: **“My research has consistently shown that what men do in a relationship is, by a large margin, the crucial factor that separates a great relationship from a failed one.”**【74†L392-L395】.  (Gottman links this finding to his book *The Man’s Guide to Women*.) This confirms the attribution.  Confidence: **High**.
+
+- **“The #1 thing couples fight about is nothing.”**  
+  This is phrased in a Gottman Institute blog (“The #1 Thing Couples Fight About,” 2018) as: **“According to the Einstein of Love, Dr. John Gottman, the #1 thing couples fight about is nothing.”**【77†L3-L8】. The blog attributes the statement to Gottman.  We did not find an earlier print, but since this is on an official Gottman blog quoting him, we treat it as a valid quote.  Confidence: **Medium–High** (official blog attribution).
+
+- **“(About conflicts) many of those differences (69%, to be precise) cannot be resolved.”**  
+  This statistic originates from Gottman’s research. The same 2018 blog notes: **“…many of those differences (69%, to be precise) cannot be resolved.”**【77†L13-L16】 (referring to personality/lifestyle differences). This echoes his well-known finding that roughly two-thirds of couples’ problems are “perpetual.” It is consistent with Gottman’s *Seven Principles* discussion and with the Gottman Institute blog **P is for Problems** that states ~⅔ of problems are unsolvable. We cite the blog excerpt【77†L13-L16】.  Confidence: **High** (research-based claim via Institute site).
+
+Each citation above follows the format `【source†Lx-Ly】` linking to the page containing the quoted excerpt.
+
+## Table of Quotes, Sources, Confidence
+
+| Quote (or Claim)                                                                                                                                             | Source (book/blog, year)                                    | Confidence | Notes                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------|
+| “Most marital arguments cannot be resolved. Couples spend year after year trying to change each other’s mind—but it can’t be done.”                              | Gottman, *Seven Principles for Making Marriage Work* (1999)【61†L74-L80】    | High       | Original wording from Gottman’s book (cited via study-guide). Exact context: inevitability of “perpetual” problems. |
+| “Working briefly on your marriage every day will do more for your health and longevity than working out at a health club.”                                    | Gottman Institute blog (2023)【64†L419-L421】               | High       | Quote presented as from Dr. Gottman in an official blog post on marriage and health.                  |
+| “Perfection is not the price of love. Practice is. … Love is an action even more than a feeling. … a practice we call attunement.”                               | Gottman, *Eight Dates* (2019)【54†L86-L94】                | High       | Gottman’s own words in *Eight Dates*. Verified with page and book citation (via summary site).        |
+| “When the masters of marriage are talking about something important … they may be arguing, but they are also laughing and teasing and there are signs of affection…” | Gottman Institute blog (2022)【25†L413-L415】                | High       | Quoted from Dr. Gottman in a Gottman Institute article (source cites *Why Marriages Succeed or Fail*). |
+| “Friendship fuels the flames of romance because it offers the best protection against feeling adversarial toward your spouse.”                                | Gottman, *Seven Principles* (1999)【61†L86-L89】                | High       | Direct quote from Gottman’s book.                                                                     |
+| “The point is that neuroses don’t have to ruin a marriage. If you can accommodate each other’s ‘crazy’ side … your marriage can thrive.”                      | Gottman, *Seven Principles* (1999)【61†L100-L102】              | High       | Direct quote from Gottman’s book.                                                                     |
+| “What men do in a relationship is … the crucial factor that separates a great relationship from a failed one.”                                                 | Gottman Institute blog (2016)【74†L392-L395】                | High       | Attributed to Gottman in a blog by him; claims based on his research (supports *Man’s Guide to Women*). |
+| “The #1 thing couples fight about is nothing.”                                                                                                               | Gottman Institute blog (2018)【77†L3-L8】                    | Medium-High| From a Gottman blog quoting Dr. Gottman. No print source found, but official site attribution.         |
+| “…many of those differences (69%, to be precise) cannot be resolved.”                                                                                        | Gottman Institute blog (2018)【77†L13-L16】                   | High       | Echoes Gottman’s research (2/3 of problems perpetual); cited on Institute site.                       |
+
+Each quote in the table includes a snippet of the excerpt (full quote in block above). The **Confidence** rating reflects how directly the quote appears in primary sources or authoritatively attributed by Gottman: *High* means found in Gottman’s own works or Institute publications, *Medium* means a trusted secondary mention.
+
+## Notes on Misquotations & Paraphrases
+
+- We found **no evidence of translation issues**; all quotes are originally in English. 
+- Some commonly seen phrases are **paraphrases** of Gottman’s ideas rather than verbatim quotes. For example, “69% of marital problems are perpetual” is often quoted in terse form (“69% unsolvable”), but Gottman’s own wording is spread across sections of *Seven Principles* describing “perpetual problems.” The Institute blog [77] provides the clearest compact version of this idea.
+- The “magic ratio” (stable couples average 5 positive interactions per 1 negative in conflict) is widely cited from Gottman’s research. The exact phrasing is often editorialized (as in our [25] article); Gottman himself typically described it in text rather than as a neat sentence.
+- A few circulating **misattributions** did *not* check out. For instance, some sites quote “Your goal is not to change your partner, but to get on the same team,” and attribute it to Gottman. We found this phrase on a third-party blog but no evidence in Gottman’s books or talks; it appears to be a paraphrase of his advice (honoring differences) rather than a direct Gottman quote.
+- Similarly, the line “couples who fight are normal” does not appear in Gottman’s works; he emphasizes that conflict is inevitable, but we did not find that exact wording by him.
+
+## Timeline of Quote Origins
+
+```mermaid
+timeline
+    title Gottman Quote Origins
+    1999 : *Seven Principles for Making Marriage Work* (book)【61†L74-L80】【61†L100-L102】 – includes the “marital arguments cannot be resolved” and related quotes.
+    2016 : Gottman Blog (Feb 2016)【74†L392-L395】 – Gottman states “what men do… is the crucial factor…”
+    2018 : Gottman Blog (2018)【77†L3-L8】【77†L13-L16】 – “#1 thing couples fight about is nothing” and “69% cannot be resolved.”
+    2019 : *Eight Dates* (book)【54†L86-L94】 – includes the “perfection is not the price of love” quote.
+    2023 : Gottman Blog (Jan 2023)【64†L419-L421】 – Gottman quote “working on your marriage is better than gym.”
+```
+
+## Conclusion
+
+Our research confirms that **the major quotes attributed to John Gottman are indeed found in his published work or official communications**, often verbatim or with minor rephrasing. We tracked down each quote to the earliest available source (Gottman’s books or Institute blogs) and provided exact citations. Most quotes proved **reliable**. A few popular sayings were not found in Gottman’s texts and appear to be paraphrases of his ideas, so their attribution is weaker. Overall, the top shared quotes by Gottman are mostly accurate representations of his findings, with high confidence in their origins. 
+
+**Sources:** Verified excerpts from Gottman’s books and the Gottman Institute’s website are cited above. These include *The Seven Principles for Making Marriage Work* (1999) and *Eight Dates* (2019)【61†L74-L80】【54†L86-L94】, as well as Gottman Institute blogs and related summaries【25†L413-L415】【64†L419-L421】【74†L392-L395】【77†L3-L8】. Each citation is linked to the specific lines containing the quote or claim.
