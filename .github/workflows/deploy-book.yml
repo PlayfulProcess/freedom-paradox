@@ -45,6 +45,23 @@ jobs:
           mdbook build
           cp CNAME book/ 2>/dev/null || true
 
+      - name: Add EPUBs and library landing page
+        run: |
+          # Copy EPUBs into the build output
+          mkdir -p book/epubs
+          cp docs/epubs/*.epub book/epubs/ 2>/dev/null || true
+
+          # Use the library landing page as the site index
+          cp docs/epubs/index.html book/index.html 2>/dev/null || true
+
+          # Fix epub links to point to epubs/ subdirectory
+          sed -i 's|href="\([^"]*\.epub\)"|href="epubs/\1"|g' book/index.html 2>/dev/null || true
+
+          # Keep mdbook content accessible at /reader/
+          mkdir -p book/reader
+          # Move mdbook's index to reader/ so both coexist
+          if [ -f book/index.html.bak ]; then rm book/index.html.bak; fi
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
