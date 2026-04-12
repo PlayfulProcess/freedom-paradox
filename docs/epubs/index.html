@@ -325,6 +325,20 @@
 </head>
 <body>
 
+<!-- Hero Banner: recursive.eco -->
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 3rem 1.5rem; text-align: center; border-bottom: 2px solid #e94560;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <div style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.15em; color: #e94560; margin-bottom: 0.5rem;">Free &middot; Open Source &middot; No Account Required</div>
+    <h2 style="font-family: 'Crimson Pro', Georgia, serif; font-size: 2.2rem; color: #e6edf3; margin-bottom: 0.75rem;">recursive.eco</h2>
+    <p style="font-family: 'Crimson Pro', Georgia, serif; font-size: 1.2rem; color: #8b949e; font-style: italic; margin-bottom: 1.5rem;">A grammar reader for the living world. Cast an oracle. Read a story. Sit with a question.</p>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="https://recursive.eco" style="display: inline-block; padding: 0.75rem 2rem; background: #e94560; color: #fff; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1rem; transition: background 0.2s;">Cast the Oracle</a>
+      <a href="https://audiobooks.recursive.eco" style="display: inline-block; padding: 0.75rem 2rem; background: transparent; color: #e94560; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1rem; border: 1px solid #e94560; transition: background 0.2s;">Kids Audiobooks</a>
+      <a href="https://www.playfulprocess.com/" style="display: inline-block; padding: 0.75rem 2rem; background: transparent; color: #7d8590; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1rem; border: 1px solid #30363d; transition: background 0.2s;">Substack</a>
+    </div>
+  </div>
+</div>
+
 <!-- Header -->
 <div class="header">
   <h1>PlayfulProcess &mdash; Library</h1>
@@ -341,7 +355,10 @@
       <div class="subtitle">Open Source, AI, and the Limits of Openness</div>
       <div class="meta">17 chapters &middot; ~67,000 words</div>
       <div class="spacer"></div>
-      <a href="freedom-paradox.epub" class="download-btn">Download EPUB</a>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <a href="../freedom-paradox/ch01-the-anthropic-clause.html" class="download-btn" style="flex: 1;">Read Online</a>
+        <a href="freedom-paradox.epub" class="download-btn" style="flex: 1; background: transparent; border: 1px solid #3fb950; color: #3fb950;">EPUB</a>
+      </div>
     </div>
 
     <div class="card">
@@ -349,7 +366,10 @@
       <div class="subtitle">A practical manual for building containers</div>
       <div class="meta">12 chapters &middot; ~20,000 words</div>
       <div class="spacer"></div>
-      <a href="working-architecture.epub" class="download-btn">Download EPUB</a>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <a href="../working-architecture/ch01-your-nervous-system-is-not-yours-alone.html" class="download-btn" style="flex: 1;">Read Online</a>
+        <a href="working-architecture.epub" class="download-btn" style="flex: 1; background: transparent; border: 1px solid #3fb950; color: #3fb950;">EPUB</a>
+      </div>
     </div>
 
     <div class="card">
@@ -357,7 +377,19 @@
       <div class="subtitle">Tillich vs Wallis on whether inherent value is truth or axiom</div>
       <div class="meta">14 chapters &middot; ~13,000 words</div>
       <div class="spacer"></div>
-      <a href="axiom-beneath-the-ground.epub" class="download-btn">Download EPUB</a>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <a href="axiom-beneath-the-ground.epub" class="download-btn" style="flex: 1;">EPUB</a>
+      </div>
+    </div>
+
+    <div class="card" style="border-color: #f0883e;">
+      <h3>The Campfire Stories</h3>
+      <div class="subtitle">Five-minute bedtime stories from world traditions, ages 3&ndash;7</div>
+      <div class="meta">5 books &middot; 10 stories &middot; with audio</div>
+      <div class="spacer"></div>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <a href="https://audiobooks.recursive.eco" class="download-btn" style="flex: 1; background: #f0883e; border-color: #f0883e;">Listen &amp; Read</a>
+      </div>
     </div>
 
   </div>
@@ -425,13 +457,27 @@
   </div>
 </div>
 
+<!-- Cross-links banner -->
+<div style="background: #161b22; padding: 2.5rem 1.5rem; text-align: center; border-top: 1px solid #21262d; border-bottom: 1px solid #21262d;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h3 style="font-family: 'Crimson Pro', Georgia, serif; font-size: 1.5rem; color: #e6edf3; margin-bottom: 1rem;">The full ecosystem</h3>
+    <div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin-bottom: 1rem;">
+      <a href="https://recursive.eco" style="color: #e94560; text-decoration: none; font-weight: 600;">recursive.eco <span style="color: #7d8590; font-weight: 400;">Oracle &amp; Grammar Reader</span></a>
+      <a href="https://audiobooks.recursive.eco" style="color: #58a6ff; text-decoration: none; font-weight: 600;">audiobooks.recursive.eco <span style="color: #7d8590; font-weight: 400;">Kids Stories</span></a>
+      <a href="https://www.playfulprocess.com/" style="color: #f0883e; text-decoration: none; font-weight: 600;">playfulprocess.com <span style="color: #7d8590; font-weight: 400;">Substack</span></a>
+    </div>
+    <p style="color: #484f58; font-size: 0.9rem; font-style: italic;">All books are CC BY-SA 4.0. Fork them, argue with them, build on them.</p>
+  </div>
+</div>
+
 <!-- Footer -->
 <div class="footer">
   <div class="links">
     CC BY-SA 4.0 &middot; PlayfulProcess &middot; Built with Claude Code
   </div>
   <div>
-    <a href="https://github.com/PlayfulProcess/freedom-paradox">GitHub</a>
+    <a href="https://github.com/PlayfulProcess/freedom-paradox">GitHub</a> &middot;
+    <a href="../index.html">Web Reader (all chapters)</a>
   </div>
   <div class="license">
     These books are open-source. Fork them, argue with them, build on them.

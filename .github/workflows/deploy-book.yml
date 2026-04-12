@@ -51,16 +51,20 @@ jobs:
           mkdir -p book/epubs
           cp docs/epubs/*.epub book/epubs/ 2>/dev/null || true
 
-          # Use the library landing page as the site index
+          # Save mdbook's index so it remains accessible
+          cp book/index.html book/reader-index.html 2>/dev/null || true
+
+          # Library landing page becomes the site index
           cp docs/epubs/index.html book/index.html 2>/dev/null || true
 
-          # Fix epub links to point to epubs/ subdirectory
+          # Fix epub links: point to epubs/ subdirectory
           sed -i 's|href="\([^"]*\.epub\)"|href="epubs/\1"|g' book/index.html 2>/dev/null || true
 
-          # Keep mdbook content accessible at /reader/
-          mkdir -p book/reader
-          # Move mdbook's index to reader/ so both coexist
-          if [ -f book/index.html.bak ]; then rm book/index.html.bak; fi
+          # Fix "Read Online" links: remove ../ prefix (they were relative to epubs/)
+          sed -i 's|href="\.\./|href="|g' book/index.html 2>/dev/null || true
+
+          # Fix "Web Reader" footer link
+          sed -i 's|href="\.\./index\.html"|href="reader-index.html"|g' book/index.html 2>/dev/null || true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
