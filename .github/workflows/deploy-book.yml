@@ -36,6 +36,11 @@ jobs:
           mkdir -p src/real-cost-of-lunch
           cp books/real-cost-of-lunch/chapters/ch*.md src/real-cost-of-lunch/
 
+          # The Axiom Beneath the Ground v2
+          mkdir -p src/axiom-v2
+          cp books/axiom-beneath-the-ground/chapters/v2-ch*.md src/axiom-v2/
+          cp books/axiom-beneath-the-ground/chapters/the-ceremony.md src/axiom-v2/
+
           # Charts
           mkdir -p src/images
           cp models/charts/*.png src/images/ 2>/dev/null || true

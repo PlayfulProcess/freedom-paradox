@@ -95,6 +95,16 @@
 
 ---
 
+# The Axiom Beneath the Ground (v2)
+
+- [Chapter 1: The Void and the Filter](axiom-v2/v2-ch01-the-void-and-the-filter.md)
+- [Chapter 2: Two Teachers, One Ground](axiom-v2/v2-ch02-two-teachers-one-ground.md)
+- [Chapter 3: The Mandala of Blessings](axiom-v2/v2-ch03-the-mandala-of-blessings.md)
+- [Chapter 4: The Grammar You Build by Practicing It](axiom-v2/v2-ch04-the-grammar-you-build-by-practicing-it.md)
+- [The Ceremony](axiom-v2/the-ceremony.md)
+
+---
+
 # Appendix A — The Real Cost of Lunch
 
 - [Chapter 1: You're Not Eating Food](real-cost-of-lunch/ch01-youre-not-eating-food.md)
