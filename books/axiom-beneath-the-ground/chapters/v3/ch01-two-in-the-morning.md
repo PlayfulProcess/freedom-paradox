@@ -30,6 +30,15 @@ She read. She read philosophy, theology, psychology, neuroscience. She read the 
 
 Nothing landed. Not because the ideas were wrong — some of them were brilliant, and she could feel their brilliance — but because the faculty that would allow an idea to become a felt reality, a ground beneath her feet, was the thing that had broken. The ideas stayed in her head. They would not descend into her body. She could think them. She could not stand on them.
 
+One night she wrote four lines in the notebook and then stared at them for a long time:
+
+> *No meaning*
+> *Because concepts are so limiting*
+> *If nobody meant "A" to be*
+> *The sea would still be as "s" "e"*
+
+She did not know if it was a poem or a diagnosis. It was both. The sea does not need the letter to be the sea. Meaning is imposed, not discovered. Or is it? She closed the notebook.
+
 ---
 
 A candle on a table. Two in the morning again, or close to it. But this time she is not against the wall. She is sitting upright, in a chair, with a notebook open. She has been reading — Tillich, and a therapist named Linehan she discovered through a friend — and she has a question. Not a philosophical question. She is done with those for tonight. A practical one. She writes it at the top of a blank page:

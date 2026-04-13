@@ -118,6 +118,20 @@ She opened her eyes.
 
 The room came back in layers. The candle flame, guttering now, the wax nearly spent. The photograph in its dark frame, the teacher's face barely visible in the low light. The brass figure, catching the last of the flame, a glint of gold on a dark shelf. The window beyond, the city outside it, the distant sound of a bus or a truck, the sound that cities make at night when they are pretending to sleep.
 
+She reached for the notebook on the shelf beside the cushion. She did not turn on a light. In the last glow of the dying candle she wrote:
+
+> *No path*
+> *Death eventually will consume all*
+> *And for that I thank God*
+> *So I can choose to reach beyond*
+>
+> *No path*
+> *You're a unique contraction that connects*
+> *And I will thank God for that*
+> *And choose the path I am*
+
+She closed the notebook. The candle guttered and went out.
+
 She uncrossed her legs. The knees protested --- the left one, always the left one, a stiffness that took the first few steps to work through. She placed her hands on the floor beside the cushion and pressed herself up. The floorboards creaked under her weight. She stood. The room was dark except for the candle's last light, and then the candle guttered and went out and the room was fully dark, and she stood in it for a moment, in the dark, in the smell of sandalwood and extinguished wax, in the quiet of the apartment where her family slept.
 
 She walked to the child's room.

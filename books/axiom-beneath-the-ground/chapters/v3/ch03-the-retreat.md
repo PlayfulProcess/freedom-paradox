@@ -44,9 +44,28 @@ She sat with both channels running. She did not try to choose one or shut down t
 
 She opened her eyes. The marigolds on the altar were very bright.
 
+That evening she sat on her bed in the dormitory and wrote in the small notebook she had brought:
+
+> *Water follows water*
+> *Rain drops from clouds*
+> *Clouds gather from oceans*
+> *Oceans gather from rivers*
+> *Of previous rain*
+>
+> *In a grotto, drop follows drop*
+> *Condensing in crystallized paths*
+> *For new, old, eternal water*
+> *To better yield to gravity*
+>
+> *So let your tears open the path to the nectar of love.*
+> *Love follows love and*
+> *Tears open path for love to reign*
+
+She did not know where it came from. The tears had arrived during the afternoon sitting and she had not stopped them. They were not grief exactly — they were closer to what happens when a fist that has been clenched for thirty years begins, without deciding to, to open.
+
 ---
 
-The teaching session that afternoon was when the alarm began.
+The teaching session the next morning was when the alarm began.
 
 The teacher led the group in a chanting practice that involved the altar. Not simply facing it, as they had been, but directing attention toward it --- toward the brass figures, the photograph, the flowers. The teacher spoke about devotion. About the heart opening toward something it cannot fully comprehend. About the tradition's understanding of images not as gods to be worshipped but as focal points for a particular quality of attention.
 
