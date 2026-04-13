@@ -102,7 +102,7 @@ Governments are answering that question with legislation, not recognition. The E
 
 **Nested enterprises.** Governance organized in layers, local to global.
 
-This is perhaps the most painful failure. Effective AI governance would require nested institutions: local AI safety boards, national regulatory agencies, regional frameworks (like the EU AI Act), and a binding international treaty with monitoring and enforcement power — an IAEA for AI, as Sam Altman and others have proposed. [VERIFY: exact Altman quote on IAEA for AI]
+This is perhaps the most painful failure. Effective AI governance would require nested institutions: local AI safety boards, national regulatory agencies, regional frameworks (like the EU AI Act), and a binding international treaty with monitoring and enforcement power — an IAEA for AI, as Sam Altman and others have proposed. In a May 2023 blog post co-authored with OpenAI colleagues, Altman wrote: "We are likely to eventually need something like an IAEA for superintelligence efforts" — an international authority that could "inspect systems, require audits, test for compliance with safety standards, place restrictions on degrees of deployment and levels of security."
 
 No such architecture exists. National regulations conflict. International coordination is aspirational. The fragmentation is not accidental — it reflects the genuine difficulty of governing a technology that respects no borders, serves every purpose, and operates at the speed of software distribution.
 
@@ -118,7 +118,7 @@ AI models are not rivalrous. Downloading Llama does not diminish Meta's copy. A 
 
 But the harms that AI enables are rivalrous. They consume shared resources that are depletable, often irreversibly.
 
-Social trust is a commons. Every convincing deepfake that circulates — every fabricated video of a politician, every synthetic audio of a CEO authorizing a fraudulent transaction, every generated image that is indistinguishable from a photograph — erodes the shared resource of epistemic trust. When no one can be certain whether any video is real, the baseline assumption shifts from trust to suspicion. This is a tragedy of the commons in Hardin's exact sense: each producer of synthetic media captures individual benefit (attention, influence, fraud proceeds) while distributing the cost (erosion of collective trust) across everyone. [VERIFY: deepfake growth rate — reports suggest 900% annual increase]
+Social trust is a commons. Every convincing deepfake that circulates — every fabricated video of a politician, every synthetic audio of a CEO authorizing a fraudulent transaction, every generated image that is indistinguishable from a photograph — erodes the shared resource of epistemic trust. When no one can be certain whether any video is real, the baseline assumption shifts from trust to suspicion. This is a tragedy of the commons in Hardin's exact sense: each producer of synthetic media captures individual benefit (attention, influence, fraud proceeds) while distributing the cost (erosion of collective trust) across everyone. The volume of deepfake content online has been growing at roughly 900 percent annually — from an estimated 500,000 deepfakes in 2023 to approximately 8 million by 2025, according to cybersecurity firm DeepStrike — while deepfake-related fraud incidents increased tenfold between 2022 and 2023.
 
 Privacy is a commons. Mass surveillance powered by AI facial recognition, behavioral prediction, and data aggregation degrades the shared expectation that public spaces are not spaces of total observation. One actor's deployment of surveillance infrastructure diminishes everyone's privacy, even those who are not directly surveilled, because the *possibility* of surveillance alters behavior. The chilling effect is itself a form of commons depletion.
 
@@ -174,7 +174,7 @@ This is the fundamental disanalogy. The code commons assumes that errors are cor
 
 ## The Question the Commons Cannot Answer
 
-Elinor Ostrom gave us the most sophisticated, empirically grounded framework for collective governance that exists. She proved that communities could manage shared resources without either the heavy hand of the state or the atomization of private property. She demonstrated, across cultures and centuries, that human beings were capable of cooperation more nuanced than Hardin imagined.
+Elinor Ostrom gave us one of the most sophisticated, empirically grounded frameworks for collective governance available. She proved that communities could manage shared resources without either the heavy hand of the state or the atomization of private property. She demonstrated, across cultures and centuries, that human beings were capable of cooperation more nuanced than Hardin imagined.
 
 Her framework works for fisheries. It works for forests and meadows and irrigation canals. It works for code — the Linux kernel, the Apache web server, the vast ecosystem of open-source software that undergirds the digital world. It works, in its way, for knowledge — Wikipedia is a commons governed by principles Ostrom would recognize.
 

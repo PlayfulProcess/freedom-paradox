@@ -150,11 +150,39 @@ bash build.sh        # Syncs chapters from source dirs → src/, runs mdbook bui
 - Custom CSS: `mdbook-theme/substack.css` (Newsreader serif, 19px, 680px max-width)
 - Config: `book.toml`
 
+### Full Publishing Checklist (after any chapter edit)
+
+When chapter content changes, ALL of these must be updated or the site will be stale:
+
+1. **Edit the source file** in `books/[book]/chapters/` (the source of truth)
+2. **Rebuild EPUB**: `bash epub-build/build-single-epub.sh [book-slug]`
+3. **Copy EPUB to docs/epubs/**: `cp epub-build/output/[slug].epub docs/epubs/`
+4. **Rebuild mdbook site**: `bash build.sh` (syncs chapters to `src/`, runs mdbook build)
+5. **Git add + commit + push**: must include `books/`, `epub-build/output/`, `docs/epubs/`, `src/`
+6. **GitHub Actions** auto-deploys on push to master (see `.github/workflows/deploy-book.yml`)
+
+**Three places that must stay in sync:**
+- `build.sh` — local build: copies chapters from `books/` to `src/`
+- `.github/workflows/deploy-book.yml` — CI build: same copies, runs on GitHub Actions
+- `src/SUMMARY.md` — mdbook table of contents: must list all chapters with correct paths
+
+**Two landing pages:**
+- `docs/epubs/index.html` — the main site landing page (books.recursive.eco), has Read Online + EPUB buttons. Gets copied to `book/index.html` during deploy.
+- `epub-build/index.html` — the EPUB download page (legacy, less important)
+
+**When adding a new book or version:**
+1. Add `mkdir -p` + `cp` lines to BOTH `build.sh` AND `.github/workflows/deploy-book.yml`
+2. Add entries to `src/SUMMARY.md`
+3. Update `docs/epubs/index.html` with Read Online + EPUB links
+4. Build the EPUB and copy to `docs/epubs/`
+
 ### Adding a new chapter
 1. Write the chapter in `books/[book]/chapters/ch##-slug.md`
 2. Add a line to `src/SUMMARY.md` pointing to the staged path
-3. Add a `cp` line to `build.sh`
+3. Add a `cp` line to `build.sh` AND `.github/workflows/deploy-book.yml`
 4. Run `bash build.sh`
+5. Rebuild EPUB: `bash epub-build/build-single-epub.sh [book-slug]`
+6. Copy EPUB: `cp epub-build/output/[slug].epub docs/epubs/`
 
 ### Python emergence models
 Computational models in `models/` support the books' arguments:

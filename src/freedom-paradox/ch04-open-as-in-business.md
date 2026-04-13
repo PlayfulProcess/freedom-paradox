@@ -22,9 +22,7 @@ The answer came from someone who was not a software developer at all. Christine 
 
 The problem, she argued, was linguistic. In English, "free" is hopelessly ambiguous. It means both "without cost" and "without restriction." Richard Stallman's careful distinction — "free as in speech, not free as in beer" — was philosophically precise and practically useless. It required a paragraph of explanation every time you said it. Worse, even after the explanation, the word "free" lingered in a businessperson's ear. It sounded anti-commercial. It sounded like the software was worthless. It sounded, to a corporate executive evaluating vendor relationships, like ideology.
 
-Peterson suggested a replacement: "open source."
-
-[QUOTE NEEDED: Christine Peterson's own account of suggesting the term — she has written and spoken publicly about this moment, including a 2018 account published by Opensource.com on the 20th anniversary. Her primary-source recollection would be valuable here.]
+Peterson suggested a replacement: "open source." In a first-person account she originally wrote in 2006 and published on Opensource.com in 2018, on the twentieth anniversary of the meeting, Peterson explained her reasoning: the term "free software" was distracting because of its focus on price. The industry needed a term that would focus on the source code itself and not confuse people who were new to the concept. "Open source" fulfilled those requirements.
 
 The term was not hers alone in every sense — the phrase existed before the meeting — but she was the one who proposed it for the movement, in this room, at this moment. The group debated it. Todd Anderson, another attendee, helped refine the framing. Within days, Raymond and others began using it publicly. The term stuck. And in that renaming, something fundamental shifted.
 
@@ -50,7 +48,7 @@ His objection was not tactical but philosophical, and he has articulated it with
 
 Stallman saw the rebranding as a deliberate amputation. The Four Freedoms — to run, to study, to redistribute, to modify — were not engineering principles. They were *ethical* principles, grounded in a vision of what human beings owe each other when they share tools. To strip those principles out and replace them with efficiency arguments was, in Stallman's view, to gut the movement of the only thing that made it a movement rather than a methodology.
 
-[QUOTE NEEDED: Stallman's most direct statement about the difference between free software and open source — he has made this argument in speeches, essays, and interviews many times. The GNU Project's "Why Open Source Misses the Point of Free Software" essay is the canonical text, but a more direct personal quote would be valuable.]
+In his canonical essay on the subject, "Why Open Source Misses the Point of Free Software," Stallman drew the line with characteristic precision: "The two terms describe almost the same category of software, but they stand for views based on fundamentally different values." When we call software "free," he wrote, we mean that it respects the users' essential freedoms. The idea of open source, by contrast, is that allowing users to change and redistribute the software will make it more powerful and reliable — a claim about engineering outcomes, not about rights. The main initial motivation of those who split off the open source camp, Stallman observed, was that the ethical ideas of free software made some people uneasy — and by keeping quiet about ethics and freedom, they might be able to sell the software more effectively to business.
 
 The "free as in speech, not free as in beer" formulation, which Peterson and the open source camp found cumbersome, was precisely the point for Stallman. The distinction was supposed to be difficult. It was supposed to force a conversation about what "freedom" means — not freedom-to-download, but freedom-to-control-your-own-computing. If explaining the distinction was awkward, that was because the concept itself required moral seriousness. Removing the awkwardness meant removing the seriousness.
 
@@ -60,17 +58,17 @@ He was right about that, at least.
 
 ---
 
-In the short term — roughly 1998 to 2020 — the open source rebranding was an unqualified triumph. It opened the floodgates of corporate participation. Companies that would never have touched "free software" — with its whiff of anti-capitalism — embraced "open source" enthusiastically.
+In the short term — roughly 1998 to 2020 — the open source rebranding was a remarkable triumph. It opened the floodgates of corporate participation. Companies that would never have touched "free software" — with its whiff of anti-capitalism — embraced "open source" enthusiastically.
 
 The milestones came fast. In 1999, Red Hat went public. Its IPO was the eighth-largest first-day gain in Wall Street history at the time — a company built entirely on free software, valued by the market at billions of dollars. The message to corporate America was unmistakable: there was real money in open source.
 
 Then came IBM. In 2000, IBM announced it would invest one billion dollars in Linux — an almost incomprehensible sum to commit to a project that no single company owned or controlled. IBM's bet was strategic: it saw Linux as the platform that would undermine Microsoft's dominance in enterprise computing, and it was willing to pay a billion dollars to accelerate that outcome. The investment legitimized open source in boardrooms where the word "free" would have gotten you escorted out.
 
-The most dramatic conversion, though, was Microsoft's. In June 2001, Steve Ballmer, Microsoft's CEO, told the *Chicago Sun-Times* that Linux was "a cancer that attaches itself in an intellectual property sense to everything it touches." [VERIFY: Exact quote and publication date — this is widely reported as a Chicago Sun-Times interview, June 2001] The metaphor was deliberate: the GPL's copyleft provision, which requires derivative works to carry the same license, was in Ballmer's view a contagion that destroyed intellectual property wherever it spread.
+The most dramatic conversion, though, was Microsoft's. On June 1, 2001, Steve Ballmer, Microsoft's CEO, told the *Chicago Sun-Times* that Linux was "a cancer that attaches itself in an intellectual property sense to everything it touches." The metaphor was deliberate: the GPL's copyleft provision, which requires derivative works to carry the same license, was in Ballmer's view a contagion that destroyed intellectual property wherever it spread.
 
 For years, Microsoft operated under this posture. Internal memos (leaked as the "Halloween Documents" in 1998) had laid out a strategy of fear, uncertainty, and doubt aimed at Linux. Ballmer repeated the "cancer" line. Microsoft's lawyers aggressively defended Windows' monopoly. The company was, by any reasonable measure, the open source movement's primary adversary.
 
-The reversal took fifteen years and a change of leadership. Under Satya Nadella, who became CEO in 2014, Microsoft began contributing to open-source projects. It open-sourced .NET, its flagship development framework. It released Visual Studio Code, which became the most popular code editor in the world, under an open-source license. And in 2018, Microsoft acquired GitHub — the platform where virtually all open-source collaboration happens — for $7.5 billion in stock. [VERIFY: $7.5B acquisition price, confirmed by Microsoft's June 2018 announcement]
+The reversal took fifteen years and a change of leadership. Under Satya Nadella, who became CEO in 2014, Microsoft began contributing to open-source projects. It open-sourced .NET, its flagship development framework. It released Visual Studio Code, which became the most popular code editor in the world, under an open-source license. And in 2018, Microsoft acquired GitHub — the platform where virtually all open-source collaboration happens — for $7.5 billion in stock, announced on June 4, 2018, and closed that October.
 
 From "cancer" to a $7.5 billion acquisition in seventeen years. The journey tells you everything about what the 1998 rebranding accomplished.
 
@@ -92,7 +90,7 @@ Stallman's framework had an answer to that question. The Four Freedoms were cent
 
 The excision was understandable. It worked. It produced two decades of extraordinary growth and innovation. But it left the movement structurally unable to articulate why some kinds of openness might be dangerous — because danger is a moral category, and the movement had spent twenty-five years cultivating a vocabulary that was deliberately, proudly amoral.
 
-[RESEARCH NEEDED: Was there internal debate within the 1998 group about how much of the ethical dimension to preserve? Did anyone push back on the pragmatic framing?]
+The historical record suggests that the ethical dimension was deliberately set aside, not debated and lost. The attendees at VA Research were strategists, not philosophers. Their explicit goal was to capitalize on the Netscape moment by making free software palatable to corporations. Stallman was not invited and would not have attended if he had been. The decision to drop the ethical framing was not a compromise — it was the premise of the meeting. Bruce Perens, who co-founded the OSI with Raymond, would later express some ambivalence and briefly attempt to reconcile the two camps, but the strategic direction was set from the first day.
 
 ---
 
@@ -128,4 +126,4 @@ This is where the 1998 story connects to the 2026 story. In Chapter 1, we watche
 
 The movement that Christine Peterson renamed in a conference room in Mountain View — the movement that stripped out Stallman's ethics to win corporate hearts — is now living in a world where those ethics were the thing it needed most. The pragmatism worked. The victory was real. And the bill is coming due.
 
-[RESEARCH NEEDED: Did Stallman himself comment on the AI open-source debate? Has he weighed in on whether the Four Freedoms apply to AI models?]
+Stallman has, in fact, weighed in — though not in the way either side might have hoped. In his 2024-2026 speaking tour, he launched a characteristically blunt critique of large language models, refusing to use the term "artificial intelligence" and preferring phrases like "pretend intelligence." On the specific question of whether the Four Freedoms apply to AI models, his answer was surprising: "Software licenses are not the right way to prevent a program from being used harmfully. That's not what software licenses are effective for." He argued that while learning from data is fair use, if an AI generates code that replaces the programmer, it violates the social contract of the commons. He also pointed out that almost all AI is delivered as Software as a Service — a model he has opposed for decades as fundamentally hostile to user freedom, regardless of whether the underlying code is open.

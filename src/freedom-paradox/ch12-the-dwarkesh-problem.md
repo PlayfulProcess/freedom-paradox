@@ -60,8 +60,6 @@ But Patel's argument cut deeper. The cost curve did not care about Anthropic's r
 
 What Anthropic was offering, in effect, was a guarantee that its own tools would not be used for mass surveillance. What it could not offer was a guarantee that mass surveillance would not happen. The capability existed in the open ecosystem. The only question was whether the entity conducting the surveillance would use Claude or something else.
 
-<!-- PP: This is the heart of the chapter and I think it needs to hit harder. Maybe add a concrete scenario — a specific country or agency assembling surveillance from open components? Not hypothetical, something that's already happening or clearly about to. -->
-
 ---
 
 ## The Governance Vacuum
@@ -78,7 +76,7 @@ Open-weight AI models have no bottleneck. The model weights are files. They can 
 
 A researcher at the Centre for Future Generations in Brussels posed the question that followed from this analysis: can open-weight models ever be safe? Not in the narrow sense of whether a specific model has guardrails. In the systemic sense of whether a technology whose defining characteristic is uncontrolled replication can coexist with governance frameworks that assume the ability to control.
 
-[RESEARCH NEEDED: Specific proposals for post-release governance of open-weight models — any technical approaches that show promise?]
+Several proposals had emerged by early 2026, though none had achieved consensus. The Centre for Future Generations in Brussels published a framework advocating tiered, safety-anchored release — openness calibrated to rigorous risk assessment rather than ideology or commercial pressure. The EU's General-Purpose AI Code of Practice, finalized in July 2025, advised all models, whether open- or closed-weight, to adopt core technical safety measures before release, though compliance remained voluntary. The OECD's Global Partnership on AI recommended marginal risk assessment — evaluating whether a specific model release meaningfully increases harm beyond what existing openly available models already enable. Each approach grappled with the same structural challenge: once weights are released, enforcement becomes impossible. The governance proposals were, at best, frameworks for deciding *whether* to release. None had a credible mechanism for governing models *after* release.
 
 ---
 
@@ -115,8 +113,6 @@ This interpretation is plausible. It may even be true. But it requires accepting
 The other interpretation is less charitable. It is that the AI safety discourse functions primarily as a legitimation strategy for the companies that participate in it. By investing heavily in visible safety research, a company like Anthropic distinguishes itself from competitors, justifies premium pricing, earns favorable regulatory treatment, and builds political capital. The safety work is real. The researchers are sincere. The publications are scientifically rigorous. And the net effect on global AI risk is marginal, because the open-weight ecosystem renders the control points irrelevant.
 
 In this reading, AI safety is to AI what corporate social responsibility is to extractive industry: a genuine effort by genuine people that serves, structurally, to legitimize the continuation of the activity it claims to govern.
-
-<!-- PP: I think this section is the strongest in the chapter but also the most dangerous. We need to be fair to the safety researchers — many of them are doing important work that will matter when models get more capable. The "theater" framing risks being too cynical. Maybe add a paragraph acknowledging that safety research today could become essential governance infrastructure tomorrow, even if it can't control open models right now. The difference between "theater" and "rehearsal" matters. -->
 
 ---
 

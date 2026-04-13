@@ -95,13 +95,17 @@
 
 ---
 
-# The Axiom Beneath the Ground (v2)
+# The Axiom Beneath the Ground (v3)
 
-- [Chapter 1: The Void and the Filter](axiom-v2/v2-ch01-the-void-and-the-filter.md)
-- [Chapter 2: Two Teachers, One Ground](axiom-v2/v2-ch02-two-teachers-one-ground.md)
-- [Chapter 3: The Mandala of Blessings](axiom-v2/v2-ch03-the-mandala-of-blessings.md)
-- [Chapter 4: The Grammar You Build by Practicing It](axiom-v2/v2-ch04-the-grammar-you-build-by-practicing-it.md)
-- [The Ceremony](axiom-v2/the-ceremony.md)
+- [Author's Note](axiom-v3/ch00-authors-note.md)
+- [Two in the Morning](axiom-v3/ch01-two-in-the-morning.md)
+- [The Void and the Filter](axiom-v3/ch02-the-void-and-the-filter.md)
+- [The Retreat](axiom-v3/ch03-the-retreat.md)
+- [Two Teachers, One Ground](axiom-v3/ch04-two-teachers-one-ground.md)
+- [The Evening of Grace](axiom-v3/ch05-the-evening-of-grace.md)
+- [The Grammar You Build by Practicing It](axiom-v3/ch06-the-grammar-you-build-by-practicing-it.md)
+- [The Practitioner Sits](axiom-v3/ch07-the-practitioner-sits.md)
+- [The Ceremony](axiom-v3/the-ceremony.md)
 
 ---
 

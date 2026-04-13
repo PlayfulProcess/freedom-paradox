@@ -14,7 +14,7 @@ This chapter is about becoming conscious of the grammars you already have — an
 
 ## The Bedtime Ritual as Co-Regulatory Technology
 
-The bedtime ritual is the most common grammar in the industrialized world. Bath, book, song, sleep. The sequence is finite. The order matters. The child participates. And the whole thing models change — the transition from wakefulness to rest, from activity to stillness, from the sympathetic activation of the day to the parasympathetic dominance of sleep.
+The bedtime ritual is among the most common grammars in the industrialized world. Bath, book, song, sleep. The sequence is finite. The order matters. The child participates. And the whole thing models change — the transition from wakefulness to rest, from activity to stillness, from the sympathetic activation of the day to the parasympathetic dominance of sleep.
 
 Most parents build this grammar instinctively, because the child's body demands it. Toddlers who do not have a bedtime ritual are harder to put to sleep, take longer to settle, and wake more often in the night. The ritual is not a convenience. It is a physiological scaffold — an external structure that does the regulatory work the child's immature nervous system cannot yet do alone.
 
@@ -56,7 +56,7 @@ A family grammar has four components:
 
 Everything above scales. It just takes longer and requires more explicit structure.
 
-Malidoma Somé said it plainly: "A community that doesn't have a ritual cannot exist." Not "will be less effective" or "may struggle." Cannot exist. The ritual — the shared grammar, the repeated practice, the container that holds the community's difficulty and joy — is what makes a group of individuals into a community.
+Malidoma Somé said it plainly: "A community that doesn't have a ritual cannot exist" (*Ritual: Power, Healing and Community*, p. 81). Not "will be less effective" or "may struggle." Cannot exist. The ritual — the shared grammar, the repeated practice, the container that holds the community's difficulty and joy — is what makes a group of individuals into a community.
 
 A community grammar has the same four components as a family grammar — rhythm, finitude, participation, and something slightly too hard — plus a fifth: **governance**. Someone holds the structure. In the Quaker tradition, it is the clerk. In Indigenous ceremonies, it is the elder. In a neighborhood story circle, it might rotate. But someone must tend the grammar — ensure it happens, hold the boundaries, call the community back when it drifts.
 

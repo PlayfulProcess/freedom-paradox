@@ -72,7 +72,7 @@ Twenty-five years later, more than two billion works carry Creative Commons lice
 
 This is what successful commons infrastructure looks like: invisible. You do not notice the bridge when you are driving across it. You notice its absence when it collapses.
 
-And it may be collapsing. The AI training data question has put Creative Commons licenses under unprecedented strain. When Lessig designed CC licenses in 2001, the use case was human sharing — a photographer letting a blogger use her image, a musician letting a filmmaker use his track. Nobody anticipated that the primary consumer of CC-licensed works would be machine learning systems ingesting billions of images and texts to train models that compete with the original creators.
+And it may be collapsing. The AI training data question has put Creative Commons licenses under extraordinary strain. When Lessig designed CC licenses in 2001, the use case was human sharing — a photographer letting a blogger use her image, a musician letting a filmmaker use his track. Nobody anticipated that the primary consumer of CC-licensed works would be machine learning systems ingesting billions of images and texts to train models that compete with the original creators.
 
 Creative Commons has acknowledged this challenge directly. Its 2025 and 2026 strategic focus includes ensuring that technological change strengthens the commons rather than undermining it. But the organization is navigating a paradox that its founder could not have imagined: the legal tools designed to make sharing easier may be making extraction easier too.
 
@@ -92,7 +92,7 @@ By 2025, The Chosen had reached more than three hundred million viewers in a hun
 
 The model is genuinely innovative. It proved that audiences, not networks, could finance major media production. It proved that free distribution subsidized by a passionate minority could achieve scale that traditional distribution models could not. And it demonstrated that the JOBS Act's equity crowdfunding provisions — designed primarily for startups — could be applied to cultural production.
 
-But the model also reveals the limits of commons-based cultural funding. Fewer than five percent of The Chosen's viewers contribute financially. [VERIFY: exact percentage and source] The production depends on the extraordinary generosity of a small fraction of its audience. And as the series scaled, it gravitated toward traditional distribution: in 2025, Jenkins announced a deal with Amazon MGM Studios for theatrical premieres and a ninety-day exclusivity window on Prime Video before episodes become free.
+But the model also reveals the limits of commons-based cultural funding. Fewer than five percent of The Chosen's viewers contribute financially — a figure that Dallas Jenkins has repeatedly cited in interviews and fundraising appeals. The production depends on the extraordinary generosity of a small fraction of its audience. And as the series scaled, it gravitated toward traditional distribution: in 2025, Jenkins announced a deal with Amazon MGM Studios for theatrical premieres and a ninety-day exclusivity window on Prime Video before episodes become free.
 
 The trajectory is instructive. Even the most successful commons-adjacent media project, built on equity crowdfunding and free distribution, eventually found that the economics of scale push toward partnership with exactly the kind of institutional distributor the project was designed to circumvent.
 

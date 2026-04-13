@@ -52,19 +52,19 @@ This is not a moral failure. It is an economic structure. The platforms that ext
 
 The family grammar is the counter-technology. It is low-tech, low-cost, and low-status — nobody gets a promotion for reading aloud to their child. But it is the oldest technology on earth, and it works. The investment is not glamorous. It is showing up. Putting the phone down. Telling the story. Listening to the answer. Repairing when you fail. Showing up again tomorrow.
 
-Every story system that endured across centuries had a funding mechanism. The family grammar is funded by attention — the most valuable and most contested resource in the modern economy. Protecting that resource is not self-care. It is infrastructure maintenance.
+Every story system that endured across centuries had a funding mechanism. The family grammar is funded by attention — among the most valuable and most contested resources in the modern economy. Protecting that resource is not self-care. It is infrastructure maintenance.
 
 ---
 
 ## Intergenerational Storytelling
 
-The research on co-regulation focuses overwhelmingly on the parent-child dyad. But the anthropological record suggests that the most powerful co-regulatory relationships in most human cultures were not parent-child but grandparent-child.
+The research on co-regulation focuses overwhelmingly on the parent-child dyad. But the anthropological record suggests that among the most powerful co-regulatory relationships in most human cultures were not parent-child but grandparent-child.
 
 Sarah Hrdy's cooperative breeding hypothesis argues that human children evolved to be raised not by one or two caregivers but by a network of fifteen to twenty. The grandmother hypothesis — that post-menopausal women evolved specifically to invest in grandchildren's survival — is supported by demographic data from pre-industrial societies showing that the presence of a maternal grandmother significantly reduced child mortality.
 
 What grandparents provide that parents often cannot is regulatory surplus. The parent is managing the household, earning income, navigating a marriage, dealing with the daily crises of child-rearing. The parent's nervous system is frequently in a mild sympathetic state — alert, reactive, efficient but not deeply calm. The grandparent — retired, or at least released from the acute pressures of parenting — often has more parasympathetic bandwidth available. Their slower pace, their longer stories, their willingness to sit without agenda — these are co-regulatory gifts that the child's nervous system recognizes and responds to.
 
-Intergenerational storytelling — grandparent telling the grandchild about the world before the child existed — is the most natural grammar-building practice available. The stories are true (which gives the voice conviction). They are about the family (which gives the child roots). They model change (the world was different then, and different again now). And they are told in a relational field that is biologically designed for co-regulation.
+Intergenerational storytelling — grandparent telling the grandchild about the world before the child existed — is among the most natural grammar-building practices available. The stories are true (which gives the voice conviction). They are about the family (which gives the child roots). They model change (the world was different then, and different again now). And they are told in a relational field that is biologically designed for co-regulation.
 
 If you have access to a grandparent — your child's or someone else's — the single most valuable thing you can do with this book is arrange for regular, unhurried, screen-free time between elder and child. No agenda. No curriculum. Just presence and stories.
 
@@ -72,7 +72,7 @@ If you have access to a grandparent — your child's or someone else's — the s
 
 ## The Repair Principle
 
-The most important finding from the co-regulation research, stated one more time for the chapter that applies it most directly: the mismatch is not the catastrophe. The repair is the practice.
+Among the most important findings from the co-regulation research, stated one more time for the chapter that applies it most directly: the mismatch is not the catastrophe. The repair is the practice.
 
 Tronick's seventy percent. Winnicott's good enough mother. Gottman's sixty-nine percent. The data converges from every direction: relationships that try to avoid rupture produce fragility. Relationships that practice repair produce resilience.
 
@@ -83,6 +83,8 @@ What matters is what happens next. Do you repair? Do you say "I'm sorry I yelled
 The repair is the grammar. Not the perfect performance. Not the unbroken attunement. The return. The coming-back. The willingness to acknowledge the mismatch and step toward the other person.
 
 A family that repairs is a family that practices. And a family that practices is a grammar — a living, finite, imperfect, endlessly generative structure for making meaning out of shared life.
+
+This capacity for return to connection after mismatch — what Tronick calls "reparation" — is what the companion volume, *The Repair Deck*, maps across twenty-two archetypal patterns, from intimate repair (Gottman's perpetual problems, Johnson's attachment injuries) through communal repair (restorative justice, truth and reconciliation) to civilizational repair (Ostrom's commons governance, ecological restoration). The family is where the capacity is first practiced. But the pattern scales.
 
 ---
 

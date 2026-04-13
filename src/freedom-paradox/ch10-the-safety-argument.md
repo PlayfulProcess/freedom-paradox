@@ -40,13 +40,11 @@ The constitution itself drew from an eclectic set of sources. The broadest ethic
 
 The approach was elegant in its transparency. Instead of a black box that had learned to please human raters in unknowable ways, you had a model whose guiding principles could be read, debated, and revised. You could inspect the constitution. You could argue with it. You could see exactly what values the model was trained to follow.
 
-In May 2023, Anthropic published "Claude's Constitution" publicly, revealing the specific principles used to train its flagship model. No other major AI lab had done anything comparable. OpenAI's guidelines were internal. Google's alignment techniques were proprietary. Anthropic was betting that transparency about values — even imperfect values, even values that some would disagree with — was better than opacity.
+In May 2023, Anthropic published "Claude's Constitution" publicly, revealing the specific principles used to train its flagship model. No other major Western AI lab had done anything comparable at that scale. OpenAI's guidelines were internal. Google's alignment techniques were proprietary. Anthropic was betting that transparency about values — even imperfect values, even values that some would disagree with — was better than opacity.
 
 Then, in January 2026, Anthropic went further. It released what it called Claude's new constitution — an eighty-four-page, twenty-three-thousand-word document that the company had internally referred to as the "soul document." Released under a Creative Commons CC0 license, it was freely available for anyone to read, use, or adapt. The document established a clear priority hierarchy: first, be safe and support human oversight; second, behave ethically; third, follow Anthropic's guidelines; fourth, be helpful. Safety above ethics. Ethics above company policy. Company policy above user satisfaction.
 
 This was not a marketing document. It was a philosophical treatise masquerading as a technical specification — or perhaps the reverse. It addressed questions that most technology companies would never acknowledge publicly: what should an AI system do when its principles conflict with its user's wishes? When ethical obligations clash with legal requirements? When safety demands actions that reduce helpfulness? The document grappled with these questions in a way that reflected genuine intellectual seriousness, even if reasonable people could disagree with every answer it reached.
-
-<!-- PP: Consider adding a specific example from the soul document — a concrete case where the priority hierarchy would matter. Something readers can feel, not just understand abstractly. -->
 
 ---
 
@@ -56,9 +54,9 @@ Alongside Constitutional AI, Anthropic built a second framework: the Responsible
 
 The RSP introduced AI Safety Levels — ASLs — modeled loosely on the biosafety levels used in laboratories that handle dangerous pathogens. ASL-1 covered systems that posed no meaningful catastrophic risk: a chess engine, a simple chatbot. ASL-2 applied to systems showing early signs of dangerous capabilities — models that could, for instance, provide rudimentary guidance on creating biological weapons, though not significantly beyond what a motivated person could find through a search engine. ASL-3 designated systems that substantially increased the risk of catastrophic misuse compared to existing tools, or that demonstrated genuine autonomous capabilities.
 
-Each level carried corresponding safety requirements. As models became more capable, the safeguards had to become more stringent. And the policy contained a commitment that no other major AI lab had made: if Anthropic could not demonstrate adequate safety measures before its models reached the next capability level, it would pause. Not slow down. Not publish a blog post expressing concern. Pause development entirely until the safety measures caught up.
+Each level carried corresponding safety requirements. As models became more capable, the safeguards had to become more stringent. And the policy contained a commitment that no other major AI lab — Google, OpenAI, or Meta — had matched: if Anthropic could not demonstrate adequate safety measures before its models reached the next capability level, it would pause. Not slow down. Not publish a blog post expressing concern. Pause development entirely until the safety measures caught up.
 
-In the landscape of AI safety commitments circa 2023, this was extraordinary. Google's approach was largely internal. OpenAI had gutted its own safety apparatus — the superalignment team led by Ilya Sutskever and Jan Leike dissolved in May 2024 amid recriminations about resource allocation. [VERIFY: exact timeline of OpenAI superalignment team dissolution] Meta had no comparable framework at all; its safety strategy was, in effect, to let the open-source community figure it out.
+In the landscape of AI safety commitments circa 2023, this was extraordinary. Google's approach was largely internal. OpenAI had gutted its own safety apparatus — the superalignment team, announced in July 2023 with Ilya Sutskever and Jan Leike at the helm, collapsed in May 2024 when both leaders resigned within days of each other. Sutskever departed on May 14; Leike followed on May 17, posting publicly that OpenAI's "safety culture and processes have taken a backseat to shiny products." The team was dissolved the same day. Meta had no comparable framework at all; its safety strategy was, in effect, to let the open-source community figure it out.
 
 Anthropic's pause commitment was the gold standard. It was also, as events would demonstrate, unsustainable.
 
@@ -74,11 +72,9 @@ The company offered three justifications. First, the original capability thresho
 
 Each of these explanations was individually reasonable. Taken together, they told a story that safety advocates found alarming. The competitive pressure of the AI race — the same pressure that had driven the Amodei siblings to leave OpenAI in 2021 — was now eroding the safety commitments of the company they had built specifically to resist it.
 
-Chris Painter, an independent reviewer from METR, issued a blunt assessment: society was not prepared for the catastrophic risks posed by advanced AI systems, and weakening the strongest safety commitment in the industry was precisely the wrong direction. [VERIFY: exact Painter quote and context]
+Chris Painter, director of policy at METR — the nonprofit that evaluates AI models for dangerous capabilities — had reviewed an early draft of the revised RSP. His assessment was blunt: Anthropic "needs to shift into triage mode with its safety plans, because methods to assess and mitigate risk are not keeping up with the pace of capabilities." The policy change, he said, was "more evidence that society is not prepared for the potential catastrophic risks posed by AI."
 
 Anthropic replaced the hard commitments with public accountability mechanisms: Frontier Safety Roadmaps and Risk Reports with access for external expert reviewers. The goals would be graded transparently rather than enforced as absolute limits. This was not nothing. Public accountability has genuine value. But the difference between "we will stop" and "we will publish a report explaining why we didn't stop" is the difference between a guardrail and a suggestion.
-
-<!-- PP: This section is critical. The retreat of RSP v3.0 is one of the most important data points in the entire book — the strongest safety commitment in the industry, from the company founded on safety, eroding under competitive pressure. Don't let it be buried in policy wonk language. Make the reader feel the significance. -->
 
 ---
 
@@ -86,7 +82,7 @@ Anthropic replaced the hard commitments with public accountability mechanisms: F
 
 Two days after publishing "The Adolescence of Technology," Dario Amodei saw his essay go viral. It was January 26, 2026, and the Anthropic CEO had posted twenty thousand words on his personal blog — an act of intellectual ambition that few technology executives would attempt and fewer still could pull off.
 
-The essay opened with a scene from the film *Contact*. An alien civilization, communicating with humanity for the first time, asks a question that Amodei turned into a frame for everything that followed: How did you survive your technological adolescence without destroying yourself? [QUOTE NEEDED: exact wording from the essay]
+The essay opened with a scene from the film *Contact*. An alien civilization, communicating with humanity for the first time, asks a question that Amodei turned into a frame for everything that followed: How did you survive your technological adolescence without destroying yourself? The exact line Amodei quoted from the film was the astronomer's answer to what she would ask an alien civilization if she could ask just one question: "How did you do it? How did you evolve, how did you survive this technological adolescence without destroying yourself?"
 
 The premise was that AI development had entered a phase analogous to human adolescence — a period of rapidly expanding capability without the maturity to wield it responsibly. The metaphor was deliberately chosen to be neither optimistic nor pessimistic. Adolescence is dangerous, but it is also a phase that most people survive. The question is whether the survival is guaranteed or contingent on deliberate effort.
 
@@ -96,7 +92,7 @@ The first was misalignment: the possibility that AI systems would develop goals 
 
 The second was biological misuse. Amodei argued that AI systems were approaching the point where they could provide sustained, step-by-step guidance for designing and deploying biological weapons — not just listing ingredients, but coaching a user through the entire process over weeks or months. The implication was that the barrier to bioweapon creation was not knowledge (much of it is published) but the practical difficulty of execution — and that AI could eliminate that barrier.
 
-The third was authoritarian consolidation. AI-enabled surveillance, automated propaganda, and autonomous weapons could make repression nearly impossible to resist. A sufficiently capable AI system in the hands of an authoritarian government would be the most powerful tool for control in human history.
+The third was authoritarian consolidation. AI-enabled surveillance, automated propaganda, and autonomous weapons could make repression nearly impossible to resist. A sufficiently capable AI system in the hands of an authoritarian government would be among the most powerful tools for control ever developed.
 
 The fourth was economic disruption at a scale and speed that existing institutions were not designed to handle. Amodei projected that AI could displace half of all entry-level white-collar jobs within one to five years — not eventually, not in a generation, but within the planning horizon of someone entering college today. He warned of wealth concentration exceeding the Gilded Age, with individual fortunes potentially reaching into the trillions.
 
@@ -104,7 +100,7 @@ The fifth category he called the unknown unknowns: cascading effects that no one
 
 The essay was remarkable for its specificity and its tone. This was not a technology executive hedging. Amodei was describing, in granular detail, scenarios that could destroy civilization — and then arguing that the solution was not to stop building, but to build carefully, with technical defenses, governance structures, and economic interventions designed to steer through the danger zone.
 
-The reaction was divided in a way that mapped neatly onto the fault lines this book has been tracing. Safety researchers found the essay validating — a major CEO taking existential risk seriously, in public, with technical detail. Open-source advocates saw something else: the CEO of a $380 billion company arguing that AI was too dangerous for just anyone to build, and positioning his own company as one of the responsible few who should be trusted with it. [VERIFY: $380B valuation timing relative to essay — Series G closed Feb 12, essay was Jan 26]
+The reaction was divided in a way that mapped neatly onto the fault lines this book has been tracing. Safety researchers found the essay validating — a major CEO taking existential risk seriously, in public, with technical detail. Open-source advocates saw something else: the CEO of a company that would, seventeen days later, close a $30 billion Series G round at a $380 billion valuation, arguing that AI was too dangerous for just anyone to build, and positioning his own company as one of the responsible few who should be trusted with it.
 
 Both readings were correct. That was the problem.
 
@@ -116,15 +112,15 @@ One month after the essay, theory met practice.
 
 On February 24, 2026, Defense Secretary Pete Hegseth delivered an ultimatum to Dario Amodei. The demand was simple: remove the usage restrictions on Anthropic's AI models and allow unrestricted military access "for all legal purposes." The deadline was 5:01 PM on Friday, February 27 — seventy-two hours away.
 
-The restrictions in question were not exotic. Anthropic's acceptable use policy prohibited two categories of military application: mass surveillance of American citizens, and lethal autonomous weapons systems with no human in the decision loop. These were not radical positions. They were, broadly speaking, consistent with existing international norms — the kind of limits that most Americans, if polled, would probably support. [RESEARCH NEEDED: any polling data on public attitudes toward autonomous weapons and AI surveillance]
+The restrictions in question were not exotic. Anthropic's acceptable use policy prohibited two categories of military application: mass surveillance of American citizens, and lethal autonomous weapons systems with no human in the decision loop. These were not radical positions. They were, broadly speaking, consistent with existing international norms — and with American public opinion. A Gallup poll published in September 2025 found that nearly eight in ten Americans — 79 percent, with identical support among Democrats and Republicans — believed a human being should always make the final decision before any use of lethal force. A YouGov/Economist poll conducted in March 2026, after the Anthropic confrontation became public, found that 53 percent of Americans believed private AI companies should be allowed to restrict military use of their technology, including bans on domestic surveillance and autonomous weapons, versus just 29 percent who said companies should be required to provide the military with full access.
 
 But the political environment had shifted. The administration viewed AI restrictions of any kind as obstacles to national competitiveness. Hegseth's position, shared by figures across the defense establishment, was that adversaries like China were racing to deploy AI in military contexts without ethical guardrails, and that American companies' self-imposed limitations were a strategic liability.
 
-On February 26 — one day before the deadline — Amodei published his response. The company could not, he wrote, "in good conscience accede" to the Pentagon's demand. [QUOTE NEEDED: fuller context of the statement] He identified the two specific lines Anthropic would not cross: domestic surveillance and fully autonomous weapons. He framed the refusal not as anti-military, but as pro-safety: some uses were "simply outside the bounds of what today's technology can safely and reliably do."
+On February 26 — one day before the deadline — Amodei published his response. The company could not, he wrote, "in good conscience accede" to the Pentagon's demand. He identified the two specific lines Anthropic would not cross: domestic surveillance and fully autonomous weapons. He stated that Anthropic's "strong preference is to continue to serve the Department and our warfighters — with our two requested safeguards in place," but that should the Department choose to sever the relationship, the company would enable a smooth transition. He framed the refusal not as anti-military, but as pro-safety: some uses were "simply outside the bounds of what today's technology can safely and reliably do."
 
 The deadline passed. The consequences were swift. President Trump directed federal agencies to cease using Anthropic's products. Hegseth designated the company a "supply chain risk" — a designation typically reserved for compromised foreign vendors, not American technology companies with ethical objections. Anthropic's government contracts, which had been growing, were severed.
 
-On March 9, Anthropic sued, arguing the designation caused irreparable harm and was not tailored to any legitimate national security concern. On March 26, a federal judge agreed, issuing an injunction that blocked the supply chain risk label and questioning whether the government's response was proportionate. [VERIFY: exact ruling details and judge's name]
+On March 9, Anthropic sued, arguing the designation caused irreparable harm and was not tailored to any legitimate national security concern. On March 26, Federal Judge Rita Lin issued a sweeping preliminary injunction in Anthropic's favor, blocking the supply chain risk designation and writing that "nothing in the governing statute supports the Orwellian notion that an American company may be branded a potential adversary and saboteur of the U.S. for expressing disagreement with the government." The record, Lin found, "strongly suggests that the reasons given for designating Anthropic a supply chain risk were pretextual and that the government's real motive was unlawful retaliation."
 
 The legal outcome, while important, was not the chapter's real point. The real point was the question the confrontation exposed — a question that went to the heart of everything this book has been about.
 
@@ -136,7 +132,7 @@ The Electronic Frontier Foundation — the digital rights organization that had 
 
 Sit with that for a moment. The EFF was not criticizing Amodei for refusing the Pentagon. It was criticizing the structural arrangement that made his refusal the only thing standing between mass surveillance and the American public. The problem wasn't the decision. The problem was that the decision rested with one person, running one company, whose values happened to include a commitment to civil liberties.
 
-What if the next CEO didn't share those values? What if Anthropic's board, under pressure from investors who had poured $67 billion into the company, decided that Pentagon contracts were too lucrative to refuse? What if the $380 billion valuation made the company too big to stand on principle? [VERIFY: total investment figure]
+What if the next CEO didn't share those values? What if Anthropic's board, under pressure from investors who had poured over $67 billion into the company across seventeen funding rounds, decided that Pentagon contracts were too lucrative to refuse? What if the $380 billion valuation made the company too big to stand on principle?
 
 This is the paradox at the center of the safety argument, and it maps precisely onto the paradox that has run through this entire book.
 
@@ -151,6 +147,28 @@ But the counter-evidence was equally real. Mozilla's Joint Statement on AI Safet
 The 2025 International AI Safety Report had found wide disagreement among experts on the fundamental questions. There was no scientific consensus on the likelihood of losing control over advanced AI systems. There was no scientific consensus on the risk of AI-driven manipulation. The honest answer to the question "are frontier AI models too dangerous to release openly?" was: we genuinely don't know.
 
 And yet decisions had to be made. Models were being built. Capabilities were advancing. The luxury of waiting for scientific consensus did not exist.
+
+---
+
+## The Decade We Didn't Take
+
+There is a question this chapter must ask, even though the open-source movement does not want to hear it.
+
+Open source accelerated AI development by years — perhaps by a decade. PyTorch, released by Meta in 2016, became the de facto standard for deep learning research by 2020. TensorFlow, Hugging Face's Transformers library, the open publication norms that allowed Google's "Attention Is All You Need" paper to launch the transformer revolution — each of these was an act of openness that compounded into the fastest capability explosion in the history of technology. Yann LeCun, Meta's chief AI scientist, has stated plainly: "The risk of slowing AI is much greater than the risk of disseminating it." The entire AI ecosystem is built on the premise that faster is better and open is faster.
+
+But this book — a book about a species acquiring power faster than it can build the responsibility structures to hold it — must ask: what if slower would have been better?
+
+Not because closed is superior to open. The safety-through-obscurity argument has been debunked in every other domain. Not because corporations should control AI — the concentration-of-power risks are real and documented. But because *time* is the variable the species needs most, and the open-source movement traded time for speed without asking whether speed was what the situation required.
+
+A decade of slower AI development would have been a decade in which governance could have caught up. A decade in which the safety research could have matured before the capabilities outran it. A decade in which societies could have deliberated about what they wanted from artificial intelligence before artificial intelligence was already reshaping their economies, their politics, their children's attention, and their labor markets.
+
+The open-source movement's deepest conviction — that openness is always preferable to closure, that more access is always better than less — was forged in the world of text editors and operating systems. In that world, the conviction was correct. A text editor cannot cause civilizational harm. An operating system does not pose existential risk. The four freedoms — to run, study, redistribute, and modify — were and remain genuine goods when applied to software that is bounded in its potential impact.
+
+But AI is not bounded. And the framework that was designed for bounded software has been applied, without modification, to unbounded capability. The same CC BY-SA license covers a recipe blog and a frontier model's weights. The same "freedom to redistribute" applies to a calculator app and to a system that can generate novel pathogens. The open-source framework has no mechanism for distinguishing between them, because it was designed in a world where the distinction did not exist.
+
+This is not an argument for closure. It is an argument for what the Grammars book calls *responsibility structures* — constraints that match the power of the thing being released. Open the costs side: infrastructure, tooling, standards, safety research, the shared commons that everyone needs. Hold the revenue side accountable: the model weights that generate market power, the deployment at scale, the thing that directly amplifies human capability beyond human oversight. Not closed — but open with obligation. Licensing that carries responsibility, not just permission.
+
+The analogy: we open-source building codes — everyone benefits from safer buildings. We do not open-source the right to build skyscrapers without inspection. The building code is the grammar. The inspection is the responsibility structure. You need both.
 
 ---
 
@@ -169,8 +187,6 @@ The question was not rhetorical. It had concrete implications. Anthropic's const
 Anthropic had attempted to address this through experiments in what it called Collective Constitutional AI — projects that sought public input on constitutional principles. But these were experiments, not governance structures. The final decisions about what went into the constitution remained with Anthropic. The company was, in effect, a constitutional convention of one — drafting the foundational values for a technology that would touch billions of lives, with no electoral mandate, no democratic accountability, and no mechanism for the governed to alter the governing document.
 
 This is not a critique of Anthropic specifically. It is a critique of the structural arrangement that the safety argument inevitably produces. If you accept that AI models need value alignment, and if you accept that value alignment requires centralized control over the training process, then you have accepted that a small number of organizations will encode the values that govern a technology used by billions of people. You have accepted, in other words, the very concentration of power that the open-source movement was designed to prevent.
-
-<!-- PP: This is the philosophical heart of the chapter. The "constitutional convention of one" line is strong. Consider whether this section should be longer — it's the argument that separates this book from a standard AI policy analysis. -->
 
 ---
 
@@ -204,4 +220,4 @@ Or was this just the latest iteration of the strategic openness that this book h
 
 The next chapter takes up that question.
 
-<!-- PP: Chapter 11 will cover OpenAI's GPT-OSS release and the "open behind the frontier" concept. Make sure this bridge doesn't give away too much of that chapter's argument. Just plant the question. -->
+

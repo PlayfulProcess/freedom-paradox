@@ -120,8 +120,6 @@ Maximum negative liberty — open-source everything, no restrictions, no gatekee
 
 This is the freedom paradox. Not a debating point. A structural condition.
 
-<!-- PP: This is the philosophical core of the entire book. I want to make sure it doesn't read as anti-open-source — it should read as pro-honesty. The open-source movement has been the best thing to happen to technology in the last half century. But it was built for a different world. Acknowledging that is not betrayal. It's intellectual maturity. -->
-
 ---
 
 ## The Capabilities Question
@@ -210,7 +208,7 @@ This book does not argue that the safety argument should be trusted at face valu
 
 This book does not argue that governments should control AI. The Anthropic-Pentagon confrontation demonstrated what government control looks like in practice: a Secretary of War demanding unrestricted access to AI for surveillance and autonomous weapons, with punitive retaliation against the company that refused. The notion that democratic governments will reliably use AI power in the public interest is contradicted by the first significant test case.
 
-And this book does not argue that the open-source movement was wrong. The movement has been, for most of its history, one of the most beneficial forces in the technology landscape. It has democratized access to computing. It has created a global commons of knowledge and tools. It has provided a counterweight to corporate concentration that no other institution could match. The value it has created is real, distributed, and enduring.
+And this book does not argue that the open-source movement was wrong. The movement has been, for most of its history, one of the most beneficial forces in the technology landscape. It has democratized access to computing. It has created a global commons of knowledge and tools. It has provided a counterweight to corporate concentration that few other institutions could match. The value it has created is real, distributed, and enduring.
 
 What this book argues is simpler and harder. The framework is incomplete. The binary — open or closed, free or proprietary — is insufficient for a technology that breaks the assumptions on which the binary was built. And navigating the insufficiency requires a kind of thinking that the open-source movement has historically resisted: the acknowledgment that openness, like any other strategy, has conditions under which it fails.
 
@@ -230,7 +228,7 @@ But it was built for a world of benign tools. AI is the first technology that fo
 
 That is the freedom paradox. The movement built to maximize freedom may need to accept limits on freedom — not as a betrayal of its principles, but as the honest application of those principles to a world that its founders could not have anticipated.
 
-[QUOTE NEEDED: Mill's harm principle — "The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others." Mill wrote this about individual liberty. It applies, with unsettling precision, to the liberty of software.]
+John Stuart Mill, in *On Liberty* (1859), stated what is now called the harm principle: "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others." Mill wrote this about individual liberty. It applies, with unsettling precision, to the liberty of software.
 
 The paradox does not have a resolution. It has a condition: the recognition that every choice — open or closed, free or controlled — carries risk. The risk of openness is proliferation, weaponization, and the destruction of the positive liberty that makes human life meaningful. The risk of closure is concentration, paternalism, and the erosion of the negative liberty that the open-source movement was built to protect. Neither risk can be eliminated. Both must be navigated.
 
@@ -242,8 +240,4 @@ The epilogue returns to the scene that opened this book. Anthropic said no. The 
 
 That is not a system. That is an accident of biography. And the question this book has been building toward — the question that outlasts any administration, any company, any technology — is how to build something better.
 
-<!-- PP: This chapter is the one I've been working toward since page one. A few things I want to make sure land:
-1. It should NOT feel anti-open-source. It should feel like the book loves the movement and is honest about its limits. The way you'd talk to a friend you respect.
-2. The Berlin/Sen stuff is essential but should feel earned, not grafted on. The reader should feel like the philosophy was always implied in the earlier chapters and is now being made explicit.
-3. "Openness is not a value — it is a strategy" is the thesis sentence. It needs to land like a verdict, not a provocation.
-4. I want the closing to be tight. The image of the printer at the beginning and end should create a frame. The movement started with a tool. It now faces an agent. That's the arc. -->
+

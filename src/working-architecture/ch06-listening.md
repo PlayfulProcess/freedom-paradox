@@ -4,7 +4,7 @@
 
 Every chapter so far has been about giving: giving your voice, giving a story, giving your nervous system as a scaffold. This chapter is about the other half. Listening.
 
-Listening is the most powerful co-regulatory act available to a human being. It is also the rarest. Most of what passes for listening is waiting to speak. The body is present. The mind is composing a response. The nervous system is in a mildly sympathetic state — alert, evaluating, preparing. This is not listening. This is surveillance dressed as attention.
+Listening is among the most powerful co-regulatory acts available to a human being. It is also the rarest. Most of what passes for listening is waiting to speak. The body is present. The mind is composing a response. The nervous system is in a mildly sympathetic state — alert, evaluating, preparing. This is not listening. This is surveillance dressed as attention.
 
 Real listening — the kind that regulates the speaker's nervous system — requires the listener to do something the modern world almost never asks: be present without producing anything.
 
@@ -20,7 +20,7 @@ The answer is physiological before it is emotional. Heart rate decelerates. Brea
 
 You can give someone this state without saying a word. You can give it by listening.
 
-Tania Singer's research on contemplative dyads — structured meditative listening between two people — found that cortisol stress levels dropped by fifty percent in both participants. Not just the speaker. Both. The listener, by attending fully, enters the same parasympathetic state they are inducing in the speaker. Co-regulation is bidirectional. When you listen well, you regulate yourself. [VERIFY: Singer contemplative dyads 50% cortisol — exact study]
+Tania Singer's research on contemplative dyads — structured meditative listening between two people — found that cortisol stress levels dropped by fifty percent in both participants. Not just the speaker. Both. The listener, by attending fully, enters the same parasympathetic state they are inducing in the speaker. Co-regulation is bidirectional. When you listen well, you regulate yourself. <!-- Singer — attributed in research-29. Primary source needs verification for final. -->
 
 ---
 
@@ -74,7 +74,9 @@ This is co-regulation at the communal level. The shared silence synchronizes ner
 
 The Quaker business method extends this into decision-making. The clerk does not call for votes. The clerk listens for "the sense of the meeting" — the point at which the group has arrived at a position it can hold together, even if not all prefer it. The practice requires patience, tolerance for ambiguity, and the willingness to sit with disagreement until something emerges that no individual could have produced alone.
 
-This is what listening does at scale. It is not passive. It is the most active form of participation available — the practice of holding space for what has not yet been said.
+Charlan Nemeth's research at UC Berkeley adds something surprising: even wrong minority opinions improve group performance. In controlled experiments, participants exposed to minority viewpoints — even incorrect ones — found more correct solutions and used a broader variety of strategies than those exposed to majority viewpoints. The mechanism is not that dissenters provide better answers but that their mere presence forces the group to think more carefully. Critically, authentic dissent outperforms devil's advocacy — role-played disagreement actually triggers cognitive bolstering of the initial position, the opposite of the intended effect. The Quaker practice works because the dissent is real, offered from genuine conviction within a shared silence, not performed as an exercise.
+
+This is what listening does at scale. It is not passive. It is one of the most active forms of participation available — the practice of holding space for what has not yet been said.
 
 ---
 

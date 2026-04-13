@@ -41,6 +41,17 @@ jobs:
           cp books/axiom-beneath-the-ground/chapters/v2-ch*.md src/axiom-v2/
           cp books/axiom-beneath-the-ground/chapters/the-ceremony.md src/axiom-v2/
 
+          # The Axiom Beneath the Ground v3 — Kundera-style (7 chapters + Ceremony)
+          mkdir -p src/axiom-v3
+          cp books/axiom-beneath-the-ground/chapters/v3/*.md src/axiom-v3/
+          cp books/axiom-beneath-the-ground/chapters/the-ceremony.md src/axiom-v3/
+
+          # Standalone books
+          mkdir -p src/freedom-paradox src/working-architecture src/fire-and-intelligence
+          cp books/freedom-paradox/chapters/ch*.md src/freedom-paradox/
+          cp books/working-architecture/chapters/ch*.md src/working-architecture/
+          cp books/fire-and-intelligence/chapters/ch*.md src/fire-and-intelligence/
+
           # Charts
           mkdir -p src/images
           cp models/charts/*.png src/images/ 2>/dev/null || true

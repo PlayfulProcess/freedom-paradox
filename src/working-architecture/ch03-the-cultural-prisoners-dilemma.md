@@ -32,7 +32,7 @@ Cultural diversity works the same way. Each culture that maintains its own stori
 
 When those practices are displaced — defined as pre-rational, absorbed into a dominant framework, lost because the language that carried them died — the adaptive capacity disappears. Not just for that community. For everyone. Because when the dominant strategy fails (and the feedback loops are activating), the alternative strategies that might have helped are gone.
 
-Indigenous peoples constitute less than five percent of the global population but protect approximately eighty percent of remaining biodiversity. This is not a coincidence. It is the direct result of cultures that maintained grammars — practices, rituals, constraints — for living within carrying capacity. The Honorable Harvest: take only what you need, ask permission, give thanks, give back. [VERIFY: 5% population / 80% biodiversity — Schuster et al. 2019]
+Indigenous peoples constitute less than five percent of the global population but protect approximately eighty percent of remaining biodiversity. This is not a coincidence. It is the direct result of cultures that maintained grammars — practices, rituals, constraints — for living within carrying capacity. The Honorable Harvest: take only what you need, ask permission, give thanks, give back. <!-- Schuster et al. 2019, confirmed in research-36. -->
 
 ---
 

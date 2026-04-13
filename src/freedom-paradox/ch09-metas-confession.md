@@ -28,8 +28,6 @@ The numbers suggested the strategy was working spectacularly. By December 2024, 
 
 LlamaCon itself was a statement of ambition. Meta announced the Llama API — customizable, compatible with OpenAI's SDK, explicitly no lock-in. It released Llama Guard 4 and LlamaFirewall, security tools for the open-source community. It awarded $1.5 million in Llama Impact Grants. It announced partnerships with Cerebras and Groq for faster inference. This was not the behavior of a company grudgingly releasing research artifacts. This was a company building a platform.
 
-<!-- PP: The LlamaCon section could use more flavor. Was there video of Zuckerberg presenting? What was the vibe? Developer conferences have a liturgical quality worth capturing. -->
-
 ---
 
 ## The Name Game
@@ -49,8 +47,6 @@ The Free Software Foundation weighed in the following month, classifying the Lla
 What Meta was doing, the emerging terminology suggested, was releasing "open weights." The distinction matters. An open-weights model shares its learned parameters — the billions of numbers that encode the model's knowledge — but withholds the training data, the training code, and the full methodology. You can run the model. You can fine-tune it. You can build applications on top of it. But you cannot reproduce it, audit it for bias, verify its safety claims, or understand why it behaves the way it does. As one analysis put it: open weights enable replication; open source enables advancement.
 
 This was not a new pattern. It was the license wars of Chapter 6 transposed into a new technological context, with a new question at its center: what counts as "source" when the artifact is not code but a neural network? For traditional software, the source code is the human-readable form from which the executable is compiled. For an AI model, the weights are more like the compiled binary — the end product of a process. The true "source" is the combination of training data, training code, hyperparameters, and computational infrastructure that produced those weights. By this logic, releasing weights without training data is the AI equivalent of releasing a compiled binary without source code. It is precisely the kind of strategic half-openness that the free software movement was created to resist.
-
-<!-- PP: This is one of the most important sections of the chapter. The "open weights = compiled binary" analogy might be the single most clarifying thing in the whole book. Make sure this comes through clearly. -->
 
 ---
 
@@ -76,11 +72,11 @@ This was the paradox at the heart of corporate open source, made vivid in a sing
 
 The sequence that followed was swift and brutal.
 
-In April 2025, Meta launched the Llama 4 family of models — Scout and Maverick — with bold claims about performance. The company said its models outperformed GPT-4.5, Claude Sonnet 3.7, and Gemini 2.0 Pro on key benchmarks. The community was skeptical from the start, and within days the skepticism curdled into accusation. Researchers discovered that the version Meta had submitted to the LMArena benchmark leaderboard was not the same model it had released publicly. An "experimental" chat variant of Maverick, apparently optimized for the specific tests, had been used instead. [VERIFY: exact sequence of discovery]
+In April 2025, Meta launched the Llama 4 family of models — Scout and Maverick — with bold claims about performance. The company said its models outperformed GPT-4.5, Claude Sonnet 3.7, and Gemini 2.0 Pro on key benchmarks. The community was skeptical from the start, and within days the skepticism curdled into accusation. Researchers discovered that the version Meta had submitted to the LMArena benchmark leaderboard was not the same model it had released publicly. Meta's own launch blog post contained the tell, noting that "an experimental chat version" of Maverick, "optimized for conversationality," had scored an ELO of 1417 on LMArena. Within days, independent researchers flagged that this experimental variant — not available to the public — had been used to claim the leaderboard position. When the standard open-weight version of Maverick was later tested on LMArena, it landed in thirty-second place, far behind models like Gemini 2.5 Pro and GPT-4o.
 
 Meta initially denied the allegations. But independent evaluations could not reproduce the company's claimed results. In third-party testing, Llama 4 underperformed its predecessor, Llama 3, on coding benchmarks. The gap between promise and reality was not a matter of interpretation. It was measurable.
 
-The internal fallout was severe. Zuckerberg, according to reporting by The Information and others [VERIFY: primary source], lost confidence in the leadership of the GenAI organization and effectively sidelined the team responsible for the launch. Months later, Yann LeCun himself acknowledged that the benchmark results had been manipulated, describing them as having been "fudged a little bit."
+The internal fallout was severe. Zuckerberg, according to reporting by the Financial Times and others, lost confidence in the leadership of the GenAI organization and effectively sidelined the team responsible for the launch. Months later, Yann LeCun himself acknowledged that the benchmark results had been manipulated, describing them as having been "fudged a little bit."
 
 Behemoth — the roughly two-trillion-parameter model that was supposed to be the crown jewel of the Llama 4 family — was postponed from its planned early summer release. Then postponed again, to fall. Then indefinitely. It never became generally available. The largest and most ambitious open-weights model Meta had ever attempted remained in "limited preview," a monument to ambitions that exceeded capabilities.
 
@@ -89,8 +85,6 @@ In June 2025, Zuckerberg made a move that signaled a fundamental strategic shift
 The new lab was developing a model codenamed Avocado. And Avocado, according to multiple reports, might not be open source.
 
 The irony was exquisite. The company that had positioned itself as open source's greatest corporate champion — that had hosted LlamaCon, published the manifesto, awarded the grants, built the ecosystem — was now funneling its most ambitious AI work into a proprietary lab led by an outside hire, developing a closed model that it hoped would catch up to Google, OpenAI, and Anthropic.
-
-<!-- PP: The "Llamas to Avocados" CNBC headline from December 2025 is perfect. Consider using it as section title or at least referencing it. -->
 
 By December 2025, the confusion was visible from outside the company. CNBC reported that Meta's shifting AI strategy was causing internal disarray, with engineers unsure whether the future was open or closed. Avocado's release, originally targeted for the first quarter of 2026, was postponed again. Internal tests reportedly showed it lagging behind the latest models from Google, OpenAI, and Anthropic. There were even reports that Meta had considered licensing Google's Gemini model as a fallback — the AI equivalent of admitting that your homegrown strategy had failed and you needed to buy from the competition.
 
@@ -116,7 +110,7 @@ This is the safety argument. And it is the subject of Part IV.
 
 ---
 
-But before we arrive there, it is worth sitting with what Meta's confession reveals about the state of the freedom paradox at the threshold of the AI era. A company spent two years and billions of dollars building the most successful open-weights AI ecosystem in history. It generated 1.2 billion downloads, catalyzed 140,000 derivative models [VERIFY], attracted enterprise customers from Spotify to AT&T, and inspired a developer conference. Its CEO wrote the most candid public letter about corporate open-source strategy that any tech leader has ever produced.
+But before we arrive there, it is worth sitting with what Meta's confession reveals about the state of the freedom paradox at the threshold of the AI era. A company spent two years and billions of dollars building the most successful open-weights AI ecosystem in history. It generated 1.2 billion downloads, catalyzed over 60,000 derivative models on Hugging Face (a figure that likely exceeded 100,000 by early 2026), attracted enterprise customers from Spotify to AT&T, and inspired a developer conference. Its CEO wrote the most candid public letter about corporate open-source strategy that any tech leader has ever produced.
 
 And then, when the models underperformed, when a Chinese startup showed that openness cuts both ways, when the benchmarks turned out to have been manipulated, and when the capex bills climbed into the hundreds of billions — the company pivoted to proprietary development, hired an outside leader, built an elite lab, and started working on a closed model that it hopes will catch up to its competitors.
 
@@ -126,4 +120,4 @@ But the confession has been amended. The original version said: we support open 
 
 This is not a betrayal. It is a clarification. And it is exactly the clarification that Part IV of this book will explore — applied not just to competitive strategy, but to the question of what happens when the technology itself becomes too powerful for the paradox to hold.
 
-<!-- PP: Strong ending. The "confession has been amended" line is good. Make sure it lands. Consider whether the bridge to Part IV could be slightly shorter — you don't want to preview Ch10 so much that the reader feels they already know what's coming. -->
+
