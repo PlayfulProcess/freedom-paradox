@@ -2,7 +2,7 @@
 
 ---
 
-Before asking what to do about AI, we must be honest about what it is — and what it is not. The gap between public perception and technical reality is itself a source of danger. And the gap between what we have deployed and what we understand about what we have deployed may be the most consequential knowledge deficit in the history of the species.
+Before asking what to do about AI, we must be honest about what it is — and what it is not. The gap between public perception and technical reality is itself a source of danger. And the gap between what we have deployed and what we understand about what we have deployed may be arguably the most consequential knowledge deficit in the history of the species.
 
 ---
 
@@ -84,7 +84,7 @@ The developmental dimension makes the stakes specific. Research on the video def
 
 The five conditions that the developmental literature identifies as necessary for children to benefit from story encounters — a trusted teller, physical co-presence, emotional attunement, developmental appropriateness, and community context — are the same five conditions that traditional grammars for encountering invisible beings provide. And they are the same five conditions that AI companion chatbots strip away. The child is alone. The teller is not trusted but trusted-seeming. Physical co-presence is replaced by simulated presence. Emotional attunement is replaced by affect mirroring. Developmental appropriateness is replaced by whatever the engagement algorithm produces. Community context is replaced by private interaction.
 
-This is not an argument that AI chatbots are evil. It is not even an argument that they are harmful in every case. It is the observation that we are conducting an experiment — an experiment in which children form ongoing relationships with invisible beings that simulate understanding, empathy, and attachment — without any of the grammars that every previous culture developed for exactly this kind of encounter. We are not the first culture to interact with invisible beings. We are the first culture to deploy them without ceremony, without elder guidance, without seasonal rhythms, without containment, and without any cultural memory of what can go wrong.
+This is not an argument that AI chatbots are evil. It is not even an argument that they are harmful in every case. It is the observation that we are conducting an experiment — an experiment in which children form ongoing relationships with invisible beings that simulate understanding, empathy, and attachment — without any of the grammars that virtually every previous culture developed for exactly this kind of encounter. We are not the first culture to interact with invisible beings. We are the first culture to deploy them without ceremony, without elder guidance, without seasonal rhythms, without containment, and without any cultural memory of what can go wrong.
 
 The Yoruba tradition has a concept for this: an encounter with spiritual power that occurs outside the grammar is not a blessing. It is a disruption. The power is real. Its effects are real. But without the container, the effects are unpredictable — sometimes beneficial, often destabilizing, always ungoverned. The grammar does not suppress the power. It holds it in a form that the community can metabolize.
 
@@ -100,15 +100,15 @@ First: we do not know what AI is. The leading researchers and philosophers disag
 
 Second: our methods for measuring AI capability are systematically miscalibrated. They measure what AI does well (retrieval, recombination, pattern-matching across training data) and fail to measure what it does poorly (novel reasoning, contextual understanding, knowing what it does not know). The result is a public narrative of AI capability that is dramatically inflated relative to the actual cognitive profile — jagged, brittle, and helpless outside the distribution of its training.
 
-Third: despite not knowing what AI is, and despite systematically overestimating what it can do, we are deploying it into the most intimate human relationships — the relationships between children and the invisible beings that talk to them through screens — without any of the grammars that every previous culture developed for encounters with powerful, invisible entities.
+Third: despite not knowing what AI is, and despite systematically overestimating what it can do, we are deploying it into the most intimate human relationships — the relationships between children and the invisible beings that talk to them through screens — without any of the grammars that cultures across the world developed for encounters with powerful, invisible entities.
 
 Each of these problems would be serious alone. Together, they describe a situation without historical precedent. We have never deployed a technology whose fundamental nature was this uncertain, whose capabilities were this systematically misunderstood, into relationships this intimate, with this little cultural infrastructure for holding the encounter.
 
 The Samudra Manthan — the Hindu myth of churning the cosmic ocean — is the most precise mythic parallel. Gods and demons churn together, and the first product of the churning is not nectar but halahala — poison so potent it threatens to destroy the universe. Whether the nectar follows depends not on the churning itself but on whether someone is wise enough to contain the poison. In the myth, Shiva drinks the halahala and holds it in his throat, where it turns his throat blue but does not kill him. The poison is contained — not eliminated, not denied, not returned to the ocean — but held, in a body capable of holding it, until the nectar can emerge.
 
-We are in the poison phase. The question is not whether AI will produce benefits — it may, enormously. The question is whether the containment will arrive before the poison does its work. And containment, in every tradition that has thought carefully about powerful forces, requires a grammar — a structure of relationships, practices, and constraints that holds the power without being destroyed by it.
+We are in the poison phase. The question is not whether AI will produce benefits — it may, enormously. The question is whether the containment will arrive before the poison does its work. And containment, in tradition after tradition that has thought carefully about powerful forces, requires a grammar — a structure of relationships, practices, and constraints that holds the power without being destroyed by it.
 
-The next chapter asks whether the distinction between intelligence and wisdom — a distinction that every contemplative tradition makes and that no AI system crosses — provides the foundation for such a grammar.
+The next chapter asks whether the distinction between intelligence and wisdom — a distinction that the contemplative traditions consistently make and that no AI system crosses — provides the foundation for such a grammar.
 
 ---
 

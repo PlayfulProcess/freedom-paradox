@@ -4,7 +4,7 @@
 
 Every chapter so far has been about giving: giving your voice, giving a story, giving your nervous system as a scaffold. This chapter is about the other half. Listening.
 
-Listening is the most powerful co-regulatory act available to a human being. It is also the rarest. Most of what passes for listening is waiting to speak. The body is present. The mind is composing a response. The nervous system is in a mildly sympathetic state — alert, evaluating, preparing. This is not listening. This is surveillance dressed as attention.
+Listening is among the most powerful co-regulatory acts available to a human being. It is also the rarest. Most of what passes for listening is waiting to speak. The body is present. The mind is composing a response. The nervous system is in a mildly sympathetic state — alert, evaluating, preparing. This is not listening. This is surveillance dressed as attention.
 
 Real listening — the kind that regulates the speaker's nervous system — requires the listener to do something the modern world almost never asks: be present without producing anything.
 
@@ -76,7 +76,7 @@ The Quaker business method extends this into decision-making. The clerk does not
 
 Charlan Nemeth's research at UC Berkeley adds something surprising: even wrong minority opinions improve group performance. In controlled experiments, participants exposed to minority viewpoints — even incorrect ones — found more correct solutions and used a broader variety of strategies than those exposed to majority viewpoints. The mechanism is not that dissenters provide better answers but that their mere presence forces the group to think more carefully. Critically, authentic dissent outperforms devil's advocacy — role-played disagreement actually triggers cognitive bolstering of the initial position, the opposite of the intended effect. The Quaker practice works because the dissent is real, offered from genuine conviction within a shared silence, not performed as an exercise.
 
-This is what listening does at scale. It is not passive. It is the most active form of participation available — the practice of holding space for what has not yet been said.
+This is what listening does at scale. It is not passive. It is one of the most active forms of participation available — the practice of holding space for what has not yet been said.
 
 ---
 

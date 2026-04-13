@@ -58,7 +58,7 @@ The first Android phone, the HTC Dream, shipped in September 2008 — the same m
 
 The vehicle for this strategy was the Android Open Source Project, or AOSP. Google published the full Android operating system under the Apache 2.0 license — permissive, corporate-friendly, no copyleft restrictions. Any manufacturer could take the code, build a phone, and ship it without paying Google a cent. No licensing fees. No royalties. No approval process.
 
-The result, measured by adoption, is the most commercially successful open-source project in history.
+The result, measured by adoption, is arguably the most commercially successful open-source project in history.
 
 ---
 

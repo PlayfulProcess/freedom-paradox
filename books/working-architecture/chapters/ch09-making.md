@@ -14,7 +14,7 @@ This chapter is about becoming conscious of the grammars you already have — an
 
 ## The Bedtime Ritual as Co-Regulatory Technology
 
-The bedtime ritual is the most common grammar in the industrialized world. Bath, book, song, sleep. The sequence is finite. The order matters. The child participates. And the whole thing models change — the transition from wakefulness to rest, from activity to stillness, from the sympathetic activation of the day to the parasympathetic dominance of sleep.
+The bedtime ritual is among the most common grammars in the industrialized world. Bath, book, song, sleep. The sequence is finite. The order matters. The child participates. And the whole thing models change — the transition from wakefulness to rest, from activity to stillness, from the sympathetic activation of the day to the parasympathetic dominance of sleep.
 
 Most parents build this grammar instinctively, because the child's body demands it. Toddlers who do not have a bedtime ritual are harder to put to sleep, take longer to settle, and wake more often in the night. The ritual is not a convenience. It is a physiological scaffold — an external structure that does the regulatory work the child's immature nervous system cannot yet do alone.
 

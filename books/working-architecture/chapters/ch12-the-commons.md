@@ -18,7 +18,7 @@ This is not a conspiracy. It is an incentive structure. The people who built the
 
 Anna Lembke's pleasure-pain seesaw describes the neurobiological mechanism. Repeated dopamine hits from notifications and variable-ratio rewards tilt the baseline: pleasure goes down, pain goes up. The user needs more stimulation to reach the same level of satisfaction. The platform provides it. The cycle accelerates. The nervous system degrades.
 
-The result: a civilization where the most sophisticated storytelling technology ever built — the algorithmic feed — is optimized to destroy the co-regulatory infrastructure that makes stories adaptive.
+The result: a civilization where arguably the most sophisticated storytelling technology ever built — the algorithmic feed — is optimized to destroy the co-regulatory infrastructure that makes stories adaptive.
 
 ---
 
@@ -57,7 +57,7 @@ The pattern across all three: **mission-locking governance + diversified revenue
 
 ## Open Source as Responsibility Infrastructure
 
-The Freedom Paradox — the first book in this series — argues that open source is the most successful commons in human history. Linux runs virtually every server on the internet. Wikipedia is the world's encyclopedia. The protocols that power the web are open standards maintained by communities of practitioners.
+The Freedom Paradox — the first book in this series — argues that open source is arguably the most successful commons in human history. Linux runs virtually every server on the internet. Wikipedia is the world's encyclopedia. The protocols that power the web are open standards maintained by communities of practitioners.
 
 But open source faces its own prisoner's dilemma. When a corporation open-sources model weights or deployment tools, it may be building a commons — or it may be subsidizing adoption to capture market share. The distinction is the same one this entire book has been making: what matters is not the content (the code, the model, the tool) but the container (the governance structure, the incentive alignment, the power dynamics).
 

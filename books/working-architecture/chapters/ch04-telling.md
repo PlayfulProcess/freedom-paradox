@@ -12,7 +12,7 @@ This chapter is permission to start again.
 
 ## Why the Live Voice Works
 
-Fred Rogers understood something about pace that no other television producer of his era grasped. His program scored 14.95 on a temporal density metric — the number of scene changes, camera cuts, and new visual elements per minute. *Power Rangers* scored 41.90. *Sesame Street* sat somewhere in between. Rogers chose slowness not because he was old-fashioned but because he understood that the child's nervous system needs time to process what it is hearing.
+Fred Rogers understood something about pace that few other television producers of his era grasped. His program scored 14.95 on a temporal density metric — the number of scene changes, camera cuts, and new visual elements per minute. *Power Rangers* scored 41.90. *Sesame Street* sat somewhere in between. Rogers chose slowness not because he was old-fashioned but because he understood that the child's nervous system needs time to process what it is hearing.
 
 Pace is not just aesthetic. It is physiological. When you speak slowly to a child, you are modulating their breathing. The child's respiratory rate tends to entrain to the speaker's rhythm — not perfectly, not mechanically, but in the way that two pendulum clocks on the same wall gradually synchronize. Slower speech activates the parasympathetic channel. Faster speech activates the sympathetic. A storyteller who races through the scary part is doing the opposite of what the child's nervous system needs: the scary part is where you slow down, because that is where the child needs the most co-regulation.
 
@@ -38,7 +38,7 @@ You do not need to be a good storyteller. You need to be present.
 
 **Start with something true.** The easiest stories to tell are the ones that happened to you. "When I was your age, I was afraid of thunderstorms." "One time, your grandmother got lost in a city she'd never been to." "Let me tell you about the time Dad tried to cook Thanksgiving dinner." True stories carry conviction in the voice that invented stories do not — and children are exquisitely sensitive to vocal authenticity.
 
-**Use the three-part structure.** Beginning: everything is normal. Middle: something happens that disrupts the normal. End: the normal is restored, changed. This is the structure of every fairy tale, every therapy session, and every nervous system regulation cycle. Safety — activation — return. You do not need to plan the structure. Just tell what happened, and the structure will be there.
+**Use the three-part structure.** Beginning: everything is normal. Middle: something happens that disrupts the normal. End: the normal is restored, changed. This is the structure of most fairy tales, most therapy sessions, and every nervous system regulation cycle. Safety — activation — return. You do not need to plan the structure. Just tell what happened, and the structure will be there.
 
 **Slow down at the scary part.** This is the single most important technical instruction in this chapter. When the story reaches the moment of highest tension — the wolf at the door, the moment you thought you were lost, the thing that went wrong — do not speed up. Slow down. Lower your voice. The child's nervous system is activating. Your job is to hold the activation by providing a slower, calmer rhythm for their body to entrain to. You are the container. The scary part is where the container matters most.
 
@@ -50,7 +50,7 @@ You do not need to be a good storyteller. You need to be present.
 
 ## Four Traditions, One Architecture
 
-The live voice is not one tradition's practice. It is every tradition's practice. And the structural similarities across unconnected cultures are the strongest evidence that storytelling is not cultural decoration but adaptive technology.
+The live voice is not one tradition's practice. It is found across virtually every tradition. And the structural similarities across unconnected cultures are the strongest evidence that storytelling is not cultural decoration but adaptive technology.
 
 **West African call-and-response.** "Tales by Moonlight" — the tradition of communal storytelling around fires, found across West Africa with local variations — begins with a formulaic opening. The teller calls. The audience responds. This is not decorative. The call-and-response makes the audience physiologically active participants — their vocalization synchronizes breathing, their shared response triggers the endorphin release that Dunbar's research documents, and the structure ensures that no one is a passive consumer. Everyone has a role. The grammar is communal.
 

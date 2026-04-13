@@ -26,7 +26,7 @@ AI operates entirely at the level of buddhi — and a particularly constrained f
 
 ## McGilchrist: the left hemisphere's apotheosis
 
-Iain McGilchrist's hemispheric analysis completes the picture. The left hemisphere offers narrow, focused, manipulative attention — isolating, categorizing, optimizing. The right hemisphere offers broad, contextual, embodied attention — engaged with the living, the unique, the relational. AI replicates the functions of the left hemisphere at frightening speed across the entire globe.[^2]
+Iain McGilchrist's hemispheric analysis completes the picture. The left hemisphere offers narrow, focused, manipulative attention — isolating, categorizing, optimizing. The right hemisphere offers broad, contextual, embodied attention — engaged with the living, the unique, the relational. AI replicates the functions of the left hemisphere at frightening speed across much of the globe.[^2]
 
 McGilchrist's formulation is precise: increasing our power in the current state of things is like putting machine guns in the hands of toddlers. The word "toddlers" is precisely chosen: not evil agents but developmentally unready ones. This maps directly onto the thesis of this book — a species that got fire before it had the grammars to hold it.
 
@@ -64,7 +64,7 @@ The Aboriginal tradition: intelligence as stewardship. The fire is entrusted, no
 
 The Western philosophical tradition of technology critique converges on the same warning from multiple directions: technology reshapes the humans who use it, not just the world around them.[^5]
 
-The wisdom traditions converge: intelligence divorced from embodied awareness, ethical commitment, and relational accountability is not a gift but a weapon. And a weapon wielded by an organism with Paleolithic emotions and medieval institutions is the most dangerous thing on earth.
+The wisdom traditions converge: intelligence divorced from embodied awareness, ethical commitment, and relational accountability is not a gift but a weapon. And a weapon wielded by an organism with Paleolithic emotions and medieval institutions is among the most dangerous things on earth.
 
 ---
 
@@ -82,7 +82,7 @@ The contemplative traditions diagnosed the gap between intelligence and wisdom m
 
 **Norbert Wiener**, the father of cybernetics himself, became the prophet warning against his own creation. "Any use of a human being in which less is demanded of him and less is attributed to him than his full status is a degradation and a waste." His rejected 1949 *New York Times* op-ed contains perhaps the most concise statement of the alignment problem ever written: "The machines will do what we ask them to do and not what we ought to ask them to do." His know-how versus know-what distinction restates the Promethean gap in pragmatic terms. Where Silicon Valley celebrates disruption, Wiener wrote to union leaders about displaced workers. Where tech labs compete for defense contracts, Wiener refused military collaboration. His alternative: "We can be humble and live a good life with the aid of the machines, or we can be arrogant and die."
 
-**Hans Jonas** proposed the "heuristics of fear" — that in the face of technologies whose consequences exceed our predictive capacity, the imagined worst case should carry more weight than the imagined best. Not because pessimism is virtuous but because the asymmetry of outcomes demands it: a technology that destroys civilization cannot be undone, while a technology delayed can always be resumed.
+**Hans Jonas** proposed the "heuristics of fear" — that in the face of technologies whose consequences exceed our predictive capacity, the imagined worst case should carry more weight than the imagined best. Not because pessimism is virtuous but because the asymmetry of outcomes demands it: a technology that destroys civilization cannot be undone, while a technology delayed can typically be resumed.
 
 These thinkers did not collaborate and would not agree on much. But they converge on a single structural insight: the deepest danger of powerful technology is not what it does to the world but what it does to the people who use it. Illich's second watershed degrades autonomy. Franklin's prescriptive technologies produce compliance. Weil's degraded attention destroys moral perception. Haraway's technofix fantasies prevent genuine engagement. Wiener's automation replaces human judgment. Jonas's heuristics of fear demand we take the worst case seriously. Each points toward a remedy that is never technological: convivial tools, holistic practice, cultivated attention, staying present, the primacy of "know-what" over "know-how."
 
@@ -90,7 +90,7 @@ These thinkers did not collaborate and would not agree on much. But they converg
 
 ## Vallor's technomoral virtues
 
-Shannon Vallor has built the most philosophically rigorous case for what this book's thesis demands: that AI's challenge is fundamentally about character rather than code.[^7] Her argument rests on a cross-cultural synthesis of Aristotelian, Buddhist, and Confucian virtue ethics. Across all three, Vallor identifies the same structural insight: virtue is cultivated through practice, guided by exemplars, within community. It cannot be encoded in rules or optimized by calculation.
+Shannon Vallor has built arguably the most philosophically rigorous case for what this book's thesis demands: that AI's challenge is fundamentally about character rather than code.[^7] Her argument rests on a cross-cultural synthesis of Aristotelian, Buddhist, and Confucian virtue ethics. Across all three, Vallor identifies the same structural insight: virtue is cultivated through practice, guided by exemplars, within community. It cannot be encoded in rules or optimized by calculation.
 
 Her concept of "acute technosocial opacity" — the condition in which technological change occurs so rapidly it blocks our ability to understand its implications — explains why constitutional AI and similar approaches are categorically insufficient. Under technosocial opacity, deontological rules are "too brittle" and consequentialist calculation becomes "nigh impossible." Only cultivated character — flexible, situationally responsive, relationally grounded — can navigate what no ruleset anticipated.
 
@@ -108,7 +108,7 @@ Intelligence asks the question of meaning. Wisdom lives the answer. The gap betw
 
 The species in the void has examined whether its existence is adaptive — whether it is building more complexity than it consumes, matching its power with corresponding responsibility — and the evidence does not hold. Six of nine planetary boundaries transgressed. A language dying every forty days. The co-regulatory infrastructure systematically degraded by the attention economy. The feedback loops of overshoot visibly activating.
 
-The species in the void cannot be technologied out of it. No amount of intelligence — no benchmark score, no scaling law, no optimization — can close the gap, because the gap is not an intelligence problem. It is a wisdom problem. And wisdom, as every tradition examined above agrees, requires the transformation of the knower, not the improvement of the knowing system.
+The species in the void cannot be technologied out of it. No amount of intelligence — no benchmark score, no scaling law, no optimization — can close the gap, because the gap is not an intelligence problem. It is a wisdom problem. And wisdom, as the traditions examined above agree, requires the transformation of the knower, not the improvement of the knowing system.
 
 AI is the ultimate expression of the gap. It amplifies intelligence to superhuman levels while possessing zero wisdom. It can compute everything about the ground of being without ever standing on it. It is buddhi without cit, left hemisphere without right — pure pattern-intelligence operating at civilizational scale with no access to the relational, embodied, ethical mode of knowing that the traditions call wisdom.
 
@@ -118,7 +118,7 @@ The alignment problem is the intelligence-wisdom gap stated in engineering terms
 
 ## The turn: do before you know
 
-The colonial response to the gap is "know before you do" — study it, regulate it, align it. Chapter 3 showed this approach at its absolute best, in the hands of the most thoughtful person building the most sophisticated governance, and the structural forces still winning.
+The colonial response to the gap is "know before you do" — study it, regulate it, align it. Chapter 3 showed this approach at its absolute best, in the hands of arguably the most thoughtful person building arguably the most sophisticated governance, and the structural forces still winning.
 
 Every surviving wisdom tradition says the opposite.
 

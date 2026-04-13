@@ -72,7 +72,7 @@ Then, in August 1991, a twenty-one-year-old Finnish university student posted a 
 
 Torvalds released the Linux kernel under the GPL. It was a small, functional kernel that did what GNU Hurd had been struggling to do. Torvalds hadn't set out to complete Stallman's vision. He was scratching an itch, building something for himself. But the kernel slotted into the GNU ecosystem like the last piece of a puzzle.
 
-The result — technically GNU/Linux, though most people just say "Linux" — became the most important operating system in the world. Today it runs virtually every server on the internet, every Android phone, every one of the world's top 500 supercomputers. The open-source infrastructure that undergirds the modern digital economy — the servers, the cloud, the networks — is built overwhelmingly on the software that Stallman envisioned and that Torvalds made complete.
+The result — technically GNU/Linux, though most people just say "Linux" — became arguably the most important operating system in the world. Today it runs virtually every server on the internet, every Android phone, every one of the world's top 500 supercomputers. The open-source infrastructure that undergirds the modern digital economy — the servers, the cloud, the networks — is built overwhelmingly on the software that Stallman envisioned and that Torvalds made complete.
 
 But it wasn't just the software that mattered. It was how the software was built.
 
@@ -98,7 +98,7 @@ But before we get to that story, it's worth pausing on what Stallman actually ac
 
 ---
 
-The GNU General Public License, first released in 1989, is one of the most ingenious pieces of legal engineering in history. Stallman's problem was this: how do you use the law to guarantee freedom when the law is designed to restrict it?
+The GNU General Public License, first released in 1989, is one of the most ingenious pieces of legal engineering in intellectual property law. Stallman's problem was this: how do you use the law to guarantee freedom when the law is designed to restrict it?
 
 Copyright law gives creators the exclusive right to control how their work is copied, modified, and distributed. It is, by design, a tool of restriction. Stallman needed a tool of liberation. He could have simply disclaimed his copyright — placed GNU software in the public domain, where anyone could do anything with it. But he saw the trap in that approach. If the software were in the public domain, a corporation could take it, improve it, and release the improved version under a proprietary license. The commons would be strip-mined. The free software would be used as raw material for unfree software.
 

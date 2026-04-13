@@ -58,7 +58,7 @@ He was right about that, at least.
 
 ---
 
-In the short term — roughly 1998 to 2020 — the open source rebranding was an unqualified triumph. It opened the floodgates of corporate participation. Companies that would never have touched "free software" — with its whiff of anti-capitalism — embraced "open source" enthusiastically.
+In the short term — roughly 1998 to 2020 — the open source rebranding was a remarkable triumph. It opened the floodgates of corporate participation. Companies that would never have touched "free software" — with its whiff of anti-capitalism — embraced "open source" enthusiastically.
 
 The milestones came fast. In 1999, Red Hat went public. Its IPO was the eighth-largest first-day gain in Wall Street history at the time — a company built entirely on free software, valued by the market at billions of dollars. The message to corporate America was unmistakable: there was real money in open source.
 

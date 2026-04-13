@@ -102,7 +102,7 @@ In the middle: **mutual benefit under tension**. Supabase and Vercel represent s
 
 At the other end: **genuine commons**. Ghost, the publishing platform, is structured as a nonprofit foundation. There are no shareholders. There are no investors demanding returns. There is no mechanism for the rug pull — not because the people involved are more virtuous, but because the structure makes the rug pull impossible. The MIT License will remain the MIT License because no one has the authority or the incentive to change it. Independent publishers have earned more than $130 million through Ghost-powered sites, with zero transaction fees. The value flows to the creators, not to shareholders, because there are no shareholders.
 
-Wikipedia operates on the same principle. The Wikimedia Foundation runs one of the most visited websites in the world on annual donations. No advertising. No paywalls. No data harvesting. No venture capital. The content is Creative Commons licensed. The infrastructure is community-maintained. It is, by any measure, one of the most efficient value-creating institutions in the history of technology.
+Wikipedia operates on the same principle. The Wikimedia Foundation runs one of the most visited websites in the world on annual donations. No advertising. No paywalls. No data harvesting. No venture capital. The content is Creative Commons licensed. The infrastructure is community-maintained. It is, by any measure, one of the most efficient value-creating institutions in the technology world.
 
 Creative Commons itself — the legal framework that enables sharing without surrendering all rights — is another example. It is not a company. It is infrastructure for the commons. Governments, universities, artists, and publishers use it to share work on their own terms. No one profits from Creative Commons except the people who use it.
 
@@ -164,7 +164,7 @@ This is the thesis of the book, crystallized. Openness is not a value. It is a t
 
 The remaining question — the question that Part V will take up — is what governance structures can distinguish openness that empowers from openness that endangers. Elinor Ostrom spent a career studying commons that worked. Her principles included boundaries, graduated sanctions, and collective governance by the people affected. The open-source movement resisted all of these. It believed that openness was always better. That freedom was its own governance.
 
-AI is the technology that tests that belief to destruction. The commons that the next chapter enters is not a fishery or a forest. It is a commons that can think. And the question of how to govern it may be the most important question the open-source movement — or any movement — has ever faced.
+AI is the technology that tests that belief to destruction. The commons that the next chapter enters is not a fishery or a forest. It is a commons that can think. And the question of how to govern it may be the most important question the open-source movement — or any movement — has faced.
 
 ---
 

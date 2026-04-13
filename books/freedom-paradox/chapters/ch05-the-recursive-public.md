@@ -20,7 +20,7 @@ To understand why this matters, consider what a "public" normally means.
 
 When political theorists talk about publics — from Jurgen Habermas's "public sphere" to Michael Warner's work on counterpublics — they describe groups of people who come together through shared discourse. The readers of a newspaper form a public. The audience of a television broadcast forms a public. The users of a social media platform form a public. In each case, the medium through which the public communicates is *given*. It exists prior to the public. The newspaper is printed by someone else. The broadcast tower is built by someone else. The algorithm is written by someone else. The public *uses* the medium but does not *control* it.
 
-Free software communities are different. They are the first large-scale publics in history that build and maintain the medium through which they organize.
+Free software communities are different. They are among the first large-scale publics that build and maintain the medium through which they organize.
 
 Consider the concrete case. In the 1990s, Linux developers communicated through mailing lists hosted on internet servers. They used version control systems to coordinate their code contributions. They transferred files via FTP. They debated design decisions on Usenet newsgroups. All of this ran on the internet — a global network of computers communicating through open protocols.
 

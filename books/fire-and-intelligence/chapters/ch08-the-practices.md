@@ -110,7 +110,7 @@ When two people sit together without agenda, without content, without the impera
 
 This practice is not a recommendation to adopt a contemplative lifestyle. It is the recognition that the capacity for presence --- the capacity to be with another person without producing anything, consuming anything, or solving anything --- is the foundational capacity that all the other practices require. If you cannot sit in silence with another person for five minutes, the silence that the pause between breaths creates will be intolerable. The screen-free meal will feel like punishment. The storytelling will become performance. The listening will become endurance.
 
-Presence is not a luxury. It is the substrate. And AI, for all its capacities, cannot be present --- because presence requires a body that can be hurt, a life that can be lost, a relationship that carries risk. The human who practices presence is doing something AI categorically cannot do. And that something --- the embodied, vulnerable, relational act of being with another person --- is what every fire myth in every culture identifies as the responsibility that comes with the gift.
+Presence is not a luxury. It is the substrate. And AI, for all its capacities, cannot be present --- because presence requires a body that can be hurt, a life that can be lost, a relationship that carries risk. The human who practices presence is doing something AI categorically cannot do. And that something --- the embodied, vulnerable, relational act of being with another person --- is what fire myth after fire myth, culture after culture, identifies as the responsibility that comes with the gift.
 
 ---
 
@@ -118,7 +118,7 @@ Presence is not a luxury. It is the substrate. And AI, for all its capacities, c
 
 Multiple contemporary thinkers converge on the same finding: the scarcest resource in the AI age is not information but attention --- the sustained, voluntary, directed attention that the algorithmic feed is designed to capture and that every wisdom tradition identifies as the foundation of the examined life.[^11]
 
-Simone Weil wrote that attention is the rarest and purest form of generosity. The practice of attention --- to another person, to the natural world, to the pause between breaths --- is not a lifestyle choice. It is the counter-technology to the most sophisticated attention-extraction machinery ever built.
+Simone Weil wrote that attention is the rarest and purest form of generosity. The practice of attention --- to another person, to the natural world, to the pause between breaths --- is not a lifestyle choice. It is the counter-technology to arguably the most sophisticated attention-extraction machinery ever built.
 
 Peter Hershock identifies the key distinction. Freedom-of-attention --- the capacity to choose what we attend to rather than having attention captured and directed by external forces --- is the precondition for freedom-of-intention. Without freedom-of-attention, the line between choice and compulsion dissolves. You think you are choosing to scroll. Your nervous system is being captured. The distinction is invisible from inside the capture.
 

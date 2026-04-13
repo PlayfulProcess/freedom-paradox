@@ -72,7 +72,7 @@ Twenty-five years later, more than two billion works carry Creative Commons lice
 
 This is what successful commons infrastructure looks like: invisible. You do not notice the bridge when you are driving across it. You notice its absence when it collapses.
 
-And it may be collapsing. The AI training data question has put Creative Commons licenses under unprecedented strain. When Lessig designed CC licenses in 2001, the use case was human sharing — a photographer letting a blogger use her image, a musician letting a filmmaker use his track. Nobody anticipated that the primary consumer of CC-licensed works would be machine learning systems ingesting billions of images and texts to train models that compete with the original creators.
+And it may be collapsing. The AI training data question has put Creative Commons licenses under extraordinary strain. When Lessig designed CC licenses in 2001, the use case was human sharing — a photographer letting a blogger use her image, a musician letting a filmmaker use his track. Nobody anticipated that the primary consumer of CC-licensed works would be machine learning systems ingesting billions of images and texts to train models that compete with the original creators.
 
 Creative Commons has acknowledged this challenge directly. Its 2025 and 2026 strategic focus includes ensuring that technological change strengthens the commons rather than undermining it. But the organization is navigating a paradox that its founder could not have imagined: the legal tools designed to make sharing easier may be making extraction easier too.
 

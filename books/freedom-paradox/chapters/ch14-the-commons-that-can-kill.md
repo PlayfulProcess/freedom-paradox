@@ -174,7 +174,7 @@ This is the fundamental disanalogy. The code commons assumes that errors are cor
 
 ## The Question the Commons Cannot Answer
 
-Elinor Ostrom gave us the most sophisticated, empirically grounded framework for collective governance that exists. She proved that communities could manage shared resources without either the heavy hand of the state or the atomization of private property. She demonstrated, across cultures and centuries, that human beings were capable of cooperation more nuanced than Hardin imagined.
+Elinor Ostrom gave us one of the most sophisticated, empirically grounded frameworks for collective governance available. She proved that communities could manage shared resources without either the heavy hand of the state or the atomization of private property. She demonstrated, across cultures and centuries, that human beings were capable of cooperation more nuanced than Hardin imagined.
 
 Her framework works for fisheries. It works for forests and meadows and irrigation canals. It works for code — the Linux kernel, the Apache web server, the vast ecosystem of open-source software that undergirds the digital world. It works, in its way, for knowledge — Wikipedia is a commons governed by principles Ostrom would recognize.
 

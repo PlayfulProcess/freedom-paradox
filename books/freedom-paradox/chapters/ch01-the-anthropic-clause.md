@@ -56,7 +56,7 @@ Anthropic's refusal only works because Claude is not open source.
 
 This requires a moment of explanation. When Anthropic says no, it can enforce that no because it controls the model. Claude runs on Anthropic's servers. Every API call passes through Anthropic's infrastructure. The company can see what its model is being used for, and it can set terms of service that prohibit specific applications. If the Department of War wanted to use Claude for mass surveillance, Anthropic could — and did — simply refuse to provide access.
 
-Now imagine a different world. Imagine that Claude's model weights — the billions of numerical parameters that encode everything the AI has learned — were publicly available for anyone to download. This is not hypothetical. Meta has released the weights for its Llama family of models. Mistral, Stability AI, and dozens of other companies and research labs have done the same. The open-source AI movement is one of the most vibrant and fast-moving communities in the history of technology.
+Now imagine a different world. Imagine that Claude's model weights — the billions of numerical parameters that encode everything the AI has learned — were publicly available for anyone to download. This is not hypothetical. Meta has released the weights for its Llama family of models. Mistral, Stability AI, and dozens of other companies and research labs have done the same. The open-source AI movement is one of the most vibrant and fast-moving communities in recent technology history.
 
 In that world, Anthropic's refusal would be meaningless.
 
@@ -70,7 +70,7 @@ Twelve months. That is the window between today's frontier and tomorrow's commod
 
 This is the paradox at the heart of this book.
 
-For forty years, the open-source software movement has been one of the most consequential freedom movements in the history of technology. It began with a programmer named Richard Stallman who was angry about a printer, and it grew into an ideology, a legal framework, a multi-billion dollar economic engine, and a global community of millions. The Four Freedoms of free software — the freedom to use, study, modify, and distribute — have shaped every layer of the modern digital world, from the Linux kernel that runs most of the internet's servers to the Android operating system in billions of pockets.
+For forty years, the open-source software movement has been one of the most consequential freedom movements in the technology landscape. It began with a programmer named Richard Stallman who was angry about a printer, and it grew into an ideology, a legal framework, a multi-billion dollar economic engine, and a global community of millions. The Four Freedoms of free software — the freedom to use, study, modify, and distribute — have shaped every layer of the modern digital world, from the Linux kernel that runs most of the internet's servers to the Android operating system in billions of pockets.
 
 The argument for openness has always been, at its core, an argument about power. When source code is proprietary, the vendor has power over the user. When source code is open, the user has power over the technology. Openness prevents lock-in. Openness enables scrutiny. Openness makes sure that no single company, no single government, no single institution can control the tools that society depends on.
 

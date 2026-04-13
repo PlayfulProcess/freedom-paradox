@@ -196,7 +196,7 @@ None of these practices will solve the alignment problem. None will prevent auto
 
 *If Rogers needed thirty years with McFarland to build one grammar for one medium, what does that imply about the timeline for building grammars adequate to AI?*
 
-*If Esalen's casualty rate was eight to ten percent with encounter groups, what is the casualty rate of distributing AI — the most powerful consciousness technology ever built — without any relational container at all?*
+*If Esalen's casualty rate was eight to ten percent with encounter groups, what is the casualty rate of distributing AI — arguably the most powerful consciousness technology ever built — without any relational container at all?*
 
 *If Rwanda could rebuild grammars after genocide, what does that tell us about the human capacity for grammar reconstruction — and what does it tell us about the cost?*
 

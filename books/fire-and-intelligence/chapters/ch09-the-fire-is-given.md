@@ -20,13 +20,13 @@ What Sesame proves is that mediated storytelling can sustain itself commercially
 
 The pattern across all three: **mission-locking governance plus diversified revenue plus commercial activity that serves the mission equals durability.** The pattern breaks when any element is missing. Revenue without mission-locking becomes extraction (Facebook). Mission without revenue becomes dependency (public broadcasting under political threat). Governance without commercial viability becomes irrelevance (a thousand well-meaning nonprofits that couldn't sustain themselves).
 
-These are not AI companies. They are proof of concept for a structural principle: that it is possible to build institutions where the fire serves the community rather than consuming it. The question is whether this principle can be applied to the most powerful and fastest-moving technology the species has ever produced.
+These are not AI companies. They are proof of concept for a structural principle: that it is possible to build institutions where the fire serves the community rather than consuming it. The question is whether this principle can be applied to arguably the most powerful and fastest-moving technology the species has ever produced.
 
 ---
 
 ## The open-source reframe
 
-The companion book in this series, *The Freedom Paradox*, traced the forty-year history of the open-source movement and argued that its application to AI may have been the most consequential decision in the movement's history. Not because open is wrong --- open is a principle this author holds --- but because open-source AI accelerated development by years, perhaps by a decade, without any parallel acceleration of the responsibility structures needed to govern what was being built.
+The companion book in this series, *The Freedom Paradox*, traced the forty-year history of the open-source movement and argued that its application to AI may have been among the most consequential decisions in the movement's history. Not because open is wrong --- open is a principle this author holds --- but because open-source AI accelerated development by years, perhaps by a decade, without any parallel acceleration of the responsibility structures needed to govern what was being built.
 
 This book --- a book about a species acquiring power faster than it can build the grammars to hold it --- must ask: what if slower would have been better?
 
@@ -52,7 +52,7 @@ Applied to AI:
 
 **Participatory decision-making.** The evidence that this works is real. When ordinary people are given structured conditions for genuine dialogue, they produce better outcomes than experts or politicians acting alone.[^4] The mechanism works. The question is whether it can operate at the speed and scale that AI development demands.
 
-**Graduated sanctions.** Not zero-tolerance bans. Not unrestricted access. A gradient --- the same gradient every culture used for fire, for initiatory knowledge, for stories graduated by age and readiness. The child does not hear the most dangerous stories first. The apprentice does not handle the most powerful tools first. The gradient is the grammar's way of matching access to capacity.
+**Graduated sanctions.** Not zero-tolerance bans. Not unrestricted access. A gradient --- the same gradient cultures across the world used for fire, for initiatory knowledge, for stories graduated by age and readiness. The child does not hear the most dangerous stories first. The apprentice does not handle the most powerful tools first. The gradient is the grammar's way of matching access to capacity.
 
 **Accessible conflict resolution.** When AI causes harm, there must be a low-cost way to address it that does not require hiring a lawyer or understanding machine learning. This principle is almost entirely absent from current AI governance. The EU AI Act provides complaint mechanisms, but the technical complexity of demonstrating AI harm remains prohibitive for ordinary people.
 
@@ -112,7 +112,7 @@ The grammar is not a single grammar imposed from above. It is a thousand grammar
 
 The San healing dance. The Dagara grief ritual. The Quaker business method. The Haudenosaunee council's obligation to consider seven generations. The bedtime story. Each is small. Each is local. Each is a practice of the species learning to hold fire. And each demonstrates the structural principle: the grammar must match the scale. The family's grammar governs the family. The community's grammar governs the community. The species' grammar --- if one can be built --- governs the species.
 
-The companion volume, *The Axiom Beneath the Ground*, asked whether inherent value can be held as an axiom for a species behaving maladaptively --- whether the ground matters when everything built on it is burning. *Grammars of the Living World* identified the structural answer: responsibility structures that constrain power to match wisdom, grammars that hold the fire without being consumed by it. This book has applied that framework to the most consequential test case the species has faced.
+The companion volume, *The Axiom Beneath the Ground*, asked whether inherent value can be held as an axiom for a species behaving maladaptively --- whether the ground matters when everything built on it is burning. *Grammars of the Living World* identified the structural answer: responsibility structures that constrain power to match wisdom, grammars that hold the fire without being consumed by it. This book has applied that framework to arguably the most consequential test case the species has faced.
 
 AI is not the first fire. But it may be the fire that forces the developmental leap no lesser pressure could have catalyzed --- or the fire that proves the species was not ready.
 
@@ -124,7 +124,7 @@ The three books converge on one claim: the answer is never the technology and ne
 
 **Protect the co-regulation budget.** Every notification is a withdrawal. Every screen-free meal is a deposit. The family grammar --- one meal without phones, one story told without a screen, one walk without earbuds --- is responsibility infrastructure at the smallest possible scale. It is not sufficient. But it is where agency begins, and the revised learned helplessness research shows that prior experience with control immunizes against future helplessness. The small act that succeeds prepares the nervous system to believe that larger acts can succeed too.
 
-**Practice attention.** The five practices from the previous chapter --- breath, meal, story, listening, silence --- are not self-help. They are counter-technologies to the most sophisticated attention-extraction machinery ever built. They maintain the co-regulatory, attentional, relational capacity without which no institutional or civilizational response is possible. You cannot govern what you cannot attend to.
+**Practice attention.** The five practices from the previous chapter --- breath, meal, story, listening, silence --- are not self-help. They are counter-technologies to arguably the most sophisticated attention-extraction machinery ever built. They maintain the co-regulatory, attentional, relational capacity without which no institutional or civilizational response is possible. You cannot govern what you cannot attend to.
 
 **Support commons.** Use Wikipedia. Donate to it. Choose platforms that do not monetize your attention. When you have a choice between free-with-ads and paid-with-privacy, choose the payment. Your attention is not a commodity, and every system that treats it as one is withdrawing from the co-regulation budget that the species needs.
 
@@ -136,11 +136,11 @@ The three books converge on one claim: the answer is never the technology and ne
 
 ## The fire is given
 
-The fire was given. Not stolen. Given --- with obligations attached. The obligation to tend it. The obligation to share it. The obligation to become the kind of beings capable of holding it. Every fire myth, from every culture, encodes this: the gift demands development from the recipient. The gift demands that we grow.
+The fire was given. Not stolen. Given --- with obligations attached. The obligation to tend it. The obligation to share it. The obligation to become the kind of beings capable of holding it. Fire myth after fire myth, from culture after culture, encodes this: the gift demands development from the recipient. The gift demands that we grow.
 
 Whether we make the passage is not guaranteed. Initiation can fail. The initiate can die. Modernity itself may constitute a state of permanent liminality --- stuck in the threshold, never completing the crossing.[^10] The species has been stuck before. The progress trap --- power acquired without responsibility structures to govern it --- is the pattern this entire book has traced from Wonderwerk Cave to the algorithmic feed.
 
-But it is not the only pattern. The other pattern --- the one that runs deeper, that runs through every tradition this book has drawn from --- is the pattern of the parasite becoming the partner. Margulis's mitochondria. The toxin that becomes the medicine. The poison that Shiva metabolizes into the foundation of governance. The dark story that builds the child's capacity to face the dark. The fire that cooks the food that grows the brain that tells the story that carries the wisdom that constrains the fire.
+But it is not the only pattern. The other pattern --- the one that runs deeper, that runs through virtually every tradition this book has drawn from --- is the pattern of the parasite becoming the partner. Margulis's mitochondria. The toxin that becomes the medicine. The poison that Shiva metabolizes into the foundation of governance. The dark story that builds the child's capacity to face the dark. The fire that cooks the food that grows the brain that tells the story that carries the wisdom that constrains the fire.
 
 The fire cannot be unfired. The species that received it --- whether as theft or as gift, as punishment or as initiation --- stands at the threshold. The threshold guardian holds one hand up: stop. The other hand beckons: come forward.
 

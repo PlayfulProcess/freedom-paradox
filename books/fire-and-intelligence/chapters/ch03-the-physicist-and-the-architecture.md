@@ -2,7 +2,7 @@
 
 ---
 
-Dario Amodei may be the most thoughtful person to have ever controlled a species-level technology. And that is precisely why his story reveals the structural impossibility of what he's attempting. Not a failure of character. A failure of form.
+Dario Amodei may be arguably the most thoughtful person to have ever controlled a species-level technology. And that is precisely why his story reveals the structural impossibility of what he's attempting. Not a failure of character. A failure of form.
 
 ---
 
@@ -40,7 +40,7 @@ The significance of the departure became clear only in retrospect. The people wh
 
 ---
 
-What they built at Anthropic was, by any measure, the most sophisticated attempt in the history of technology to structurally constrain an organization's own worst incentives.
+What they built at Anthropic was, by any measure, arguably the most sophisticated attempt in the history of technology to structurally constrain an organization's own worst incentives.
 
 The foundation was a Delaware Public Benefit Corporation — a legal form that requires the company to balance stockholder interests against its stated mission. This is more than a press release. It is a fiduciary obligation. Directors who ignore the mission can be sued.
 
@@ -104,7 +104,7 @@ Here is where the story arrives at the question this book is trying to answer.
 
 Dario Amodei is, by the evidence of his actions and his writing and his willingness to sacrifice revenue and government relationships, genuinely committed to developing AI responsibly. He is not performing concern. He is the physicist who saw the curve — who understands the scaling laws as empirical regularities, who knows what the next generation of models will be capable of — and who is trying, with unusual intellectual seriousness, to build institutional structures that can constrain the technology he is building.
 
-Anthropic, the company he created to embody that commitment, has a public benefit corporation charter, an independent Long-Term Benefit Trust, the most transparent value-alignment framework in the industry, the leading mechanistic interpretability research program, the most important paper on deceptive AI, and a demonstrated willingness to refuse the Pentagon at enormous cost.
+Anthropic, the company he created to embody that commitment, has a public benefit corporation charter, an independent Long-Term Benefit Trust, among the most transparent value-alignment frameworks in the industry, the leading mechanistic interpretability research program, arguably the most important paper on deceptive AI, and a demonstrated willingness to refuse the Pentagon at enormous cost.
 
 And the structural forces are still winning.
 
