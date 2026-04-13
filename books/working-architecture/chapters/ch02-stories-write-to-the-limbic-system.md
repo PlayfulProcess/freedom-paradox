@@ -8,7 +8,7 @@ This is the sentence that changes everything about how you think about storytell
 
 A three-year-old hearing Hansel and Gretel does not understand abandonment, famine, or the economics of scarcity that produced the tale. She does not need to. The story is not operating on her cortex — the part of the brain that analyzes, categorizes, and understands. It is operating on her limbic system — the part that feels, remembers, and learns from experience. The story is writing directly to the emotional brain, in the primary language the emotional brain speaks: image, rhythm, tension, and resolution.
 
-This is why fairy tales work. Not because children understand the moral. But because the sequence — safety, threat, courage, resolution — rehearses the nervous system's own pattern. The child's body practices the arc: settle, activate, hold, return. This is exposure-based therapy, and virtually every culture that has told stories to children has been doing it for thousands of years without calling it that.
+This is why fairy tales work. Not because children understand the moral. But because the sequence — safety, threat, courage, resolution — rehearses the nervous system's own pattern. The child's body practices the arc: settle, activate, hold, return. This is exposure-based therapy, and every known culture that tells stories to children has been doing it for thousands of years without calling it that.
 
 ---
 

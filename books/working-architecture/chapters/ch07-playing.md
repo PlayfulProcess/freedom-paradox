@@ -30,7 +30,7 @@ Capoeira's roda — the circle — encodes a principle that applies to all embod
 
 In the roda, two players engage in the center. But those forming the circle — clapping, singing, playing instruments — are not audience. They are the grammar. Without the circle, the two players are just fighting. With the circle, they are practicing a communal art form that has carried African diasporic wisdom for three hundred years. The container — the circle, the music, the shared rules — transforms individual movement into communal practice.
 
-Most playgrounds have a roda, though it is rarely named. The children watching from the edges of the game are not passive observers. They are learning the rules, reading the social dynamics, preparing to enter. The game of tag is a grammar: finite rules (one person is "it"), combinatorial generativity (infinite possible chases), a participant as practitioner (you must play to understand), and a model of change (being "it" is temporary). When a child is excluded from the game, what they lose is not entertainment. They lose access to the grammar.
+A playground has a roda, though it is rarely named. The children watching from the edges of the game are not passive observers. They are learning the rules, reading the social dynamics, preparing to enter. The game of tag is a grammar: finite rules (one person is "it"), combinatorial generativity (infinite possible chases), a participant as practitioner (you must play to understand), and a model of change (being "it" is temporary). When a child is excluded from the game, what they lose is not entertainment. They lose access to the grammar.
 
 ---
 

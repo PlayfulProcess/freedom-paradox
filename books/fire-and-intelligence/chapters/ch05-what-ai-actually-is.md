@@ -108,7 +108,7 @@ The Samudra Manthan — the Hindu myth of churning the cosmic ocean — is the m
 
 We are in the poison phase. The question is not whether AI will produce benefits — it may, enormously. The question is whether the containment will arrive before the poison does its work. And containment, in tradition after tradition that has thought carefully about powerful forces, requires a grammar — a structure of relationships, practices, and constraints that holds the power without being destroyed by it.
 
-The next chapter asks whether the distinction between intelligence and wisdom — a distinction that the contemplative traditions consistently make and that no AI system crosses — provides the foundation for such a grammar.
+The next chapter asks whether the distinction between intelligence and wisdom — a distinction that the contemplative traditions examined in this book consistently make and that no AI system crosses — provides the foundation for such a grammar.
 
 ---
 

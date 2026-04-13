@@ -12,7 +12,7 @@ Not no answer at all. There are many answers. She has read them. "You are a perf
 
 She is not rejecting these answers. She is incapable of receiving them. The difference is crucial. Rejection is an act of will — a decision that the answers are wrong. Incapacity is a condition — the absence of the faculty that would allow the answers to land. It is as if someone were offering food to a person whose mouth has been wired shut. The food may be nutritious. The person may be starving. But the mechanism of reception is broken.
 
-This is where many people live, though they rarely say so. Not in faith, not in atheism, but in the void between them.
+This is where she lives. Not in faith, not in atheism, but in the void between them.
 
 ---
 
@@ -180,7 +180,7 @@ The language is religious. She was Catholic. The experience she described was wh
 
 But notice what she did with it. She did not build a theology. She did not found a church. She took the experience and subjected it to the three-filter test. Is the framework that emerged from this experience useful? Test it. Does it fit the data? Collect the data. Is it compassionate? Ask the patients.
 
-The mystical experience was the ignition. The three-filter test was the engine. The framework that resulted was DBT — not a religion, not a philosophy, but a set of practicable skills, rigorously tested, continuously revised, that reduces suffering in populations few prior treatments had reached effectively.
+The mystical experience was the ignition. The three-filter test was the engine. The framework that resulted was DBT — not a religion, not a philosophy, but a set of practicable skills, rigorously tested, continuously revised, that reduces suffering in populations that prior treatments had largely failed to reach.
 
 This is the move I am proposing for the void. Not to resolve it. Not to explain it away. Not to spiritualize it into a "dark night of the soul" that ends with dawn. But to take the experience of groundlessness and subject it to the filter.
 

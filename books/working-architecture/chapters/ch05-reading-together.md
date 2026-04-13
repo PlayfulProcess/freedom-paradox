@@ -50,7 +50,7 @@ Meanwhile, the public broadcasting infrastructure Rogers depended on has collaps
 
 What does this mean for a parent reading a book to a child?
 
-It means that the infrastructure that once delivered high-quality co-regulatory stories to most American children is gone. What replaced it is an attention economy that optimizes for engagement, not development. The commercial alternatives — YouTube Kids, Netflix, algorithmically curated "educational" apps — are designed to keep children watching, not to support the co-regulatory relationship between parent and child.
+It means that the infrastructure that once delivered high-quality co-regulatory stories to American children is gone. What replaced it is an attention economy that optimizes for engagement, not development. The commercial alternatives — YouTube Kids, Netflix, algorithmically curated "educational" apps — are designed to keep children watching, not to support the co-regulatory relationship between parent and child.
 
 This is why the practice in this chapter matters more than it did a generation ago. When public infrastructure provided the stories, parents could rely on institutions to do part of the work. Now the parent *is* the infrastructure. The live voice, the co-reading, the shared attention — these are not supplements to a system that supports families. They are the last line of the system.
 

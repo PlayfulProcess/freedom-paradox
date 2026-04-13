@@ -4,7 +4,7 @@
 
 ## I. The Synthesis
 
-There is a distinction between intelligence and wisdom that many traditions have named and that modernity has worked hard to collapse.
+There is a distinction between intelligence and wisdom that the traditions examined in this book have named and that modernity has worked hard to collapse.
 
 Intelligence asks the question. It takes the world apart, examines the pieces, maps the relationships, builds models of extraordinary precision and predictive power. Intelligence produced the periodic table, the double helix, the transistor, the language model. Intelligence can hold a thousand variables simultaneously, can detect patterns invisible to unaided perception, can generate in seconds what would take a human lifetime to compose. Intelligence is not the problem. Intelligence has never been the problem.
 
