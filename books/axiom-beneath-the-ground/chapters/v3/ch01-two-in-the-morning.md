@@ -30,14 +30,18 @@ She read. She read philosophy, theology, psychology, neuroscience. She read the 
 
 Nothing landed. Not because the ideas were wrong — some of them were brilliant, and she could feel their brilliance — but because the faculty that would allow an idea to become a felt reality, a ground beneath her feet, was the thing that had broken. The ideas stayed in her head. They would not descend into her body. She could think them. She could not stand on them.
 
-One night she wrote four lines in the notebook and then stared at them for a long time:
+One night, after putting the child to bed, she sat at the table and thought about a poem her daughter loved — a Shel Silverstein poem about a little letter "a" who insists to big "G" that without her, the sea would be "the se," the flea would be "the fle," and earth and heaven couldn't be without her. The child found it hilarious. The child always asked for it twice.
+
+She opened the notebook and wrote four lines:
 
 > *No meaning*
 > *Because concepts are so limiting*
 > *If nobody meant "A" to be*
 > *The sea would still be as "s" "e"*
 
-She did not know if it was a poem or a diagnosis. It was both. The sea does not need the letter to be the sea. Meaning is imposed, not discovered. Or is it? She closed the notebook.
+She stared at them for a long time. Her daughter's poem said the letter matters — that without the "a," nothing holds. Her poem said the opposite: the sea does not need the letter to be the sea. Existence does not need concepts. The sea was the sea before anyone named it.
+
+She did not know if what she had written was a poem or a diagnosis. She did not know which version was true — the child's or hers. She closed the notebook.
 
 ---
 
