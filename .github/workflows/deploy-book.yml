@@ -61,20 +61,14 @@ jobs:
           mdbook build
           cp CNAME book/ 2>/dev/null || true
 
-      - name: Add EPUBs and library landing page
+      - name: Add library landing page
         run: |
-          # Copy EPUBs into the build output
-          mkdir -p book/epubs
-          cp docs/epubs/*.epub book/epubs/ 2>/dev/null || true
-
           # Save mdbook's index so it remains accessible
           cp book/index.html book/reader-index.html 2>/dev/null || true
 
           # Library landing page becomes the site index
+          # EPUB links now point to GitHub Releases (absolute URLs), no sed needed
           cp docs/epubs/index.html book/index.html 2>/dev/null || true
-
-          # Fix epub links: point to epubs/ subdirectory
-          sed -i 's|href="\([^"]*\.epub\)"|href="epubs/\1"|g' book/index.html 2>/dev/null || true
 
           # Fix "Read Online" links: remove ../ prefix (they were relative to epubs/)
           sed -i 's|href="\.\./|href="|g' book/index.html 2>/dev/null || true
