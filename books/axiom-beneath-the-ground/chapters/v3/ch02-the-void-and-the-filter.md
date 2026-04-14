@@ -8,11 +8,11 @@ Paul Tillich was shattered before he became a theologian.
 
 He served as a military chaplain on the Western Front for four years. He was at the Battle of Verdun in 1916, where three hundred thousand men died in ten months over a few miles of mud. He buried his closest friend. He was hospitalized three times for what we would now call combat-related PTSD. He came home, in his own word, "shattered."[^1]
 
-This matters because Tillich's philosophy is not an academic exercise. It is the work of a man who stood in the void — who experienced the collapse of every structure of meaning he had inherited — and who built, from inside that collapse, a way of thinking about courage that remains among the most compelling in Western philosophy.
+This matters because Tillich's philosophy is not an academic exercise. It is the work of a man who stood in the void — who experienced the collapse of every structure of meaning he had inherited — and who built, from inside that collapse, a way of thinking about courage that remains central to Western philosophy.
 
 In *The Courage to Be*, delivered as the Terry Lectures at Yale in 1952, Tillich proposed that human existence is threatened by nonbeing in three fundamental directions. The anxiety of fate and death threatens basic existence — everyone will die, no one knows when, and nothing about any life is necessary. The anxiety of guilt and condemnation threatens moral existence — freedom and imperfection coexist permanently, and the awareness of this gap is guilt. And the anxiety of emptiness and meaninglessness threatens spiritual existence — the progressive loss of the frameworks within which death and guilt could be faced.
 
-The third anxiety is the one that concerns us. Tillich considered it the most devastating of the three, and the defining anxiety of the modern period. The anxiety of death can be managed if life has meaning. The anxiety of guilt can be borne if a moral framework holds. But when meaning itself dissolves — when the question "Why does any of this matter?" produces no answer that lands — then even death and guilt lose their structure. They become floating threats, unmoored from any system that might contain them.
+The third anxiety is the one that concerns us. Tillich considered it the most corrosive of the three, and the defining anxiety of the modern period. The anxiety of death can be managed if life has meaning. The anxiety of guilt can be borne if a moral framework holds. But when meaning itself dissolves — when the question "Why does any of this matter?" produces no answer that lands — then even death and guilt lose their structure. They become floating threats, unmoored from any system that might contain them.
 
 Here is the sentence from Tillich that organizes this entire chapter: "The anxiety of meaninglessness is anxiety about the loss of an ultimate concern, of a meaning which gives meaning to all meanings."[^2]
 
@@ -56,7 +56,7 @@ This is the first move that matters for philosophical purposes. Linehan built a 
 
 But the epistemological move — the one that makes Linehan central rather than supplementary — comes in her treatment philosophy, not her diagnostic theory.
 
-Linehan was explicit about the epistemological status of her framework. She did not claim that DBT was *true* in the sense that physics is true — that it describes the fundamental structure of reality. She claimed something more careful and, ultimately, more powerful. The framework needs to meet three criteria.[^8]
+Linehan was explicit about the epistemological status of her framework. She did not claim that DBT was *true* in the sense that physics is true — that it describes the fundamental structure of reality. She claimed something more careful and, ultimately, more useful. The framework needs to meet three criteria.[^8]
 
 First: Is it useful? Does the framework help people reduce suffering, build lives they experience as worth living, and develop capacities they did not have before? This is an empirical question. You test it. If the framework does not produce measurable reduction in suffering, you revise it or discard it.
 
@@ -134,7 +134,7 @@ The void corrects nothing. It imposes nothing. It is the experience of standing 
 
 This does not mean the void produces moral paralysis. People still act from within it — hold commitments, raise children, show up. But they act without the certainty that their ground is the ground — and that absence of certainty is a form of protection. It protects against the particular cruelty of people who know they are right.
 
-Tillich saw this with devastating clarity. He called it the Protestant Principle — the commitment to continuously negate every concrete form that claims to be final. Even the axiom of inherent value must be held lightly. The moment it hardens into dogma, it has betrayed itself. The ground built by standing on it is not the kind of ground that can be handed to someone else with the instruction to stand on it. It is the kind of ground that forms only under the feet of the person standing. Each person must build their own. And the void is the honest beginning.
+Tillich saw this with clarity. He called it the Protestant Principle — the commitment to continuously negate every concrete form that claims to be final. Even the axiom of inherent value must be held lightly. The moment it hardens into dogma, it has betrayed itself. The ground built by standing on it is not the kind of ground that can be handed to someone else with the instruction to stand on it. It is the kind of ground that forms only under the feet of the person standing. Each person must build their own. And the void is the honest beginning.
 
 The filter's first test is passed. Groundlessness is useful. It prevents the weaponization of certainty.
 
@@ -170,7 +170,7 @@ And there is a version of the void that is nihilism. Nihilism is not the absence
 
 The difference is subtle but structurally decisive. The person in the void holds the question open. The nihilist has closed it. The person in the void says: "The ground of human value cannot be found, and the question of how to live with that remains." The nihilist says: "There is no ground, and anyone who claims otherwise is deluded." The first is an honest report of experience. The second is a metaphysical claim — and one that fails the compassion test immediately, because it denies the lived experience of everyone who has found a ground and felt it hold.
 
-Linehan understood this distinction with extraordinary precision, because she encountered it clinically. The patients who entered DBT in a state of nihilistic certainty — *nothing will help, nothing matters, this is beyond repair* — were not in the void. They were in a defensive posture against the void. The certainty that nothing matters is a wall erected to prevent the more terrifying experience of not knowing whether anything matters. Nihilism is not the deepest darkness. It is a shelter built inside the darkness to avoid feeling how dark it is.
+Linehan understood this distinction with clinical precision, because she encountered it clinically. The patients who entered DBT in a state of nihilistic certainty — *nothing will help, nothing matters, this is beyond repair* — were not in the void. They were in a defensive posture against the void. The certainty that nothing matters is a wall erected to prevent the more terrifying experience of not knowing whether anything matters. Nihilism is not the deepest darkness. It is a shelter built inside the darkness to avoid feeling how dark it is.
 
 The therapeutic move — radical acceptance — was not to argue the patient out of nihilism. It was to invite them back into the void. Back into the not-knowing. Back into the dialectic between acceptance and change. This is harder than nihilism. Nihilism has the comfort of completion. The void has no comfort at all, except the company of someone willing to sit in it with you.
 

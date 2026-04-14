@@ -34,7 +34,7 @@ This is the God above God --- the ground of being that appears when the God of t
 
 Tillich knew this was circular. He called it the theological circle and refused to pretend otherwise. There is no evaluating a ground of being from outside it. There is no outside. Every existential commitment involves a circle: stepping beyond one's own existence to verify that existence has value is impossible. The only options are to affirm it or refuse it. And even the refusal is a form of affirmation, because it takes place within being.
 
-Tillich's honesty here is striking. He does not offer comfort. He does not offer certainty. He offers the naked description of what it is to stand in the place where all comfort and certainty have been stripped away, and to find that standing itself is possible. The God above God is not a warmer, friendlier God. It is not God with better marketing. It is the ground that becomes perceptible only when every named, imaged, conceptualized God has been consumed by doubt. It is what remains when nothing remains.
+Tillich's honesty here is worth noting. He does not offer comfort. He does not offer certainty. He offers the naked description of what it is to stand in the place where all comfort and certainty have been stripped away, and to find that standing itself is possible. The God above God is not a warmer, friendlier God. It is not God with better marketing. It is the ground that becomes perceptible only when every named, imaged, conceptualized God has been consumed by doubt. It is what remains when nothing remains.
 
 And what remains is not nothing. That is the discovery. What remains, after every structure of meaning has collapsed, is the capacity to affirm being. Not a content --- not a belief, not a doctrine, not a story about why existence matters. Just the bare act of affirmation itself. The "yes" that has no object. The acceptance that accepts nothing in particular and yet sustains the one who accepts.
 
@@ -42,7 +42,7 @@ And what remains is not nothing. That is the discovery. What remains, after ever
 
 ## The Bodiless Theologian
 
-But here is what Tillich did not say. He described the courage. He described the circle. He described the God above God. But he did not describe what the ground *feels like* --- not as theology, not as philosophy, but as a living pulse in the body of the one who stands. He pointed at the ground. He did not put the reader's feet on it. His categories are brilliant, his honesty devastating, his refusal to flinch a model for every thinker who came after him. But his work is strangely bodiless. The courage to be operates in the soul, in the spirit, in the depth of being --- but Tillich rarely asks where the courage lives in the chest, in the breath, in the moment when the next heartbeat arrives uninvited.
+But here is what Tillich did not say. He described the courage. He described the circle. He described the God above God. But he did not describe what the ground *feels like* --- not as theology, not as philosophy, but as a living pulse in the body of the one who stands. He pointed at the ground. He did not put the reader's feet on it. His categories are precise, his honesty unsparing, his refusal to flinch a model for every thinker who came after him. But his work is strangely bodiless. The courage to be operates in the soul, in the spirit, in the depth of being --- but Tillich rarely asks where the courage lives in the chest, in the breath, in the moment when the next heartbeat arrives uninvited.
 
 For that, a different teacher is needed.
 
@@ -118,7 +118,7 @@ The claim is not: "This is a useful framework for understanding consciousness." 
 
 This sentence requires careful attention, because it is the hinge on which everything turns.
 
-Most therapeutic and contemplative frameworks in the modern West operate on a pragmatist epistemology: adopt the framework if it is useful, discard it if it is not. The three-filter test --- is it useful, does it fit the data, is it compassionate --- is a brilliant example.
+Most therapeutic and contemplative frameworks in the modern West operate on a pragmatist epistemology: adopt the framework if it is useful, discard it if it is not. The three-filter test --- is it useful, does it fit the data, is it compassionate --- is a clear example.
 
 But the tradition Wallis teaches is making a *stronger* claim than pragmatism allows. Consciousness is not the ground because it is useful to think so. Consciousness is the ground because it *is* the ground. The inability to perceive this is not a difference of philosophical opinion. It is an obscuration --- a contraction of awareness that can be loosened through practice.
 
@@ -234,7 +234,7 @@ The three-filter test does not resolve this. It says: the identification is usef
 
 **The second: what about the body?**
 
-Tillich's courage is described as an ontological act --- a self-affirmation of being. But Tillich was a thinker of remarkable disembodiment. His philosophy operates almost entirely at the level of concepts, of structures, of dialectical movements. The courage to be is described as something that happens in the soul, in the spirit, in the depth of being --- but not in the muscles, not in the breath, not in the nervous system that determines whether a person can tolerate sitting still for twenty minutes.
+Tillich's courage is described as an ontological act --- a self-affirmation of being. But Tillich was a thinker of consistent disembodiment. His philosophy operates almost entirely at the level of concepts, of structures, of dialectical movements. The courage to be is described as something that happens in the soul, in the spirit, in the depth of being --- but not in the muscles, not in the breath, not in the nervous system that determines whether a person can tolerate sitting still for twenty minutes.
 
 The tantric tradition, by contrast, is radically embodied. Spanda is not a concept about pulsation. It is pulsation --- felt in the body, accessed through the body, lived as the body. The five shaktis are not philosophical categories. They are experiential realities accessed through specific practices: breath work, movement, visualization, mantra, the disciplined use of attention at the level of sensation.
 

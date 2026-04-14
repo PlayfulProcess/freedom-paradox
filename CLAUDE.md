@@ -262,6 +262,23 @@ mdbook-theme/          # Custom CSS for Substack-style typography
   - Aboriginal firestick farming → Fire Ch1
   Other books say "as established in [Book Title]..." and move on. Never repeat a case study, experiment, or myth retelling across books.
 - **Key distinction**: good/bad are moral categories (weaponizable). Adaptive/non-adaptive are empirical (observable on a long enough timescale). The book uses the adaptive frame throughout.
+- **NO JUDGMENT ADJECTIVES FROM NARRATOR (April 2026 Kindle feedback):** The third-person narrator never evaluates. Remove: "compelling", "devastating", "brilliant", "extraordinary", "remarkable", "striking", "powerful", "profound", "radical" from narrator voice. These words are OK only in:
+  - First-person Author's Note
+  - Character's interior thoughts ("she found it compelling")
+  - Direct quotes from named persons
+  The narrator observes; the narrator does not evaluate. "Who says it's compelling? Let the reader decide."
+- **NO ABSOLUTIST CLAIMS (April 2026 audit — 81 edits across 4 books):**
+  - "the only" → "among the few" or scope to text ("the thinkers examined here")
+  - "every tradition" → "the traditions examined in this book" or "tradition after tradition"
+  - Unhedged superlatives → "arguably" or "among the most"
+  - "nobody knows" → "we do not know"
+  - Population claims ("many", "most", "few") → ground in text's own evidence or use generic singular
+  - The "who counted?" test: if a reader would ask "how do you know it's many?", rewrite.
+- **REALISTIC DOMESTIC DETAIL:** Bedtime at 8pm. Void/reflection arrives ~10pm. She wakes 6:30am, daughter 7-8am (meditation time before the day). No mother is routinely up at 2am. Ground times in real parenting rhythms.
+- **THE AUTHOR'S BACKSTORY (for narrative chapters using "she"):**
+  - Catholic upbringing, pro forma — parents attended out of cultural/community obligation, not faith. Grandfather attended for community standing. More cultural than spiritual.
+  - The faith/ground question was never fully set aside. It took different forms: meditation, yoga, readings, drug use. The ONLY time it was truly incompatible was during years as investment banking analyst at Goldman Sachs. After leaving, the question returned.
+  - The retreat was real. The tradition is real. But the book is not positioned as author's spiritual journey — let the character carry it.
 
 ## Pending Research Queue
 
