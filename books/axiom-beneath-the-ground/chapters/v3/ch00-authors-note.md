@@ -10,7 +10,7 @@ I have a version of that question. It is less generous than Rosenberg's and more
 
 The question that would not close was simpler and harder than Rosenberg's: *Is there a ground beneath human value, or is the whole thing a construction?* Not as philosophy. As a felt reality. Can I stand on something, or am I building the floor while I walk?
 
-That question brought me, at forty, to a retreat led by Christopher Wallis — a scholar-practitioner of nondual Shaiva Tantra who translates a thousand-year-old contemplative tradition into language the analytical mind can hold. I did not go because I had found an answer. I went because the question had become unbearable and I had run out of ways to hold it alone.
+That question brought me, around forty, to a retreat led by Christopher Wallis — a scholar-practitioner of nondual Shaiva Tantra who translates a thousand-year-old contemplative tradition into language the analytical mind can hold. I did not go because I had found an answer. I went because the question had become unbearable and I had run out of ways to hold it alone.
 
 What happened at the retreat was not a conversion. It was stranger. The practices worked — not as belief, but as something the body recognized even when the mind resisted. The images on the altar drew a comparison from my husband to the *Wild Wild Country* documentary, and he was not entirely wrong, and I could not entirely dismiss the comparison.
 
