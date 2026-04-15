@@ -98,7 +98,7 @@
 # The Axiom Beneath the Ground (v3)
 
 - [Author's Note](axiom-v3/ch00-authors-note.md)
-- [Two in the Morning](axiom-v3/ch01-two-in-the-morning.md)
+- [The Question](axiom-v3/ch01-two-in-the-morning.md)
 - [The Void and the Filter](axiom-v3/ch02-the-void-and-the-filter.md)
 - [The Retreat](axiom-v3/ch03-the-retreat.md)
 - [Two Teachers, One Ground](axiom-v3/ch04-two-teachers-one-ground.md)
