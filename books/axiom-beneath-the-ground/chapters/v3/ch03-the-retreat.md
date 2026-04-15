@@ -4,7 +4,7 @@
 
 The building was a converted farmhouse two hours north of the city, set back from the road behind a row of sugar maples that had not yet leafed out. She pulled into the gravel lot on a Thursday afternoon in early spring, turned off the engine, and sat for a moment with her hands on the steering wheel. Through the windshield she could see a wooden porch, a screen door propped open with a brick, and a woman in a fleece vest carrying a stack of folded blankets inside.
 
-She had signed up for five days. A practice intensive. Meditation, chanting, teaching, silence. She had packed light --- yoga pants, two sweaters, a journal she would barely open, and the small overnight bag she used for work trips when the children were younger. Her husband had driven her to the train that morning. He had kissed her at the platform and said, "Have a good one," which was what he said when she left for conferences, and the ordinariness of it --- the way he treated this the same as a professional development weekend --- was both a comfort and a kind of loneliness she could not name.
+She had signed up for five days. A practice intensive. Meditation, chanting, teaching, silence. She had packed light --- yoga pants, two sweaters, a journal she would barely open, and the small overnight bag she used for work trips. Her husband had kissed her at the door that morning and said, "Have a good one," which was what he said when she left for conferences, and the ordinariness of it --- the way he treated this the same as a professional development weekend --- was both a comfort and a kind of loneliness she could not name.
 
 The main hall had been a barn. High ceilings, exposed beams, a floor of wide pine planks that creaked when you shifted your weight. Someone had arranged forty meditation cushions in concentric half-circles facing a low platform. On the platform sat a chair, a small table with a microphone, and behind them an altar draped in red silk. Brass figures she did not recognize. Flowers --- marigolds and white roses, still fresh. A framed photograph of a man she had seen in books but never met. Two candles burning. A stick of incense whose smoke climbed straight up in the still air, sandalwood and something else, something sweet and resinous she could not place.
 
@@ -131,7 +131,7 @@ She got back in the car and drove the rest of the way home.
 
 Her husband met her at the door. He hugged her and she pressed her face into his chest and breathed him in --- laundry detergent, coffee, the faint cedar of his closet. He asked how it was. She said, "Good. Strange. I'll tell you more later." He carried her bag upstairs.
 
-That evening, after dinner, after the children were occupied, she unpacked the small brass figure she had bought at the retreat's bookshop. It was a deity she was only beginning to learn about --- a feminine form, dancing, multiple arms, a face that was somehow both fierce and tender. She placed it on the shelf in the corner of the bedroom where she meditated in the mornings. Next to it she set a small candle and a sprig of dried lavender from the garden.
+That evening, after dinner, after her daughter was in bed, she unpacked the small brass figure she had bought at the retreat's bookshop. It was a deity she was only beginning to learn about --- a feminine form, dancing, multiple arms, a face that was somehow both fierce and tender. She placed it on the shelf in the corner of the bedroom where she meditated in the mornings. Next to it she set a small candle and a sprig of dried lavender from the garden.
 
 Her husband came in while she was arranging it. He stood in the doorway with his arms crossed --- not hostile, not angry, but with the particular tilt of the head that meant he was formulating something.
 
@@ -149,7 +149,7 @@ He said it with a half-smile, the way he said things that were jokes and also no
 
 She wanted to say: it's not like that. She wanted to say: this is different, this teacher is different, this tradition is different. She wanted to explain the philosophy, the rigor, the thousand-year lineage, the way the teaching explicitly warned against exactly the kind of capture that documentary portrayed.
 
-She did not say any of that. Because he was not entirely wrong. She was a woman who had come home from a five-day retreat with an image she could not fully explain for her bedroom altar and a look in her eyes that her husband, who loved her and watched her carefully, had correctly identified as new. And new, in the context of a marriage with children and a mortgage and twenty years of shared life, is not automatically good. New can be the beginning of depth. New can also be the first step off a cliff. The person inside the new cannot always tell the difference. That is what the person outside the new is for.
+She did not say any of that. Because he was not entirely wrong. She was a woman who had come home from a five-day retreat with an image she could not fully explain for her bedroom altar and a look in her eyes that her husband, who loved her and watched her carefully, had correctly identified as new. And new, in the context of a marriage with a child and a mortgage and fifteen years of shared life, is not automatically good. New can be the beginning of depth. New can also be the first step off a cliff. The person inside the new cannot always tell the difference. That is what the person outside the new is for.
 
 "Fair enough," she said.
 
@@ -169,7 +169,7 @@ She sat on the floor in front of the shelf. The candle she had placed there was 
 
 The alarm was still there. Quieter now, but there --- a low hum in the chest, a residue of the ten-year-old's conviction that forms like this were empty, that devotion like this was performance, that the adults were pretending.
 
-And the room was also still there. Not the retreat room --- this room. This bedroom, with its unmade bed and its laundry basket and its window overlooking the backyard where the children's bikes lay on their sides in the grass. This room, which held her husband's skepticism and her own uncertainty and the brass figure's silent, ambiguous presence.
+And the room was also still there. Not the retreat room --- this room. This bedroom, with its unmade bed and its laundry basket and its window overlooking the backyard where the child's bike lay on its side in the grass. This room, which held her husband's skepticism and her own uncertainty and the brass figure's silent, ambiguous presence.
 
 She did not light the candle. She was not ready for that yet. She sat with the figure and the alarm and the room and the memory of the teacher's five words --- *it is, until you experience it* --- and she breathed.
 
