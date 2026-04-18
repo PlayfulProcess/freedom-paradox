@@ -48,3 +48,15 @@
 **Ch7 rewrite.** With cutting/piercing moved to Ch1, Ch7 becomes the post-retreat life-force beat: continuing practice in daily rhythm. May merge with Ch9 (Deha returning) if the two overlap — decision deferred until drafting.
 
 **Remaining research prompts (2–6).** Still open. Prompts live in `research/v4-deep-research-prompts-claude-ai.md` for sequential execution.
+
+---
+
+## 2026-04-18 (later still) — research-22 landed
+
+**Research added.** `research/research-22-ti-svatantrya-freedom.md` — citation-grade note on svātantrya in *Tantra Illuminated*, pp. 101–109 ("The Five Powers of God"), with the "innate freedom and total autonomy" framing at approximately p. 105. Freedom-of-the-whole vs. freedom-of-the-part distinction is textually confirmed: Wallis attributes svātantrya to Awareness, not to mind or body. Classical anchors: Abhinavagupta's *Tantrāloka* 1.67–69 (only one fundamental quality); Kṣemarāja's *Pratyabhijñā-hṛdayam* sūtra 1 (*citiḥ svatantrā viśva-siddhi-hetuḥ*).
+
+**Structural note for the book.** Wallis has a published engagement with Sam Harris's *Free Will* (hareesh.org, 8 July 2015, two parts). The narrator's "not choosing between Sam Harris and the Catholic frame" is grounded in a real dialogue her teacher has joined. Ch1 (reading year) can plausibly include this blog essay as a text she encountered; Ch3 can footnote the counter-position.
+
+**Candidate line for Ch6 prose (synthetic, not quoted):** *Courage is svātantrya owning itself in the dark; svātantrya is courage in the light.* Preserved in research-22 Section 7 as drafting material.
+
+**Spanda thread.** Spanda is svātantrya in vibratory aspect (Kṣemarāja's *Spanda-nirṇaya* lists them as synonyms). Usable in the Ch4 Kali interlude without naming the term — the pulse that makes any action, including destruction, part of the one self-determining field.
