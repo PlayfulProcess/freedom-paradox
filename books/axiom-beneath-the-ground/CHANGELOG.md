@@ -60,3 +60,20 @@
 **Candidate line for Ch6 prose (synthetic, not quoted):** *Courage is svātantrya owning itself in the dark; svātantrya is courage in the light.* Preserved in research-22 Section 7 as drafting material.
 
 **Spanda thread.** Spanda is svātantrya in vibratory aspect (Kṣemarāja's *Spanda-nirṇaya* lists them as synonyms). Usable in the Ch4 Kali interlude without naming the term — the pulse that makes any action, including destruction, part of the one self-determining field.
+
+---
+
+## 2026-04-18 (later still still) — research-23 + first chapter drafts
+
+**Research added.** `research/research-23-tillich-courage-absolute-faith.md` — citation-grade dossier on Tillich. *Courage to Be* (Yale 1952/2000), three anxieties (pp. 32–63), courage as ontological act (p. 152), absolute faith and the God above God (pp. 171–190, "accepting of acceptance" at p. 185). *Dynamics of Faith* (1957) on faith as ultimate concern. *Protestant Era* (1948) on the Protestant Principle. Pauck & Pauck biography on Verdun. Notes for the book's Śūnya → Cit pivot in Section 7.
+
+**Chapters drafted.**
+- `chapters/v4/ch01-playground.md` — opener. Playground scene (Tantra 112 app, Cit passage, the *yes* before reason). The reading year compressed. The tia and the espírita inheritance. The decision. Closes with the pre-retreat cutting/piercing WhatsApp exchange — narrator's filter applied to her teacher for the first time, his correction (cutting → piercing), his concession on the daily-practice framing.
+- `chapters/v4/ch06-walking-out.md` — structural heart. The final-day walking-out scene. Hug, joke, question. The dialogue: nothing would change → reincarnation → pattern → destruction/suicide → "there always is" a hole. Held dialectically per the destruction-thread ground rules.
+
+**Open for next pass.**
+- Research-24 (Kybalion), 25 (Linehan), 26 (Nvidia)
+- Chapters 2, 3, 4, 5 (inward arc filling out)
+- Chapters 7, 8, 9, 10, 11 (outward arc and coda)
+- Italicized interludes (Kali, Cit, Śūnya, Temple)
+- SVG diagram
