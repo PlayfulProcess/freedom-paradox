@@ -64,6 +64,21 @@ I am not writing a manifesto. I am writing a process. If you find yourself insid
 
 ---
 
+There is a song I wrote for my daughter, a year or two ago, after a day that went badly in a small street-level way — a truck came too soon, a pile of things we had meant to give away went instead to a crushing place, and she screamed down the block after it until the driver stopped, though by then there was nothing he could do. We sat on the curb together. I could not fix what had happened. I could only hold her.
+
+I wrote the song to try to find a shape for what had happened. The shape is not an argument. The shape is a refrain. I have been singing it to her for long enough that it has become, in its small way, what I mean when I mean *practice*.
+
+> *The crash, the crush, that awful sound —*
+> *it planted something in the ground.*
+> *And what grew up between the cracks*
+> *is this: a song that loves you back.*
+
+I put the stanza here, at the end, because the book is trying to say the same thing in longer words. The crash is real. The crush is real. The ground receives what lands in it. The cracks are not where the story ends; the cracks are where the different growth becomes possible. What grows through the cracks is often small and unshowy. A song for a child. A book that took too long. A tool that was made quieter and not abandoned. A yes to Arjuna's question that sounds, in translation, like a kitchen and a laptop and a daughter's breath through a monitor at eleven at night.
+
+I am not sure, writing this, whether the song or the book is the better answer. I suspect neither of them is the answer. Both of them are the practice the answer required me to do in order to keep being a person who was still asking the question.
+
+---
+
 The daughter will wake in six hours. She will come to our bed. She will smell the way she always smells in the morning — a smell I will miss, in twenty years, more than any other smell. I will get up with her. I will make breakfast. I will do the dishes. I will feel the warm water, and the thick base of the mug my mother-in-law gave us, and the faint lavender of the soap. I will do the practice that is available at that moment, which is the practice of being in the room with the person who is in the room with me.
 
 The book ends here. The practice does not.
