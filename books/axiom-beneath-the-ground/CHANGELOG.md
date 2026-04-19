@@ -100,3 +100,27 @@
 - SVG diagram
 - Research-26 follow-up: complete the truncated "Relationship" section, antitrust jurisdiction list, Hugging Face contribution counts, Dwarkesh transcript timestamps
 - Ch3 (Citta / filter chapter): present Linehan's three criteria in her actual language before paraphrasing; drop any implication that this is a clinical thought-evaluation technique
+
+---
+
+## 2026-04-19 (later) — inward arc Ch2–Ch5 drafted
+
+**Chapters drafted.**
+- `chapters/v4/ch02-deha.md` — Body. Arrival at the barn; first night (Catholic-alarm non-firing); first formal teaching in the converted hayloft; the "It is, until you experience it" exchange on morning two; two days of body-catching-up; the lentil-soup moment on the second evening as the clean small truth the body noticed first.
+- `chapters/v4/ch03-citta.md` — Heart-Mind. Third-day walk around the property alone. Tillich's three anxieties, with meaninglessness named as the one she carries. Linehan's three criteria applied to Tillich and to the tradition; both pass. Freedom (spiritual, absolute, field-property) vs. value (moral, relative, distribution-property). The Harris/Wallis engagement — narrator recalls reading her teacher's 2015 two-part response to *Free Will* during the reading year, which dissolves the binary rather than refutes the neuroscience. Adaptive/non-adaptive as the bridge; "all is balance" as the aunt's near-enemy; prisoner's dilemma as the stable-but-non-adaptive equilibrium. The Wild Wild Country reference now placed as the community's failure-mode reminder.
+- `chapters/v4/ch04-prana.md` — Life-Force / Kali. The fourth afternoon's Kali practice. The intrusive "what would change?" question interrupting the programmer at lunch — she apologizes; he says "your question is real too." The walking-back scene: teacher's humble "I sometimes wonder what is wrong with these people" on a post-lunch walk; narrator floats the assistant idea carefully ("an assistant" not "an AI"; "carry some of the load" not "replace"); teacher: "I'd be a bit open to thinking about that." She does not ask her destruction question that day; she carries it. Closes with an italicized Kali interlude (1-page archetypal voice, per the plan).
+- `chapters/v4/ch05-shunya.md` — Void. Last full day; carrying the unasked question. Tillich read on the porch between first sit and breakfast — the sentence that had been a formulation in the bathtub has become a description on the porch. Absolute faith as "accepting of acceptance" working on her from inside. Closing circle: the silver-haired retreatant with one foot in and one foot out testifies to his own return via the goddess work and vouches for the community's integrity to the newcomers. Night before final morning; the path waiting. Closes with an italicized Śūnya interlude.
+
+**Architectural notes for these drafts.**
+- All three research corrections applied in-prose: Linehan's three criteria as theory-selection (Ch3, Ch1-style attribution); Harris response treated as dissolving-the-binary rather than refuting neuroscience (Ch3); Kybalion Ch. XII free-will-graded-field seeded in Ch1 §III earlier this pass and referenced implicitly in Ch3.
+- Teacher interactions now captured in the drafted chapters: "It is, until you experience it" (Ch2 §III); the humble "what is wrong with these people" and the first assistant/AI seed on the walking-back (Ch4 §III); the closing-circle testimony set in his presence (Ch5 §IV).
+- POV holds close-third throughout. First-person only in the Author's Note. Italicized interludes (Kali, Śūnya) introduced in the archetypal register — no proper names, no plot, addressed to "you."
+- The destruction question is carried unasked from Ch4 §II through Ch5 §III into the already-drafted Ch6 walking-out scene. The chronological chain is now continuous: Kali practice → intrusive lunch question → walking-back → last full day carrying → closing circle → night → walking out → hug → nothing would change → there always is.
+
+**Open for next pass.**
+- Outward arc: Ch7 (Prāṇa returning), Ch8 (Citta returning), Ch9 (Deha returning), Ch10 (Vastu returning / AI tension), Ch11 (Writing Desk coda)
+- Cit interlude: the plan calls for one after Ch6. Decision deferred — Ch6's emotional landing may not want an italicized overlay.
+- Temple interlude: location not yet decided — possibly Ch10 companion.
+- SVG diagram at `src/images/diagram-tantrik-layers.svg`
+- Research-26 follow-up pass (still open)
+- Author pass on Ch2–Ch5: register, pacing, whether the Harris/Wallis paragraph in Ch3 §IV is the right placement or whether it belongs earlier in Ch1's reading year instead
