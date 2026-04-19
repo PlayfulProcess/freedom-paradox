@@ -1,5 +1,30 @@
 # Changelog — Axiom Beneath the Ground
 
+## 2026-04-19 (evening) — v5 Threshold chapter + Wallis audit + story index
+
+**New chapter landed: Ch04a — The Threshold.** A meditation on contemplating death as a cross-tradition doorway, between the Kali interlude (Ch04 §V) and the Void (Ch05). Covers:
+- Walt Whitman's pre-1855 awakening and the hubris that followed — with the Civil War hospital work (Washington, 1862-65) as the threshold that returned him to the quieter voice of *Drum-Taps*. Attributed to a mythologist on *The Emerald* (narrator's memory of a reading, not uncontested biography — `[VERIFY]` flag)
+- The retreat participant who claimed initiation in many traditions, reached recognition (Tantra) and emptiness (Buddhism) without integration, and was finally integrated by a West African healer (the *nine healers* teaching from the Dagara-adjacent lineage). His proposed substitute triad: *Śiva-Śakti-Death* in place of *Śiva-Śakti-Nara*. Held as hypothesis, not endorsed.
+- Ramana Maharshi at sixteen: śavāsana as rehearsal; *what is it that is dying?*
+- Eckhart Tolle at twenty-nine: the splitting of *I cannot live with myself*
+- The narrator's destruction question from Ch06, relocated from private emergency to common doorway
+- **The teacher's own ending**: *Near Enemies of the Truth* Acknowledgments closing with the eight-word line *"without whom I would not be alive today"* (confirmed from primary source screenshot provided by the author, 2026-04-19 — p. 251 of the Kindle edition). The tradition had kept him alive. The book's filter on the tradition passes a test the narrator had not known it was going to apply.
+- Italicized Threshold interlude in the tradition's established non-narrator register
+- 988 footnote at chapter end per Ch06 precedent
+
+**New files:**
+- `chapters/v5/ch04a-the-threshold.md`
+- `research/story-index-v5.md` — compact index of the book's 14 chapters, central claims, and open flags, for Wallis-agent audits and future agent passes (author asked for "an index of the story so it can have memory of some kind")
+- `research/wallis-audit-v5-2026-04-19.md` — the /wallis skill's three-angle audit (philosophical, traditional, moral) plus literary/dramatic assessment. Eight specific revision proposals flagged; author to accept or reject each at copyedit. Audit strongly affirms the book's core architecture and raises three areas for tightening: (a) one paragraph distinguishing svātantrya as meta-śakti of Cit rather than synonym; (b) strengthened container in Ch06 §III around the suicide exchange (one beat of narration + editorial footnote in author's own voice); (c) a Whitman epigraph at Ch00 (preferred) or a single Whitman line in Ch11. Audit signs off with "May all beings benefit."
+
+**Open flags continuing:**
+- `[VERIFY]` Whitman / Civil War hospital biographical claim against the specific Emerald episode at copyedit
+- `[RESEARCH NEEDED]` specific Emerald episode(s) citing Whitman's biography and Akomolafe's cracks teaching
+- `[EDITORIAL NOTE]` whether Ch04a becomes its own numbered chapter or stays as interlude-position
+- Author to review wallis-audit-v5 and decide which of the eight revision proposals to accept
+
+---
+
 ## 2026-04-19 (later) — v5 expansion: memoir threads + deep-research pass
 
 **What expanded.** After the initial v5 commit (`4ddb4f3`), the author added three major thematic weaves and flagged a "different chapter" memoir thread (Paradevi / Ayahuasca 2019) saved separately to memory:
