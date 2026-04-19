@@ -95,7 +95,26 @@
 
 ---
 
-# The Axiom Beneath the Ground (v3)
+# The Axiom Beneath the Ground (v5 — latest)
+
+- [Author's Note](axiom-v5/ch00-authors-note.md)
+- [Playground](axiom-v5/ch01-playground.md)
+- [Interlude: The Cracks](axiom-v5/ch01a-interlude-the-cracks.md)
+- [Deha](axiom-v5/ch02-deha.md)
+- [Citta](axiom-v5/ch03-citta.md)
+- [Prāṇa](axiom-v5/ch04-prana.md)
+- [The Threshold](axiom-v5/ch04a-the-threshold.md)
+- [Śūnya](axiom-v5/ch05-shunya.md)
+- [Walking Out](axiom-v5/ch06-walking-out.md)
+- [Prāṇa Returning](axiom-v5/ch07-prana-returning.md)
+- [Citta Returning](axiom-v5/ch08-citta-returning.md)
+- [Deha Returning](axiom-v5/ch09-deha-returning.md)
+- [Vāstu Returning](axiom-v5/ch10-vastu-returning.md)
+- [Writing Desk](axiom-v5/ch11-writing-desk.md)
+
+---
+
+# The Axiom Beneath the Ground (v3 — archived)
 
 - [Author's Note](axiom-v3/ch00-authors-note.md)
 - [The Question](axiom-v3/ch01-two-in-the-morning.md)

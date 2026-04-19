@@ -165,6 +165,85 @@ bash build.sh        # Syncs chapters from source dirs → src/, runs mdbook bui
 - Custom CSS: `mdbook-theme/substack.css` (Newsreader serif, 19px, 680px max-width)
 - Config: `book.toml`
 
+### KDP Print-on-Demand Pipeline (Amazon paperback + Kindle)
+
+Separate from the books.recursive.eco site. Produces Amazon-ready files.
+
+**Build script:** `scripts/build-print.sh` (uses pandoc + typst, not LaTeX)
+
+```bash
+./scripts/build-print.sh freedom-paradox
+./scripts/build-print.sh axiom-beneath-the-ground
+./scripts/build-print.sh working-architecture
+```
+
+**Requires:**
+- `pandoc` (already installed)
+- `typst` — install once via `winget install Typst.Typst`
+- One-time per book: create `books/<name>/book.yaml` with title/subtitle/author/description/source_url
+
+**Per-book metadata (`books/<name>/book.yaml`):**
+- `title:` — full title
+- `subtitle:` — optional
+- `author:` — defaults to "PlayfulProcess"
+- `description:` — Amazon book description
+- `source_url:` — GitHub link for attribution page
+- `chapters_subpath:` — optional subfolder under chapters/ (e.g. `v5` for Axiom)
+
+**Outputs:**
+- `output/print/<name>-interior.pdf` — KDP paperback interior (6×9 trim, 0.625in inside gutter)
+- `output/print/<name>.epub` — Kindle ebook
+
+**Manual KDP upload steps (one-time per book, ~30 min each):**
+
+**Before first upload — one-time account setup:**
+1. Go to [kdp.amazon.com](https://kdp.amazon.com) → sign in with Amazon account (or create)
+2. Complete tax interview (W-8BEN for non-US authors)
+3. Add bank account for royalty deposits (required even at minimum royalty)
+
+**Per book:**
+1. KDP dashboard → **Create → Paperback**
+2. **Language:** English
+3. **Book Title:** copy from `book.yaml` `title`. Subtitle: copy from `subtitle`.
+4. **Series/Edition:** leave blank
+5. **Author:** PlayfulProcess (first name: PlayfulProcess, last name: leave blank, or Playful/Process)
+6. **Description:** copy from `book.yaml` `description`
+7. **Publishing rights:** "I own the copyright..."
+8. **Keywords:** 7 max. For Axiom: tillich, wallis, consciousness, spiritual axiom, memoir, meditation, contemplative
+9. **Categories:** pick 2 BISAC codes. For Axiom: "Religion/Spirituality" + "Biography & Autobiography/Personal Memoirs"
+10. **Adult content:** No
+11. **Next → Content:**
+    - **Print ISBN:** "Get a free KDP ISBN" (start here; buy own ISBN only if you want IngramSpark later)
+    - **Publication date:** leave blank (KDP assigns)
+    - **Trim size:** 6 × 9 in
+    - **Bleed:** No bleed
+    - **Paper type:** White (default) or Cream — your call
+    - **Cover finish:** Matte (looks classier) or Glossy
+12. **Manuscript:** upload `output/print/<name>-interior.pdf`
+13. **Cover:** use KDP Cover Creator (fastest — solid color + title + author). Or upload your own PDF if you have a cover design.
+14. **Previewer:** review every page — fix errors back in the markdown + rebuild + re-upload
+15. **Next → Pricing:**
+    - **Territories:** All territories
+    - **Primary marketplace:** Amazon.com (US)
+    - **Royalty & Pricing:** 60% royalty. Set list price at **printing cost + $0.01** (KDP shows minimum; for a 311-page 6×9 it's typically $6.50–$8)
+    - **KDP Select:** **DO NOT ENROLL** — requires Amazon exclusivity, incompatible with CC BY-SA
+    - **Expanded distribution:** enable for libraries/bookstores (free, why not)
+16. **Publish Your Paperback**
+
+**Kindle ebook (after paperback is live):**
+1. Back to dashboard → Create → **Kindle eBook**
+2. Most fields copy from paperback (KDP will offer to clone)
+3. **Manuscript:** upload `output/print/<name>.epub`
+4. **Cover:** same cover from paperback (upload or Cover Creator)
+5. **Pricing:** $2.99 minimum for 70% royalty tier (or $0.99 for 35% tier — books are CC BY-SA anyway so pricing is symbolic)
+6. **DO NOT ENROLL in KDP Select** (same reason — exclusivity incompatible with CC)
+7. Publish
+
+**After upload:**
+- Amazon review takes 24–72 hours for paperback, faster for Kindle
+- Once approved, both formats appear on the book's Amazon page together
+- Add the Amazon URL to `docs/epubs/index.html` card for that book
+
 ### Full Publishing Checklist (after any chapter edit)
 
 When chapter content changes, ALL of these must be updated or the site will be stale:

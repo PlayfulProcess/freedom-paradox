@@ -27,6 +27,11 @@ mkdir -p src/axiom-v3
 cp books/axiom-beneath-the-ground/chapters/v3/*.md src/axiom-v3/
 cp books/axiom-beneath-the-ground/chapters/the-ceremony.md src/axiom-v3/
 
+# The Axiom Beneath the Ground v5 — latest (memoir threads + Whitman/Harris/Ghost/Gita)
+# 14 chapters including interludes ch01a and ch04a. BUILD-NOTES.md excluded below.
+mkdir -p src/axiom-v5
+cp books/axiom-beneath-the-ground/chapters/v5/ch*.md src/axiom-v5/
+
 # Standalone books: Freedom Paradox, Working Architecture, Fire and Intelligence
 mkdir -p src/freedom-paradox src/working-architecture src/fire-and-intelligence
 cp books/freedom-paradox/chapters/ch*.md src/freedom-paradox/
