@@ -146,3 +146,13 @@ The v4 draft is now complete at the chapter level: Ch0 (Author's Note) + Ch1 (Pl
 - SVG diagram at `src/images/diagram-tantrik-layers.svg`
 - Research-26 follow-up (Prompt 6b prepared in `research/v4-deep-research-prompts-claude-ai.md`)
 - Build/deploy: update `src/SUMMARY.md` and `build.sh` to point at v4 paths (still v3); rebuild EPUB; rebuild mdbook
+
+---
+
+## 2026-04-19 (later still still) — outreach draft: Tristan Harris blessing
+
+**Added.** `outreach/tristan-harris-blessing-email.md` — draft email to Tristan Harris requesting his blessing to screen one of his documentaries at a free library class PlayfulProcess is teaching on "vibe coding." Frame: Bhagavad Gita / Arjuna-Krishna — *is this battle ours to fight?* — with PlayfulProcess positioning honestly on the build-with-awareness side ("on Dario's team") while respecting Harris's warnings as the clearest contemporary version of Arjuna's question. Echoes Axiom Ch10's structure: ask the living person, respect the refusal, keep building smaller if declined.
+
+Document also contains practical follow-up (which film, public performance rights, library logistics, class framing, fallback materials if declined) and open items (confirm name spelling — Tristan, not Travis; whether to name Anthropic directly; length calibration).
+
+**Structural note for the next pass (Kundera).** PlayfulProcess has named the intended structure of the book: Kundera-style alternation between narrative and non-fictional chapters (*The Unbearable Lightness of Being*, *The Book of Laughter and Forgetting*). The current v4 draft mixes registers within chapters. A separate structural pass is open: either (a) split each chapter into a clean narrative chapter + a clean essay chapter, doubling the chapter count, or (b) keep the five-layer architecture but re-sort so odd-numbered chapters are narrative and even-numbered chapters are essayistic. Decision deferred to the next drafting session.
