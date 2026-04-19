@@ -1,5 +1,37 @@
 # Changelog — Axiom Beneath the Ground
 
+## 2026-04-19 — v5 landed
+
+**What v5 is.** A consolidation pass over v4 that weaves in the three outreach-planned beats v4 never received (Ch03 Tristan Harris reversal, Ch10 Ghost sibling passage, Ch11 Gita hinge + Dario framing) and adds a set of themes the author asked to weave in during the build (technology accelerating time; overconceptual disconnection from relationality; social media as karma accelerator; collective karma of overindividualistic consumerism; East/West as incompatible theories of personhood rather than two cultures arguing).
+
+**Preservation.** `chapters/v4/` is untouched. `chapters/v5/` is a new directory with 12 chapter files + `BUILD-NOTES.md`.
+
+**Changes summary (full detail in `chapters/v5/BUILD-NOTES.md`):**
+- Ch03 — §IV renamed "The Sam Harris Exchange" (disambiguation); new §VII "The Other Harris" inserted as the chapter's new close
+- Ch10 — new §VII "Ghost, From the Other Direction" inserted between Nvidia §VI and Unresolved (renumbered §VIII)
+- Ch11 — new first-person block on Arjuna at Kurukshetra, "I am on Dario's team" as a dharmic stance, and the build-differently response as shared across ghost-model / chip-company / contemplative-tradition registers
+- Every other chapter copied verbatim from v4
+
+**Sources drawn on — all internal to the repo, no external web fetches in this pass:**
+- `outreach/ghost-model-and-harris-reversal.md` (the outreach sketches for Ch03 and Ch10)
+- `outreach/tristan-harris-blessing-email.md` (the Arjuna/Krishna framing and the "on Dario's team" stance)
+- `research/research-31-onolan-ghost-platform.md` (verified Ghost facts + corrections)
+- `books/freedom-paradox/chapters/ch02-when-code-could-clone-itself.md` (Ghost narrative already established in Freedom Paradox)
+- `books/grammars-of-the-living-world/research/raw/research-07-community-curated-media.md` (Ghost as structural analog)
+- `books/freedom-paradox/research/raw/onolan-open-source-age-of-ai.md` (Feb 2026 O'Nolan newsletter)
+- `research-compendium/substack/dario-amodei.md` (the narrator's own 2025 Substack draft on Amodei, identified in the outreach doc as "the Dario piece")
+
+**Open flags.** Listed in `BUILD-NOTES.md`. The key ones:
+- `[RESEARCH NEEDED]` Tristan Harris podcast episode URL/date
+- `[RESEARCH NEEDED]` primary citation for the Substack-copied-Ghost-source-code claim (Axiom v5 avoids the claim; flag carries for Freedom Paradox)
+- `[EDITORIAL NOTE]` whether to name Tristan Harris directly in Ch03 §VII prose
+- `[EDITORIAL NOTE]` whether Ch11's Arjuna paragraph's light joke should survive copyedit
+- `[VERIFY]` Ghost ActivityPub status and Oct-2024 governance commitments at copyedit
+
+**What v5 does NOT change.** Build scripts, EPUB pipeline, `src/SUMMARY.md`. v5 is a draft-in-waiting, not a deployed edition. v4 remains the stable build target until the author approves v5.
+
+---
+
 ## 2026-04-19 — research-31 landed (Ghost / O'Nolan, Thread 5)
 
 **Research added.** `research/research-31-onolan-ghost-platform.md` — citation-grade note on Ghost, the Ghost Foundation, and John O'Nolan as the working model for recursive.eco and the publishing-layer sibling to Ch10's Nvidia example. Primary sources: Ghost Foundation About and ActivityPub pages (ghost.org, accessed 2026-04-19); O'Nolan's "Democratising publishing" (30 Oct 2024) and "Open Source in the age of AI" (26 Feb 2026) on john.onolan.org; Wikipedia History/Foundation sections for Kickstarter and jurisdiction anchors; TechCrunch (8 July 2024) for the first-federated-newsletter date.
