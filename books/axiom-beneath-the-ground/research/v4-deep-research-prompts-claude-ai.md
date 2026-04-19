@@ -239,3 +239,39 @@ Flag uncertainty with `[RESEARCH NEEDED]`. Do not invent quotes.
 ## When all six are saved
 
 Tell me the files are in place. I'll read them, update the plan if anything shifts the argument, and draft Ch1 (Playground) next.
+
+---
+
+## Prompt 6b — Nvidia ecosystem restraint, completion pass (follow-up to research-26)
+
+**Save output as:** `books/axiom-beneath-the-ground/research/research-26b-nvidia-followup.md`
+
+**Context:** The original prompt-6 output was truncated mid-section ("Relationshi…"). This follow-up completes the gaps and adds primary-source verification. Paste the block below into a new Claude.ai conversation with Research turned on.
+
+```
+A prior research pass confirmed that "do as little as possible, as much as necessary" is a Jensen Huang formulation (four utterances in his April 15, 2026 appearance on *The Dwarkesh Podcast*) and sketched Nvidia's mixed record on ecosystem restraint. The output was truncated mid-section. This prompt completes it.
+
+Do not re-cover (already in research-26): the Montessori / Verhältnismäßigkeit / subsidiarity / ALARA lineage; the general Cosmos / Nemotron / Dynamo open-source posture; the headline that Anthropic committed $10B to Nvidia on Nov 18, 2025 despite a June 2025 Huang/Amodei public disagreement; the DeepSeek R1 market event (~$589B single-day loss, January 2025) and Nvidia's gracious response.
+
+Do cover, with primary-source citations:
+
+1. Dwarkesh transcript — timestamps. Locate the four utterances of "do as little as possible, as much as necessary" in the April 15, 2026 Dwarkesh Patel interview with Jensen Huang. Give timestamp + one-sentence surrounding context for each. If a transcript exists on Dwarkesh's site or a third-party transcription service, cite the URL.
+
+2. The "Relationship" section that was truncated. Most likely subject: Nvidia's stated posture toward customers, partners, and ecosystem participants (hyperscalers, neoclouds, labs, sovereign AI projects). Reconstruct this from Huang's recent public statements (GTC 2025–2026 keynotes, analyst calls, the same Dwarkesh interview). What does Nvidia say it is to its counterparties — supplier, platform, partner, co-investor? Where does the stated posture match practice and where does it diverge?
+
+3. Antitrust scrutiny — jurisdictions and dates. Name the six jurisdictions pursuing antitrust examinations of Nvidia as of April 2026. For each: authority, opened date, stated scope, current status. Primary sources: regulator press releases, court filings, FT / Bloomberg / Reuters reporting.
+
+4. CUDA EULA translation-layer clause. Quote the exact license text (≤30 words, fair use) that restricts running CUDA on non-Nvidia hardware via translation layers. Cite the EULA version and date. Note when the clause was added (is it pre- or post-ZLUDA?).
+
+5. China exposure. Current revenue share from China as of the most recent 10-Q, with the filing date. Current status of H20 / export-controlled SKU shipments. Whether the company has disclosed any volume-for-equity or similar arrangements.
+
+6. CoreWeave equity-allocation claim. Verify the claim that GPU allocation to CoreWeave was tied to Nvidia's equity stake. Sources: S-1 filings, The Information, Semianalysis, analyst notes. What does the primary record actually show?
+
+7. Anthropic $10B commit — primary source. The Nov 18, 2025 announcement: where did it first appear (joint press release, earnings call, SEC filing)? Link and quote the operative sentence. Similarly, locate the June 2025 Huang/Amodei public disagreement in its original form (not secondary coverage).
+
+8. Hugging Face contribution counts. Nvidia's Hugging Face organization page as of April 2026: number of models, number of datasets, downloads in the trailing 30 days. Rank Nvidia among institutional contributors if a ranking source exists.
+
+Format. Citation-grade. Primary sources preferred over secondary; name the publication, date, and URL for every factual claim. Flag anything you can't verify as [UNVERIFIED] rather than paraphrasing around the gap. Output length: whatever the sources support — but under 2,500 words.
+
+Epistemological frame. The book is not endorsing or attacking Nvidia. It is testing whether a stated restraint principle survives contact with the company's full operating record. Sourcing should let a skeptical reader adjudicate for themselves.
+```
