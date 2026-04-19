@@ -30,7 +30,49 @@ She had applied the same filter to the tradition she was inside. The tradition h
 
 ---
 
-## III. Freedom and Value
+## III. The First Approach
+
+She had not, up to the third morning, spoken to the teacher one-on-one during the retreat. There had been the WhatsApp exchange before she came, about cutting and piercing. There had been the hall teachings, where he sat at the platform and she sat near the wall. There had been meals where she had not sat at the long table he was at, because forty people arranged themselves across three tables and she had, the first two days, chosen the table farthest from his by instinct rather than plan.
+
+On the third morning, between the long sit and breakfast, she walked up to him on the porch. He was drinking tea. He was alone, not visibly busy. She asked, before she had planned to ask, the question she had not yet worked out how to phrase well.
+
+"Is intrinsic value an axiom," she said, "or is it something real?"
+
+He did not answer immediately. He took a small sip of tea. Then he said the sentence he had said to the woman in the front row on the first morning, but he said it to her directly, and it landed differently than it had landed from the back of the hall.
+
+"It is constructed," he said, "until you experience it."
+
+She sat with that. She had rehearsed many follow-up questions for many hours in many configurations over the preceding year. She chose the one that was closest to the thing she had actually been driving at.
+
+"But how about benefiting people?" she said. "How does the tradition relate to that?"
+
+He set his mug down on the railing.
+
+"We repeat *May all beings benefit*," he said, "because it is useful. Not because the tradition requires us to. The tradition does not have much to say about moral philosophy, as a matter of what it was built to do. Morality lived, in the cultural context this tradition grew up inside, in the other religions that surrounded it. They were doing that work. We were doing a different work. It has implications. I think about them."
+
+She was not sure what to say to this.
+
+He said — still even, still not in a hurry — "Power, in the tradition's sense, is orthogonal to morals. That is why most gurus, when they fail, fail deeply. The failure is not ordinary moral failure. The failure is a failure that has been amplified by the specific capacities the path developed in them. Those capacities travel with the person whether the person has done moral work or not."
+
+She looked at him. He looked back, steadily.
+
+He said, quieter: "The documentaries people watch about these failures — and I have watched them too — show the end of the story. They cannot show the slow part. The slow part is the study. What a cult is. How one starts. How one does not notice until one cannot leave. That is the thing to study, if you want to protect yourself from the pattern. Not the collapses. The beginnings. The beginnings look ordinary, because they are."
+
+He picked up the mug again. He did not press the point. The bell rang for breakfast. She thanked him. He nodded. She walked back inside.
+
+She carried the exchange to breakfast and did not eat much. She carried it to the morning walk that began the rest of the day's Citta work.
+
+The exchange changed something she did not yet have the vocabulary for. The tradition had been, in her reading year, the place she had begun to think about value again after value had stopped working as the driving question. The teacher had just told her, on a porch with tea going cold, that the tradition was not the place where moral questions were primarily worked out. The tradition was concerned with something else. The moral question was hers to work out, using whatever instruments she had — Linehan, the aunt, the daughter, the husband, the people she worked with, the filter she was building — and the tradition would not underwrite that work for her. The tradition would answer a different question. The tradition would answer the question of what the *I* is that is doing the directing, and would leave the question of how the directing goes open, because the tradition's honest position was that those were two different questions and one did not determine the other.
+
+She understood, walking the path, that this was why the tradition carried the failure modes it did. A tradition that develops power without also developing moral discipline — because moral discipline lived in the surrounding religions and the tradition did not need to duplicate the work — produces practitioners whose capacities outrun their character. Most of the time this was tolerable. Occasionally it was catastrophic. The catastrophes were what the documentaries filmed. The tolerable middle was what made the catastrophes possible.
+
+She understood, also, that her filter was doing work the tradition's own framework did not do. Useful / fits the data / compassionate was, in Linehan's register, a moral-and-epistemic filter. It was not a replacement for the tradition. It was the layer the tradition did not provide. She needed both. The tradition for the *I*; the filter for the *directing*. Neither one alone.
+
+The exchange, she thought, was not the sort of thing most first-retreat attendees received from a teacher on the third morning. She had received it because she had asked. The asking had been Linehan. The answering had been the tradition. The two had met on a porch.
+
+---
+
+## IV. Freedom and Value
 
 She had thought, for years, that the driving question was about value. To whom should she direct what she had. The question had seemed inexhaustible because it was the moral question, and the moral question refreshes every time the conditions change. A child is born; the question refreshes. A parent ages; the question refreshes. A country goes to war; the question refreshes. She had answered the question in a different configuration every few years of her adult life, and the answering had produced something like progress, and the progress had not touched the thing underneath.
 
@@ -42,7 +84,7 @@ Tillich's courage was what she would have to do from the side of her finite self
 
 ---
 
-## IV. The Sam Harris Exchange
+## V. The Sam Harris Exchange
 
 In the reading year, some months before the app, she had read Sam Harris's book on free will. Harris had argued — with the clean, surgical confidence that had become his public manner — that the sense of being the author of one's thoughts and actions was an illusion, and that this illusion, once seen through, should produce not despair but a certain kind of ethical clarity. Harris was good at the move. She had found herself assenting as she read, then feeling the assent bottom out an hour later, not because she had found the counterargument but because the assent had not changed anything. The book had delivered its argument and had not entered her bones.
 
@@ -58,7 +100,7 @@ It was, until you experienced it. That was the five-word door.
 
 ---
 
-## V. Adaptive, Not Moral
+## VI. Adaptive, Not Moral
 
 Linehan's distinction, drawn into the heart-mind work, sharpened. *Good* and *bad* were moral categories. They could be weaponized. They traveled in judgment. They implied a tribunal. *Adaptive* and *non-adaptive* were empirical categories. They did not weaponize; they described. A behavior was adaptive if it helped a system continue over time. A behavior was non-adaptive if it did not, or if it helped in the short term at the cost of the long term.
 
@@ -72,7 +114,7 @@ The filter was operational. If this community was not adaptive, over time, she w
 
 ---
 
-## VI. The Citta Settling
+## VII. The Citta Settling
 
 She walked back toward the farmhouse in the early afternoon light. The frames had loosened and not collapsed. She had not arrived at an answer. She had arrived at a working method. The method was to hold three filters (useful, fits the data, compassionate) at the theory-selection level, to distinguish freedom (spiritual, absolute, a property of the whole) from value (moral, relative, a property of the distribution), to apply adaptive/non-adaptive where good/bad was tempting, and to let the body — which was further along than the mind — set the pace.
 
@@ -82,7 +124,7 @@ For that afternoon, walking, she was loose. She let the looseness be the teachin
 
 ---
 
-## VII. The Other Harris
+## VIII. The Other Harris
 
 There was a second Harris. She had nearly forgotten him in the reading year — a different kind of figure, a different kind of argument. Not the philosopher of determinism. A man who had worked inside the large attention-optimizing companies and had left to run a small non-profit whose work was, in her reading of it, a public accounting of what the engagement-internet was doing to human attention. A documentary. A set of public talks. A careful worry, articulated by someone who had been inside the systems he was worried about.
 
