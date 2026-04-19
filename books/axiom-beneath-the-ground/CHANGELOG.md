@@ -124,3 +124,25 @@
 - SVG diagram at `src/images/diagram-tantrik-layers.svg`
 - Research-26 follow-up pass (still open)
 - Author pass on Ch2–Ch5: register, pacing, whether the Harris/Wallis paragraph in Ch3 §IV is the right placement or whether it belongs earlier in Ch1's reading year instead
+
+---
+
+## 2026-04-19 (later still) — outward arc Ch7–Ch11 drafted
+
+**Chapters drafted.**
+- `chapters/v4/ch07-prana-returning.md` — Prāṇa, returning. The Acela after a work meeting; practice in earbuds as daily technology, not retreat. A mantra whispered in the ten minutes between the child's sleep and the husband's arrival in bed. A small technical question posted to the group chat; the teacher's three-sentence answer; the sensation migrating toward expansion rather than constriction; no reply needed because the migration was the answer. Closes: *she was, most days, riding it.*
+- `chapters/v4/ch08-citta-returning.md` — Citta, returning. Two mandalas drawn on the backs of envelopes — blessings (outward flow that replenishes) and curses (inward hoarding that starves the field). The aunt reconsidered: the narrator asks her aunt on the phone what *all is balance* has meant in her practice; the aunt's answer is the whole-holds-the-hole posture the teacher had given on the path, in a Brazilian espírita register. Prisoner's dilemma as the mandala-of-curses in mathematical form. The filter at the desk, in equity-analyst vocabulary.
+- `chapters/v4/ch09-deha-returning.md` — Deha, returning. First Monday after the retreat as the real test. Ten minutes on the cushion before the child wakes; the jaw-clench noticed-and-returning as material rather than enemy. The dishes different (warmer water, thicker mug base, lavender soap). The child's bath question — *Mama, is there a place where I am still even when I'm moving?* — answered simply (*yes*) with no explanation needed. The husband at breakfast: *you're in the room more*; offers to keep watch. The body as the most honest layer; reports, does not argue.
+- `chapters/v4/ch10-vastu-returning.md` — Vastu, returning / the second spine / AI tension. The book's second spine named: her builder work with scalable systems, meeting the first spine at the AI question. The tool she built: a retrieval interface over her teacher's public lectures, with a tarot-deck grammar for entry points, labeled a study tool, not a teacher. The decline: his careful message — *the form is not accidental to the teaching; the form is how the teaching transmits.* What was right in the decline (form is not neutral; absence of teacher changes what transmits). What was right in the building (scale is not neutral either; the refusal to build is also a choice with costs). She makes the tool quieter, smaller, less synthetic, and lets it exist. Nvidia's "do as little as possible, as much as necessary" held carefully — principle worth testing, operating record where the test plays out. Closes on the genuine unresolved: *she did not know whether he would ever say yes. She knew she would keep asking, and that the asking itself was the filter.*
+- `chapters/v4/ch11-writing-desk.md` — Writing desk coda. Short first-person chapter; the only first-person material in the book apart from the Author's Note. It is late in the working-day sense, not the metaphysical sense. The question was never one that had an answer at the layer at which she was asking it. She has rendered her teacher faithfully without rendering him fully. The AI tool continues as a private building; the book is another kind of building. *Svātantrya is a field I am moving through.* A reference to a study kept in a drawer for years out of fear of being foolish — the drawer is a version of the mandala of curses; publishing is a version of the mandala of blessings. The book ends. The practice does not.
+
+**Structural summary.**
+The v4 draft is now complete at the chapter level: Ch0 (Author's Note) + Ch1 (Playground) + Ch2 (Deha) + Ch3 (Citta) + Ch4 (Prāṇa + Kali interlude) + Ch5 (Śūnya + Śūnya interlude) + Ch6 (Walking Out) + Ch7 (Prāṇa returning) + Ch8 (Citta returning) + Ch9 (Deha returning) + Ch10 (Vastu returning / AI tension) + Ch11 (Writing Desk). The inward arc (Ch1–Ch6) walks the five-layered self from Vastu frame through Deha / Citta / Prāṇa / Śūnya into Cit. The outward arc (Ch7–Ch10) walks the same five layers in reverse as application. Ch11 closes in first person.
+
+**Open for next pass.**
+- Author read of the full v4 draft (Ch2–Ch11 are first drafts, unreviewed; Ch0, Ch1, Ch6 have been touched in previous passes)
+- Cit interlude after Ch6 (decision deferred; may not want the overlay)
+- Temple interlude placement (possibly within or after Ch10)
+- SVG diagram at `src/images/diagram-tantrik-layers.svg`
+- Research-26 follow-up (Prompt 6b prepared in `research/v4-deep-research-prompts-claude-ai.md`)
+- Build/deploy: update `src/SUMMARY.md` and `build.sh` to point at v4 paths (still v3); rebuild EPUB; rebuild mdbook
