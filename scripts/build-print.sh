@@ -42,18 +42,30 @@ AUTHOR="PlayfulProcess"
 DESCRIPTION=""
 SOURCE_URL="https://github.com/PlayfulProcess/$BOOK"
 
+CHAPTERS_SUBPATH=""  # Optional subfolder under chapters/ (e.g. "v5" for versioned drafts)
+
 META_FILE="$BOOK_DIR/book.yaml"
 if [[ -f "$META_FILE" ]]; then
   while IFS=': ' read -r k v; do
     v="${v#\"}"; v="${v%\"}"
     case "$k" in
-      title)       TITLE="$v" ;;
-      subtitle)    SUBTITLE="$v" ;;
-      author)      AUTHOR="$v" ;;
-      description) DESCRIPTION="$v" ;;
-      source_url)  SOURCE_URL="$v" ;;
+      title)            TITLE="$v" ;;
+      subtitle)         SUBTITLE="$v" ;;
+      author)           AUTHOR="$v" ;;
+      description)      DESCRIPTION="$v" ;;
+      source_url)       SOURCE_URL="$v" ;;
+      chapters_subpath) CHAPTERS_SUBPATH="$v" ;;
     esac
   done < "$META_FILE"
+fi
+
+# If a subpath is set, use it (e.g. chapters/v5/)
+if [[ -n "$CHAPTERS_SUBPATH" ]]; then
+  CHAPTERS_DIR="$BOOK_DIR/chapters/$CHAPTERS_SUBPATH"
+  if [[ ! -d "$CHAPTERS_DIR" ]]; then
+    echo "ERROR: chapters_subpath set to '$CHAPTERS_SUBPATH' but $CHAPTERS_DIR does not exist"
+    exit 1
+  fi
 fi
 
 if [[ -z "$TITLE" ]]; then
@@ -68,8 +80,11 @@ echo "  Source:   $SOURCE_URL"
 echo ""
 
 # --- Collect chapters ---------------------------------------------------------
+# Excludes: files starting with uppercase letters (BUILD-NOTES.md, README.md),
+# drafts, v2-prefixed old drafts, old- prefixed.
 mapfile -t CHAPTERS < <(find "$CHAPTERS_DIR" -maxdepth 1 -type f -name '*.md' \
-  | grep -vE '/(draft|v2-|old-)' \
+  | grep -vE '/[A-Z][A-Z_-]' \
+  | grep -vE '/(draft|v2-|old-|README)' \
   | sort)
 
 if [[ ${#CHAPTERS[@]} -eq 0 ]]; then
