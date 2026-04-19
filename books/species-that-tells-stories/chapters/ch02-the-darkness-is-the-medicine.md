@@ -6,8 +6,6 @@ The child wants this story every night. Not sometimes. Every night. If the paren
 
 Parents worry. Is there something wrong? A morbid fixation? Should the child be redirected toward healthier content? But then, during the part where the bear approaches the youngest sibling's hiding place — the worst part, the part where the shadows are longest — the child's hand grips the parent's arm, hard. Not pulling away. Holding on. The body is tense with something recognizable as fear, and also with something recognizable as purpose. The child is going somewhere difficult on purpose. The child wants to go there. The child needs the bear.
 
-<!-- [PP REVIEW: This was originally written as memoir about your son. You have one daughter. If you want to ground this with your own experience, replace with a version from your daughter's actual reading life — what story did she latch onto? What was her "bear"? Even a sentence or two of real detail would anchor the passage. Otherwise, the generic version works fine as-is.] -->
-
 The child is practicing.
 
 ---
@@ -20,7 +18,7 @@ Edna Foa and Michael Kozak formalized this as emotional processing theory in 198
 
 Now consider the bear story.
 
-The child's amygdala fires. Cortisol rises. The body tenses. The fear structure is activated — genuinely, physiologically, in the child's body on the parent's lap. The child is not pretending to be scared. The embodied simulation research confirms this: fiction activates motor, sensory, and emotional cortex as if the events were really happening. Uri Hasson's neural coupling studies at Princeton show that a listener's brain activity mirrors the storyteller's with a lag of a few seconds — the listener is not passively receiving but actively constructing the experience inside their own nervous system.
+The child's amygdala fires. Cortisol rises. The body tenses. The fear structure is activated — genuinely, physiologically, in the child's body on the parent's lap. The child is not pretending to be scared. The embodied simulation research confirms this: fiction activates motor, sensory, and emotional cortex as if the events were really happening. Uri Hasson's neural coupling studies at Princeton showed that a listener's brain activity mirrors the storyteller's with a lag of a few seconds — the listener is not passively receiving but actively constructing the experience inside their own nervous system. When the bear approaches in the story, the child's motor cortex activates escape programs. The child's insula processes the threat as if it were proximate. The fiction frame holds — the child knows the bear is not real — but the body's response to the narrative is physiologically genuine.
 
 But the feared outcome does not materialize. The bear does not actually eat the child. The youngest sibling outwits the bear. The story ends. The parent's body has remained steady throughout — heart rate even, breath regular, voice modulated. The parent's nervous system has been doing what Megan Gunnar's social buffering research describes: intercepting the child's stress response at the physiological level, preventing the cortisol cascade from overwhelming still-developing regulatory architecture.
 
@@ -54,6 +52,10 @@ But the general function that Bettelheim described — that dark fairy tales hel
 
 What Bettelheim got right — and what his critics have not sufficiently acknowledged — is the claim that removing the darkness removes the active ingredient. Sanitized stories do not serve the child, because there is nothing to metabolize. A fairy tale without the wolf is not a safer fairy tale. It is a fairy tale that does not work. The child's nervous system learns nothing from an encounter with material that does not activate the fear structure. The bear must have teeth. The forest must be dark. The witch must be genuinely terrifying. Otherwise the exposure therapy has no exposure, and the medicine has no medicine.
 
+The Grimms' seven editions illustrate the point. The 1812 first edition of *Kinder- und Hausmärchen* was far darker than the version most modern readers know. The biological mother, not the stepmother, abandons Hansel and Gretel. Rapunzel's pregnancy gives away her secret. The violence is graphic, the sexuality frank, the adults are frequently monstrous. With each subsequent edition through 1857, the Grimms softened — adding stepmothers to replace wicked mothers (real mothers cannot be wicked), removing sexuality, domesticating the tales for a rising bourgeois audience that was beginning to see childhood as a space of innocence rather than initiation.
+
+The editorial trajectory — from honest darkness to sanitized comfort — is the same trajectory the algorithm would later accelerate. The Grimms cleaned their stories for market. The algorithm cleans nothing — it amplifies whatever drives engagement — but the structural effect is the same: the darkness is separated from the container that held it. The Grimms removed the darkness. The algorithm removes the container. Both leave the child less equipped to face the world.
+
 ---
 
 ## What Pennebaker found in four days
@@ -72,9 +74,9 @@ This is what the bedtime story does preventively. Before the child encounters th
 
 ## The evidence is cross-cultural
 
-This is not a Western phenomenon discovered in Western labs. Every storytelling tradition for which we have evidence — Akan spider tales, Buddhist Jataka, Aboriginal Dreamtime, Haudenosaunee creation narratives, the *Thousand and One Nights*, the Brothers Grimm before seven editions softened them into domestication — includes genuinely frightening material told to children within a communal container. The darkness varies. The structure is the same. The next chapter examines six of these traditions in detail.
+This is not a Western phenomenon discovered in Western labs. Every storytelling tradition for which we have evidence — Akan spider tales, Buddhist Jataka, Aboriginal Dreamtime, Haudenosaunee creation narratives, the *Thousand and One Nights*, the Brothers Grimm before seven editions softened them into domestication — includes genuinely frightening material told to children within a communal container. The darkness varies. The structure is the same.
 
-But the pattern establishes something the Pennebaker studies and the Bettelheim critique only hinted at: dark stories are not a cultural artifact to be cleaned up. They are a cross-cultural constant that serves a developmental function. A fairy tale without genuine darkness is like a vaccine without the antigen. It stimulates nothing. It builds no capacity. The bear must have teeth. The forest must be dark.
+The next chapter examines six of these traditions in detail — what they carried, how they carried it, and what was lost when the container broke. But the pattern establishes something the Pennebaker studies and the Bettelheim critique only hinted at: dark stories are not a cultural artifact to be cleaned up. They are a cross-cultural constant that serves a developmental function. A fairy tale without genuine darkness is like a vaccine without the antigen. It stimulates nothing. It builds no capacity. The bear must have teeth. The forest must be dark.
 
 ---
 
@@ -86,16 +88,30 @@ We are not just softening our stories. We are restructuring the entire delivery 
 
 A child watching a YouTube video alone in her room at nine p.m. is encountering darkness — often much more darkness than any fairy tale contained. The content is darker, more graphic, more visceral, more realistic than anything the Grimms or the Jataka tales or the Dreamtime stories ever offered. The algorithm is sophisticated at escalation: each video is slightly more arousing than the last, each thumbnail slightly more provocative, each recommendation slightly further from what a loving parent would choose.
 
-But none of the containment conditions are present. There is no fiction frame — the line between fictional and real content is deliberately blurred. There is no co-regulatory body — the child is alone, her nervous system running its own stress response without a regulated adult to modulate it. There is no graduated dosing — the algorithm optimizes for engagement, not development, and engagement rewards escalation. There is no child-controlled agency — autoplay overrides the child's capacity to stop. And there is no bounded structure — the infinite scroll has no ending, no resolution, no metabolic closure.
+But none of the containment conditions from Chapter 1 are present. There is no fiction frame — the line between fictional and real content is deliberately blurred. There is no co-regulatory body — the child is alone, her nervous system running its own stress response without a regulated adult to modulate it. There is no graduated dosing — the algorithm optimizes for engagement, not development, and engagement rewards escalation. There is no child-controlled agency — autoplay overrides the child's capacity to stop. And there is no bounded structure — the infinite scroll has no ending, no resolution, no metabolic closure.
 
 The darkness is still there. The darkness has intensified. What has disappeared is the embrace.
 
 An honest caveat: the mechanism is not screen-versus-no-screen. It is alone-versus-held. Research on the PBS show *Daniel Tiger's Neighborhood* found that low-income children who watched with a parent showed measurable gains in empathy and emotion recognition — the strongest effects occurring precisely when a co-regulatory adult was present. The screen can be part of the container. What it cannot do is replace the container. A screen with a warm body beside it can work. A screen alone in a dark room cannot. The variable is not the technology of delivery. It is the presence or absence of the co-regulatory relationship.
 
+Fred Rogers understood this decades before the research caught up. His show moved slowly — a pace that Christakis's research later demonstrated was protective of attentional development, while hyperpaced programming increased attention problems by ten percent per hour of viewing. Rogers spoke directly to the camera, creating a parasocial co-regulatory relationship that, while imperfect, provided a regulated presence signaling safety. He addressed real fears — death, divorce, anger — but always within a container of structure, repetition, and explicit reassurance. And he did something that matters for this book's argument: he acknowledged the medium's limitations. His message presumed a real relationship on the other side of the screen that the screen could not provide. Rogers was pointing beyond his own technology toward the co-present container his show could model but never replace.
+
+---
+
+## The darkness is the medicine
+
 This is not a content problem. It is a containment problem. And it is the subject of the chapters that follow — what happens when the stories get loose from the container that made them medicine rather than poison. But before going there, it is worth sitting for a moment with what has been established.
 
 The darkness is the medicine. Not despite being frightening but because of it. The child's nervous system needs the encounter with manageable fear, held within love, to build the capacity for unmanageable fear held alone. Every culture on earth has known this and has built storytelling practices around it. The fairy tale, the myth, the legend, the campfire story with its satisfying chill — these are not entertainment. They are the delivery system for the most important developmental technology our species possesses: the graduated encounter with the dark, within the embrace of the known.
 
-We know how it works now. The science has caught up with what the body always knew. What we do with that knowledge — how we hold it in a world where the container is disappearing — is the question the rest of this book will try, humbly, to hold.
+We know how it works now. Foa's emotional processing theory. Hasson's neural coupling. Gunnar's social buffering. Pennebaker's linguistic structuring. Tronick's repair. The science has caught up with what the body always knew. What we do with that knowledge — how we hold it in a world where the container is disappearing — is the question the rest of this book will try, humbly, to hold.
 
-<!-- PP: -->
+---
+
+*Questions this chapter raises but does not answer:*
+
+*If the five containment conditions determine whether narrative darkness heals or harms, what happens to a generation of children encountering narrative darkness primarily through screens, alone, without co-regulatory presence?*
+
+*If the Grimms' seven editions show a literary tradition softening its darkness for market, what does it mean that the algorithm reverses this — amplifying darkness while stripping the container?*
+
+*If Fred Rogers could build a partial grammar through television — a hostile medium — what would it look like to build grammars through AI, a medium that is not yet anything?*

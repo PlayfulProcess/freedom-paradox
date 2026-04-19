@@ -95,6 +95,39 @@
 
 ---
 
+# The Axiom Beneath the Ground (v5 — latest)
+
+- [Author's Note](axiom-v5/ch00-authors-note.md)
+- [Playground](axiom-v5/ch01-playground.md)
+- [Interlude: The Cracks](axiom-v5/ch01a-interlude-the-cracks.md)
+- [Deha](axiom-v5/ch02-deha.md)
+- [Citta](axiom-v5/ch03-citta.md)
+- [Prāṇa](axiom-v5/ch04-prana.md)
+- [The Threshold](axiom-v5/ch04a-the-threshold.md)
+- [Śūnya](axiom-v5/ch05-shunya.md)
+- [Walking Out](axiom-v5/ch06-walking-out.md)
+- [Prāṇa Returning](axiom-v5/ch07-prana-returning.md)
+- [Citta Returning](axiom-v5/ch08-citta-returning.md)
+- [Deha Returning](axiom-v5/ch09-deha-returning.md)
+- [Vāstu Returning](axiom-v5/ch10-vastu-returning.md)
+- [Writing Desk](axiom-v5/ch11-writing-desk.md)
+
+---
+
+# The Axiom Beneath the Ground (v3 — archived)
+
+- [Author's Note](axiom-v3/ch00-authors-note.md)
+- [The Question](axiom-v3/ch01-two-in-the-morning.md)
+- [The Void and the Filter](axiom-v3/ch02-the-void-and-the-filter.md)
+- [The Retreat](axiom-v3/ch03-the-retreat.md)
+- [Two Teachers, One Ground](axiom-v3/ch04-two-teachers-one-ground.md)
+- [The Evening of Grace](axiom-v3/ch05-the-evening-of-grace.md)
+- [The Grammar You Build by Practicing It](axiom-v3/ch06-the-grammar-you-build-by-practicing-it.md)
+- [The Practitioner Sits](axiom-v3/ch07-the-practitioner-sits.md)
+- [The Ceremony](axiom-v3/the-ceremony.md)
+
+---
+
 # Appendix A — The Real Cost of Lunch
 
 - [Chapter 1: You're Not Eating Food](real-cost-of-lunch/ch01-youre-not-eating-food.md)

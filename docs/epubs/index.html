@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PlayfulProcess — Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    color: #c9d1d9;
+    background: #0d1117;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* --- Header --- */
+
+  .header {
+    text-align: center;
+    padding: 4rem 1.5rem 3rem;
+    border-bottom: 1px solid #21262d;
+  }
+
+  .header h1 {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 2.6rem;
+    font-weight: 600;
+    color: #e6edf3;
+    letter-spacing: 0.01em;
+    margin-bottom: 0.75rem;
+  }
+
+  .header .tagline {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 1.15rem;
+    font-style: italic;
+    color: #7d8590;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+
+  /* --- Sections --- */
+
+  .section {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 2rem;
+  }
+
+  .section-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #7d8590;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #21262d;
+  }
+
+  /* --- Card Grid --- */
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+  }
+
+  .card-grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+  }
+
+  /* --- Cards: Featured --- */
+
+  .card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 1.75rem;
+    display: flex;
+    flex-direction: column;
+    transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
+  }
+
+  .card:hover {
+    border-color: #58a6ff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+  }
+
+  .card h3 {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #e6edf3;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+  }
+
+  .card .subtitle {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-style: italic;
+    font-size: 0.95rem;
+    color: #8b949e;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+  }
+
+  .card .meta {
+    font-size: 0.8rem;
+    color: #484f58;
+    margin-bottom: 1.25rem;
+  }
+
+  .card .spacer {
+    flex: 1;
+  }
+
+  .download-btn {
+    display: inline-block;
+    padding: 0.55rem 1.25rem;
+    background: #238636;
+    color: #fff;
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    border-radius: 6px;
+    border: 1px solid #2ea043;
+    transition: background 0.15s;
+    text-align: center;
+  }
+
+  .download-btn:hover {
+    background: #2ea043;
+  }
+
+  /* --- Badges --- */
+
+  .badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 12px;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+  }
+
+  .badge-wip {
+    background: rgba(210, 153, 34, 0.15);
+    color: #d29922;
+    border: 1px solid rgba(210, 153, 34, 0.3);
+  }
+
+  .badge-draft {
+    background: rgba(201, 114, 40, 0.12);
+    color: #c97228;
+    border: 1px solid rgba(201, 114, 40, 0.25);
+  }
+
+  .badge-format {
+    background: rgba(130, 80, 223, 0.12);
+    color: #a371f7;
+    border: 1px solid rgba(130, 80, 223, 0.25);
+  }
+
+  .badge-experimental {
+    background: rgba(56, 132, 255, 0.12);
+    color: #58a6ff;
+    border: 1px solid rgba(56, 132, 255, 0.25);
+  }
+
+  /* --- Cards: Draft tier --- */
+
+  .card-draft {
+    background: #0d1117;
+    border: 1px solid #21262d;
+    border-radius: 8px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    transition: border-color 0.2s, transform 0.15s;
+  }
+
+  .card-draft:hover {
+    border-color: #484f58;
+    transform: translateY(-1px);
+  }
+
+  .card-draft h3 {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #c9d1d9;
+    margin-bottom: 0.35rem;
+    line-height: 1.3;
+  }
+
+  .card-draft .subtitle {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #7d8590;
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
+  }
+
+  .card-draft .meta {
+    font-size: 0.78rem;
+    color: #484f58;
+    margin-bottom: 1rem;
+  }
+
+  .card-draft .spacer {
+    flex: 1;
+  }
+
+  .download-btn-secondary {
+    display: inline-block;
+    padding: 0.45rem 1rem;
+    background: transparent;
+    color: #8b949e;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border-radius: 6px;
+    border: 1px solid #30363d;
+    transition: border-color 0.15s, color 0.15s;
+    text-align: center;
+  }
+
+  .download-btn-secondary:hover {
+    border-color: #58a6ff;
+    color: #c9d1d9;
+  }
+
+  /* --- Cards: Behind the Scenes tier --- */
+
+  .card-muted {
+    background: #0d1117;
+    border: 1px solid #1b1f24;
+    border-radius: 6px;
+    padding: 1.25rem;
+    transition: border-color 0.2s;
+  }
+
+  .card-muted:hover {
+    border-color: #30363d;
+  }
+
+  .card-muted h3 {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: #7d8590;
+    margin-bottom: 0.3rem;
+  }
+
+  .card-muted .note {
+    font-size: 0.8rem;
+    font-style: italic;
+    color: #484f58;
+  }
+
+  /* --- Footer --- */
+
+  .footer {
+    text-align: center;
+    padding: 2.5rem 1.5rem 3rem;
+    margin-top: 2rem;
+    border-top: 1px solid #21262d;
+  }
+
+  .footer .links {
+    font-size: 0.85rem;
+    color: #7d8590;
+    margin-bottom: 0.5rem;
+  }
+
+  .footer a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
+  }
+
+  .footer .license {
+    font-size: 0.75rem;
+    color: #484f58;
+    margin-top: 0.75rem;
+  }
+
+  /* --- Responsive --- */
+
+  @media (max-width: 900px) {
+    .card-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .header { padding: 2.5rem 1.2rem 2rem; }
+    .header h1 { font-size: 1.9rem; }
+    .header .tagline { font-size: 1rem; }
+    .section { padding: 2rem 1.2rem 1.5rem; }
+    .card-grid,
+    .card-grid-2 {
+      grid-template-columns: 1fr;
+    }
+    .card { padding: 1.35rem; }
+    .card h3 { font-size: 1.2rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Hero Banner: recursive.eco -->
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 3rem 1.5rem; text-align: center; border-bottom: 2px solid #e94560;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <div style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.15em; color: #e94560; margin-bottom: 0.5rem;">Free &middot; Open Source &middot; No Account Required</div>
+    <h2 style="font-family: 'Crimson Pro', Georgia, serif; font-size: 2.2rem; color: #e6edf3; margin-bottom: 0.75rem;">recursive.eco</h2>
+    <p style="font-family: 'Crimson Pro', Georgia, serif; font-size: 1.2rem; color: #8b949e; font-style: italic; margin-bottom: 1.5rem;">A grammar reader for the living world. Cast an oracle. Read a story. Sit with a question.</p>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="https://recursive.eco" style="display: inline-block; padding: 0.75rem 2rem; background: #e94560; color: #fff; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1rem; transition: background 0.2s;">Cast the Oracle</a>
+      <a href="https://audiobooks.recursive.eco" style="display: inline-block; padding: 0.75rem 2rem; background: transparent; color: #e94560; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1rem; border: 1px solid #e94560; transition: background 0.2s;">Kids Audiobooks</a>
+      <a href="https://www.playfulprocess.com/" style="display: inline-block; padding: 0.75rem 2rem; background: transparent; color: #7d8590; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1rem; border: 1px solid #30363d; transition: background 0.2s;">Substack</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<div class="header">
+  <h1>PlayfulProcess &mdash; Library</h1>
+  <p class="tagline">Twelve books. One argument. The species got fire before it had the grammars to hold it.</p>
+  <div style="margin-top: 1.5rem; padding: 1rem 1.5rem; background: rgba(210, 153, 34, 0.08); border: 1px solid rgba(210, 153, 34, 0.25); border-radius: 8px; max-width: 700px; margin-left: auto; margin-right: auto;">
+    <p style="font-size: 0.85rem; color: #d29922; margin: 0; line-height: 1.5;">
+      <strong>Draft notice:</strong> All books on this site are working drafts and rely heavily on AI collaboration (Claude by Anthropic). They have not been professionally edited. Facts, quotes, and source attributions may contain errors. Read with generous skepticism.
+    </p>
+  </div>
+</div>
+
+<!-- Tier 1: Featured Books -->
+<div class="section">
+  <div class="section-label">Featured Books</div>
+  <div class="card-grid">
+
+    <div class="card">
+      <h3>The Freedom Paradox</h3>
+      <div class="subtitle">Open Source, AI, and the Limits of Openness</div>
+      <div class="meta">17 chapters &middot; ~67,000 words</div>
+      <div class="spacer"></div>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <a href="../freedom-paradox/ch01-the-anthropic-clause.html" class="download-btn" style="flex: 1;">Read Online</a>
+        <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/freedom-paradox.epub" class="download-btn" style="flex: 1; background: transparent; border: 1px solid #3fb950; color: #3fb950;">EPUB</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Working Architecture</h3>
+      <div class="subtitle">A practical manual for building containers</div>
+      <div class="meta">12 chapters &middot; ~20,000 words</div>
+      <div class="spacer"></div>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <a href="../working-architecture/ch01-your-nervous-system-is-not-yours-alone.html" class="download-btn" style="flex: 1;">Read Online</a>
+        <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/working-architecture.epub" class="download-btn" style="flex: 1; background: transparent; border: 1px solid #3fb950; color: #3fb950;">EPUB</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>The Axiom Beneath the Ground</h3>
+      <div class="subtitle">Tillich, Wallis, and the question we can&rsquo;t answer</div>
+      <div class="meta">14 chapters &middot; ~18,000 words (v5 &mdash; latest)</div>
+      <div class="spacer"></div>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <a href="../axiom-v5/ch00-authors-note.html" class="download-btn" style="flex: 1;">Read Online</a>
+        <a href="axiom-v5.epub" class="download-btn" style="flex: 1; background: transparent; border: 1px solid #3fb950; color: #3fb950;">EPUB</a>
+      </div>
+      <div style="margin-top: 0.5rem; font-size: 0.85em;">
+        <a href="../axiom-v3/ch00-authors-note.html" style="color: #8b949e;">v3 (archived)</a>
+      </div>
+    </div>
+
+    <div class="card" style="border-color: #f0883e;">
+      <h3>The Campfire Stories</h3>
+      <div class="subtitle">Five-minute bedtime stories from world traditions, ages 3&ndash;7</div>
+      <div class="meta">5 books &middot; 10 stories &middot; with audio</div>
+      <div class="spacer"></div>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <a href="https://audiobooks.recursive.eco" class="download-btn" style="flex: 1; background: #f0883e; border-color: #f0883e;">Listen &amp; Read</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Tier 2: Works in Progress -->
+<div class="section">
+  <div class="section-label">Works in Progress</div>
+  <div class="card-grid">
+
+    <div class="card-draft">
+      <span class="badge badge-wip">Work in Progress</span>
+      <h3>Fire Before Responsibility</h3>
+      <div class="subtitle">Intelligence, AI, and the Wisdom We Need</div>
+      <div class="meta">9 chapters &middot; ~18,000 words</div>
+      <div class="spacer"></div>
+      <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/fire-and-intelligence.epub" class="download-btn-secondary">Download Draft EPUB</a>
+    </div>
+
+    <div class="card-draft">
+      <span class="badge badge-draft">Unverified Draft</span>
+      <h3>The Real Cost of Lunch</h3>
+      <div class="subtitle">What your food actually costs</div>
+      <div class="meta">20 chapters &middot; ~46,000 words</div>
+      <div class="spacer"></div>
+      <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/real-cost-of-lunch.epub" class="download-btn-secondary">Download Draft EPUB</a>
+    </div>
+
+    <div class="card-draft">
+      <span class="badge badge-format">Card Deck Format</span>
+      <h3>The Wise Heart</h3>
+      <div class="subtitle">DBT skills taught through world myths for ages 4&ndash;8</div>
+      <div class="meta">35 chapters &middot; ~15,000 words</div>
+      <div class="spacer"></div>
+      <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/dbt-wise-heart.epub" class="download-btn-secondary">Download Draft EPUB</a>
+    </div>
+
+    <div class="card-draft">
+      <span class="badge badge-experimental">Experimental Format</span>
+      <h3>The Repair Deck</h3>
+      <div class="subtitle">22 archetypal repair patterns</div>
+      <div class="meta">17 chapters &middot; ~50,000 words</div>
+      <div class="spacer"></div>
+      <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/repair.epub" class="download-btn-secondary">Download Draft EPUB</a>
+    </div>
+
+  </div>
+</div>
+
+<!-- Tier 3: Behind the Scenes -->
+<div class="section">
+  <div class="section-label">Behind the Scenes</div>
+  <div class="card-grid-2">
+
+    <div class="card-muted">
+      <h3>The Species That Tells Stories</h3>
+      <div class="note">Being merged into Fire Before Responsibility</div>
+    </div>
+
+    <div class="card-muted">
+      <h3>Grammars of the Living World</h3>
+      <div class="note">Being merged into Fire Before Responsibility</div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Tier 4: Platform Grammars -->
+<div class="section">
+  <div class="section-label">Platform Grammars <span style="font-weight: 400; color: #484f58;">(for recursive.eco)</span></div>
+  <div class="card-grid">
+
+    <div class="card-muted">
+      <h3>Decolonization</h3>
+      <div class="note">54 cards across Body, Mind, Spirit, Collective, Planet</div>
+      <div style="margin-top: 0.75rem;">
+        <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/decolonization.epub" style="color: #484f58; text-decoration: none; font-size: 0.85rem;">EPUB</a>
+      </div>
+    </div>
+
+    <div class="card-muted">
+      <h3>Social Working</h3>
+      <div class="note">107 cards deconstructing social work history</div>
+      <div style="margin-top: 0.75rem;">
+        <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/social-working.epub" style="color: #484f58; text-decoration: none; font-size: 0.85rem;">EPUB</a>
+      </div>
+    </div>
+
+    <div class="card-muted">
+      <h3>The Omnibus</h3>
+      <div class="note">Everything in one volume &middot; 42 chapters &middot; ~130,000 words</div>
+      <div style="margin-top: 0.75rem;">
+        <a href="https://github.com/PlayfulProcess/freedom-paradox/releases/latest/download/consolidated.epub" style="color: #484f58; text-decoration: none; font-size: 0.85rem;">EPUB</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Cross-links banner -->
+<div style="background: #161b22; padding: 2.5rem 1.5rem; text-align: center; border-top: 1px solid #21262d; border-bottom: 1px solid #21262d;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h3 style="font-family: 'Crimson Pro', Georgia, serif; font-size: 1.5rem; color: #e6edf3; margin-bottom: 1rem;">The full ecosystem</h3>
+    <div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin-bottom: 1rem;">
+      <a href="https://recursive.eco" style="color: #e94560; text-decoration: none; font-weight: 600;">recursive.eco <span style="color: #7d8590; font-weight: 400;">Oracle &amp; Grammar Reader</span></a>
+      <a href="https://audiobooks.recursive.eco" style="color: #58a6ff; text-decoration: none; font-weight: 600;">audiobooks.recursive.eco <span style="color: #7d8590; font-weight: 400;">Kids Stories</span></a>
+      <a href="https://www.playfulprocess.com/" style="color: #f0883e; text-decoration: none; font-weight: 600;">playfulprocess.com <span style="color: #7d8590; font-weight: 400;">Substack</span></a>
+    </div>
+    <p style="color: #484f58; font-size: 0.9rem; font-style: italic;">All books are CC BY-SA 4.0. Fork them, argue with them, build on them.</p>
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <div class="links">
+    CC BY-SA 4.0 &middot; PlayfulProcess &middot; Built with Claude Code
+  </div>
+  <div>
+    <a href="https://github.com/PlayfulProcess/freedom-paradox">GitHub</a> &middot;
+    <a href="../index.html">Web Reader (all chapters)</a>
+  </div>
+  <div class="license">
+    These books are open-source. Fork them, argue with them, build on them.
+  </div>
+</div>
+
+</body>
+</html>

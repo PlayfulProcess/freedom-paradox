@@ -1,80 +1,118 @@
 # PlayfulProcess — Books
 
-Five open-source books. One architecture.
+Twelve open-source books. One argument. The species got fire before it had the grammars to hold it.
 
 **Read online: [books.recursive.eco](https://books.recursive.eco/)**
+**Download EPUBs: [Latest Release](https://github.com/PlayfulProcess/freedom-paradox/releases/latest)**
 
 ---
 
-## The Books
+## Featured Books
 
-### 1. The Freedom Paradox
-**Complete first draft** · 16 chapters · ~85K words
+### The Freedom Paradox
+**Publication-ready** · 17 chapters · ~67K words
 
 Open source — a forty-year freedom movement — confronts genuine civilizational risk when applied to AI. The diagnosis: power without responsibility.
 
-### 2. Grammars of the Living World
-**First draft complete** · 10 chapters · ~21K words
-
-What responsibility structures are, where they came from, and why we keep dismantling them. The theoretical response.
-
-### 3. The Species That Tells Stories
-**Draft in progress** · 3 of 7 chapters · ~20K words
-
-We are the species that tells stories to its children. Love is the container. The container is disappearing.
-
-### 4. Working Architecture
-**First draft complete** · 12 chapters · ~20K words
+### Working Architecture
+**Publication-ready** · 12 chapters · ~20K words
 
 A practical manual for building the containers. For parents, teachers, therapists — anyone who tells stories to anyone else.
 
-### 5. The Campfire Stories
-**Complete** · 5 books × 2 stories · ~9K words · [**Separate repo →**](https://github.com/PlayfulProcess/campfire-stories)
+### The Axiom Beneath the Ground
+**Publication-ready (v3)** · 7 chapters + The Ceremony · ~31K words
 
-Five-minute bedtime stories for ages 3–7, built from cross-cultural story arcs. Each book pairs two stories from different traditions (Akan, Jātaka, Aboriginal Australian, Haudenosaunee, Japanese, 1001 Nights, European folk) around a shared developmental theme.
+Alternating narrative and philosophy in the style of Kundera. A woman in the void between faith and atheism encounters Tillich, Linehan, and nondual Shaiva Tantra. The construction is the recognition becoming visible to itself.
 
-**How it was made:** The entire Campfire Stories book — 10 stories, CLAUDE.md, grammar.json, README — was written using [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) in **two prompts**. The first set up the project (voice, methodology, structure, first two stories). The second wrote the remaining eight stories. The methodology is described in [Vibe Writing 102](docs/vibe-writing-102.md). Fork the repo and try it yourself.
+### Fire Before Responsibility
+**Main project — in progress** · 9 chapters · ~18K words (target ~50K)
 
-## How They Connect
+Intelligence, AI, and the wisdom we need. Absorbs *The Species That Tells Stories* and *Grammars of the Living World*.
 
-**The Freedom Paradox** is the diagnosis. **Grammars of the Living World** is the framework. **The Species That Tells Stories** is the narrative heart. **Working Architecture** is the practical manual. **The Campfire Stories** is the proof of concept — stories built using the three-filter test, for actual children, in actual bedtimes. Each works alone; together they form the full architecture.
+### The Campfire Stories
+**Complete** · 5 books x 2 stories · with audio · [Separate repo](https://github.com/PlayfulProcess/campfire-stories)
+
+Five-minute bedtime stories for ages 3-7 from world traditions.
+
+## All Books
+
+| Book | Status | Chapters | Words |
+|------|--------|----------|-------|
+| The Freedom Paradox | Publication-ready | 17 | ~67K |
+| Working Architecture | Publication-ready | 12 | ~20K |
+| The Axiom Beneath the Ground (v3) | Publication-ready | 7 + Ceremony | ~31K |
+| Fire Before Responsibility | In progress | 9 | ~18K |
+| The Real Cost of Lunch | Draft | 20 | ~46K |
+| The Wise Heart (DBT + myths) | Card deck format | 35 | ~15K |
+| The Repair Deck | Experimental | 17 | ~50K |
+| Decolonization | Platform grammar | 54 cards | — |
+| Social Working | Platform grammar | 107 cards | — |
+| The Campfire Stories | Complete | 10 stories | ~9K |
+
+## How to Use This Repo
+
+### Read the books
+- **Online**: [books.recursive.eco](https://books.recursive.eco/)
+- **EPUB (Kindle, Apple Books, etc.)**: [Download from Releases](https://github.com/PlayfulProcess/freedom-paradox/releases/latest)
+
+### Build locally
+```bash
+# Prerequisites: pandoc, mdbook (or use the bundled .mdbook-bin/)
+
+# Build the website
+bash build.sh
+
+# Build all EPUBs
+bash epub-build/build-all-epubs.sh
+
+# Full publish: rebuild everything + create GitHub Release + push
+bash publish.sh "Your commit message"
+```
+
+### Fork and adapt
+All books are CC BY-SA 4.0. Fork the repo, edit the markdown in `books/*/chapters/`, rebuild. The grammars are yours to practice.
 
 ## Repository Structure
 
 ```
 books/
-  freedom-paradox/chapters/          # 16 chapters (source of truth)
-  grammars-of-the-living-world/
-    chapters/                         # 10 Grammars + 3 Species chapters
-    research/raw/                     # 48 research files
-    prompts/                          # Chrome deep research prompts
-    outline/                          # Outlines + skeletons
-  working-architecture/chapters/     # 12 chapters
-models/                               # Python emergence models + charts
-dashboard/                            # Interactive data visualizations
-docs/                                 # Vibe Writing 102 course
+  axiom-beneath-the-ground/chapters/v3/   # Axiom v3 (Kundera-style)
+  freedom-paradox/chapters/                # 17 chapters
+  working-architecture/chapters/           # 12 chapters
+  fire-and-intelligence/chapters/          # 9 chapters (main project)
+  consolidated/chapters/                   # Omnibus (42 chapters)
+  ...
+epub-build/
+  build-single-epub.sh                     # Build one EPUB
+  build-all-epubs.sh                       # Build all EPUBs
+  per-book-metadata/                       # YAML metadata per book
+docs/epubs/
+  index.html                               # Landing page (books.recursive.eco)
+models/                                    # Python emergence models + charts
+publish.sh                                 # One-command full publish
+build.sh                                   # Build mdbook site
+CLAUDE.md                                  # Writing instructions for AI sessions
 ```
 
-*The Campfire Stories lives in its own repo: [PlayfulProcess/campfire-stories](https://github.com/PlayfulProcess/campfire-stories)*
+## Publishing Pipeline
 
-## Publishing
-
-The site at [books.recursive.eco](https://books.recursive.eco/) is built with [mdbook](https://rust-lang.github.io/mdBook/) and deployed via GitHub Pages.
-
-```bash
-bash build.sh    # Syncs chapters → builds static site
+```
+bash publish.sh "commit message"
 ```
 
-Every push to `master` automatically rebuilds and deploys via GitHub Actions.
+This single command:
+1. Rebuilds all 14 EPUBs via pandoc
+2. Rebuilds the mdbook site
+3. Commits and pushes source changes
+4. Creates a GitHub Release with all EPUBs attached
+5. GitHub Pages auto-deploys the site
 
-## Writing Workflow
-
-See `CLAUDE.md` for the full recursive research-and-writing workflow using Claude Code and Claude in Chrome.
+EPUBs are served from [GitHub Releases](https://github.com/PlayfulProcess/freedom-paradox/releases) (not tracked in git) to keep the repo lean.
 
 ## License
 
-CC BY-SA 4.0
+CC BY-SA 4.0 — Fork them, argue with them, build on them.
 
 ## Author
 
-PlayfulProcess · [recursive.eco](https://recursive.eco)
+PlayfulProcess · [recursive.eco](https://recursive.eco) · [Substack](https://www.playfulprocess.com/)

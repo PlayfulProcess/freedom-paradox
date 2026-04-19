@@ -30,3 +30,5 @@ reference-books/
 
 # Podcast transcripts — copyrighted, LOCAL ONLY
 transcripts/
+epub-build/output/
+docs/epubs/*.epub

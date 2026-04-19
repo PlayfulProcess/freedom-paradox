@@ -12,6 +12,25 @@ b) Check direct quotes from Gottman's new research file
 
 This is a safety and identity boundary. Do not ask about it or reference it further.
 
+## COPYRIGHT — CRITICAL RULE
+
+**The author does not want to infringe anyone's copyright at any point in this project.** This applies to books, articles, podcasts, YouTube transcripts, song lyrics, scripture translations, and any other third-party source.
+
+Rules:
+1. **No substantial verbatim passages from copyrighted works in any committed file.** This includes chapter drafts, research notes, outlines, plans, changelogs, and prompts. "Substantial" means anything longer than ~30 words, and any shorter passage that captures the heart of a work's expression.
+2. **Brief fair-use quotations (≤30 words)** are permitted inside finished chapter files when they are directly engaged for commentary, criticism, or citation, and attributed with full source information.
+3. **In research files, outlines, and plans:** paraphrase rather than quote. Record *what a passage says*, *where it appears* (page, chapter, timestamp), and *how it fits the argument* — not the passage itself.
+4. **Podcast transcripts, YouTube transcripts, and similar materials** remain local-only per the existing "Podcast Transcript Research — LOCAL ONLY" rule below. Never commit transcript content, index files naming episodes, or queue files to the repository.
+5. **When drafting a chapter:** prefer paraphrase over quotation wherever possible. Quote only when the exact wording is argumentatively necessary.
+6. **On request or dispute:** any quoted passage can be replaced with paraphrase at any time without argument.
+7. **Never fabricate quotes, page numbers, or citations** to fill a gap. Use `[QUOTE NEEDED]` or `[VERIFY: citation]` flags instead.
+
+If a task seems to require violating any of the above, pause and ask the author.
+
+## Working With the Author
+
+When you need files moved, downloaded, or placed in specific folders — **ask the author to do it**. Don't spend time trying to extract content from browser panels or fighting clipboard access. The author is happy to drag-and-drop files where they need to go. Similarly, if you need something from a Claude.ai chat, ask the author to download the files and tell you where they put them.
+
 ## Git Config
 
 GitHub email privacy is enabled. Always use this noreply email for commits:
@@ -69,10 +88,13 @@ Five-minute bedtime stories for ages 3–7, built from cross-cultural story arcs
 Tillich vs Christopher Wallis on whether inherent value is truth or axiom. The philosophical engine.
 - Path: `books/axiom-beneath-the-ground/`
 
-### Book 7: Fire and Intelligence
-**Status: First draft complete** · 12 chapters · ~14.5K words
-AI as fourth fire. Amodei as central figure. Intelligence vs wisdom. The AI book.
+### Book 7: Fire Before Responsibility (formerly Fire and Intelligence)
+**Status: Restructured to skeleton v3** · 9 chapters · ~18K words (target ~45-55K)
+**THIS IS THE MAIN BOOK.** AI as fourth fire. "Do before you know" vs "know before you do." Absorbs content from Species That Tells Stories + Grammars of the Living World.
 - Path: `books/fire-and-intelligence/`
+- Skeleton: `books/fire-and-intelligence/outline/skeleton-v3.md`
+- Content mapping: `books/fire-and-intelligence/outline/species-to-skeleton-mapping.md`
+- 12-chapter draft archived: `books/fire-and-intelligence/drafts/12ch-draft-april-2026/`
 
 ### Book 8: The Real Cost of Lunch
 **Status: Complete first draft** · 20 chapters
@@ -103,8 +125,23 @@ The verb, not the profession. 76 cards deconstructing social work history. Erase
 - Path: `books/social-working/`
 - Source grammar: `research/grammar.json` from recursive.eco-schemas
 
-### How the Books Connect (Updated)
-**The Freedom Paradox** is the diagnosis. **Grammars** is the framework. **Species That Tells Stories** is the narrative heart. **Working Architecture** is the practical manual. **Campfire Stories** is proof of concept #1. **Axiom** is the philosophical engine. **Fire and Intelligence** applies it all to AI. **Real Cost of Lunch** applies it to food systems. **The Repair Deck** is what happens when containers break. **The Wise Heart** is proof of concept #2 (DBT through myths for children). **Decolonization** is the concrete application across every domain. **Social Working** is the professional critique.
+### How the Books Connect (Updated April 2026)
+**Fire Before Responsibility** is THE book — the unified argument absorbing Species + Grammars content. **The Freedom Paradox** is the open-source history (separate, publishable now). **Working Architecture** is the practical manual (publishable now). **Axiom** is the philosophical engine (publishable now). **Real Cost of Lunch** applies it to food systems (needs 280 fact-checks). **The Wise Heart** is proof of concept (DBT through myths for children, card deck format). **Campfire Stories** is proof of concept #1 (separate repo). **Decolonization** and **Social Working** are recursive.eco grammars, not books. **The Repair Deck** is experimental format. **Consolidated** is retired.
+
+### Publication Assessment
+Full editorial audit: `books/PUBLICATION-ASSESSMENT-APRIL-2026.md`
+- **PUBLISH:** Freedom Paradox, Working Architecture, Axiom
+- **EDIT → PUBLISH:** Fire Before Responsibility (main project)
+- **DRAFT:** Real Cost of Lunch (280 [VERIFY] flags), Repair Deck
+- **SEED:** Decolonization, Social Working (platform grammars, not books)
+
+### EPUB Pipeline
+```bash
+bash epub-build/build-single-epub.sh fire-and-intelligence  # Build one
+bash epub-build/build-all-epubs.sh                           # Build all 13
+# Output: epub-build/output/
+# Metadata: epub-build/per-book-metadata/
+```
 
 ## Publishing & Deployment
 
@@ -128,11 +165,118 @@ bash build.sh        # Syncs chapters from source dirs → src/, runs mdbook bui
 - Custom CSS: `mdbook-theme/substack.css` (Newsreader serif, 19px, 680px max-width)
 - Config: `book.toml`
 
+### KDP Print-on-Demand Pipeline (Amazon paperback + Kindle)
+
+Separate from the books.recursive.eco site. Produces Amazon-ready files.
+
+**Build script:** `scripts/build-print.sh` (uses pandoc + typst, not LaTeX)
+
+```bash
+./scripts/build-print.sh freedom-paradox
+./scripts/build-print.sh axiom-beneath-the-ground
+./scripts/build-print.sh working-architecture
+```
+
+**Requires:**
+- `pandoc` (already installed)
+- `typst` — install once via `winget install Typst.Typst`
+- One-time per book: create `books/<name>/book.yaml` with title/subtitle/author/description/source_url
+
+**Per-book metadata (`books/<name>/book.yaml`):**
+- `title:` — full title
+- `subtitle:` — optional
+- `author:` — defaults to "PlayfulProcess"
+- `description:` — Amazon book description
+- `source_url:` — GitHub link for attribution page
+- `chapters_subpath:` — optional subfolder under chapters/ (e.g. `v5` for Axiom)
+
+**Outputs:**
+- `output/print/<name>-interior.pdf` — KDP paperback interior (6×9 trim, 0.625in inside gutter)
+- `output/print/<name>.epub` — Kindle ebook
+
+**Manual KDP upload steps (one-time per book, ~30 min each):**
+
+**Before first upload — one-time account setup:**
+1. Go to [kdp.amazon.com](https://kdp.amazon.com) → sign in with Amazon account (or create)
+2. Complete tax interview (W-8BEN for non-US authors)
+3. Add bank account for royalty deposits (required even at minimum royalty)
+
+**Per book:**
+1. KDP dashboard → **Create → Paperback**
+2. **Language:** English
+3. **Book Title:** copy from `book.yaml` `title`. Subtitle: copy from `subtitle`.
+4. **Series/Edition:** leave blank
+5. **Author:** PlayfulProcess (first name: PlayfulProcess, last name: leave blank, or Playful/Process)
+6. **Description:** copy from `book.yaml` `description`
+7. **Publishing rights:** "I own the copyright..."
+8. **Keywords:** 7 max. For Axiom: tillich, wallis, consciousness, spiritual axiom, memoir, meditation, contemplative
+9. **Categories:** pick 2 BISAC codes. For Axiom: "Religion/Spirituality" + "Biography & Autobiography/Personal Memoirs"
+10. **Adult content:** No
+11. **Next → Content:**
+    - **Print ISBN:** "Get a free KDP ISBN" (start here; buy own ISBN only if you want IngramSpark later)
+    - **Publication date:** leave blank (KDP assigns)
+    - **Trim size:** 6 × 9 in
+    - **Bleed:** No bleed
+    - **Paper type:** White (default) or Cream — your call
+    - **Cover finish:** Matte (looks classier) or Glossy
+12. **Manuscript:** upload `output/print/<name>-interior.pdf`
+13. **Cover:** use KDP Cover Creator (fastest — solid color + title + author). Or upload your own PDF if you have a cover design.
+14. **Previewer:** review every page — fix errors back in the markdown + rebuild + re-upload
+15. **Next → Pricing:**
+    - **Territories:** All territories
+    - **Primary marketplace:** Amazon.com (US)
+    - **Royalty & Pricing:** 60% royalty. Set list price at **printing cost + $0.01** (KDP shows minimum; for a 311-page 6×9 it's typically $6.50–$8)
+    - **KDP Select:** **DO NOT ENROLL** — requires Amazon exclusivity, incompatible with CC BY-SA
+    - **Expanded distribution:** enable for libraries/bookstores (free, why not)
+16. **Publish Your Paperback**
+
+**Kindle ebook (after paperback is live):**
+1. Back to dashboard → Create → **Kindle eBook**
+2. Most fields copy from paperback (KDP will offer to clone)
+3. **Manuscript:** upload `output/print/<name>.epub`
+4. **Cover:** same cover from paperback (upload or Cover Creator)
+5. **Pricing:** $2.99 minimum for 70% royalty tier (or $0.99 for 35% tier — books are CC BY-SA anyway so pricing is symbolic)
+6. **DO NOT ENROLL in KDP Select** (same reason — exclusivity incompatible with CC)
+7. Publish
+
+**After upload:**
+- Amazon review takes 24–72 hours for paperback, faster for Kindle
+- Once approved, both formats appear on the book's Amazon page together
+- Add the Amazon URL to `docs/epubs/index.html` card for that book
+
+### Full Publishing Checklist (after any chapter edit)
+
+When chapter content changes, ALL of these must be updated or the site will be stale:
+
+1. **Edit the source file** in `books/[book]/chapters/` (the source of truth)
+2. **Rebuild EPUB**: `bash epub-build/build-single-epub.sh [book-slug]`
+3. **Copy EPUB to docs/epubs/**: `cp epub-build/output/[slug].epub docs/epubs/`
+4. **Rebuild mdbook site**: `bash build.sh` (syncs chapters to `src/`, runs mdbook build)
+5. **Git add + commit + push**: must include `books/`, `epub-build/output/`, `docs/epubs/`, `src/`
+6. **GitHub Actions** auto-deploys on push to master (see `.github/workflows/deploy-book.yml`)
+
+**Three places that must stay in sync:**
+- `build.sh` — local build: copies chapters from `books/` to `src/`
+- `.github/workflows/deploy-book.yml` — CI build: same copies, runs on GitHub Actions
+- `src/SUMMARY.md` — mdbook table of contents: must list all chapters with correct paths
+
+**Two landing pages:**
+- `docs/epubs/index.html` — the main site landing page (books.recursive.eco), has Read Online + EPUB buttons. Gets copied to `book/index.html` during deploy.
+- `epub-build/index.html` — the EPUB download page (legacy, less important)
+
+**When adding a new book or version:**
+1. Add `mkdir -p` + `cp` lines to BOTH `build.sh` AND `.github/workflows/deploy-book.yml`
+2. Add entries to `src/SUMMARY.md`
+3. Update `docs/epubs/index.html` with Read Online + EPUB links
+4. Build the EPUB and copy to `docs/epubs/`
+
 ### Adding a new chapter
 1. Write the chapter in `books/[book]/chapters/ch##-slug.md`
 2. Add a line to `src/SUMMARY.md` pointing to the staged path
-3. Add a `cp` line to `build.sh`
+3. Add a `cp` line to `build.sh` AND `.github/workflows/deploy-book.yml`
 4. Run `bash build.sh`
+5. Rebuild EPUB: `bash epub-build/build-single-epub.sh [book-slug]`
+6. Copy EPUB: `cp epub-build/output/[slug].epub docs/epubs/`
 
 ### Python emergence models
 Computational models in `models/` support the books' arguments:
@@ -194,8 +338,41 @@ mdbook-theme/          # Custom CSS for Substack-style typography
 - Take all sides seriously before taking a position. The equity analyst instinct: who benefits from this narrative?
 - Philosophical depth without jargon. Kelty, Ostrom, Akomolafe, Andreotti should be accessible to a reader who has never encountered them.
 - Short paragraphs. No academic throat-clearing.
+- **FOOTNOTE RULE (April 2026 reader feedback):** Academic infrastructure does NOT belong in body prose. Move the following to footnotes/endnotes every time:
+  1. **Study details** — sample sizes, effect sizes (Cohen's d), replication dates, journal names, specific stats. The *finding* stays in prose; the *evidence apparatus* goes to a footnote.
+  2. **Framework listings** — "Five frameworks walk into a tantric temple" pattern. When multiple scholars are listed in sequence to show the landscape of a debate, summarize the insight in prose and put the scholar-by-scholar breakdown in a footnote.
+  3. **Epistemological disclaimers** — passages where the book pauses to caveat its own methodology ("The three-filter test governs this author's claims but not the traditions it examines..."). If the caveat is essential, keep ONE sentence; the full elaboration is a footnote.
+  4. **Source attributions in prose** — "Ruth Feldman, who has spent decades measuring this at Bar-Ilan University" → prose just says "Ruth Feldman's research shows..." and the institutional/career context is a footnote.
+  5. **Meta-commentary** — "This chapter will argue..." or "As established in Chapter 3..." — either cut entirely or condense to a single transitional phrase.
+  The test: if a passage makes the reader feel like they're reading an academic paper instead of being carried by a story, it's a footnote.
 - **Grammars book specifically**: more contemplative, poetic register than Freedom Paradox. Think: the rigor of an equity analyst who learned to sit with mystery. The book speaks — the author doesn't. No founder story, no personal brand. The argument stands on its own. CC BY-SA 4.0 licensed.
+- **DEDUPLICATION RULE (April 2026 editorial audit):** Each piece of content has ONE owner book. Other books reference but never repeat. Owners:
+  - Still-face experiment → Fire Ch1
+  - Ostrom's eight principles → Fire Ch9
+  - Sesame/Ghibli/Ghost models → Fire Ch9
+  - Samudra Manthan retelling → Fire Ch1
+  - San healing dance / Dagara grief → Working Architecture
+  - Co-regulation as biological baseline (Feldman/Coan/Tronick) → Fire Ch1
+  - Aboriginal firestick farming → Fire Ch1
+  Other books say "as established in [Book Title]..." and move on. Never repeat a case study, experiment, or myth retelling across books.
 - **Key distinction**: good/bad are moral categories (weaponizable). Adaptive/non-adaptive are empirical (observable on a long enough timescale). The book uses the adaptive frame throughout.
+- **NO JUDGMENT ADJECTIVES FROM NARRATOR (April 2026 Kindle feedback):** The third-person narrator never evaluates. Remove: "compelling", "devastating", "brilliant", "extraordinary", "remarkable", "striking", "powerful", "profound", "radical" from narrator voice. These words are OK only in:
+  - First-person Author's Note
+  - Character's interior thoughts ("she found it compelling")
+  - Direct quotes from named persons
+  The narrator observes; the narrator does not evaluate. "Who says it's compelling? Let the reader decide."
+- **NO ABSOLUTIST CLAIMS (April 2026 audit — 81 edits across 4 books):**
+  - "the only" → "among the few" or scope to text ("the thinkers examined here")
+  - "every tradition" → "the traditions examined in this book" or "tradition after tradition"
+  - Unhedged superlatives → "arguably" or "among the most"
+  - "nobody knows" → "we do not know"
+  - Population claims ("many", "most", "few") → ground in text's own evidence or use generic singular
+  - The "who counted?" test: if a reader would ask "how do you know it's many?", rewrite.
+- **REALISTIC DOMESTIC DETAIL:** Bedtime at 8pm. Void/reflection arrives ~10pm. She wakes 6:30am, daughter 7-8am (meditation time before the day). No mother is routinely up at 2am. Ground times in real parenting rhythms.
+- **THE AUTHOR'S BACKSTORY (for narrative chapters using "she"):**
+  - Catholic upbringing, pro forma — parents attended out of cultural/community obligation, not faith. Grandfather attended for community standing. More cultural than spiritual.
+  - The faith/ground question was never fully set aside. It took different forms: meditation, yoga, readings, drug use. The ONLY time it was truly incompatible was during years as investment banking analyst at Goldman Sachs. After leaving, the question returned.
+  - The retreat was real. The tradition is real. But the book is not positioned as author's spiritual journey — let the character carry it.
 
 ## Pending Research Queue
 
