@@ -1,5 +1,25 @@
 # Changelog — Axiom Beneath the Ground
 
+## 2026-04-19 (late evening) — six of eight Wallis-audit revisions applied
+
+Applied the six actionable revisions the /wallis audit flagged. The two remaining (copyedit citations, Ch07/Ch09 dramatic exchanges) are addressed separately — citations stay as `[RESEARCH NEEDED]` flags until the author provides missing URLs, and Ch07/Ch09 already contain the dramatic exchanges the audit proposed (the audit's #7 was an overcorrect; the exchanges with the husband, teacher, and daughter-in-the-bath are already present and working).
+
+**Applied:**
+- **#5 Ch00** — Whitman epigraph added before the Author's Note opens. Three lines from *Song of Myself* §1: *"I celebrate myself, and sing myself, / And what I assume you shall assume, / For every atom belonging to me as good belongs to you."* (*Leaves of Grass*, 1892 ed., public domain.) Lands the pervasion-of-Consciousness claim in American English before the book begins.
+- **#1 Ch05 §II** — clarifying paragraph added: svātantrya is the meta-śakti *of* Cit rather than its synonym. Cit is the self-luminous knowing; svātantrya is the mode of that knowing's being, which is to be free. The five powers (ānanda, icchā, jñāna, kriyā) are held together by svātantrya as the meta-capacity of sovereignty. *Pratyabhijñā-hṛdayam* sūtra 1 paraphrased but not named in-prose.
+- **#2 Ch04 §V** — editorial footnote after the Kali interlude distinguishing *dakṣina* Kali (structured containers, pulse-as-teaching — the book's register) from *vāma* Kali (transgressive methods). Protects the book against being read against the grain by readers from transgressive-Tantric frames.
+- **#3 Ch06 §III** — the audit's most load-bearing ask. Added: one beat of narration after the suicide-exchange paragraph making the container explicit (*the answer was not portable out of the container in which it had been given*), AND an editorial footnote in the author's own voice before the 988 resource line, framing the exchange as a report of tradition rather than permission/instruction/counsel.
+- **#4 Ch11** — *niṣkāma karma* parenthetical added to the "on Dario's team" paragraph. Names that being on Dario's team in the tradition's register means acting from the posture Dario articulates while holding the outcome lightly.
+- **#6 Ch01a** — Cracks interlude tightened ~20%. Removed the greeting-card-register line (*"you are being asked, now, to sit in the cracks"*), compressed three middle paragraphs, preserved the load-bearing material on composting, multi-channel speaking, and pre-verbal desire.
+
+**Not applied in this pass:**
+- **#7 Ch07/Ch09 dramatic exchanges** — the audit's proposal was an overcorrect. Ch07 already contains: the husband's one-word *"Good"* on the mantra-in-the-dark (§II); the teacher's precise three-sentence WhatsApp response (§III). Ch09 already contains: the child's *"Mama, is there a place where I am still even when I'm moving?"* (§III); the husband's *"You're different... You were reachable. You weren't always in the room... I'll keep an eye on it too"* (§IV). No additions needed. The meditative register of the outward arc is calibrated.
+- **#8 copyedit citations** — stay as `[RESEARCH NEEDED]` flags (Tristan Harris podcast episode, Bayo × Emerald episode, ≤15-word transcript quotes from Haidt/Lembke/Attia). Fill at copyedit once the author drops the specific URLs or the TapSearch API key.
+
+**Next planned (if author requests):** the `/wallis` re-audit on the revised v5 to confirm the container-strengthening in Ch06 reads as intended, and a deep pass on Eckhart Tolle (local transcripts not present; requires TapSearch API key or WebSearch-only synthesis) since Ch04a cites him.
+
+---
+
 ## 2026-04-19 (evening) — v5 Threshold chapter + Wallis audit + story index
 
 **New chapter landed: Ch04a — The Threshold.** A meditation on contemplating death as a cross-tradition doorway, between the Kali interlude (Ch04 §V) and the Void (Ch05). Covers:

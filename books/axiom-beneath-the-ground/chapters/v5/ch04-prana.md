@@ -104,4 +104,8 @@ The Kali practice had not answered the question. The Kali practice had let the q
 
 ---
 
+*Editorial note on this Kali: the tradition distinguishes two historical approaches to goddess practices — *dakṣina* (right-hand, structured containers; the pulse as the teaching) and *vāma* (left-hand, transgressive methods). The Kali rendered in this chapter is the *dakṣina* Kali of the Kashmir-Śaiva and Krama-adjacent lineages: the goddess held within a structured practice, the practitioner's body as vessel rather than test. The teacher, and the tradition this book engages, sit inside this register.*
+
+---
+
 *CC BY-SA 4.0*

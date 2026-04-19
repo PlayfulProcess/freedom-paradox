@@ -28,6 +28,8 @@ The tradition she was sitting in had a word for what was on the other side of th
 
 She did not have this clarity yet. She had the shape of it. The shape was enough to keep walking.
 
+A small precision, since she had been getting to know the vocabulary: the tradition did not treat *svātantrya* and Cit as interchangeable. Cit was the self-luminous knowing — the light by which everything was known. Svātantrya was the signature of that knowing — the freedom that was the mode of its being. Cit was the subject; svātantrya was what the subject did, which was to be free. The five capacities she had read about — ānanda (the joy inherent in awareness of itself), icchā (will), jñāna (knowing), kriyā (action) — were powers held together by svātantrya as the meta-capacity of sovereignty. The tradition's compact form was a sūtra she had memorized in translation without yet understanding it: *Consciousness, being free, is the cause of the universe's accomplishment.* She carried the sūtra. She did not yet own the sentence. Ownership, in this vocabulary, was not the right word anyway. Recognition was.
+
 ---
 
 ## III. Carried, Unasked

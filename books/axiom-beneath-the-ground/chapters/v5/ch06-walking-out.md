@@ -92,6 +92,8 @@ She had not expected this either. She had expected prohibition dressed as compas
 
 She stood with that. The answer was not a permission. It was also not a condemnation. It was a description of how the tradition thinks about a specific class of events, offered in the same register as everything else he had said.
 
+She would, later, understand something else about the answer. The answer was not portable out of the container in which it had been given. The container was the five days that had made the question askable, the teacher who knew the student, the community at the edge of the circle, the goddess-work that had loosened what the question was riding on, the hug that had preceded the asking, the morning light on the path, the car already packed. The answer was a report of how the tradition thinks from *inside* the container. It was not an instruction for how any particular life should be lived, and the narrator — even then, on the path, with the answer still landing — did not carry the answer out as an instruction. She carried it out as a report. The difference would matter for the rest of her life, and it would matter more for any reader who tried to extract the exchange from the pages that contained it.
+
 She said: "What about the hole, though."
 
 He tilted his head slightly.
@@ -155,6 +157,8 @@ She drove south with the radio off and the window cracked, and she did not try t
 Somewhere past the state line, she cried for about ten minutes, and then she stopped, and then she drove the rest of the way home with the kind of quiet that is not empty.
 
 ---
+
+*A note from the author, outside the narrator's voice: the exchange rendered in this chapter is offered as a report of how the tradition thinks about one of its harder classical teachings, given inside the specific container of a five-day retreat to a student who had earned the question. It is not a statement of what any reader should do, and it should not be read as permission, instruction, or counsel. A living tradition does its work inside a living relationship with a teacher, a community, and clinical support when needed. If you are carrying the question this chapter carries, please do not carry it alone.*
 
 *If you or someone you know is struggling, help is available: in the US, 988 (Suicide and Crisis Lifeline, call or text); international hotlines at [findahelpline.com](https://findahelpline.com).*
 

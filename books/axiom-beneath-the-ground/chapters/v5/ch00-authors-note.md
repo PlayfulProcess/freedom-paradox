@@ -2,6 +2,14 @@
 
 ---
 
+> *I celebrate myself, and sing myself,*
+> *And what I assume you shall assume,*
+> *For every atom belonging to me as good belongs to you.*
+>
+> — Walt Whitman, *Song of Myself* §1 (*Leaves of Grass*, 1892 ed.; public domain)
+
+---
+
 A Tuesday morning. A park bench. My five-year-old running in and out of a sandbox. The voice in my earbuds was describing a kind of consciousness that is simultaneously beyond everything and pervading everything, and something in me said *yes* before I knew what I was saying yes to.
 
 That *yes* is the reason this book exists. It arrived before any question I could name. It arrived as a pull — the oldest kind of wanting, the kind that moves before thought.

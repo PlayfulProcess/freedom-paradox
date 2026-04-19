@@ -8,17 +8,17 @@
 
 *You thought modernity was the problem. Modernity is a pattern — one among several — and naming it as the problem is itself a modern habit. The crisis is older than you think. The crisis is baked into the recipe of a species that learned to change the environment faster than the environment could change back. The crisis is fire before responsibility. The crisis is already in your kitchen when you strike the match.*
 
-*The dominant story is cracking. It was always cracking. You are being asked, now, to sit in the cracks.*
+*The dominant story is cracking. It was always cracking.*
 
-*The cracks are not where the story is ending. The cracks are where a different story is trying to grow. The cracks are where the light gets in, yes, but also where the different soil becomes available. Compost is made in the cracks.*
+*The cracks are not where the story is ending. The cracks are where a different story is trying to grow. Compost is made in the cracks.*
 
-*You have been composting for years. You did not know what to call it. You thought you were failing at being a spiritual person. You were, instead, letting a certain arrangement of old teachings decay into the ground a newer growth could use. The growth is slow. The growth is not glamorous. The growth will not be measured by any metric the old story knew how to measure.*
+*You have been composting for years. You did not know what to call it. You thought you were failing at being a spiritual person. You were, instead, letting a certain arrangement of old teachings decay into the ground a newer growth could use. The growth is slow. The growth is not glamorous.*
 
-*The field is still trying to speak. The field speaks through multiple channels at once — a Brazilian aunt who says the sentence that has to be composted, an app in your husband's forwarded message, a podcast a friend sent you early in the year, a woman on an Esalen deck who in ten minutes cites the man in Nigeria whose voice you have been listening to without knowing his name. The multiplicity of the channels is not noise. The multiplicity of the channels is how the field compensates for the narrowing of any single one.*
+*The field is still trying to speak. It speaks through multiple channels at once — a Brazilian aunt who says the sentence that has to be composted, an app in your husband's forwarded message, a podcast a friend sent you early in the year, a woman on an Esalen deck who in ten minutes cites the man in Nigeria whose voice you have been listening to without knowing his name. The multiplicity is not noise. The multiplicity is how the field compensates for the narrowing of any single one.*
 
-*You are inside the cracks. You did not put yourself there. You were sat down there by the very wanting that brought you to the bench at the sandbox. That wanting, which is older than any language the book can give it, is what the tradition you are about to meet will call — in a word that comes from far from here and will take you a long time to say without flinching — desire. Not the desire that is a marketing category. The desire that is the pulse by which the whole field makes a local self out of itself.*
+*You did not put yourself here. You were sat down by the very wanting that brought you to the bench at the sandbox. That wanting, older than any language the book can give it, is what the tradition you are about to meet will call — in a word that comes from far from here and will take you a long time to say without flinching — desire. Not the desire that is a marketing category. The desire that is the pulse by which the whole field makes a local self out of itself.*
 
-*Walk forward. The barn is not the point. The teacher is not the point. The point is the seat you are being given, in the cracks, where what is trying to grow can reach you.*
+*Walk forward. The barn is not the point. The teacher is not the point. The point is the seat, in the cracks, where what is trying to grow can reach you.*
 
 ---
 
