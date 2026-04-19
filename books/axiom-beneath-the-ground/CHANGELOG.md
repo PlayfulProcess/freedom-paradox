@@ -1,5 +1,26 @@
 # Changelog — Axiom Beneath the Ground
 
+## 2026-04-19 — research-31 landed (Ghost / O'Nolan, Thread 5)
+
+**Research added.** `research/research-31-onolan-ghost-platform.md` — citation-grade note on Ghost, the Ghost Foundation, and John O'Nolan as the working model for recursive.eco and the publishing-layer sibling to Ch10's Nvidia example. Primary sources: Ghost Foundation About and ActivityPub pages (ghost.org, accessed 2026-04-19); O'Nolan's "Democratising publishing" (30 Oct 2024) and "Open Source in the age of AI" (26 Feb 2026) on john.onolan.org; Wikipedia History/Foundation sections for Kickstarter and jurisdiction anchors; TechCrunch (8 July 2024) for the first-federated-newsletter date.
+
+**Findings that change the book's argument — none structural.** The Ch10 sibling passage drafted in `outreach/ghost-model-and-harris-reversal.md` holds up. The principle is right: Ghost is "do as little as possible, as much as necessary" approached from the publishing layer, the mirror of Nvidia at the chip layer. Research-26 (Nvidia) and research-31 (Ghost) now sit together as the two halves of Ch10 §VI.
+
+**Corrections the research-31 pass surfaced, to apply before Ch10 prose lands:**
+- Ghost was co-founded by **John O'Nolan and Hannah Wolfe** in April 2013, not O'Nolan alone. Multiple internal files (Freedom Paradox Ch02, Grammars research-07, the `ghost-model-and-harris-reversal.md` Ch10 sketch) frame the founding as single-author. Either add Wolfe or rephrase so she is not silently erased.
+- The Ch10 sketch's "a man in Singapore named John O'Nolan" conflates the Foundation's Singapore jurisdiction with O'Nolan's location (he describes himself as "Geographically restless"). Either describe the Foundation's registration or describe O'Nolan without pinning him to a city.
+- Do not quote the $7.5M ARR figure without a date. That number traces to October 2024; Ghost's live-data page as of this research pass (2026-04-19) shows approximately $10.3M ARR and 29,476 active customers. The book should either use the live-data approach ("as of April 2026, revenue above $10M, customers approaching 30,000") or avoid a specific number and let the qualitative point carry.
+- ActivityPub specifics: announced 22 April 2024, first newsletter federated 8 July 2024, still in early access / alpha as of 2026-04-19. Precise, testable, and ready for a footnote.
+
+**Open flags.**
+- `[RESEARCH NEEDED]` primary citation for the Substack-copied-Ghost-source-code claim. Freedom Paradox Ch02 and Grammars research-07 treat it as established; Axiom Ch10 should not assert it without a citable O'Nolan statement or third-party report.
+- `[VERIFY]` whether the governance reforms O'Nolan announced in October 2024 (board expansion beyond founders, formal membership tiers, community-elected seats) have shipped as of this date, or remain stated intent.
+- `[VERIFY]` Ghost's ActivityPub status has likely advanced beyond alpha by now; check the changelog.
+
+**Next thread to run (per author's ordering).** Thread 4 — Dario Amodei's public thought 2024–2026. Target file: `research-30-amodei-2024-2026-thought.md`. Hooks: *Machines of Loving Grace* (October 2024); Dwarkesh Patel interview; the June 2025 Huang/Amodei disagreement; the 18 November 2025 Anthropic/Nvidia $10B commit. Research-26 already partially stages this.
+
+---
+
 ## 2026-04-18 — v4 restructure begins
 
 **Context.** Author feedback during planning: the originating question for the book is *freedom*, not *value*. Value is the moral question (to whom do I direct what I have?); freedom is the spiritual question (what is the I that directs at all?). The pull that led to the retreat was pre-conceptual desire, not a reasoned "why." v3's opening — "why is the only honest place to start" — is a category error against the book's own epistemology.
