@@ -90,6 +90,8 @@
 
 **Edits to chapters.**
 - `chapters/v4/ch00-authors-note.md` — "A note on method" paragraph tightened to make the Linehan attribution explicit: the three filters are named as her criteria for selecting her biosocial theory of BPD, adopted here at the same theory-selection level as a framework-selection filter. Removes the prior framing that could read as a clinical thought-evaluation technique.
+- `chapters/v4/ch01-playground.md` §III — Linehan paragraph rewritten to match the corrected attribution: the three criteria are Linehan's theory-selection criteria (guide treatment, engender compassion, fit the research data), not "the method" of DBT. Subsequent paragraph adjusted so the narrator's recognition is of a filter-for-choosing-theories adopted at the same level, not a clinical technique.
+- `chapters/v4/ch01-playground.md` §III — Kybalion paragraph extended by one sentence to seed research-24b's finding: Ch. XII's polarity-applied-to-freedom is the specific shape the book's later argument rests on ("neither total, neither absent, a graded field a person lives inside and not a binary a person picks"). Prepares the free-will through-line without front-loading the philosophy.
 
 **Open for next pass.**
 - Chapters 2, 3, 4, 5 (inward arc filling out)
