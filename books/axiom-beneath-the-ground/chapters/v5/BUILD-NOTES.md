@@ -2,7 +2,33 @@
 
 **Date:** 2026-04-19
 **Branch:** `claude/plan-retreat-insights-9lefO`
-**Built by:** Claude Code desktop session, using only repo content. No external research was added in this pass (research-31 had already verified the Ghost facts; everything else pulls from existing repo material). Gaps are flagged with `[RESEARCH NEEDED]` or `[EDITORIAL NOTE]`.
+**Built by:** Claude Code desktop session, using only repo content. Gaps are flagged with `[RESEARCH NEEDED]` or `[EDITORIAL NOTE]`.
+
+**2026-04-19 (later) — v5 expansion.** After the initial v5 was committed (commit `4ddb4f3`), the author asked for additional weaves. The following were added:
+
+- **Ch01 §III** expanded: added Darwin (adaptive as evolutionary category, not only clinical); the Arcane School (Theosophy-descended correspondence course from the author's twenties, now *composted*); Umbanda as embodied practice in Brazil; Vanessa Andreotti's *Facing Human Wrongs* course and the *fire before responsibility* framing; Bayo Akomolafe and the *cracks* framing via *The Emerald* podcast.
+- **New file `ch01a-interlude-the-cracks.md`** — italicized interlude between Ch01 and Ch02, engaging Akomolafe's *cracks* teaching and Andreotti's *modernity-as-pattern* correction. Follows the interlude register established in Ch04 §V (Kali).
+- **Ch03 §VII** tempered: the East-vs-West framing now carries Andreotti's self-correction — modernity is one pattern, naming it *the* villain is itself a modern move; the filter applies to every framework, including the contemplative tradition the narrator is inside.
+- **Ch11** extended: new section before the "daughter will wake" close, naming the scatter of channels through which the question reached the narrator — the Brazilian aunt, the Arcane School composting, Umbanda, Vanessa Andreotti, Bayo Akomolafe, The Emerald, two Esalen trips, the carpool women, the yoga-teacher friend whose email led to Wallis. Includes explicit flag that the deeper Paradevi/Ayahuasca-2019 arc is saved for a different book. Also adds a *is-process* reference to the author's long-running Substack voice (*tarot is process*, *dance is process*, *freedom is process* series) as the epistemic voice this book is continuous with.
+
+**Sources added in this pass:**
+- The author's own words in the session (2026-04-19) on Vanessa Andreotti, Bayo Akomolafe, The Emerald, Esalen, the carpool women, and the Paradevi thread
+- `books/research-compendium/substack/` — the committed Substack drafts including `dario-amodei.md`, `freedom-is-process.md`, `dance-is-process.md`, `my-playful-process-with-dbt-for-kids.md`
+- `transcripts/personal-writtings/` — gitignored; confirms the author's own voice for the *is-process* reference
+
+**Research files added to support Ch03 §VII, Ch10 §VII, and Ch11:**
+- `research/research-plan-deep-research-pass-2026-04-19.md` — scope and source inventory
+- `research/research-32-tristan-harris-public-positions.md` — citation-grade synthesis of Tristan Harris 2020 (80K Hours, local) + 2024-2026 CHT and Your Undivided Attention material (web-verified)
+- `research/research-33-haidt-lembke-attia-meta-lawsuits-brief.md` — brief compressed stub for four subjects (Haidt, Lembke, Attia, Meta/KOSA legal layer); each subject pointed at a fuller pass once TapSearch access is available
+
+**Open flags continuing from earlier passes:**
+- `[RESEARCH NEEDED]` specific Tristan Harris podcast URL and date (the retreat-community link)
+- `[RESEARCH NEEDED]` specific Bayo Akomolafe × Emerald episode(s) to cite in the ch01a interlude footnote
+- `[RESEARCH NEEDED]` specific Haidt, Lembke, and Attia ≤15-word quotes from local transcripts at copyedit
+- `[VERIFY]` KOSA legislative status and the Jan 2026 California JCCP trial outcome at copyedit
+- `[EDITORIAL NOTE]` whether ch01a (the cracks interlude) becomes a standalone chapter or is integrated into Ch01 as a §VII. Current draft makes it a standalone file to preserve optionality.
+
+---
 
 ---
 

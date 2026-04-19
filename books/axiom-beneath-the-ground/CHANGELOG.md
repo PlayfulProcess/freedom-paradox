@@ -1,5 +1,43 @@
 # Changelog — Axiom Beneath the Ground
 
+## 2026-04-19 (later) — v5 expansion: memoir threads + deep-research pass
+
+**What expanded.** After the initial v5 commit (`4ddb4f3`), the author added three major thematic weaves and flagged a "different chapter" memoir thread (Paradevi / Ayahuasca 2019) saved separately to memory:
+
+- **v5 Ch01 §III** expanded with Darwin (adaptive as evolutionary category), the Arcane School composting, Umbanda as embodied practice, Vanessa Andreotti's *Facing Human Wrongs* + the *fire before responsibility* lineage, and Bayo Akomolafe's *cracks* teaching via *The Emerald* podcast
+- **New file `v5/ch01a-interlude-the-cracks.md`** — italicized interlude between Ch01 and Ch02, engaging Akomolafe's *cracks* framing and Andreotti's modernity-as-pattern correction; paraphrased, not quoted; flagged for the specific Emerald episode citation at copyedit
+- **v5 Ch03 §VII** tempered — the East-vs-West framing now carries Andreotti's self-correction: modernity is one pattern among several; naming it *the* villain is itself a modern habit; the filter applies to every framework including the contemplative tradition the narrator is inside
+- **v5 Ch11** extended before the established close with: the scatter of channels through which the question reached the narrator (aunt, Arcane School, Umbanda, Andreotti, Akomolafe, The Emerald, two Esalen trips, the carpool women, the yoga-teacher friend's email that led to Wallis), an explicit flag that the deeper Paradevi/Ayahuasca-2019 arc is a different book, and a reference to the author's long-running *is-process* Substack voice as the epistemic register the book is continuous with
+
+**Research files added:**
+- `research/research-plan-deep-research-pass-2026-04-19.md` — scope, source inventory, execution plan
+- `research/research-32-tristan-harris-public-positions.md` — citation-grade synthesis of Tristan Harris 2020 (80K Hours, local) + 2024–2026 CHT and Your Undivided Attention positions (web-verified); open flag for the specific retreat-community interview URL
+- `research/research-33-haidt-lembke-attia-meta-lawsuits-brief.md` — compressed four-subject stub (Haidt + Odgers/Przybylski/Etchells critique; Meta/KOSA legal layer; Lembke's *Dopamine Nation* applied to LLM use; Peter Attia's DBT arc via *Outlive* Ch17 and three Drive × Paul Conti episodes). Each subject flagged for a fuller pass when Tapesearch API key is available.
+
+**Memory added:**
+- `~/.claude/projects/.../memory/project_paradevi_next_chapter.md` — the Paradevi/Ayahuasca-2019/Esalen/Vanessa/Bayo/Wallis arc the author flagged as "a different chapter" beyond Axiom v5. NOT Axiom material. Future-planning seed for a separate memoir/book.
+
+**Sources drawn on — all internal to the repo or author-provided in session:**
+- Author's session narrative (2026-04-19): Andreotti, Akomolafe, Esalen trips, carpool women, yoga-teacher friend, Paradevi thread, Darwin-for-adaptive, Arcane School composting, Umbanda, daughter-as-inheritance motive
+- `books/research-compendium/substack/` — Substack drafts including `dario-amodei.md`, `freedom-is-process.md`, `dance-is-process.md`, `my-playful-process-with-dbt-for-kids.md`
+- `transcripts/Podcasts-library/80000-hours/tristan-harris-changing-incentives-social-media.txt`
+- `transcripts/Podcasts-library/sam-harris-corpus/health-longevity-a-conversation-with-peter-attia.txt`
+- `transcripts/Podcasts-library/guest-appearances/jonathan-haidt/` (7 episodes, local, not quoted verbatim in this pass)
+- `transcripts/Podcasts-library/guest-appearances/anna-lembke/` (6 episodes, local, not quoted verbatim in this pass)
+- Web-verified 2024–2026 public material for Harris / Haidt / Lembke / Attia / Meta lawsuits / KOSA
+
+**Open flags.**
+- `[RESEARCH NEEDED]` specific Tristan Harris podcast episode URL/date the teacher shared (author has this)
+- `[RESEARCH NEEDED]` specific Bayo Akomolafe × Josh Schrei Emerald episode(s) to cite in ch01a interlude footnote
+- `[RESEARCH NEEDED]` ≤15-word direct quotes from local Haidt/Lembke/Attia transcripts at copyedit
+- `[VERIFY]` KOSA legislative status and the Jan 2026 California JCCP trial outcome at copyedit
+- `[EDITORIAL NOTE]` whether `ch01a` becomes a standalone chapter or integrates into Ch01 as §VII
+- **Blocker (unblocks with author action):** drop `TAPESEARCH_API_KEY` into `book-repo/.env.local` to enable downloading the Peter Attia Drive × Paul Conti episodes, Your Undivided Attention episodes, and Sam Harris Waking Up #71 (Tristan Harris, 2017) for fuller research passes
+
+**Next requested after this commit:** Wallis agent audit from philosophical/traditional/moral standpoint; poetry assessment; potential weaves from `audiobooks/` (daughter's song) and `recursive.eco-schemas/` (Hamlet grammar, Walt Whitman grammar if present).
+
+---
+
 ## 2026-04-19 — v5 landed
 
 **What v5 is.** A consolidation pass over v4 that weaves in the three outreach-planned beats v4 never received (Ch03 Tristan Harris reversal, Ch10 Ghost sibling passage, Ch11 Gita hinge + Dario framing) and adds a set of themes the author asked to weave in during the build (technology accelerating time; overconceptual disconnection from relationality; social media as karma accelerator; collective karma of overindividualistic consumerism; East/West as incompatible theories of personhood rather than two cultures arguing).

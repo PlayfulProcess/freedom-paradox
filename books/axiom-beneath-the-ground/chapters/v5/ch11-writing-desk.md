@@ -38,6 +38,32 @@ I do not know if I am right. I know I am willing to be wrong in public, which is
 
 ---
 
+I want to name, here, some of the channels through which the question actually reached me, because I think the channels are part of the answer.
+
+It did not reach me through a single teacher. It reached me through a scatter of voices, and it was the *scatter* that carried the signal.
+
+It reached me, first, through a Brazilian aunt whose *espírita* phrase — *all is in perfect balance* — I had to hold and eventually compost. It reached me through an esoteric correspondence course I had spent years inside and then spent longer letting go of, keeping what had worked and letting the racialized cosmologies return to the soil. It reached me through the Umbanda rooms I sat in when I was home in Brazil, because my body trusted what those rooms were doing before my mind did.
+
+It reached me through Vanessa Andreotti's *Facing Human Wrongs* course — a year I took with her and a small collective that refused, gently but firmly, to let me narrate modernity as the villain of the story. Modernity, they taught, is a pattern, and naming it as the villain is the pattern making its own move. The disaster is older. It begins, in one reading, with fire — with the species acquiring a technology that could alter the environment faster than the environment could alter back. *Fire before responsibility.* That is the phrase I have carried since.
+
+It reached me through Bayo Akomolafe, whose work was deeply intertwined with Vanessa's and who I first encountered through *The Emerald*, the podcast hosted by Josh Schrei — a friend had sent me an episode early in 2024, and I had heard Bayo without yet understanding that the voice I had heard would be, later that year, the voice someone would cite to me on a deck at Esalen and the voice I would, once I saw the connection, sit with as a Patreon listener for months. Bayo taught at the cracks. He still does. I am still learning to sit there.
+
+It reached me through two trips to Esalen — not, I should say, through the workshops I went there for. It reached me through the *liminal spaces* around the workshops. The 5 Rhythms dance I had been doing since I lived in New York, a practice developed by Gabrielle Roth, a woman whose name is rarely in the men's-work mythology that swirls around Esalen. The Esalen massage tradition itself, which — I would learn — carries a women's lineage often buried beneath the men's lineage Esalen's public story foregrounds. The carpool up the coast, which held two women I had not planned to meet: one a former tech worker now writing a book, one a former big-news journalist now producing podcasts. They were intrigued by the AI things I was building. They asked good questions. They made me feel, in the way kind older women sometimes do for younger ones, that being a woman and a human and a builder were not three things I had to reconcile against each other. One of them told me about Vanessa. I went home and looked Vanessa up and discovered that no one in Brazil — my own country — seemed to know about her. I discovered that her work was deeply interwoven with Bayo's. I felt the field speaking through channels I had not selected.
+
+It reached me through a high school friend, now a yoga teacher in Brazil, who had heard the teacher I would go on retreat with on, of all places, *The Emerald*. Schrei had interviewed him. My friend had gotten interested because of that episode. She had sent me an email. I had said yes before I could think about it.
+
+The channels were all different. The signal came through anyway. I do not think this was accident. I think, looking back, that the field was trying to reach me through every channel it could find, because any single channel was too narrow to carry what it was trying to say. A scatter of voices, multiply redundant, each one partial, collectively adequate.
+
+The deepest version of this — a thread that begins with an Ayahuasca night in 2019 and runs through everything I have just named, arriving at Paradevi, the Goddess who is the supreme form of the tradition I eventually walked into — I am going to save for a different book. I know what that book wants. It is not this one. This book is the philosophy and the frame; that book will be the memoir. I am marking it here so I remember.
+
+---
+
+A last thing, about the practice this book came out of. I have been writing, in the voice of a small Substack, for longer than I have been writing this book — short pieces under titles like *tarot is process*, *dance is process*, *writing is process*, *freedom is process*, *inspiration is process*. The *is-process* suffix is not ornament. It is the epistemology. Everything I have written, in public or in private, has been an attempt to sit with a thing as a *process* rather than to report on it as a conclusion. This book is the longest thing I have sat with in that voice. If it has an overall shape, the shape is *svātantrya is process*. Not a claim. A way of standing.
+
+I am not writing a manifesto. I am writing a process. If you find yourself inside this book and something in it lands, that is the process landing. If nothing in it lands, you are not the reader this book was looking for, and I wish you the book you are. This one was the one I could write at this desk at this age, in this city, with this daughter asleep upstairs, with the filter operational, and with a scatter of voices still echoing in me through channels I did not plan.
+
+---
+
 The daughter will wake in six hours. She will come to our bed. She will smell the way she always smells in the morning — a smell I will miss, in twenty years, more than any other smell. I will get up with her. I will make breakfast. I will do the dishes. I will feel the warm water, and the thick base of the mug my mother-in-law gave us, and the faint lavender of the soap. I will do the practice that is available at that moment, which is the practice of being in the room with the person who is in the room with me.
 
 The book ends here. The practice does not.
