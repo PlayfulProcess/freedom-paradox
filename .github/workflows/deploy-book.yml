@@ -2,7 +2,12 @@ name: Deploy book to GitHub Pages
 
 on:
   push:
-    branches: [main, master, claude-organize-research, claude/plan-shareable-links-gFIq0]
+    branches:
+      - main
+      - master
+      - claude-organize-research
+      - claude/plan-shareable-links-gFIq0
+      - claude/restructure-book-skeleton-iOLJh  # current default branch — deploy on every push here
   workflow_dispatch:
 
 permissions:
@@ -45,6 +50,10 @@ jobs:
           mkdir -p src/axiom-v3
           cp books/axiom-beneath-the-ground/chapters/v3/*.md src/axiom-v3/
           cp books/axiom-beneath-the-ground/chapters/the-ceremony.md src/axiom-v3/
+
+          # The Axiom Beneath the Ground v5 — latest (14 chapters including interludes)
+          mkdir -p src/axiom-v5
+          cp books/axiom-beneath-the-ground/chapters/v5/ch*.md src/axiom-v5/
 
           # Standalone books
           mkdir -p src/freedom-paradox src/working-architecture src/fire-and-intelligence
