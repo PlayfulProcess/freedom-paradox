@@ -85,6 +85,11 @@ jobs:
           # Fix "Web Reader" footer link
           sed -i 's|href="\.\./index\.html"|href="reader-index.html"|g' book/index.html 2>/dev/null || true
 
+          # Copy directly-hosted EPUBs + PDFs (for books not on GitHub Releases, like axiom-v5)
+          # Index.html uses relative paths like href="axiom-v5.epub", so files need to sit at book/ root.
+          cp docs/epubs/*.epub book/ 2>/dev/null || true
+          cp docs/epubs/*.pdf book/ 2>/dev/null || true
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
