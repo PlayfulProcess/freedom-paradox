@@ -18,7 +18,7 @@ The voice said: *Neither did I.*
 
 She did not understand at first. She thought it meant something like a consolation — *I know how you feel*. The voice, patient, meant something else. The voice meant: *I also was not asked. Nothing was asked. No thing that exists agreed in advance to exist. We are all in the same condition. The not-asking is not your problem. The not-asking is the shared ground of everything that is here.*
 
-And then, as sometimes happens with the tea, she was given an image, or what passes for an image in that state — not a picture, exactly, but a sense of something enormous and simultaneously intimate. What she saw, or understood, was that *everything that exists is what the whole has made of the non-choice*. Nothing consented to arrive. Everything arrived anyway. Out of the arriving, without anyone choosing to begin it, existence began doing the only thing existence can do with non-choice, which is *make arrangements*. Arrangements of matter. Arrangements of breath. Arrangements of attention. Arrangements that persist for a while and then do not persist. The arrangements are not a solution. The arrangements are the working-out. She saw that she was one of the arrangements. Her daughter, not yet born, was one of the arrangements. The forest around the house was one of the arrangements. The tea she had drunk was one of the arrangements. The voice she was hearing was not separate from any of it.
+And then, as sometimes happens with the tea, she was given something that passed for an image — not a picture, a sense of something enormous and intimate at once. What she understood was that *everything that exists is what the whole has made of the non-choice*. Nothing consented to arrive. Everything arrived anyway. Out of the arriving, existence began doing the only thing existence can do with non-choice, which is *make arrangements*. Arrangements that persist for a while and then do not. The arrangements are not a solution. The arrangements are the working-out. She was one of them. Her daughter, not yet born, was one of them. The forest, the tea, the voice — not separate from any of it.
 
 The voice did not tell her what to do. The voice did not tell her she had a purpose. The voice did not say she was loved, in the way the comforting spiritual literature promises. The voice said, simply: *you are one of the places the arrangement is happening. Your not having asked is not relevant. What is relevant is what you do now that you are here.*
 
@@ -34,9 +34,9 @@ She did not know, then, that the naming would take seven years.
 
 She went home. She did not tell her husband exactly what had happened. She told him *something important happened* and left the details for later, and then the later kept not arriving, because she could not find the vocabulary for an experience whose vocabulary her upbringing had not supplied. Her Catholic childhood had names for none of this. Her university education had names for none of this. Her equity-research career had names for none of this. The tea's ecosystem had names, but the names were ones she did not trust yet, because she had seen too many people weaponize those names into small tyrannies in their own households and did not want to become one of them.
 
-She chose, instead, to treat the encounter as data. She would follow the data. She would not force it into a framework. She would let the framework find her.
+She chose to treat the encounter as data. She would follow it. She would not force it into a framework. She would let the framework find her.
 
-What followed, over the next seven years, was a sequence of arrivals she would not have predicted and could not, at the time, see the shape of.
+What followed, over the next seven years, was a sequence of arrivals she could not, at the time, see the shape of.
 
 ---
 
@@ -58,7 +58,7 @@ A high-school friend of hers, back in Brazil, had become a yoga teacher in the y
 
 She bought *Tantra Illuminated*. Then *The Recognition Sutras*. Then *Near Enemies of the Truth*. She read the way one reads when one is following a thread rather than consuming content. She did not find everything easy. She did not find everything agreeable. What she found was a teacher who was clear in a way she had not previously encountered, and who was clear specifically about things most teachers were fuzzy about — the relationship between practice and morality, the limits of recognition, the ways the tradition had refused to become a regulatory apparatus and what that refusal had left open.
 
-She went on his retreat. The retreat is the subject of the chapters that follow. Some of it was extraordinary. Some of it broke her. Some of it left her with questions she had not brought in and could not put down.
+She went on his retreat. Some of it was extraordinary. Some of it broke her. Some of it left her with questions she had not brought in and could not put down.
 
 What she did not know, until she had been studying the tradition for some months, was that the Goddess at the center of the Pratyabhijñā lineage — the one Wallis teaches, the one the retreat was built around — has a name. *Paradevi*. The supreme Goddess. The one consciousness recognizing itself through the forms it has emitted.
 
@@ -70,11 +70,9 @@ The voice in the wooden house had not offered its name. She had called it Gaia b
 
 She did not feel triumph at the recognition. She felt something smaller and more honest — the feeling of having been walked somewhere, patiently, by something she could not see, which had taken as long as it had taken because she needed that long.
 
-She did not know, then, what the Goddess wanted of her. She still does not, entirely. She is fairly sure, now, that *wanting* is not the right word for what the Goddess does; the Goddess is not a being with preferences about her career. What she is fairly sure of is that the encounter in 2019 was not an isolated event. The encounter was the beginning of a dance she had been inside ever since, whose music she had been straining to hear, whose steps she had been trying to learn from whoever in the room seemed to know them.
+She does not know what the Goddess wants of her. She is fairly sure *wanting* is not the right word — the Goddess is not a being with preferences about her career. What she is sure of is that 2019 was not an isolated event. It was the beginning of a dance she has been inside since, whose music she has been straining to hear, whose steps she has been trying to learn from whoever in the room seemed to know them.
 
-The rest of this book is the record of the learning. The book does not end with her having learned the steps. The book ends where the learning is — in the middle of it, still, with the longing to know the dance intact.
-
-That longing is the practice. That longing is the book.
+The longing to know the dance is the practice. The longing is the book.
 
 ---
 
