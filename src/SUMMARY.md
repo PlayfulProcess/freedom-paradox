@@ -99,6 +99,7 @@
 
 - [Author's Note](axiom-v5/ch00-authors-note.md)
 - [Prelude: The First Encounter](axiom-v5/ch00a-prelude-first-encounter.md)
+- [Prelude: The Lilac Dance](axiom-v5/ch00b-prelude-lilac-dance.md)
 - [Playground](axiom-v5/ch01-playground.md)
 - [Interlude: The Cracks](axiom-v5/ch01a-interlude-the-cracks.md)
 - [Deha](axiom-v5/ch02-deha.md)
