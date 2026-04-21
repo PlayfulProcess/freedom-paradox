@@ -118,9 +118,11 @@
 - [What Intelligence Was Never Doing](axiom-v5/ch10e-what-intelligence-was-never-doing.md)
 - [The Dance, Not the Human Dance](axiom-v5/ch10c-the-dance-not-the-human-dance.md)
 - [The Constructive Half](axiom-v5/ch10d-the-constructive-half.md)
+- [Balance from Differences](axiom-v5/ch10f-balance-from-differences.md)
 - [Writing Desk](axiom-v5/ch11-writing-desk.md)
 - [Composting](axiom-v5/ch12-composting.md)
 - [The Right Size](axiom-v5/ch13-the-right-size.md)
+- [Appendix A: The Dying of Rabbi Zusya](axiom-v5/appendix-a-zusya.md)
 
 ---
 
