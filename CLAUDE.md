@@ -31,6 +31,19 @@ If a task seems to require violating any of the above, pause and ask the author.
 
 When you need files moved, downloaded, or placed in specific folders — **ask the author to do it**. Don't spend time trying to extract content from browser panels or fighting clipboard access. The author is happy to drag-and-drop files where they need to go. Similarly, if you need something from a Claude.ai chat, ask the author to download the files and tell you where they put them.
 
+## Guiding Principle: Knowledge Without Action Is a Burden
+
+This is an explicit authorial principle the author has asked to apply across all her non-fiction writing.
+
+**Every philosophical claim in a non-fiction section should point at an action somewhere** — either in the author's own life, or in an honest invitation to the reader's. If a claim cannot point at an action, one of two things is true:
+
+1. The claim is wrong and should come out.
+2. The action has not been done yet, in which case either the claim comes out or the action needs to be done before the work ships.
+
+The acting is also part of *testing* the claim — the Linehan filter (useful / fits the data / compassionate) remains operative through the action, not despite it. If the experience of the knowledge-in-action changes what the author can see, the framework gets revised.
+
+When editing non-fiction chapters: watch for claims that float without an action anchor, and either surface the anchor, flag it for the author's decision, or propose revising the claim. Action anchors that already exist in this repo or in the author's public commit histories (recursive-eco, recursive.eco-schemas) are especially valuable — they are verifiable and specific.
+
 ## Git Config
 
 GitHub email privacy is enabled. Always use this noreply email for commits:
