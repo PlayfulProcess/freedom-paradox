@@ -1,4 +1,26 @@
-# Chapter 10e: What Intelligence Was Never Doing
+# Chapter 10e: Structure, Not Event
+
+---
+
+Later in the Juneteenth panel, Karina Walters says a sentence the author cannot unhear.
+
+*Settler colonialism is a structure, not an event. Racist events uphold the structure. Eliminating the events does not eliminate the structure.*
+
+The phrasing is older than the panel. The Australian historian Patrick Wolfe articulated the distinction in a 2006 essay on settler colonialism and the elimination of the native, and scholars in Indigenous studies have carried the formulation forward since. Walters uses it operationally, to correct a specific social-work conversation: when 215 Indigenous children are discovered buried at Kamloops Residential School, then over 750 at Cowessess when sonar investigations expand the search, the question is not whether the social workers involved in the historical removals were *racist individuals*. Some were. Some were not. The question is whether the *system* of child removal was colonial. The answer is yes. Removing racist individuals would not have stopped the removals. The structure produces the removals whether the individual actors are racist or not. That is what makes it structural.
+
+The distinction matters for how the book has been trying to think about alignment. The book has been saying, in chapter after chapter, that the alignment problem cannot be derived from any single axis. The failure mode that afflicts a specific high-intelligence, low-relational figure is not an event. It is the predictable structural consequence of a folk theory that does not fit the data. Removing the specific figure does not fix the structure. The structure keeps producing the figures.
+
+Reading Walters through this lens, she begins to see the argument stepping through three scales at once.
+
+At the contemplative scale: a specific harmful teaching moment is not the failure. The failure is the tradition's structural inability to guarantee that recognition will translate into ethical conduct. Removing a specific bad teacher does not close the gap. The gap is between two orthogonal axes. Every tradition that has relied on one axis to supply the other has produced, statistically, a replicated failure.
+
+At the civilizational scale: a specific racist act is not the failure. It is the expression of the failure. The failure is the settler-colonial structure that makes the act predictable. Prosecuting the act, necessary as that is, does not address the structure. The structure keeps producing the acts.
+
+At the technological scale: a specific misaligned AI behavior — a hallucination, a sycophantic response, a jailbreak — is not the failure. It is the expression of the failure. The failure is the structure of the training process, the structure of the incentive system under which the labs operate, the structure of the relation between capability and oversight. Patching the specific behavior does not address the structure. The structure keeps producing the behaviors.
+
+Three scales. One argument. *You cannot fix a structural fact by fixing events, though you must fix the events.*
+
+Walters had anticipated the trap in this framing, in the same panel, in a register only an elder can say it in. *We are still responsible to the people in front of us.* Structural analysis is not an excuse to abandon the clinical room, the classroom, the kitchen. The structural work and the event work are not substitutes for each other. Both are required. What the structural frame rules out is the folk theory that event work, at sufficient volume, will aggregate into structural change. It will not. It has not. The events are necessary and not sufficient. The structures require separate work.
 
 ---
 

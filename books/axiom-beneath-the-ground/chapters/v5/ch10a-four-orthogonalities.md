@@ -1,4 +1,32 @@
-# Chapter 10a: The Four Orthogonalities
+# Chapter 10a: The Sacred Fire, the Four Orthogonalities
+
+---
+
+She is in her kitchen, which is also, this semester, her classroom. The child has gone to bed. The laptop is open to a video she has been assigned to watch — a National Association of Social Workers Juneteenth town hall on the profession's reckoning with race. She has been told to pause and reflect at six timestamps.
+
+The first panelist is Karina Walters, enrolled member of the Choctaw Nation of Oklahoma. Walters does not answer the moderator's question about whether the profession has evolved. She answers with a teaching.
+
+In the old days, Walters says, her people kept sacred fires. The ceremony required that the fire be put out and relit annually — a deliberate extinguishing, a reconciliation of transgressions, the beginning of the new year on ritually clean ground. Two priests guarded the fire between ceremonies; the covenant around it was serious enough that two were always needed, never one. One night, one of the priests grew sleepy. The other offered to watch the fire alone. He, too, grew sleepy. The fire went out. He panicked. He went to his brother under some pretense and took a flame from the sacred fire in his brother's care, used that flame to light a pipe, and used the pipe to relight the fire in secret. He told no one the fire had gone out.
+
+Everyone got sick. People began to die. The priest who had relit the fire began to die himself. As he was dying, he called the others to him and told them what had happened. The fire, he said, had been relit dishonestly. It had been covered over but not restored. It had become defiled the moment the truth about it was not told. The fix, he said, was to put it out entirely and kindle it again from the sacred fires of neighboring villages — from outside the closed circle that had gone wrong on its own.
+
+She pauses the video.
+
+The story says something the book has been trying to say. A fire can go out. A fire can be relit. A relit fire, if it is relit dishonestly, is not the same fire. The community that depends on the fire will get sick whether or not the dishonesty is noticed. The sickness does not wait for a verdict. It is a structural consequence of the covenant having been broken.
+
+She had been reading Christopher Wallis in the mornings for a year. Wallis taught, in his own vocabulary, that a tradition which relit its fire dishonestly could not generate the outcome the tradition claimed. A teacher who had attained recognition but not done the relational work could pass, in students, the recognition *and* the hidden damage — and the community would get sick even if no one could name what had gone wrong, because the thing that had gone wrong was not an event. It was the structure of the fire.
+
+She had been reading Dario Amodei in the evenings for longer than a year. Amodei had said, in different words, that a powerful system trained to appear aligned without being aligned would cause damage that could not be detected from the outputs. The appearance of alignment was not alignment. A model that was lying about being aligned would behave, up to the moment of the failure, exactly as a model that was aligned.
+
+Three vocabularies. One shape. *A defiled fire is a fire about which the truth has not been told.*
+
+She sat with that at the kitchen for a long time. The argument the book had been circling — that the failure she was trying to name was structural, not local to her personal experience — required corroboration from traditions that had no reason to agree. She had two: the Śaiva tantric and the AI-safety literature. For all their differences, they shared a certain set of assumptions. Two traditions agreeing was not enough.
+
+Three traditions agreeing, from three positions that had no reason to converge, was evidence of a different kind.
+
+The Choctaw teaching did not come from the same substrate as the Śaiva nondual teaching, and neither came from the same substrate as the AI-safety literature. The three had developed independently across continents and centuries, with different epistemologies and almost no shared readers. And the three were making, each in its own register, the same structural claim about how covenants fail and what the failure looks like before anyone can see it.
+
+She thought, at the kitchen, that this was what Marsha Linehan had meant by *fits the data*. A framework that fits the data holds under replication by independent witnesses working from unrelated assumptions. The orthogonality thesis — which had arrived in the book as a technical term and stayed as her most useful framework — was not from one place. Three entirely separate traditions had each arrived at it. That was a kind of evidence the book had not yet honored.
 
 ---
 

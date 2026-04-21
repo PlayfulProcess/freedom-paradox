@@ -32,6 +32,16 @@ Five properties, as she sees them now.
 
 ---
 
+The model she keeps returning to, when she is trying to describe what *constructive ethics* actually looks like at scale, is Marsha Linehan's.
+
+Linehan had been committed to a psychiatric hospital in her adolescence. She had received electroconvulsive therapy, seclusion, and restraint — treatments the system of the time held as standard and which had, by her own later account, produced more harm than healing. When she became a clinician, she did not campaign for the dismantling of psychiatric hospitals. She did not write critiques of institutional psychiatry. She built Dialectical Behavior Therapy. DBT was designed to keep people in their communities. Her team's research, years later, documented what she had suspected from the inside: that psychiatric crisis services could produce iatrogenic harm, that the standard institutional response to certain kinds of distress made the distress worse. The evidence, once assembled, did the dismantling that no campaign had done. The old model began to look unnecessary. The new model, built patiently across decades, had made it so.
+
+This is the theory of change beneath the Linehan filter itself. *Useful, fits the data, compassionate* is not only a test for a framework. It is the criterion by which a new framework earns its right to replace an older one. The dismantling happens because something more adaptive becomes available, not because the older thing is argued into submission. Argument alone does not move institutional structures. Alternatives that work do.
+
+She has been carrying this model forward from her social-work training without having, until recently, named it. The platform she built is, in the unglamorous technical sense, a small attempt at Linehan's move at a different scale. She is not campaigning for the dismantling of algorithmic feed-driven content systems. She is building a place where people can do reflective and educational work without those systems. If the place works — if practitioners come, if the work lands, if the evidence accumulates — the old model becomes unnecessary for the population the new model serves. That is the slow dismantling. That is what the evidence does when someone has done the work of making the alternative.
+
+---
+
 She built a platform.
 
 She named it, originally, *Jongu*. The name was trying to tell her something. She changed it later, for reasons that now look thin — the platform kept working under the different name, but the original name was the honest description.
