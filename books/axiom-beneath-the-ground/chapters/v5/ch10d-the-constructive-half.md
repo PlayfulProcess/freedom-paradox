@@ -36,7 +36,13 @@ This is, she admits, a lot to ask of anyone. She is not sure she can do it herse
 
 She built a platform. She named it, originally, *Jongu*. The name was trying to tell her something, as names sometimes do. She changed the name later, for reasons that now look thin. The platform kept working under the different name. But the original name was the honest description of what she was building, and she wants to say the honest description now because the rest of the chapter depends on it.
 
-She was building a place where other people could come do the constructive ethical work with her.
+She should be honest about the name she changed it to, as well. When she renamed *Jongu* to *recursive.eco*, she told herself — and told the people who asked — that the new name gestured at *recursive economics*, a real mathematical subfield inside her discipline of origin: the study of dynamic programming, Bellman equations, iterative optimization across time. It was a clean linguistic link. It made sense in pitch meetings. It was also, she will say now, not quite what she was hoping for.
+
+What she was secretly hoping was that the platform would turn out to belong to the study of *emergent patterns*, not iterative ones. Not dynamic programming. Complex adaptive systems. The mathematics of collective behavior that cannot be derived from the individual equations of the participants. The Brazilian economist-in-her named the platform after the iterative subfield because that was the mathematics she had been trained in. The contemplative-in-her wanted the platform to be, instead, the *host* for the emergent thing — the circle inside of which the pattern-that-no-participant-can-specify-in-advance might, with enough good participants and enough patience, arise.
+
+The distance between what she named it and what she hoped for it was, in effect, the distance between the pre-computer and the post-computer theories of intelligence the last chapter described. Iteration is what a single mind can do alone. Emergence is what a field of many participants produces when they stay in relation long enough. She named the platform after the single-mind operation. She was building for the many-participant one. She did not yet have the vocabulary for the difference when she renamed. She is trying to have it now.
+
+She was building, either way, a place where other people could come do the constructive ethical work with her.
 
 Not a place where they would receive her ethic. A place where they would *build* with her. Each person, arriving with whatever lineages and practices and partial grammars they had already been formed by, contributing their piece. The platform was not the ethic. The platform was the outer circle, in the jongo sense. The ethic — the measure, the actual dance — would emerge from whoever stepped into the center, measure by measure, and what the circle of holders did around them.
 
