@@ -98,6 +98,7 @@
 # The Axiom Beneath the Ground (v5 — latest)
 
 - [Author's Note](axiom-v5/ch00-authors-note.md)
+- [Prelude: The First Encounter](axiom-v5/ch00a-prelude-first-encounter.md)
 - [Playground](axiom-v5/ch01-playground.md)
 - [Interlude: The Cracks](axiom-v5/ch01a-interlude-the-cracks.md)
 - [Deha](axiom-v5/ch02-deha.md)
@@ -111,6 +112,10 @@
 - [Citta Returning](axiom-v5/ch08-citta-returning.md)
 - [Deha Returning](axiom-v5/ch09-deha-returning.md)
 - [Vāstu Returning](axiom-v5/ch10-vastu-returning.md)
+- [The Four Orthogonalities](axiom-v5/ch10a-four-orthogonalities.md)
+- [The AI Mirror](axiom-v5/ch10b-the-ai-mirror.md)
+- [The Dance, Not the Human Dance](axiom-v5/ch10c-the-dance-not-the-human-dance.md)
+- [The Constructive Half](axiom-v5/ch10d-the-constructive-half.md)
 - [Writing Desk](axiom-v5/ch11-writing-desk.md)
 - [Composting](axiom-v5/ch12-composting.md)
 - [The Right Size](axiom-v5/ch13-the-right-size.md)

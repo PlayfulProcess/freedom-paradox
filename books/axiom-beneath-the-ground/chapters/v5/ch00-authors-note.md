@@ -12,6 +12,8 @@
 
 This is not a book by someone who has arrived. It is a book by someone who could not get rid of the question and decided to write from inside it.
 
+The through-line, if it has to be named in one word, is *alignment*. The word carries two registers simultaneously — the yoga-tradition sense of aligning body with breath with attention, and the technical sense used in the AI literature for the problem of getting powerful systems to reliably do what we intended. The book assumes the two registers are describing the same problem at different scales. The retreat, the marriage, the platform, the civilization, the tool — all are attempts to align something with something, and all reveal the same structural fact: the alignment cannot be derived from any single axis, and must be constructed, carefully and provisionally, by practitioners who have admitted they do not have a final answer.
+
 The book is written in close third person. A woman who is not quite me walks through it. I appear briefly here and again, in a different register, in the late chapters. The point is not the person inside the experience. The point is the argument the experience carried. Let her carry it.
 
 The frameworks the book engages are asked three questions: *is it useful, does it fit the data, is it compassionate.* These are Marsha Linehan's three criteria for selecting her biosocial theory of borderline personality disorder. I borrow the criteria at the same theory-selection level. If a framework here stops meeting the three tests it should be revised. That includes, especially, the frameworks I am most attached to.

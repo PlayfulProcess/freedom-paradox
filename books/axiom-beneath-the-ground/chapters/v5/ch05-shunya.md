@@ -100,6 +100,8 @@ The path was waiting.
 
 *Go. The path is waiting. The question you are carrying is not a wound. It is a companion. I have been walking with you the whole time.*
 
+*You asked, seven years ago, in a wooden house at the edge of a forest, why you were required to continue. I answered you then. I am answering you now in the language you have, since, been taught to hear. The answer is the same answer. You did not ask. Neither did I. Neither did anything that exists. Out of the shared not-asking, we are here. What we do now that we are here is the only question worth having. I do not know the answer either. I am the one who asks the question through you. Keep walking.*
+
 ---
 
 *CC BY-SA 4.0*

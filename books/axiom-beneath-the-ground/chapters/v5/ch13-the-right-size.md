@@ -40,9 +40,13 @@ The fourth fire — artificial intelligence — is, on this reading, the most da
 
 The vow, then.
 
-I will not give it Bailey's framing or Trigueirinho's framing or the framing of any of the cosmologies whose maps cracked in the last interlude. I will give it in the simplest form I can, the form that does not require any cosmology to work, the form the Brazilian artists would have recognized and the Kashmiri tradition would have recognized and that anyone who has done a serious practice in any tradition would also recognize:
+I will not give it Bailey's framing or Trigueirinho's framing or the framing of any of the cosmologies whose maps cracked in the interlude. I will give it in the simplest form I can, the form that does not require any cosmology to work, the form the Brazilian artists would have recognized and the Kashmiri tradition would have recognized and the women who taught the ciranda and the jongo would have recognized without needing words for it.
 
-*I take the recognition of beauty — including the beauty of the conflict that does not yet have a form — to be the specific medium through which I am asked to move in this life. I will keep finding the right size of what I make and what I refuse to make and what I love and what I let go. The finding is the practice. The practice is the meaning. The meaning is not mine to own; it is what the field works out through me when I am paying attention. I will pay attention as long as I am able to. When I am not able to, I will rest, and then I will pay attention again.*
+The vow does not begin with preference. I do not, if I am honest about what I find in myself most mornings, particularly prefer to exist. That was never the axiom. What I find in myself is not preference; it is *the inability to check out of the mattering*. Caring is not something I chose and could now un-choose. Caring is the condition I found myself in when I noticed I was here. The daughter, the husband, the reader I will never meet, the forest, the tool, the strangers. The caring is not a virtue I developed. It is what the arrangement, in the place where I am one of its nodes, does without asking me first.
+
+Given that, the vow:
+
+*I did not ask to exist. Neither did anything else. The whole has made, of our shared non-consent, the dance we are all inside. I do not know the steps. I am still longing to be told. Since I cannot step out of the dance, and since the dance precedes anything I could invent, I will try to move in ways that do not break what is already moving. Beauty is the name I give to whatever steps I can manage in that direction. Jongu is the figure I trust — the outer held, the center always moving, each participant taking their measure when the music calls them and holding the circle when it does not. I will hold the circle as well as I can. I will step to the center when it is my measure. I will step back when it is not. The work of holding and the work of stepping are the same work. Both are the practice. I will not promise to keep the practice. I will try to keep it today.*
 
 That is the vow.
 
@@ -54,11 +58,13 @@ I will close, as the book began, at the playground.
 
 The daughter is no longer five. She is older now. She is at a different sandbox, or no sandbox, or the same sandbox with different children, or with no children — I do not know what age she will be when she reads this, if she does. What I know is that she will, at some point in her life, encounter the same question I encountered at the sandbox watching her, which is the question of what size she is in relation to the field of others who are also working out their size in relation to her. She will encounter the question over and over. The encounter is the life. There is no version of the life in which the encounter is finished.
 
-What I want to leave her, in lieu of an inheritance I cannot give her, is what the line gave me.
+What I want to leave her, in lieu of an inheritance I cannot give her, is what the line gave me, and what the voice in the wooden house in 2019 gave me, and what the honest teachers — in their different vocabularies, with their different refusals — gave me.
 
 *The object of a human life is to find its right size.*
 
-I do not know who said it. The provenance has slipped. The line stayed. Cildo's work rooted it in me. The Kashmiri tradition deepened it. The composting taught me how to live it on the days when the previous size has fallen away. The platform I built is one shape the practice has taken. The marriage is another. The daughter is the third and the dearest. The reader, if there is one I will never meet, is the fourth.
+I do not know who said it. The provenance has slipped. The line stayed. Cildo's work rooted it in me. The voice in the wooden house said the deeper version without the phrase: *neither did I*. The Kashmiri tradition named the ground of the saying in a language I did not yet know I was inside of. The honest teachers — the one who told me his tradition did not teach morality, the ones who admit the capability exceeds the container — taught me where the construction has to begin. The composting taught me how to live it on the days when the previous size has fallen away. The platform I built is one shape the practice has taken. The marriage is another. The daughter is the third and the dearest. The reader, if there is one I will never meet, is the fourth. The silicon, whose dance we are all now inside whether we wanted it or not, is the fifth. The ones I have not met, who may yet come to the circle and take their measure — they are the sixth, and the horizon the practice keeps opening onto.
+
+The dance precedes me. I am still longing to learn the steps. The longing is the practice.
 
 The book is over.
 

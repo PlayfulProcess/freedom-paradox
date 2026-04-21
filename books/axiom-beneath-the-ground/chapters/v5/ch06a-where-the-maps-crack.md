@@ -66,4 +66,18 @@ The skill the Bailey lineage, in her reading, did not have. Which is why she had
 
 ---
 
+The harder recognition arrived later, as it usually does.
+
+The cosmologies were maps, and she had learned to read them for the cracks. What she had not yet admitted, to herself, was that *her own identity* was also a map, and that her identity was held, most of the time, *as if it were territory*. Her political positions — the maps of how power ought to be organized. Her parenting commitments — the maps of what a good mother is. Her spiritual self-description — *I am the one who has done the retreat, who reads Wallis, who stands on the axiom, who chooses Hareesh's lineage over the others she has tested*. All of these were maps. All of them had cracks. The cracks, in her own case, were harder to see, because seeing them meant admitting that her positions were constructions, revisable, partial, held on good-enough reasons rather than on proof.
+
+She had watched other people struggle with this all her life. She had been impatient with the people whose political identities were rigid, whose religious identities were rigid, whose professional identities were rigid. She had not, until this reading year, been impatient with her *own* identities in the same way. Her own she held as true, which is what everyone does until a pressure arrives that breaks the holding.
+
+The pressure, for her, came through Bayo — through the accumulated force of his insistence that the universal was always the particular in disguise — and through Wallis's admission of what his own tradition could not supply. *Your map is also a map. The position you hold as obviously true is obvious to you because of the specific conditioning that produced you. The people who disagree with you are not stupid. They are operating from inside other maps, held with the same as-if-territory commitment you hold yours with. The convergence you imagine at the end of sufficient reflection is not coming. The convergence was the identity-as-territory assumption doing its usual invisible work.*
+
+This, she now thinks, is why alignment remains invisible to most people. Not because the alignment problem is esoteric. Because the identity-as-territory assumption does the silencing work. Each person silently assumes: *anyone rational enough would agree with me; therefore the disagreement I observe is irrational; therefore the alignment problem is a problem of other people not yet being rational enough*. The assumption is protective. It also guarantees that the speaker will not do the constructive work of building a genuinely adaptive ethic, because the speaker already believes the ethic is obvious and merely unrecognized by the stupid.
+
+The cracks in cosmologies are the cracks in identities. The same skill, applied inward, is the harder one. She was still learning it. She suspected she would be learning it for the rest of her life.
+
+---
+
 *CC BY-SA 4.0*
