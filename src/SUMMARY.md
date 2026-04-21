@@ -106,11 +106,14 @@
 - [The Threshold](axiom-v5/ch04a-the-threshold.md)
 - [Śūnya](axiom-v5/ch05-shunya.md)
 - [Walking Out](axiom-v5/ch06-walking-out.md)
+- [Where the Maps Crack](axiom-v5/ch06a-where-the-maps-crack.md)
 - [Prāṇa Returning](axiom-v5/ch07-prana-returning.md)
 - [Citta Returning](axiom-v5/ch08-citta-returning.md)
 - [Deha Returning](axiom-v5/ch09-deha-returning.md)
 - [Vāstu Returning](axiom-v5/ch10-vastu-returning.md)
 - [Writing Desk](axiom-v5/ch11-writing-desk.md)
+- [Composting](axiom-v5/ch12-composting.md)
+- [The Right Size](axiom-v5/ch13-the-right-size.md)
 
 ---
 

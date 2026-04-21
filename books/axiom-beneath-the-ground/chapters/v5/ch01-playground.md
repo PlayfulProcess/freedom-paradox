@@ -4,17 +4,37 @@
 
 ## I. The Yes Before Anything
 
-A Tuesday morning. The bench is wooden, a little damp from the night's dew, and the sandbox ten yards away is still in shadow where the hedge has not yet let the sun through. Her daughter is five and has the particular focus of a child who has decided that a plastic shovel is the most important object in the world. The shovel hits the sand with the soft small sound of a small thing striking sand. She watches her daughter. She has a coffee in a paper cup that has gone slightly cool. She has earbuds in. She is on the second day of using the app.
+A Tuesday morning. The bench is wooden, a little damp from the night's dew, and the sandbox ten yards away is still in shadow where the hedge has not yet let the sun through. Her daughter is five and is not alone. There are two other children at the sandbox — an older boy, perhaps seven, who has the small yellow shovel; a smaller child, perhaps three, who is reaching for it; and her own daughter, who is watching the older boy with the grave attention five-year-olds give to questions of distribution.
+
+She watches the children. The older boy holds the shovel for a moment longer than the smaller one finds tolerable. There is a brief flare. A small voice rises. The older boy concedes — not completely, but enough — and the shovel passes to the smaller child for a duration that is then renegotiated again, because the boy has not relinquished his interest, and because her daughter, watching, has now decided she also wants a turn. Within ninety seconds a new arrangement has formed in the sand. It will dissolve in another ninety seconds. The arrangement is not a solution. The arrangement is the practice. The children do not yet have the word for what they are doing. Their bodies have been doing it since they could reach for objects. They are negotiating their right size in the field of one another. The shovel is the medium. The morning is the medium. The presence of the mothers on the benches is the medium.
+
+She has a coffee in a paper cup that has gone slightly cool. She has earbuds in. She is on the second day of using the app.
 
 The app is simple. It offers one of one hundred and twelve contemplative practices from a tradition she has known about for perhaps three months and does not yet understand. The voice in her ears is a man's voice, even, unhurried, reading a passage from a book she has not yet finished. The passage is about consciousness. Not the everyday use of the word — the are-you-awake-are-you-asleep sense — but a use she has not encountered with this precision before. The passage describes a kind of Consciousness, with a capital C, that is simultaneously beyond every particular layer of the self and also pervading every particular layer of the self. Transcendent. Immanent. At the same time.
 
-She is not a stranger to these words. She has read enough to know them. But the sentence that arrives in her ears as her daughter digs a small hole in the sand is not a definition. It is a description of something the speaker is claiming is already the case. Not a thing you reach. Not a thing you construct. A thing that is already pervading the listener, pervading the speaker, pervading the hedge, pervading the shovel, pervading the daughter, pervading the morning.
+She is not a stranger to these words. She has read enough to know them. But the sentence that arrives in her ears as her daughter takes her turn with the small yellow shovel is not a definition. It is a description of something the speaker is claiming is already the case. Not a thing you reach. Not a thing you construct. A thing that is already pervading the listener, pervading the speaker, pervading the hedge, pervading the shovel, pervading the daughter, pervading the older boy, pervading the smaller child, pervading the morning.
 
 Something in her says *yes* before she knows what she is saying yes to.
 
 The *yes* is not a thought. It does not arrive with reasons. It is closer to what happens when a body that has been holding one posture for a long time is invited, without warning, into a different one — a subtle release in some part of her chest she had not known was clenched. The *yes* precedes any doctrine. The *yes* is older than the words that might try to catch it.
 
 Her daughter looks up from the sandbox and, seeing her mother watching her, smiles. The smile is for nothing. It is just the smile of a five-year-old who has seen her mother's face and is glad. The mother smiles back. The voice in her ears moves on to the next sentence. She does not remember what the next sentence is. She is still with the *yes*.
+
+---
+
+## I.a. The Right Size
+
+The line that comes to her as she sits with the *yes* is one she has carried for years and cannot any longer trace to its source. She thinks she encountered it during a year she had spent helping with a book about Cildo Meireles, the Brazilian artist whose work has, since her twenties, been a quiet companion. The line was somewhere in that work. She does not remember whose voice it was — the artist's, a critic's, a curator's, possibly even her own marginal note. The provenance no longer matters. What matters is what his work, sitting in her body for the time it took to make a book around it, eventually rooted in her:
+
+*The object of a human life is to find its right size.*
+
+She watches the sandbox again. The right size of the small yellow shovel is the size that lets one hand close around it. The right size of her daughter is the size her daughter is. The right size of the older boy in relation to the smaller child is what they are working out, this morning, on the sand. The right size is not a property any one of them owns. It is a relation in continual renegotiation, body against body, intention against intention, with the small yellow shovel between them as the visible medium of the negotiation.
+
+A man whose name she will learn later — the teacher whose voice is in her ears now — will, much later in her practice, use the word *negotiation* to describe what is and is not modern about the work of being in relationships. Pre-modern cultures, he will say, did not negotiate; they had assigned positions, mostly by gender. The work of negotiating boundaries and needs is what arises when the assigned positions dissolve and a person is left in a field of other persons, each entitled to different needs, each entitled to a different boundary, each entitled to be a different size from any size another person has decided for them. Negotiation, in this register, is the modern practice. It is harder than the old roles. It is also more honest.
+
+She does not know any of this yet, in the playground. She knows only that the children at the sandbox are doing something she will spend the next decade trying to learn how to do herself.
+
+The *yes* in her chest, she realizes years later, was a *yes* to that as much as to anything else. A *yes* to the proposition that the right size of a life is what bodies work out together in the field, and that the field is, on her tradition's claim, already the kind of consciousness the voice in her ears was describing.
 
 ---
 

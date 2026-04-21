@@ -264,6 +264,10 @@ I want to show, rather than tell, one more thing before I close. It is part of t
 
 I drew three cards, at my desk, from the thirty-six-tattva deck I built on the platform. The deck is one of the grammars that lives there. It is constructed — I built it from Hareesh's public teaching, from the Pratyabhijñā map that the tattvas name — and its being constructed is not a secret. The Neighborhood of Make-Believe is visible. The trolley is unhidden. A three-card spread on that deck treats the tattvas as vantage points a question can be seen from; it does not pretend to be divination. It is a structured way of asking the field to show a question to itself.
 
+I want to say plainly what this reading is and is not, so the reader has the right shape for it. It is *my* contemplation, drawn from a deck *I* built. It is not Hareesh speaking. It is not a teaching from him. The model that generated the AI commentary on the cards does retrieve from his corpus — that is how I built it — but the reading that came back is what came back when I sat with the cards on a specific evening, asking a specific question, with a system I made for my own practice. The same way a long-time student of a teacher might draw cards and notice the teacher's voice within her own thinking — the teacher has not given the reading; the student has internalized enough to hear the teacher within her own contemplation. The reading below is the second kind of thing.
+
+The asking about the system itself remains open. I have not been told no on this new form of the tool. The first form of the tool he declined; this one he has not engaged with in either direction. I am not, in including the reading here, treating his silence as consent. I am noting that the silence is the current state of the asking, and that the asking continues.
+
 The question I brought was: *as I prepare to send this book to Hareesh and consider publishing and selling it on Amazon, what is the right posture to hold toward his permission, his silence, or his eventual reply? What does the field ask of me in the act of sending?*
 
 The cards came up:
@@ -288,38 +292,15 @@ I am aware of how this might read. A tarot interpretation, produced by a large l
 
 What I will say is this. The cards did not tell me what Hareesh would say. They told me what I was doing while I waited. I was treating his reply as the thing that would complete the work. The work was already complete. The sending was an act of composting — *release the outcome before you send, not as bypass but as genuine composting of the belief that his reply completes the act*. The reading said it more clearly than I could have said it to myself.
 
-I do not know whether Hareesh will like the book. I do not know whether he will read it. I do not know whether he will grant permission or withhold it or, in the manner of his decline on the earlier tool, do neither but *notice*, in a careful message, that he would have preferred I not. I have made peace with each of those outcomes. The sending is the practice. The reply, if it comes, is another instance.
+I do not know whether Hareesh will like the book. I do not know whether he will read it. I do not know whether he will grant permission or withhold it or, in the manner of his current silence on the new tool, leave my asking open with no answer in either direction. I have made peace with each of those outcomes. The sending is the practice. The reply, if it comes, is another instance. The continued silence, if it continues, is also the practice.
 
-I am going to keep the envelope on the desk for one more night. Then I am going to send it in the morning. Then I am going to do the dishes.
-
----
-
-There is a song I wrote for my daughter, a year or two ago, after a day that went badly in a small street-level way — a truck came too soon, a pile of things we had meant to give away went instead to a crushing place, and she screamed down the block after it until the driver stopped, though by then there was nothing he could do. We sat on the curb together. I could not fix what had happened. I could only hold her.
-
-I wrote the song to try to find a shape for what had happened. The shape is not an argument. The shape is a refrain. I have been singing it to her for long enough that it has become, in its small way, what I mean when I mean *practice*.
-
-> *The crash, the crush, that awful sound —*
-> *it planted something in the ground.*
-> *And what grew up between the cracks*
-> *is this: a song that loves you back.*
-
-I put the stanza here, at the end, because the book is trying to say the same thing in longer words. The crash is real. The crush is real. The ground receives what lands in it. The cracks are not where the story ends; the cracks are where the different growth becomes possible. What grows through the cracks is often small and unshowy. A song for a child. A book that took too long. A tool that was made quieter and not abandoned. A yes to Arjuna's question that sounds, in translation, like a kitchen and a laptop and a daughter's breath through a monitor at eleven at night.
-
-I am not sure, writing this, whether the song or the book is the better answer. I suspect neither of them is the answer. Both of them are the practice the answer required me to do in order to keep being a person who was still asking the question.
+I am going to keep the envelope on the desk for one more night. Then I am going to send it in the morning.
 
 ---
-
-The daughter will wake in six hours. She will come to our bed. She will smell the way she always smells in the morning — a smell I will miss, in twenty years, more than any other smell. I will get up with her. I will make breakfast. I will do the dishes. I will feel the warm water, and the thick base of the mug my mother-in-law gave us, and the faint lavender of the soap. I will do the practice that is available at that moment, which is the practice of being in the room with the person who is in the room with me.
-
-The book ends here. The practice does not.
 
 A few years ago I had completed a study I did not publish. I was afraid of being foolish. I kept the study in a drawer. I have let the drawer sit for a long time. The drawer is closed. That study is not this one. I am publishing this one. It is the less complete of the two, in some ways, and the more honest in others. I am publishing it because the drawer was a version of the mandala of curses, and the publishing is a version of the mandala of blessings, and I have learned, finally, which side I want to be on.
 
-If you are reading this — if the book found you, or you found the book — I hope something in it has been of use. I hope the filter will hold for you. I hope you will apply it to me. I hope you will apply it to yourself. I hope the whole you are moving through will, in small moments, feel close to what has been moving through me while I wrote.
-
-That is all.
-
-Good night.
+The chapter ends here. The next two chapters — on composting, and on the right size — are the operative content the writing desk has been working toward. If you have come this far, the rest is short. The work the rest is naming is the work I am still doing, and will be doing for as long as I am able.
 
 ---
 
