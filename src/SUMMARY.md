@@ -95,7 +95,7 @@
 
 ---
 
-# The Axiom Beneath the Ground (v5 — latest)
+# The Axiom Beneath the Ground: The Alignment Void (v5 — latest)
 
 - [Author's Note](axiom-v5/ch00-authors-note.md)
 - [Prelude: The First Encounter](axiom-v5/ch00a-prelude-first-encounter.md)
