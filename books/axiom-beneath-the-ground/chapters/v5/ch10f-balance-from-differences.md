@@ -2,7 +2,9 @@
 
 ---
 
-Balance does not come from sameness. Balance comes from the coordination of differences.
+Balance does not come from sameness. Balance comes from the coordination of differences.[^raworth-daly]
+
+[^raworth-daly]: Kate Raworth names this at the civilizational scale in *Doughnut Economics* (2017): an economy is healthy when it stays above a social foundation (no one falls into deprivation) and below an ecological ceiling (no planetary boundary crossed). The space between is the doughnut — the specific range within which both adequacy and sustainability are possible. Growth as such is not the goal; staying inside the doughnut is. Amartya Sen had articulated an adjacent version in *Development as Freedom* (1999): the measure of a good life is not utility or income but *capabilities* — what people are actually able to do and to be. Herman Daly's *Beyond Growth* (1996) and *Steady-State Economics* (1977) had added the ecological ceiling as a hard constraint, not an externality. The cellular argument that follows in this chapter is, on the doughnut frame, a description of what happens inside the organism when that coordination works at the level of tissue. Balance from differences, within bounds, is the doughnut's operational requirement.
 
 The economic models that assumed it did — that equilibrium required identical rational agents — were computational shortcuts mistaken for reality. When computers caught up, the shortcut was no longer necessary. Complexity economists began simulating heterogeneous agents and finding equilibria the old closed-form solutions could not reach. Biology had been saying this since Darwin. The Kashmir Śaiva tradition had been saying it in the vocabulary of the thirty-six *tattvas* since the eleventh century. The Ifá system had been saying it longer. The insight was actively forgotten by a civilization that modeled itself as a population of identical atoms, for computational reasons, and then kept modeling itself that way out of habit.
 

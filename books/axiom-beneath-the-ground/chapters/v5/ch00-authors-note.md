@@ -28,6 +28,8 @@ Readers who want the verifiable layer will find, across the book, specific actio
 
 The book engages living traditions and living teachers. It quotes sparingly and attributes directly. Any passage of substantial length from a copyrighted source is cited under fair-use principles for commentary, and can be removed or paraphrased on request.
 
+One lineage acknowledgment the reader may find useful. The economic register of this book — the critique of methodological individualism, the use of shadow-prices, the immune-system framing of commons governance, the distinction between markets and platforms, the built-alternatives theory of change — sits inside a mature heterodox tradition whose specific contributions are acknowledged in footnotes across Part V. The tradition I am drawing on, without having consciously set out to, is: Amartya Sen on capabilities, Elinor Ostrom on commons, W. Brian Arthur and Alan Kirman on complexity, Kate Raworth on doughnut bounds, Herman Daly on ecological ceilings, Albert O. Hirschman on exit and voice, Mariana Mazzucato on mission economy, Duncan Foley on the ideological history of methodological individualism. I did not plan to arrive at this tradition. I arrived at it from another direction — equity analysis, a contemplative practice, a book about AI — and then found them already there. That arriving counts as evidence, in the three-tradition logic the book develops later.
+
 ---
 
 *CC BY-SA 4.0*
