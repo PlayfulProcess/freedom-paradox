@@ -1,0 +1,62 @@
+{
+  "book": "The Axiom Beneath the Ground: The Alignment Void",
+  "version": "v5",
+  "source": "gTTS (Google Translate TTS)",
+  "note": "First 9 of 27 chapters — rest pending (rate-limit hit). Quality is decent-not-great TTS; author may redo with ElevenLabs or Gemini for final.",
+  "chapters": [
+    {
+      "id": "ch00-authors-note",
+      "label": "Author's Note",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch00-authors-note.mp3",
+      "size_mb": 2.3
+    },
+    {
+      "id": "ch00a-prelude-first-encounter",
+      "label": "Prelude: The First Encounter",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch00a-prelude-first-encounter.mp3",
+      "size_mb": 6.4
+    },
+    {
+      "id": "ch00b-prelude-lilac-dance",
+      "label": "Prelude: The Lilac Dance",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch00b-prelude-lilac-dance.mp3",
+      "size_mb": 8.0
+    },
+    {
+      "id": "ch01-playground",
+      "label": "Chapter 1: Playground",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch01-playground.mp3",
+      "size_mb": 16.0
+    },
+    {
+      "id": "ch01a-interlude-the-cracks",
+      "label": "Interlude: The Cracks",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch01a-interlude-the-cracks.mp3",
+      "size_mb": 2.8
+    },
+    {
+      "id": "ch02-deha",
+      "label": "Chapter 2: Deha",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch02-deha.mp3",
+      "size_mb": 3.9
+    },
+    {
+      "id": "ch03-citta",
+      "label": "Chapter 3: Citta",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch03-citta.mp3",
+      "size_mb": 16.7
+    },
+    {
+      "id": "ch04-prana",
+      "label": "Chapter 4: Prāṇa",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch04-prana.mp3",
+      "size_mb": 5.4
+    },
+    {
+      "id": "ch04a-the-threshold",
+      "label": "Chapter 4a: The Threshold",
+      "url": "https://pub-71ebbc217e6247ecacb85126a6616699.r2.dev/audiobook/axiom-v5/ch04a-the-threshold.mp3",
+      "size_mb": 9.2
+    }
+  ]
+}

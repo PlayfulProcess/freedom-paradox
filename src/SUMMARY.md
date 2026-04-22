@@ -115,6 +115,7 @@
 - [Vāstu Returning](axiom-v5/ch10-vastu-returning.md)
 - [The Sacred Fire, the Four Orthogonalities](axiom-v5/ch10a-four-orthogonalities.md)
 - [The AI Mirror](axiom-v5/ch10b-the-ai-mirror.md)
+- [The Shadow-Price of Consciousness](axiom-v5/ch10b1-the-shadow-price-of-consciousness.md)
 - [Structure, Not Event](axiom-v5/ch10e-what-intelligence-was-never-doing.md)
 - [The Dance, Not the Human Dance](axiom-v5/ch10c-the-dance-not-the-human-dance.md)
 - [The Constructive Half](axiom-v5/ch10d-the-constructive-half.md)
