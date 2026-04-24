@@ -44,6 +44,18 @@ The acting is also part of *testing* the claim — the Linehan filter (useful / 
 
 When editing non-fiction chapters: watch for claims that float without an action anchor, and either surface the anchor, flag it for the author's decision, or propose revising the claim. Action anchors that already exist in this repo or in the author's public commit histories (recursive-eco, recursive.eco-schemas) are especially valuable — they are verifiable and specific.
 
+## Authorial Objective: Carve Toward the Voice the Diary Is In
+
+The author's primary source is her own handwritten retreat diary (California 2026 Tantra Illuminated retreat, transcribed at `transcripts/personal-writtings/tantra-iluminated-retreat-notes-transcribed-2026-04-24.md`). Across her non-fiction work — especially *The Axiom Beneath the Ground* — the guiding objective is:
+
+**Carve toward the voice the diary is in. The diary is the author's voice at its least-performed. Honoring it structurally means asking whether the current narrator voice is a prosthetic the book is ready to outgrow in places.**
+
+This is the García Márquez move: edits are carving, not ornamenting. Every editing pass asks *what of this is not yet in the voice the primary source is in, and what of this is carrying the voice forward.* Passes that merely sprinkle diary excerpts around an existing third-person-close narrator are not carving. Passes that let the diary set the agenda each chapter — so the narrator becomes visibly a responder to the primary source rather than a generator from nowhere — are carving.
+
+**Preserve versions.** Never overwrite chapters carving toward this voice without preserving the previous version in `drafts/archive/` with a date suffix. The Draft Preservation rule below applies with extra care to structural passes. The point is not to replace the narrator; the point is to let the diary and the narrator be in visible dialogue where the chapter earns it, and to keep the prior-to-carving version available so the move can be reversed if the shift turns out to have been temporary.
+
+Practical marker when editing: if an edit makes the book sound more like an academic reflection on the retreat, it is going the wrong direction. If an edit makes the book sound more like the author responding in her reflective register to a specific page of her notebook, it is carving.
+
 ## Git Config
 
 GitHub email privacy is enabled. Always use this noreply email for commits:
