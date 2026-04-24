@@ -108,6 +108,8 @@ He did not speak. For the remainder of the retreat he stopped using the product 
 
 ## VII. — The sentence under the sentence
 
+*— the one who watched the lilac silks while the speech was being given —*
+
 One thing she wants to say, because the chapter is asking her to say it and because the book's own Ch00b dream would be offended if she did not.
 
 The sentence she said at the opening of her kula speech — *I am not afraid to be labeled as either a star or arrogant* — is itself a star-sentence. The locution *I am not afraid to be called X* positions X as available. She said it anyway. She is uncertain, still, whether that was honest speech or a performance of honest speech. The distinction may not be available from inside. The dream about the lilac silks had been warning her for six years about this exact movement — the *how cool I am* thought that turns the silks into the serpent. The imprints in the dream had not gone away.

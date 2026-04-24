@@ -50,6 +50,10 @@ The pun is English-Portuguese and imperfect and she likes it anyway. *Repair* �
 
 Not purity. Not dogma. Not even synthesis, exactly. *Re-pair.* The container that holds long enough for the pairing to produce the next thing.
 
+*— the one who is writing in English about a Brazilian tradition —*
+
+The Brazilian in her wants to say one thing the narrator has been managing around. The book is in English. *Re-pair* is a pun that only works in English-Portuguese, and the readers it most addresses — the Brazilian readers, the practitioners at Figueira, the people who use the word *miração* without translating it — will not be the readers who buy the book. The book is being written for an English-speaking readership in a category the Brazilian tradition would not have produced on its own. That is a cost. The narrator can name the cost. The narrator cannot eliminate it. The Brazilian in her does not let the narrator pretend otherwise. The book is in English. The decision to write in English was a decision. The decision had a cost. The cost is real and continues. *Re-pair*, even named precisely, is a word made portable by the very language it is critiquing.
+
 ## V.
 
 She is writing this close to a meeting with a teacher in a Brazilian ayahuasca lineage who has been quietly practicing some version of this distinction for longer than she has known it had a name. She will test the frame in the room with that teacher, and she will see what the body in the room says back. If the frame survives the test, she will keep it. If it shifts, she will let it shift. The book is not the place the test happens. The book is the place the result is reported, once it has been tested by the only instrument that can test it, which is another body in another room.
