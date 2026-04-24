@@ -35,5 +35,5 @@
 
 7. **Where to cite Hao** in each of the Axiom essays:
    - *Hope is Process*: View 3 (race-as-symptom) and View 4 (Yudkowsky/Pentagon). Quote the "inevitability was a choice" and the AGI-as-rhetoric passages.
-   - *Wallis essay*: Not a primary citation; she's out-of-frame for that conversation.
+   - *[T] essay*: Not a primary citation; she's out-of-frame for that conversation.
    - *Freedom Paradox opener*: This is where she is most useful as evidence-base; pair with Steinberger/OpenClaw and the personal $25k story.

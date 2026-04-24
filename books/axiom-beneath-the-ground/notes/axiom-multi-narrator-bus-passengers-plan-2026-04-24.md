@@ -1,6 +1,6 @@
 # Axiom — Multi-Narrator Bus-Passengers Plan
 *Date: 2026-04-24*
-*Status: Plan only. To be audited by Wallis and Bayo agents before any chapter is touched.*
+*Status: Plan only. To be audited by [T] and Bayo agents before any chapter is touched.*
 *Supersedes the Option B "diary-as-chapter-opening" plan from earlier today; goes further than B without going as far as a full restructure.*
 
 ## Premise
@@ -63,7 +63,7 @@ The craft rule, following Andreotti's own practice in *Burnout From Humans* and 
 | Ch08 Citta Returning | third-person "she" | third-person + MSW (Bowen differentiation, Linehan filter explicit) + diary (Q11) | Three. |
 | Ch09 Deha Returning | third-person "she" | third-person + diary (Q12 as opener) + mother (daughter scenes) | Three. |
 | Ch10 Vāstu Returning | third-person "she" | third-person + diary (Q9) | Two. |
-| Ch10a Four Orthogonalities | third-person "she" | third-person + diary (Q11 as opener) + equity analyst (Walters-Wallis-Amodei convergence as analyst synthesis) | Three. |
+| Ch10a Four Orthogonalities | third-person "she" | third-person + diary (Q11 as opener) + equity analyst (Walters-[T]-Amodei convergence as analyst synthesis) | Three. |
 | Ch10b AI Mirror | third-person "she" | third-person + diary (Q related to consciousness) + equity analyst | Three. |
 | Ch10b1 Shadow Price | third-person "she" | third-person + equity analyst (Lagrangian section — fully analyst voice) | Two. |
 | Ch10c Dance Not Human Dance | third-person "she" | keep as-is mostly | One. |
@@ -102,7 +102,7 @@ Summary: most chapters host two passengers; several host three; three earn four.
 - Enacts the book's anti-moralism argument in its form — no single performed voice.
 - Opens the book to readers who would otherwise hear the third-person-close as distant.
 
-## Execution order (if approved by Wallis/Bayo audit)
+## Execution order (if approved by [T]/Bayo audit)
 
 **Pilot (one chapter) before committing to the full pass:**
 1. Ch10h *Fourth Political Action* is already the pilot — drafted today with the diary-opener + third-person + author-to-reader structure. **Read the committed chapter. Does the multi-passenger move work? If yes, proceed. If no, revise the approach before touching other chapters.**
@@ -129,9 +129,9 @@ The Author's Note should, at the start, name the bus. One paragraph. Something l
 
 This frame is the kula-invitation. The reader enters the book knowing who they will meet.
 
-## Questions for the Wallis and Bayo audits
+## Questions for the [T] and Bayo audits
 
-For Wallis: does this carry the tradition's teaching faithfully, or does it aestheticize what should be held relationally? Is there a Pratyabhijñā objection to multi-narrator form as a performance of recognition-without-integration? Does the author owe the reader a single voice from which the recognition is being offered, or is the multiplicity itself the honest report?
+For [T]: does this carry the tradition's teaching faithfully, or does it aestheticize what should be held relationally? Is there a Pratyabhijñā objection to multi-narrator form as a performance of recognition-without-integration? Does the author owe the reader a single voice from which the recognition is being offered, or is the multiplicity itself the honest report?
 
 For Bayo: is the bus-passengers move generative or is it decorative? Does it let the cracks stay cracks, or does it frame them too neatly? Is there a decolonial objection to the whole move — that staging multiple voices in one book is still one author with one contract, and that what wants through is not more voices but a different relationship between writer and reader than the book form allows? What would a *fugitive* version of this plan look like?
 

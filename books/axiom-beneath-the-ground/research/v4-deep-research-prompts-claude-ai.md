@@ -24,16 +24,16 @@ No substantial verbatim passages from copyrighted works in any saved file. Parap
 **Save output as:** `books/axiom-beneath-the-ground/research/research-21-ti-cit-transcendent-immanent.md`
 
 ```
-I'm researching a passage in Christopher Wallis's book *Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition* (2nd edition, Mattamayura Press, 2013). The passage describes Cit (or samvit) — core Consciousness — as absolute, nondual, nonlocal, "beyond all other layers yet pervading them," and as simultaneously transcendent and immanent. It appears near a diagram of concentric layers labeled Vastu, Deha, Citta, Prāṇa, Shunya, Cit.
+I'm researching a passage in [T]'s book *Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition* (2nd edition, Mattamayura Press, 2013). The passage describes Cit (or samvit) — core Consciousness — as absolute, nondual, nonlocal, "beyond all other layers yet pervading them," and as simultaneously transcendent and immanent. It appears near a diagram of concentric layers labeled Vastu, Deha, Citta, Prāṇa, Shunya, Cit.
 
 I need a citation-grade research note (500–1,500 words) for my book project. Please find:
 
 1. The chapter and approximate page range of this passage in the 2nd edition.
 2. The surrounding context — what topic is the chapter on, what comes before and after.
-3. Wallis's precise framing of the transcendent/immanent simultaneity, paraphrased accurately.
+3. [T]'s precise framing of the transcendent/immanent simultaneity, paraphrased accurately.
 4. Related passages in the same book on the layered map of the self (Vastu, Deha, Citta, Prāṇa, Shunya, Cit) — where each layer is defined.
 5. The figure number and caption of the concentric-layers diagram.
-6. Any cross-references Wallis makes to other texts (Śiva Sūtras, Vijñāna-bhairava-tantra, Pratyabhijñā-hṛdayam, etc.) on the same theme.
+6. Any cross-references [T] makes to other texts (Śiva Sūtras, Vijñāna-bhairava-tantra, Pratyabhijñā-hṛdayam, etc.) on the same theme.
 
 **Copyright rule:** Do not reproduce the passage verbatim. Paraphrase its content. If the exact wording is argumentatively essential, quote no more than 30 words with full citation. Record page numbers for later citation use.
 
@@ -56,16 +56,16 @@ Flag anything you cannot confirm with `[RESEARCH NEEDED: specific question]` rat
 **Save output as:** `books/axiom-beneath-the-ground/research/research-22-ti-svatantrya-freedom.md`
 
 ```
-I'm researching the concept of svātantrya — autonomy, freedom — as it appears in Christopher Wallis's *Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition* (2nd edition, Mattamayura Press, 2013). One formulation I've encountered: consciousness operates its five powers "as an expression of its innate freedom and total autonomy" (approximately page 105). The concept is central to the nondual Shaiva Tantra tradition Wallis teaches.
+I'm researching the concept of svātantrya — autonomy, freedom — as it appears in [T]'s *Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition* (2nd edition, Mattamayura Press, 2013). One formulation I've encountered: consciousness operates its five powers "as an expression of its innate freedom and total autonomy" (approximately page 105). The concept is central to the nondual Shaiva Tantra tradition [T] teaches.
 
 I need a citation-grade research note (500–1,500 words). Please find:
 
 1. Every place in *Tantra Illuminated* where svātantrya is defined, discussed, or invoked — with chapter and page numbers.
-2. Wallis's definition of svātantrya, paraphrased accurately.
-3. The distinction Wallis draws (explicitly or implicitly) between freedom as an attribute of the whole field of consciousness versus freedom as a property of individual persons or parts.
+2. [T]'s definition of svātantrya, paraphrased accurately.
+3. The distinction [T] draws (explicitly or implicitly) between freedom as an attribute of the whole field of consciousness versus freedom as a property of individual persons or parts.
 4. The relationship between svātantrya and the five powers of Consciousness (cit, ānanda, icchā, jñāna, kriyā).
-5. Cross-references to the *Pratyabhijñā-hṛdayam* (Sutras of Recognition) on the same theme, if Wallis cites them.
-6. Any passages where Wallis explicitly distinguishes this tradition's conception of freedom from Western notions of personal free will (Sam Harris determinism, Catholic free-will theology, libertarian free will).
+5. Cross-references to the *Pratyabhijñā-hṛdayam* (Sutras of Recognition) on the same theme, if [T] cites them.
+6. Any passages where [T] explicitly distinguishes this tradition's conception of freedom from Western notions of personal free will (Sam Harris determinism, Catholic free-will theology, libertarian free will).
 
 **Copyright rule:** Paraphrase. Brief fair-use quotations (≤30 words) only when essential, with full citation. No fabricated page numbers.
 
@@ -76,7 +76,7 @@ I need a citation-grade research note (500–1,500 words). Please find:
 - Section 3: svātantrya and the five powers
 - Section 4: Sutras of Recognition cross-references
 - Section 5: distinction from Western free-will debates
-- Section 6: notes for the book's argument — how this grounds the claim that courage (Tillich) and freedom (Wallis) are the same pivot described from opposite directions
+- Section 6: notes for the book's argument — how this grounds the claim that courage (Tillich) and freedom ([T]) are the same pivot described from opposite directions
 
 Flag uncertainty with `[RESEARCH NEEDED: question]`.
 ```

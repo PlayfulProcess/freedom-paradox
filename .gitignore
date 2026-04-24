@@ -32,3 +32,6 @@ reference-books/
 transcripts/
 epub-build/output/
 docs/epubs/*.epub
+
+# Private name mappings — local only, never commit (placeholders in book; mapping kept private)
+**/PRIVATE-name-mapping.md

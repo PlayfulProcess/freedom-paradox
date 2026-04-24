@@ -1,10 +1,10 @@
 # Research 22 — TI: svātantrya as freedom of the whole
 
-**Source:** Christopher D. Wallis (Hareesh), *Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition*, 2nd ed. (Boulder, CO: Mattamayūra Press, 2013).
+**Source:** [T] [T], *Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition*, 2nd ed. (Boulder, CO: Mattamayūra Press, 2013).
 
-**Primary section:** **pp. 101–109, "The Five Powers of God."** Confirmed by Wallis in a 2015 blog post ("The Nature of God: Tantrāloka 1.59–69," hareesh.org), where he directs readers to "The Five Powers of God, pp. 101–9 of *Tantra Illuminated*." The user's earlier locator at ~p. 105 falls inside this range.
+**Primary section:** **pp. 101–109, "The Five Powers of God."** Confirmed by [T] in a 2015 blog post ("The Nature of God: Tantrāloka 1.59–69," hareesh.org), where he directs readers to "The Five Powers of God, pp. 101–9 of *Tantra Illuminated*." The user's earlier locator at ~p. 105 falls inside this range.
 
-**Status:** Page range confirmed via Wallis's own blog cross-reference. The specific formulation "innate freedom (svātantrya-śakti) and total autonomy" is consistent with widely circulated TI paraphrases online. Exact wording and line at p. 105 should be verified against a physical copy before the book's final citation.
+**Status:** Page range confirmed via [T]'s own blog cross-reference. The specific formulation "innate freedom (svātantrya-śakti) and total autonomy" is consistent with widely circulated TI paraphrases online. Exact wording and line at p. 105 should be verified against a physical copy before the book's final citation.
 
 ---
 
@@ -22,9 +22,9 @@ Key TI locations:
 
 ## Section 2 — Freedom-of-whole vs. freedom-of-part (the key distinction)
 
-This is the central distinction for the book's argument, and Wallis is unambiguous on it.
+This is the central distinction for the book's argument, and [T] is unambiguous on it.
 
-In his 2015 two-part blog essay "Do we really have the power of choice?" (hareesh.org, 8 July 2015), Wallis writes that the Tantrik tradition holds individual agency to be a fiction — there is only one agent, one performer of all actions: universal divine Consciousness. In the follow-up post he places svātantrya precisely: the Power of Autonomy is attributed to Awareness, not to mind or body.
+In his 2015 two-part blog essay "Do we really have the power of choice?" (hareesh.org, 8 July 2015), [T] writes that the Tantrik tradition holds individual agency to be a fiction — there is only one agent, one performer of all actions: universal divine Consciousness. In the follow-up post he places svātantrya precisely: the Power of Autonomy is attributed to Awareness, not to mind or body.
 
 His translation of Abhinavagupta's *Tantrāloka* 1.67–68 (hareesh.org) makes the ontological structure explicit: Śiva possesses fundamentally only one quality — svātantrya-śakti — and is united exclusively with the Power of Autonomy; all other attributes are implied by this one.
 
@@ -39,42 +39,42 @@ The Five Powers of Consciousness are:
 - *jñāna* — Knowing, the Power of cognition
 - *kriyā* — Action, the Power of manifestation
 
-Wallis's argument, drawing on Abhinavagupta (TĀ 1.69): the power of any entity is its singular innate nature as conceived variously by its perceivers — unitary in itself, multiple in how it is understood. The Five Powers are the *operations*; svātantrya is the *operativity* — the one self-determining nature of which the five are aspects, not components.
+[T]'s argument, drawing on Abhinavagupta (TĀ 1.69): the power of any entity is its singular innate nature as conceived variously by its perceivers — unitary in itself, multiple in how it is understood. The Five Powers are the *operations*; svātantrya is the *operativity* — the one self-determining nature of which the five are aspects, not components.
 
 This is precisely the **freedom-of-whole / freedom-of-part distinction the book's argument requires.** The narrator's realization — that freedom is not a property she owns but a field she moves through — is the Pratyabhijñā tradition's foundational claim, translated into first-person experience.
 
 ## Section 4 — Sutras of Recognition cross-references
 
-**Pratyabhijñā-hṛdayam, Sūtra 1** (Kṣemarāja, 11th c.), translated by Wallis:
+**Pratyabhijñā-hṛdayam, Sūtra 1** (Kṣemarāja, 11th c.), translated by [T]:
 > ***citiḥ svatantrā viśva-siddhi-hetuḥ***
 > "Awareness, free and independent, is the cause of the performance of everything."
 
 The grammatical structure is decisive: *citi* (Consciousness as a whole) is the subject; *svatantrā* is its defining adjective; the universe (*viśva*) is its *siddhi*, its accomplishment. The sūtra is the textual root of the freedom-of-the-whole reading.
 
-Wallis's full translation and commentary is published as *The Recognition Sūtras: Illuminating a 1,000-Year-Old Spiritual Masterpiece* (Mattamayūra Press, 2017). In his commentary on Sūtra 9 ("How to Be Happy," hareesh.org, 15 Sept 2016), he extends the logic to bondage: the Power of Will, whose nature is unimpeded freedom and spontaneity, in contracted form becomes the impurity of individuality — the state where one experiences oneself as incomplete. **Limitation is svātantrya self-contracted; liberation is svātantrya recognizing itself.**
+[T]'s full translation and commentary is published as *The Recognition Sūtras: Illuminating a 1,000-Year-Old Spiritual Masterpiece* (Mattamayūra Press, 2017). In his commentary on Sūtra 9 ("How to Be Happy," hareesh.org, 15 Sept 2016), he extends the logic to bondage: the Power of Will, whose nature is unimpeded freedom and spontaneity, in contracted form becomes the impurity of individuality — the state where one experiences oneself as incomplete. **Limitation is svātantrya self-contracted; liberation is svātantrya recognizing itself.**
 
 This is the Pratyabhijñā framework the book's Ch8 ("the problem of destruction") will draw on: hoarding, acting-as-if-separate, mistaking the part for the whole — these are svātantrya self-occluded. The mandala of blessings is svātantrya recognizing itself through relation.
 
 ## Section 5 — Distinction from Western free-will debates
 
-Wallis has engaged the Western debate directly and by name. In "Do we really have the power of choice?" Parts One and Two (hareesh.org, 8 July 2015), he names **Sam Harris's *Free Will*** and the neuroscience of Ezequiel Morsella as his interlocutors.
+[T] has engaged the Western debate directly and by name. In "Do we really have the power of choice?" Parts One and Two (hareesh.org, 8 July 2015), he names **Sam Harris's *Free Will*** and the neuroscience of Ezequiel Morsella as his interlocutors.
 
 His position is structurally different from both libertarian free will and Harris-style hard determinism:
 
 - **On the body-mind level**, the jīva has no libertarian free will. Conditioned reaction to stimuli is a decent description of the mechanism. Harris is broadly right at that level.
 - **On the Awareness level**, svātantrya is the one nature. The awakened practitioner experiences the Power of Autonomy as the essence of being — and yet, precisely because this Autonomy is the field rather than the ego, she does not experience herself as "having choices" in the libertarian sense either.
 
-Closer to Spinoza's *libertas* than to Catholic libertarian doctrine, but different from both: Spinoza's freedom is the adequate causation of the self-caused; svātantrya is the one self-determining field expressing itself through every apparent part. It is incompatible with the shared Harris/Catholic assumption that the question is whether *the individual* is or is not free. The question, in Wallis's frame, is whether the individual recognizes that the freedom they were asking about has been operating them all along.
+Closer to Spinoza's *libertas* than to Catholic libertarian doctrine, but different from both: Spinoza's freedom is the adequate causation of the self-caused; svātantrya is the one self-determining field expressing itself through every apparent part. It is incompatible with the shared Harris/Catholic assumption that the question is whether *the individual* is or is not free. The question, in [T]'s frame, is whether the individual recognizes that the freedom they were asking about has been operating them all along.
 
-**For the book:** the narrator's reading year (Ch1) can plausibly include Wallis's 2015 blog essay as one of the things that compels her toward the retreat. Her earlier line about not choosing between Sam Harris's determinism and the Catholic frame is not a stray intuition — it reflects a position her teacher has published on. The Ch3 Tillich/Linehan chapter can footnote this publicly available counter-position, grounding the book's claim that the tradition offers a third posture rather than a compromise.
+**For the book:** the narrator's reading year (Ch1) can plausibly include [T]'s 2015 blog essay as one of the things that compels her toward the retreat. Her earlier line about not choosing between Sam Harris's determinism and the Catholic frame is not a stray intuition — it reflects a position her teacher has published on. The Ch3 Tillich/Linehan chapter can footnote this publicly available counter-position, grounding the book's claim that the tradition offers a third posture rather than a compromise.
 
-`[RESEARCH NEEDED: confirm whether Wallis engages Catholic theology or compatibilism by name anywhere in TI itself; the explicit Harris engagement appears in the 2015 blog, not in TI per se, in searchable sources.]`
+`[RESEARCH NEEDED: confirm whether [T] engages Catholic theology or compatibilism by name anywhere in TI itself; the explicit Harris engagement appears in the 2015 blog, not in TI per se, in searchable sources.]`
 
 ## Section 6 — Svātantrya and spanda
 
 In the Pratyabhijñā / Spanda synthesis, **spanda is svātantrya in vibratory aspect.** Kṣemarāja's *Spanda-nirṇaya* lists svātantrya, vimarśa, parāśakti, aiśvarya, kartṛtva, sphurattā, sāra, and hṛdaya as synonyms of spanda. The structural identity is direct: **spanda is the pulsating *how* of Consciousness's freedom; svātantrya is the *what*.**
 
-Wallis treats Spanda within TI Part Two (the historical sections on the Nine Sampradāyas and the four Kashmiri schools). His Spanda-kārikā project, listed on tantrailluminated.org, is forthcoming as *The Innate Dynamism of Consciousness*.
+[T] treats Spanda within TI Part Two (the historical sections on the Nine Sampradāyas and the four Kashmiri schools). His Spanda-kārikā project, listed on tantrailluminated.org, is forthcoming as *The Innate Dynamism of Consciousness*.
 
 `[RESEARCH NEEDED: precise TI page references for the Spanda chapter in Part Two — likely ~pp. 270–300.]`
 
@@ -102,10 +102,10 @@ What Tillich approaches asymptotically through the courage-to-be in the face of 
 
 > *Courage is svātantrya owning itself in the dark; svātantrya is courage in the light.*
 
-This is the structural heart of the book's Tillich/Wallis chapter. The researcher's formulation is preserved here as a candidate for prose rather than as a quotation requiring citation — the insight is synthetic, built from the textual evidence, not owed to any single source. The book will use it as its own.
+This is the structural heart of the book's Tillich/[T] chapter. The researcher's formulation is preserved here as a candidate for prose rather than as a quotation requiring citation — the insight is synthetic, built from the textual evidence, not owed to any single source. The book will use it as its own.
 
 ---
 
 ## Working footnote (draft)
 
-> Christopher D. Wallis, *Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition*, 2nd ed. (Petaluma, CA: Mattamayūra Press, 2013), pp. 101–109 ("The Five Powers of God"), with the framing of svātantrya as the innate freedom of Consciousness and the containing context of the Five Powers at approximately p. 105; cf. Abhinavagupta, *Tantrāloka* 1.67–69 (trans. Wallis, hareesh.org, 2015) and Kṣemarāja, *Pratyabhijñā-hṛdayam*, sūtra 1 (trans. Wallis in *The Recognition Sūtras*, Mattamayūra Press, 2017). For Wallis's explicit engagement with Sam Harris's *Free Will* and the Western free-will debate, see Wallis, "Do we really have the power of choice?" Parts One and Two, hareesh.org, 8 July 2015.
+> [T], *Tantra Illuminated: The Philosophy, History, and Practice of a Timeless Tradition*, 2nd ed. (Petaluma, CA: Mattamayūra Press, 2013), pp. 101–109 ("The Five Powers of God"), with the framing of svātantrya as the innate freedom of Consciousness and the containing context of the Five Powers at approximately p. 105; cf. Abhinavagupta, *Tantrāloka* 1.67–69 (trans. [T], hareesh.org, 2015) and Kṣemarāja, *Pratyabhijñā-hṛdayam*, sūtra 1 (trans. [T] in *The Recognition Sūtras*, Mattamayūra Press, 2017). For [T]'s explicit engagement with Sam Harris's *Free Will* and the Western free-will debate, see [T], "Do we really have the power of choice?" Parts One and Two, hareesh.org, 8 July 2015.

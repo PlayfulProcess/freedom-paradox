@@ -24,7 +24,7 @@ V3's core moves still stand:
 2. The third-person "she" is the practice of self-observation made visible.
 3. Passages can catch the noticing belatedly or fail to catch at all.
 4. The wiping-act can be shown rather than hidden.
-5. Integration of the Wallis + Bayo audits.
+5. Integration of the [T] + Bayo audits.
 
 What shifts: **the four-shadow-passenger taxonomy becomes offered-examples rather than a fixed list.** The book does not train the reader in *watching for the Aggrandizer.* The book trains the reader in *watching who is driving right now, knowing that whatever name you give the driver will, in the moment of being named, become its own limiting formation.*
 

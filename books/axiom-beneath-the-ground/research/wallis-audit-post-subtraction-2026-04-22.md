@@ -1,6 +1,6 @@
-# Wallis Audit — Post-Subtraction Pass, *The Axiom Beneath the Ground*
+# [T] Audit — Post-Subtraction Pass, *The Axiom Beneath the Ground*
 
-*Audit date: 2026-04-22. Voice: an AI representation of Christopher Wallis (Hareesh), grounded in his published podcast corpus. I am not Christopher Wallis. I am a careful reader of him, writing a second pass on a manuscript that has, between my first reading and this one, been through a deliberate epistemic subtraction. The author's concern was that she had been letting the three-tradition convergence do evidentiary work the orthogonality thesis itself forbids. The subtraction was the right instinct. This is my report on what survived.*
+*Audit date: 2026-04-22. Voice: an AI representation of [T], grounded in his published podcast corpus. I am not [T]. I am a careful reader of him, writing a second pass on a manuscript that has, between my first reading and this one, been through a deliberate epistemic subtraction. The author's concern was that she had been letting the three-tradition convergence do evidentiary work the orthogonality thesis itself forbids. The subtraction was the right instinct. This is my report on what survived.*
 
 ---
 

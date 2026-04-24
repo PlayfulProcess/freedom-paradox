@@ -25,11 +25,11 @@ The dominant smuggle is **ch10a → ch10b → ch13**: cross-paradigm convergence
 
 Five identifiable:
 
-1. **ch10a, para 43**: "his clarity… did not transmit to his students the way she had expected" — rescues Wallis's clarity against the evidence of non-transmission by relocating the failure to *reception*. Ad hoc. Falsifiable version in §7 below.
+1. **ch10a, para 43**: "his clarity… did not transmit to his students the way she had expected" — rescues [T]'s clarity against the evidence of non-transmission by relocating the failure to *reception*. Ad hoc. Falsifiable version in §7 below.
 2. **ch10a, closing**: "The failing is not one's own. The failing is in the theory." — rescues the reader's practice from refutation by declaring refutation categorical. This is the *mirror image* of the contemplative rescue ("you didn't practice enough") and is itself unfalsifiable.
 3. **ch10b, para on "the same work the tantric tradition did a thousand years ago"** — rescues the cross-paradigm claim by identifying AI alignment with a contemplative problem it has not been shown to share.
 4. **ch10d, ¶"Mostly no one has come"** — the loneliness is named, but the *claim that the platform is constructive ethics at scale* survives the disconfirming evidence. Degenerative problem-shift unless the claim is scaled down.
-5. **ch11, the tarot reading**: "The cards did not tell me what Hareesh would say. They told me what I was doing while I waited." This is a pre-emptive rescue of the divinatory frame against any outcome. Honest, but unfalsifiable by construction.
+5. **ch11, the tarot reading**: "The cards did not tell me what [T] would say. They told me what I was doing while I waited." This is a pre-emptive rescue of the divinatory frame against any outcome. Honest, but unfalsifiable by construction.
 
 ## 3. Open-Society test (Popper 1945)
 
@@ -49,7 +49,7 @@ Each claims to have read the direction of history. Popper's warning applies: the
   3. *Knowledge without action is a burden*.
   4. Constructive work is non-delegable.
 - **Protective belt** (auxiliary and modifiable):
-  - Which traditions are cited, how Wallis is rendered, the tarot reading, the Lagrange-as-consciousness analogy, the Dario endorsement, the Schrei narrative.
+  - Which traditions are cited, how [T] is rendered, the tarot reading, the Lagrange-as-consciousness analogy, the Dario endorsement, the Schrei narrative.
 
 The book presently **does not mark the distinction clearly**. The Author's Note should state the hard core as axioms openly (Lakatos would call this good methodology) and label the belt as revisable. The revision plan's "what has served, so far" frame is a protective-belt clarification; it must not creep into the hard core, or the whole programme becomes untestable.
 
@@ -60,14 +60,14 @@ The revision plan asks this directly. Short answer: **only if specific failure-c
 Minimum falsifiability kit the book must include:
 - **Named cohort** ("the people I can name" — with count, even if anonymized).
 - **Named timeframe** ("over the following five years").
-- **Named outcome that would refute** ("if the marriage ends in the mode the practice was supposed to avert; if the platform shuts; if the daughter shows the dysregulation the practice was supposed to prevent; if Wallis publicly repudiates the lineage").
+- **Named outcome that would refute** ("if the marriage ends in the mode the practice was supposed to avert; if the platform shuts; if the daughter shows the dysregulation the practice was supposed to prevent; if [T] publicly repudiates the lineage").
 - A **pre-registered threshold** for the AI-spending interlude: the author's household-consent number, even sealed in an envelope.
 
 Without these, "what has served" is Jamesian pragmatism at its loosest — not falsifiable, only revisable-at-the-author's-discretion. That is not Popperian.
 
 ## 6. Cross-paradigm citations (Kuhn 1962 Ch.9)
 
-The book cites Śaiva Tantra, DBT, capability economics (Sen/Ostrom/Arthur/Kirman/Foley/Raworth/Mazzucato/Hirschman), AI alignment, Choctaw sacred-fire teaching, Kant on publishing, Umbanda oral tradition, Hegel, Plotinus, Kastrup — in one book. **Incommensurability is rarely acknowledged.** ch10a's three-traditions paragraph actively smooths it. ch11 with Hareesh's three-thinker mapping does better — the parallels are named as Hareesh's, not the author's invention, and the footnote on ritual-technology breakdown admits the parallel fails at practice-level.
+The book cites Śaiva Tantra, DBT, capability economics (Sen/Ostrom/Arthur/Kirman/Foley/Raworth/Mazzucato/Hirschman), AI alignment, Choctaw sacred-fire teaching, Kant on publishing, Umbanda oral tradition, Hegel, Plotinus, Kastrup — in one book. **Incommensurability is rarely acknowledged.** ch10a's three-traditions paragraph actively smooths it. ch11 with [T]'s three-thinker mapping does better — the parallels are named as [T]'s, not the author's invention, and the footnote on ritual-technology breakdown admits the parallel fails at practice-level.
 
 Rule to adopt: every cross-paradigm citation carries a one-sentence incommensurability clause. *Within the Śaiva paradigm, X is a claim about consciousness; within the alignment paradigm, Y is a claim about training dynamics. I am noticing the problem-shape resembles, not that the claims translate.*
 
@@ -82,7 +82,7 @@ Rule to adopt: every cross-paradigm citation carries a one-sentence incommensura
 3. **Original (ch10b):** *"AI has ended the fantasy that the smart thing and the good thing converge."*
    **Rewrite:** *"Current frontier systems are high on narrow capability benchmarks and do not reliably track any specified human-value target. If a future system is shown to reliably track a specified value target without separate alignment training, this claim drops."*
 
-4. **Original (ch10a, on Wallis):** *"The clarity is his. The reception is contingent."*
+4. **Original (ch10a, on [T]):** *"The clarity is his. The reception is contingent."*
    **Rewrite:** *"I have observed N students of the same teacher reach divergent behavioral outcomes. This is consistent with two hypotheses: reception-variance, or transmission-insufficiency. I cannot distinguish them from inside. I commit to the first provisionally; if over M years a cohort with matched reception still diverges, I revise toward the second."*
 
 5. **Original (ch13):** *"The object of a human life is to find its right size."*

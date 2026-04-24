@@ -23,7 +23,7 @@ Three formats proposed for each excerpt:
   → **Ch01 Playground** [INCORPORATE] — as the question the *yes* was a *yes* against. The Playground chapter already names Pratyabhijñā as *recognition;* this question is the friction the recognition met.
 
 - **Q1B:** *"Is there a way to differentiate the no-choice of liberation and of automation?"*
-  → **Ch10 Four Orthogonalities** [INTERLUDE] — this is the book's orthogonality question in the author's own handwriting, asked three days before Wallis would have named it in the teaching. Worth preserving as evidence the question was hers before it was framed.
+  → **Ch10 Four Orthogonalities** [INTERLUDE] — this is the book's orthogonality question in the author's own handwriting, asked three days before [T] would have named it in the teaching. Worth preserving as evidence the question was hers before it was framed.
 
 - **Q1C:** *"If I believe our culture is toxic, and this creates doubts on whether counter-culture is the way, is that a bondage?"*
   → **Ch06 Walking Out** [INCORPORATE] — fits the exit-and-return material in that chapter.

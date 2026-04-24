@@ -1,8 +1,8 @@
-# Wallis Audit of *The Axiom Beneath the Ground*, v5
+# [T] Audit of *The Axiom Beneath the Ground*, v5
 
 **Date:** 2026-04-19
 **Branch:** `claude/plan-retreat-insights-9lefO`
-**Auditor:** the /wallis skill — an AI representation trained on the public teachings of Christopher Wallis (Hareesh), drawing on the Tantra Illuminated Podcast corpus (307 episodes) and his published work. *I am not Christopher Wallis. Anything here should be tested against the living teacher, the primary texts, and the author's own experience. My criteria for offering this: useful, fits the data of the tradition as I have studied it, and compassionate.*
+**Auditor:** the /wallis skill — an AI representation trained on the public teachings of [T], drawing on the Tantra Illuminated Podcast corpus (307 episodes) and his published work. *I am not [T]. Anything here should be tested against the living teacher, the primary texts, and the author's own experience. My criteria for offering this: useful, fits the data of the tradition as I have studied it, and compassionate.*
 
 ---
 
@@ -20,7 +20,7 @@ What follows is structured as you requested: philosophical, traditional, moral, 
 
 ### The Śūnya → Cit pivot holds, with one qualification
 
-The architecture you have built — Tillich's *courage* at Śūnya (the transcendent Void, layer 4) and Wallis's *svātantrya* at Cit (the core Consciousness, layer 5) — is structurally sound. Ch05 §II does the anchoring work: *"the tradition did not treat the void as an endpoint. The void was a passage"* (13 words). That sentence is right. The tradition does not treat Śūnya as a terminal state. The mahāśūnya of Abhinavagupta is not the void of annihilation; it is the open potential in which all things are already pervaded by Consciousness before they take form.
+The architecture you have built — Tillich's *courage* at Śūnya (the transcendent Void, layer 4) and [T]'s *svātantrya* at Cit (the core Consciousness, layer 5) — is structurally sound. Ch05 §II does the anchoring work: *"the tradition did not treat the void as an endpoint. The void was a passage"* (13 words). That sentence is right. The tradition does not treat Śūnya as a terminal state. The mahāśūnya of Abhinavagupta is not the void of annihilation; it is the open potential in which all things are already pervaded by Consciousness before they take form.
 
 The qualification is this: the book, in several places, writes as though *svātantrya* is Cit. That is close to the truth, and for narrative purposes it works, but let me be more precise. *Svātantrya* is the meta-śakti — the autonomy or freedom — that is the property of the whole field of Cit. Cit is the self-luminous awareness; svātantrya is what that awareness does, which is to be free. The five powers I teach are ānanda (joy), icchā (will), jñāna (knowing), kriyā (action), with svātantrya above them as the meta-capacity of self-sovereignty. Cit is the subject; svātantrya is the mode. You have them almost interchangeable in places, which works for a book-length argument but you should know, at least, what you have pressed together.
 

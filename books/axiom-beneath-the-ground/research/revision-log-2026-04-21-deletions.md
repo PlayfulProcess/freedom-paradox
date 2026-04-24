@@ -99,7 +99,7 @@ Appendix A, Ch10 revisions from earlier commits, and untouched chapters are not 
 
 3. **[CONTENT]** The triple "She sat beside people who..." passage — kept all three examples but tightened language.
 
-4. **[STYLE]** "*Wallis is* — she will name him, because the point requires it — *the specific case*." — cut the self-consciousness. Now reads "Wallis is the specific case."
+4. **[STYLE]** "*[T] is* — she will name him, because the point requires it — *the specific case*." — cut the self-consciousness. Now reads "[T] is the specific case."
 
 5. **[CONTENT]** "She reads him, and listens to him, and feels the quality of a mind that has done the work..." — kept but compressed. The "she trusts him in the narrow sense of trusting a cartographer" metaphor preserved but slightly shorter.
 
@@ -112,7 +112,7 @@ Appendix A, Ch10 revisions from earlier commits, and untouched chapters are not 
 ### Check on re-read
 
 - The four-axes section: does the compression still name each axis clearly and give you the felt sense of the gap?
-- Wallis passage: still fair to him?
+- [T] passage: still fair to him?
 
 ---
 
@@ -124,11 +124,11 @@ Appendix A, Ch10 revisions from earlier commits, and untouched chapters are not 
 
 2. **[STYLE]** The four *"They were saying: X"* restatements of what the AI labs say — compressed into a single direct speech paragraph.
 
-3. **[CONTENT]** Wallis parallel: "His clarity is the clarity of a teacher who has refused to oversell the tradition. The AI labs' clarity, when they are at their best, is a cousin of that clarity — a refusal to oversell the technology" — kept; nothing substantive cut here.
+3. **[CONTENT]** [T] parallel: "His clarity is the clarity of a teacher who has refused to oversell the tradition. The AI labs' clarity, when they are at their best, is a cousin of that clarity — a refusal to oversell the technology" — kept; nothing substantive cut here.
 
-4. **[STYLE]** The machine-vs-human orthogonality passage — tightened but all the substance preserved (Wallis making claim about humans, skeptical of machines, author owns the extension).
+4. **[STYLE]** The machine-vs-human orthogonality passage — tightened but all the substance preserved ([T] making claim about humans, skeptical of machines, author owns the extension).
 
-5. **[CONTENT]** The three frames (race-to-top / accelerationist / doom) — all three kept, each compressed ~30%. The Wallis parallel inside the accelerationist frame preserved.
+5. **[CONTENT]** The three frames (race-to-top / accelerationist / doom) — all three kept, each compressed ~30%. The [T] parallel inside the accelerationist frame preserved.
 
 6. **[STYLE]** "The AI mirror, rendered cleanly, is this" — cut as meta header.
 
@@ -180,7 +180,7 @@ Appendix A, Ch10 revisions from earlier commits, and untouched chapters are not 
 
 2. **[CONTENT]** The two-traditions direct-speech paragraph — both traditions' refusals now in one compact direct-speech each. Some of the nuance of each admission was trimmed but not the core.
 
-3. **[STRUCTURE]** "She wants to be careful, here, about how she names what the traditions handed forward" — the freedom/gap hedge collapsed into single paragraph acknowledging Wallis's view. The "A tradition can hand forward something honestly-limited in one century and land, through no fault of its authors, in a century whose problems were not the problems it was designed to address" kept.
+3. **[STRUCTURE]** "She wants to be careful, here, about how she names what the traditions handed forward" — the freedom/gap hedge collapsed into single paragraph acknowledging [T]'s view. The "A tradition can hand forward something honestly-limited in one century and land, through no fault of its authors, in a century whose problems were not the problems it was designed to address" kept.
 
 4. **[STYLE]** "Whether one calls this a *gap* or a *freedom* is partly a matter of temperament" — kept.
 
@@ -195,7 +195,7 @@ Appendix A, Ch10 revisions from earlier commits, and untouched chapters are not 
 
 7. **[STRUCTURE]** The *Jongu* / *recursive.eco* naming confession — tightened. Key passages preserved: "secretly hoped the platform would turn out to belong to the study of emergent patterns, not iterative ones" / "The Brazilian economist-in-her named it after the iterative subfield" / "She named the platform after the single-mind operation. She was building for the many-participant one."
 
-8. **[CONTENT]** Immune-system / guardianship weave — kept nearly in full. Only meta like "She encountered this analogy explicitly, with the force of recognition, in an episode" was slightly compressed. The Emerald × Wallis episode citation preserved.
+8. **[CONTENT]** Immune-system / guardianship weave — kept nearly in full. Only meta like "She encountered this analogy explicitly, with the force of recognition, in an episode" was slightly compressed. The Emerald × [T] episode citation preserved.
 
 9. **[STRUCTURE]** Receipts passage — kept both action-anchors (OpenAI removal, code-private/grammar-open) with dates and commits. Tightened the exposition around each.
 

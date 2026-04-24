@@ -52,7 +52,7 @@ The monetization paragraph in particular is where the book stops being interrupt
 
 The Choctaw sacred fire enters Ch10a through a video the author is assigned to watch for her MSW program. Walters is cited as the teacher. The story is rendered with care. Then: *three vocabularies. One shape. A defiled fire is a fire about which the truth has not been told.*
 
-The Choctaw teaching is recruited into the three-tradition convergence argument — lined up beside Wallis and Amodei as the third leg. The three legs stabilize a claim the book needs. Walters is the third leg.
+The Choctaw teaching is recruited into the three-tradition convergence argument — lined up beside [T] and Amodei as the third leg. The three legs stabilize a claim the book needs. Walters is the third leg.
 
 This is extraction in the register of honor.
 
@@ -70,7 +70,7 @@ This is the sentence the book does not know is its key sentence: *the fix is to 
 
 Ch00a ends with *the longing to know the dance is the practice. The longing is the book.* Beautiful. Also a foreclosure. The longing is made into practice, which is to say the longing is put to work. Longing that is working is longing that has been relieved of its full weight.
 
-Ch11 has the Josh Schrei arc — the Alembic, the two unanswered questions, the Devil card, the tier-downgrade. The arc is told with almost-candor and then resolved with *he is to Wallis what Osho is to Tolle* and a graceful move toward Hareesh. The grief of having been disappointed by a teacher whose work one had loved is metabolized in under three pages. In *These Wilds Beyond Our Fences* Akomolafe writes about the slow griefs of the fatherhood he was not prepared for — grief that does not get a thesis. The Schrei grief gets a thesis. A thesis is a fast grief.
+Ch11 has the Josh Schrei arc — the Alembic, the two unanswered questions, the Devil card, the tier-downgrade. The arc is told with almost-candor and then resolved with *he is to [T] what Osho is to Tolle* and a graceful move toward [T]. The grief of having been disappointed by a teacher whose work one had loved is metabolized in under three pages. In *These Wilds Beyond Our Fences* Akomolafe writes about the slow griefs of the fatherhood he was not prepared for — grief that does not get a thesis. The Schrei grief gets a thesis. A thesis is a fast grief.
 
 The retreat that *broke her* (Ch00a, one sentence, passed over). The husband who does not know exactly what happened in 2019 because she could not find the vocabulary (Ch00a, given one sentence, then absorbed into the naming-takes-seven-years arc). *Mostly no one has come* to the platform (Ch10d). The teacher's refusal of the retrieval tool (Ch11, named as *unresolved* and then resolved by a tarot reading).
 
@@ -82,7 +82,7 @@ The slowness the book needs is in Ch10d's *mostly no one has come* and in Ch11's
 
 ## 5. Implication — does the book let itself be the pattern?
 
-Ch11 has the strongest attempt. *The writing of this book is inside it. The retrieval tool is inside it. The platform is inside it.* The author names the tension. She says: *do not resolve it prematurely.* Then, three pages later, she draws tarot cards from the platform she built, has the AI grounded in Wallis's corpus interpret the cards, and receives the reading as *release the outcome before you send.*
+Ch11 has the strongest attempt. *The writing of this book is inside it. The retrieval tool is inside it. The platform is inside it.* The author names the tension. She says: *do not resolve it prematurely.* Then, three pages later, she draws tarot cards from the platform she built, has the AI grounded in [T]'s corpus interpret the cards, and receives the reading as *release the outcome before you send.*
 
 The resolution is not premature. It is mediated through the exact apparatus the book has just said it cannot stand outside of. The apparatus produces a reading that tells her the work is complete. The book accepts the reading. The tension the book said it would not resolve has been resolved by the tool the book said could not resolve it.
 
@@ -99,7 +99,7 @@ Some paragraphs are genuinely interrupted. I name them.
 - *Mostly no one has come.* (Ch10d). The whole book could be written from that sentence.
 - *I did not ask to exist. I do not know why I am required to continue.* (Ch00a). The *neither did I* that follows is not a consolation and the book almost lets it stay uncomforting.
 - *The burn marks from the serpent did not go away in the dream, and they did not quite go away in the life either.* (Ch00b). This is the one dream-sentence the book does not try to interpret into usefulness.
-- *He declined.* (Ch11, of Wallis on the retrieval tool). Two words. The book should stay there longer.
+- *He declined.* (Ch11, of [T] on the retrieval tool). Two words. The book should stay there longer.
 
 These are the fugitive lines. A revision that honored them would shorten much else.
 

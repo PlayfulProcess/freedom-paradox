@@ -1,6 +1,6 @@
 # Story Index — *The Axiom Beneath the Ground*, v5
 
-**Purpose:** a compact, spoiler-rich index of the book's narrative, philosophical, and structural beats. Provided so that a Wallis-agent audit (or any other agent-based pass) can hold the book in memory without re-reading all twelve chapters at every invocation. Update whenever a chapter changes.
+**Purpose:** a compact, spoiler-rich index of the book's narrative, philosophical, and structural beats. Provided so that a [T]-agent audit (or any other agent-based pass) can hold the book in memory without re-reading all twelve chapters at every invocation. Update whenever a chapter changes.
 
 **Last updated:** 2026-04-19
 **Branch:** `claude/plan-retreat-insights-9lefO`
@@ -11,7 +11,7 @@
 
 ## One-paragraph synopsis
 
-A woman in her mid-thirties — an equity-research-analyst-turned-MSW-student-and-builder, publishing as PlayfulProcess, living in an apartment with her husband and five-year-old daughter — is pulled by a pre-verbal *yes* she experiences on a park bench one Tuesday morning toward a non-dual Shaiva Tantra retreat. The book narrates her inward arc through the tradition's layered-self diagram (Vastu → Deha → Citta → Prāṇa → Śūnya → Cit) during a five-day retreat, and her outward arc afterward, as she integrates the retreat into a continuing life that includes a marriage, mothering, an AI-tool she built over her teacher's teachings that he declined, an email she drafts to Tristan Harris, and a book she publishes instead of leaving in a drawer. The book holds Tillich's *courage* (Śūnya) alongside Wallis's *svātantrya* (Cit) without collapsing either — courage is the door; freedom is the room — and treats the question of destruction (raised once on a path with the teacher, answered dialectically: *nothing would change* / *there always is* a hole) as the hinge the whole argument turns on.
+A woman in her mid-thirties — an equity-research-analyst-turned-MSW-student-and-builder, publishing as PlayfulProcess, living in an apartment with her husband and five-year-old daughter — is pulled by a pre-verbal *yes* she experiences on a park bench one Tuesday morning toward a non-dual Shaiva Tantra retreat. The book narrates her inward arc through the tradition's layered-self diagram (Vastu → Deha → Citta → Prāṇa → Śūnya → Cit) during a five-day retreat, and her outward arc afterward, as she integrates the retreat into a continuing life that includes a marriage, mothering, an AI-tool she built over her teacher's teachings that he declined, an email she drafts to Tristan Harris, and a book she publishes instead of leaving in a drawer. The book holds Tillich's *courage* (Śūnya) alongside [T]'s *svātantrya* (Cit) without collapsing either — courage is the door; freedom is the room — and treats the question of destruction (raised once on a path with the teacher, answered dialectically: *nothing would change* / *there always is* a hole) as the hinge the whole argument turns on.
 
 ---
 
@@ -31,13 +31,13 @@ A woman in her mid-thirties — an equity-research-analyst-turned-MSW-student-an
 
 ### Ch00 — Author's Note (first person, ~550 words)
 
-Park bench, five-year-old daughter in a sandbox, the app in earbuds describing Consciousness as simultaneously transcendent and immanent, the *yes* that arrives before any doctrine. The switch from *value* as the driving question to *freedom* as the driving question. A retreat was attended. The tradition's door (Tillich's courage) opened into a room (Wallis's svātantrya). The teacher's five words: *it is, until you experience it*. A destruction question was asked on the path. The answer was dialectical. Linehan's three-filter method is named as the book's governing epistemology. The rest of the book is in close-third.
+Park bench, five-year-old daughter in a sandbox, the app in earbuds describing Consciousness as simultaneously transcendent and immanent, the *yes* that arrives before any doctrine. The switch from *value* as the driving question to *freedom* as the driving question. A retreat was attended. The tradition's door (Tillich's courage) opened into a room ([T]'s svātantrya). The teacher's five words: *it is, until you experience it*. A destruction question was asked on the path. The answer was dialectical. Linehan's three-filter method is named as the book's governing epistemology. The rest of the book is in close-third.
 
 ### Ch01 — Vastu / Playground (close-third)
 
 Part I: the *yes* at the sandbox.
 Part II: why the originating question is freedom, not value.
-Part III: the reading year — Tillich, Linehan, Wallis, the Kybalion, the Brazilian *espírita* aunt's "all is in perfect balance" as a near-enemy to be composted. **v5 expansion:** Darwin read at the source (adaptive as evolutionary category, not only clinical); the Arcane School years and their composting; Umbanda as embodied practice on Brazilian visits; Vanessa Andreotti's *Facing Human Wrongs* course and the *fire before responsibility* lineage; Bayo Akomolafe via *The Emerald* podcast; the daughter-as-inheritance motive as the seed of what the narrator would later build.
+Part III: the reading year — Tillich, Linehan, [T], the Kybalion, the Brazilian *espírita* aunt's "all is in perfect balance" as a near-enemy to be composted. **v5 expansion:** Darwin read at the source (adaptive as evolutionary category, not only clinical); the Arcane School years and their composting; Umbanda as embodied practice on Brazilian visits; Vanessa Andreotti's *Facing Human Wrongs* course and the *fire before responsibility* lineage; Bayo Akomolafe via *The Emerald* podcast; the daughter-as-inheritance motive as the seed of what the narrator would later build.
 Part IV: the app, and the day-one orientation that framed the 112 practices as menu, not mandate.
 Part V: the cutting/piercing WhatsApp exchange — the narrator's first real exchange with the teacher, via the app's community. The teacher corrects a fellow practitioner's reading, concedes the daily-practice framing is wrong, restores precision. The filter is operational before she sets foot in the barn.
 Part VI: the decision to attend the retreat. She drives north.
@@ -128,7 +128,7 @@ Part 3: on the AI tool. Building is not defiance; building is practice.
 Part 4: on the *yes*. Recognition, not decision.
 Part 5: svātantrya as a field she is moving through, courage as what she does when she has drifted, noticing as the beginning of practice.
 Part 6 (new in v5): Arjuna at Kurukshetra. *Is this ours to do?* Her careful yes. *I am on Dario's team* as a dharmic stance, not brand allegiance. Amodei's first-rate mind holding two opposed ideas. The *build differently* response as shared across three registers (ghost-model / chip-company / contemplative tradition).
-Part 7 (new in v5): The scatter of channels — aunt, Arcane School composting, Umbanda, Andreotti, Akomolafe, The Emerald, two Esalen trips, the liminal spaces around the workshops, the carpool women, the yoga-teacher friend in Brazil whose email led to Wallis. The deeper Paradevi / Ayahuasca-2019 arc flagged as a different book.
+Part 7 (new in v5): The scatter of channels — aunt, Arcane School composting, Umbanda, Andreotti, Akomolafe, The Emerald, two Esalen trips, the liminal spaces around the workshops, the carpool women, the yoga-teacher friend in Brazil whose email led to [T]. The deeper Paradevi / Ayahuasca-2019 arc flagged as a different book.
 Part 8 (new in v5): The is-process voice — *tarot is process*, *dance is process*, *freedom is process*. The epistemology. This book is *svātantrya is process*.
 Part 9 (new in v5): The daughter's song. *A Painful Playful Process Song*. The disposal-truck day and the stanza: *the crash, the crush, that awful sound / it planted something in the ground. / And what grew up between the cracks / is this: a song that loves you back.* The song and the book are both the practice the answer required her to do in order to keep being a person still asking the question.
 Part 10: the daughter will wake in six hours. The practice available. The book ends; the practice does not. The drawer is closed; this study is published. Good night.
@@ -152,7 +152,7 @@ Part 10: the daughter will wake in six hours. The practice available. The book e
 - `[VERIFY]` Ghost ActivityPub status at copyedit
 - `[VERIFY]` Whitman biographical claim (Civil War hospitals as threshold-crossing) against a specific Emerald episode — the claim is rendered in the narrator's memory of a mythologist's reading, not as uncontested biographical fact. Cross-check at copyedit.
 - `[EDITORIAL NOTE]` whether Ch04a becomes its own numbered chapter or a ch04a interlude position (currently filed as ch04a); whether the Tristan Harris figure is named in Ch03 §VII body prose or kept as "the second Harris"; whether Hannah Wolfe's role in Ch10 §VII is expanded
-- `[EDITORIAL NOTE]` Wallis-audit proposal (see `wallis-audit-v5-2026-04-19.md`) — eight specific revision suggestions; author to accept or reject each
+- `[EDITORIAL NOTE]` [T]-audit proposal (see `wallis-audit-v5-2026-04-19.md`) — eight specific revision suggestions; author to accept or reject each
 
 ---
 

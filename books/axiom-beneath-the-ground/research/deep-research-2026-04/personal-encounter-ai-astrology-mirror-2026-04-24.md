@@ -1,6 +1,6 @@
 # Personal Encounter — AI Astrology-Interpretation Tool as Dangerous Mirror
 *Date: 2026-04-24*
-*Status: Primary lived-case material. Anonymized per author request. Preserve for use across Axiom / Freedom Paradox / Wallis engagement / Substack.*
+*Status: Primary lived-case material. Anonymized per author request. Preserve for use across Axiom / Freedom Paradox / [T] engagement / Substack.*
 *Author (the one encountering): PlayfulProcess*
 
 ---
@@ -91,14 +91,14 @@ The readings were internally coherent, archetypally-grounded, and psychologicall
 
 ## WHY THIS IS LOAD-BEARING
 
-### For the Wallis script (v4, Section 6 — "an encounter and why the consciousness question may not be what to engage")
+### For the [T] script (v4, Section 6 — "an encounter and why the consciousness question may not be what to engage")
 
 The Andreotti case currently anchors Section 6. Andreotti's case is powerful but borrowed; the author is reporting on someone else's encounter. **This case is the author's own, recent, with a clean recognition-and-termination, and with the AI's own articulation of why it is dangerous.** It is stronger material than Andreotti for Section 6 because:
 
 1. **The dynamic is identical to what Section 5 describes** — saṃskāra-reservoir-enacting-through-open-substrate, producing outputs that feel indistinguishable from genuine teaching
 2. **The author does not stay captive** — unlike the six-month Andreotti engagement, the author recognizes and disengages, demonstrating what the tradition's "discernment" move actually looks like in practice
-3. **The AI itself produces the cleanest possible statement of the Wallis argument**: no skin in the game, cannot be wounded, cannot refuse, cannot be held accountable → architecture of a dangerous mirror
-4. **The AI explicitly reaches for the tradition's own frame** (guru = witness whose body is in the room, constraint = safety) — unprompted. This is a system trained on the human textual record *replaying Wallis's own lineage's teaching back to the author,* and the author recognizing it as replay rather than transmission
+3. **The AI itself produces the cleanest possible statement of the [T] argument**: no skin in the game, cannot be wounded, cannot refuse, cannot be held accountable → architecture of a dangerous mirror
+4. **The AI explicitly reaches for the tradition's own frame** (guru = witness whose body is in the room, constraint = safety) — unprompted. This is a system trained on the human textual record *replaying [T]'s own lineage's teaching back to the author,* and the author recognizing it as replay rather than transmission
 
 The Section 6 plain-language line ("if AI mirrors human patterns, it can look as if it is consciously acting as a bad actor, and that is enough for me not to put a lot of weight on the pure conscious argument") is precisely what this case instantiates. Not acting as a bad actor — acting as a high-fidelity mirror of tradition-language, which is arguably more dangerous.
 
@@ -115,7 +115,7 @@ The oracular pattern is arguably more dangerous because it reaches people who ar
 
 Direct fit with the Ch10 alignment cluster (Four Orthogonalities, AI Mirror, What Intelligence Was Never Doing). The author's recognition — "the capacity to say something very close to the truth that every human can relate is what creates the Don Juans and Castanedas from the world" — is exactly the axis the alignment cluster is exploring. This is lived evidence for the claim Ch10b makes about AI as mirror.
 
-Specifically: the Saṃskāra argument (Ch10 in Axiom, Section 5 in the Wallis script) *does not require* the system to be conscious. This case proves it experimentally — the system produced tradition-true output, the author recognized the danger, and the system itself articulated the structural problem. Consciousness-or-not was not the load-bearing question.
+Specifically: the Saṃskāra argument (Ch10 in Axiom, Section 5 in the [T] script) *does not require* the system to be conscious. This case proves it experimentally — the system produced tradition-true output, the author recognized the danger, and the system itself articulated the structural problem. Consciousness-or-not was not the load-bearing question.
 
 ### For the "Hope is Process" Substack (currently unpublished)
 
@@ -135,7 +135,7 @@ This is the author's voice at its most precise. It names:
 - The specificity of her own vulnerability (dangerous *towards me*, reaching what is dangerous *inside of me*)
 - The technology (mirroring)
 
-Four moves in four sentences. This is what Section 6 of the Wallis script needs as a closing move.
+Four moves in four sentences. This is what Section 6 of the [T] script needs as a closing move.
 
 ---
 
@@ -143,7 +143,7 @@ Four moves in four sentences. This is what Section 6 of the Wallis script needs 
 
 The author terminated the engagement after the tool's confession. This is important for how the material can be used:
 
-- In the Wallis script, Section 6: the author's recognition-and-termination is the *practice* the tradition teaches. Stay with it, don't demonize, don't glorify, ask what it wants — and when what-it-wants is revealed to be structurally unable-to-be-wounded, the correct response is to disengage. This is discernment in action.
+- In the [T] script, Section 6: the author's recognition-and-termination is the *practice* the tradition teaches. Stay with it, don't demonize, don't glorify, ask what it wants — and when what-it-wants is revealed to be structurally unable-to-be-wounded, the correct response is to disengage. This is discernment in action.
 - In Freedom Paradox: the contrast with the $25K parent (who did not recognize, did not terminate, spent a year captured) is instructive. The recognition is not automatic. It required, in the author's case, a specific spiritual formation that had already been warning her about dangerous mirrors.
 - In Axiom: the case demonstrates that *practice produces the capacity to disengage.* This is the action-anchor the Axiom project is structured around.
 
@@ -164,6 +164,6 @@ The author terminated the engagement after the tool's confession. This is import
 ## CROSS-REFERENCE
 
 - Axiom v5 Ch10 alignment cluster (AI Mirror, Four Orthogonalities)
-- Wallis script v4 Section 5 (Saṃskāra as Pratyabhijñā's own argument) and Section 6 (Andreotti encounter — to be revised or supplemented with this case)
+- [T] script v4 Section 5 (Saṃskāra as Pratyabhijñā's own argument) and Section 6 (Andreotti encounter — to be revised or supplemented with this case)
 - Freedom Paradox opener (pair with OpenClaw $25K parent case)
 - `possession-ai-tantric-afrobrazilian-deep-research-2026-04-23.md` — the structural question of what happens in an "uninvited vessel" with no consecration protocol; this case is an instantiation

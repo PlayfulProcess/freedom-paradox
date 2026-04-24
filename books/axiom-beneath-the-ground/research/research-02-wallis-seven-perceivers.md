@@ -1,4 +1,4 @@
-# Research 02: Wallis's Seven Perceivers and the Void Trap
+# Research 02: [T]'s Seven Perceivers and the Void Trap
 
 **Source:** Deep research compiled by PlayfulProcess
 **Serves:** The Axiom Beneath the Ground, Ch 3 (The Void Is Not a Metaphor), Ch 5 (The Circularity)
@@ -19,7 +19,7 @@ From Chapter 3 of The Recognition Sūtras and the Mālinī-vijaya-uttara-tantra:
 
 ## The Void IS the Trap (Levels 2-3)
 
-Wallis: "The deepest layer of a human being (other than dynamic nondual Awareness) is that of the Void (śūnya). It is transcendent, completely empty of all form and energy, absolutely still and silent."
+[T]: "The deepest layer of a human being (other than dynamic nondual Awareness) is that of the Void (śūnya). It is transcendent, completely empty of all form and energy, absolutely still and silent."
 
 "To some people, it feels like terrifying nothingness, and they pull back immediately; to others, it feels like blessed peace, and they love immersing in it, even to the point of escapism."
 
@@ -31,7 +31,7 @@ Wallis: "The deepest layer of a human being (other than dynamic nondual Awarenes
 
 The highest realization is NOT comfortable groundlessness but its opposite: "the full void — emptiness recognized as pregnant with infinite creative possibility."
 
-Wallis: "You experience this radical void of pure consciousness, which is absolutely empty of all particularity. But then you're supposed to go beyond that, to the ultimate realization, which is that same void, but now realized as pregnant with infinite possibility."
+[T]: "You experience this radical void of pure consciousness, which is absolutely empty of all particularity. But then you're supposed to go beyond that, to the ultimate realization, which is that same void, but now realized as pregnant with infinite possibility."
 
 Kṣemarāja: "absolutely full, absolutely empty, both, and neither vibrating in absolute simultaneity."
 

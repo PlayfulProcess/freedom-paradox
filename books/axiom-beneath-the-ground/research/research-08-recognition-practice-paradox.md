@@ -37,7 +37,7 @@ The practice paradox — "if you are already Śiva, why practice?" — is not a 
 - ONLY BOTH TOGETHER make one a jīvanmukta
 - This is why the tradition needs BOTH books AND practice, BOTH axiom AND recognition
 
-### Wallis's two-phase model
+### [T]'s two-phase model
 - Phase 1: Awakening (bodha) — recognition of nature as awareness
 - Phase 2: Integration — allowing awakened awareness to permeate embodied life
 - "Waking up is actually the easy part compared to integration"

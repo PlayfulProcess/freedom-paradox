@@ -13,11 +13,11 @@ The central tension of *The Axiom Beneath the Ground* is whether inherent value 
 - The Goddess asks (verses 142c-144): if this teaching IS the Supreme, how can there be mantra, worship, visualization? Who worships? Who is worshipped?
 - Bhairava answers by radically reinterpreting each practice (verses 144c-162)
 - **Question:** Is this a resolution of the contradiction or a reframing that preserves it? Do scholars agree on which?
-- Key scholars to check: Bettina Baumer, Jaideva Singh, Mark Dyczkowski, Lilian Silburn, Christopher Wallis
+- Key scholars to check: Bettina Baumer, Jaideva Singh, Mark Dyczkowski, Lilian Silburn, [T]
 
 ### 2. The Pratyabhijñā-hṛdayam (Kshemaraja)
 
-- This is the text Wallis translates as *The Recognition Sutras*
+- This is the text [T] translates as *The Recognition Sutras*
 - The core claim: liberation is *recognition* (pratyabhijñā) of what was always already the case
 - **Question:** If liberation is recognition of what's already true, why does Kshemaraja prescribe specific practices? How does HE handle the tension between "already liberated" and "needs practice"?
 - Look for: Sūtra 1 ("Consciousness, of its own free will, is the cause of the creation, maintenance, and dissolution of the universe") — does this establish ground as given or as recognized?
@@ -28,7 +28,7 @@ The central tension of *The Axiom Beneath the Ground* is whether inherent value 
 - Sūtra 1.1: "Consciousness is the Self" (caitanyam ātmā)
 - This seems to state inherent value as fact, not axiom
 - **Question:** How do the practice-oriented sūtras (especially in section 3, the āṇavopāya) relate to this opening declaration? If consciousness IS the Self, what are the practices FOR?
-- Look for: any commentary (Kshemaraja's Vimarśinī, or Wallis's) that addresses this apparent circularity
+- Look for: any commentary (Kshemaraja's Vimarśinī, or [T]'s) that addresses this apparent circularity
 
 ### 4. The Spanda-kārikā (Vasugupta or Kallaṭa)
 
@@ -60,7 +60,7 @@ The central tension of *The Axiom Beneath the Ground* is whether inherent value 
 - **Middle position** (Jorge Ferrer's "participatory pluralism"): different traditions cultivate different genuine realities. Recognition is real but plural.
 - **Question:** Where does nondual Shaiva Tantra fall in this debate? Does it claim a universal ground (perennialist) or an effective framework (constructivist/pragmatist)?
 
-### 8. The Specific Contradiction in Wallis
+### 8. The Specific Contradiction in [T]
 
 From *Near Enemies of the Truth* (p. 199): "We evaluate articulable thoughts solely in terms of their efficacy" — pragmatist/constructivist position.
 
@@ -68,7 +68,7 @@ From *Near Enemies of the Truth* (p. 244): "Your worth and value is proven by yo
 
 From *Tantra Illuminated* (p. 56): "If you undertake the practice of yoga with the right View... that you already are a perfect and whole expression of the Divine... then you have empowered your practice to take you all the way" — the View must be held BEFORE recognition, making it an axiom.
 
-**Question:** Is Wallis aware of this tension in his own work? Has he addressed it anywhere — in writing, lectures, or podcasts? Is the tension a feature (compassionate teaching adapted to the student's level) or a bug (unresolved philosophical incoherence)?
+**Question:** Is [T] aware of this tension in his own work? Has he addressed it anywhere — in writing, lectures, or podcasts? Is the tension a feature (compassionate teaching adapted to the student's level) or a bug (unresolved philosophical incoherence)?
 
 ## What I'm Looking For
 

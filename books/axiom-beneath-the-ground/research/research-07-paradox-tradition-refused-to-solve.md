@@ -26,9 +26,9 @@ Five conclusions for the book:
 
 "The VBT's Devī asks 'who worships? who is worshipped?' and receives not an answer but more practice. The question, having been asked, does not prevent the practice from continuing. It does not need to be answered. It needs to be *inhabited*."
 
-## The Wallis Triangle (confirmed)
+## The [T] Triangle (confirmed)
 
-Three positions in Wallis's published work:
+Three positions in [T]'s published work:
 - Pragmatist: "evaluate thoughts solely by efficacy"
 - Realist: "your worth is proven by your very existence"
 - Axiomatic: the View must be held BEFORE recognition

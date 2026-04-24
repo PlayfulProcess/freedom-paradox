@@ -34,7 +34,7 @@ The fugitive version: cut the Kantian-maxim paragraph and the enterprise-tier pa
 
 This is the strongest subtraction in the chapter. You did it.
 
-> *I am not going to argue that the reading was anything other than me thinking with a tool I built. It is not divination. It is not Hareesh's voice. It was a specific evening at a desk. I am reporting that it helped me put down something I had been holding too tightly.*
+> *I am not going to argue that the reading was anything other than me thinking with a tool I built. It is not divination. It is not [T]'s voice. It was a specific evening at a desk. I am reporting that it helped me put down something I had been holding too tightly.*
 
 That is a postactivist paragraph. The apparatus has been named as apparatus. The reading is not allowed to carry weight it did not earn. *Anything more would be asking the reading to do work I have not earned from it* — this is the sentence the first draft did not have. The book has let itself be interrupted here.
 

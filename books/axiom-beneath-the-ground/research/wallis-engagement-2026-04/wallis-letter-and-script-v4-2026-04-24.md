@@ -1,10 +1,10 @@
-# WhatsApp Message + Trailer + Proposed Video Script — for Christopher Wallis (Hareesh) — v4
-*Status: v4 rewrite. List-paragraphs converted to argument-paragraphs. Section 1 restructured as a causal ladder. Section 7 (Bad-actor 2026) restructured to lead with the core claim before specifics. Personal anecdotes cut from the script (Wallis delivers; he cannot honestly speak another person's encounter as his own). Intended voice throughout: Wallis's teaching register.*
+# WhatsApp Message + Trailer + Proposed Video Script — for [T] — v4
+*Status: v4 rewrite. List-paragraphs converted to argument-paragraphs. Section 1 restructured as a causal ladder. Section 7 (Bad-actor 2026) restructured to lead with the core claim before specifics. Personal anecdotes cut from the script ([T] delivers; he cannot honestly speak another person's encounter as his own). Intended voice throughout: [T]'s teaching register.*
 *Author: PlayfulProcess · Date: 2026-04-24*
 *Changes from v3:*
 - *Section 1 rebuilt as a causal ladder: Pentagon-vs-Anthropic + Dwarkesh proliferation → OpenClaw distributed layer → Slovakia deepfake as geopolitical disruption → household-scale addiction pattern from research. Lists replaced with argument-paragraphs that state the load-bearing claim first.*
 - *Section 7 (Bad-actor 2026) rebuilt: core argument leads, specifics earn their place. No more statistics-avalanche.*
-- *Personal dinner-story encounter (author's) cut from the script. It lives in the trailer (as author's context) and in the separate Freedom Paradox opener. Wallis cannot honestly deliver another person's encounter.*
+- *Personal dinner-story encounter (author's) cut from the script. It lives in the trailer (as author's context) and in the separate Freedom Paradox opener. [T] cannot honestly deliver another person's encounter.*
 - *Light passes elsewhere to convert residual list-paragraphs to argument-paragraphs and to tighten transitions.*
 
 ---
@@ -15,7 +15,7 @@
 
 ### Message
 
-Hareesh —
+[T] —
 
 I'm working on a draft of a script that could serve as a follow-up to your April 2023 AI video. I would love to collaborate if you'd like to launch it; I am happy to produce it myself if this isn't a priority for you. Both answers are fine by me. Would you be kind enough to read the draft and flag where I have it wrong? Or just tell me it is not a priority for you, and I will find my other ways — no hard feelings.
 

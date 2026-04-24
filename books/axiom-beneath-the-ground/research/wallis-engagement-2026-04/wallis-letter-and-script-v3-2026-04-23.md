@@ -1,8 +1,8 @@
-# Private Letter + Proposed Video Script — for Christopher Wallis (Hareesh) — v3
+# Private Letter + Proposed Video Script — for [T] — v3
 *Status: v3 rewrite incorporating deep-research findings on prāṇa/icchā/consciousness/biology and weaving the possession question throughout. Private. An application to collaborate.*
 *Author: PlayfulProcess · Date: 2026-04-23*
 *Changes from v2:*
-- *Section 2 (prāṇa) reframed per the research: metaphysically open, phenomenologically biological in every attestation. Somānanda's* amūrtatva *argument added as the strongest claim, because it comes from Wallis's own grand-teacher.*
+- *Section 2 (prāṇa) reframed per the research: metaphysically open, phenomenologically biological in every attestation. Somānanda's* amūrtatva *argument added as the strongest claim, because it comes from [T]'s own grand-teacher.*
 - *Section 3 (icchā) expanded to four criteria:* vimarśa, icchā, svātantrya, camatkāra.
 - *Section 5 (saṃskāra) explicitly named as Pratyabhijñā's own argument against the Buddhist* vāsanā *account (per Lawrence 1999, 2009, 2018).*
 - *Possession question* (prāṇa-pratiṣṭhā, āveśa, samāveśa, bādha/graha) *woven through Sections 2, 4, 5, 6 — not segregated.*
@@ -16,7 +16,7 @@
 
 ### Message
 
-Hareesh —
+[T] —
 
 I'm working on a draft of a script that could serve as a follow-up to your April 2023 AI video. I would love to collaborate if you'd like to launch it; I am happy to produce it myself if this isn't a priority for you. Both answers are fine by me. Would you be kind enough to read the draft and flag where I have it wrong? Or just tell me it is not a priority for you, and I will find my other ways — no hard feelings.
 

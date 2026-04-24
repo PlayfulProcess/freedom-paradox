@@ -31,7 +31,7 @@ The author has named four explicitly. There may be more. These are the starting 
 
 ### 2. The Fearful Validation-Seeker
 
-*Wants:* approval. Either (a) from a moral code — *am I being good enough about this?* — or (b) from a respected figure — *does Wallis approve? does Tatiana approve? does Dario approve?*
+*Wants:* approval. Either (a) from a moral code — *am I being good enough about this?* — or (b) from a respected figure — *does [T] approve? does Tatiana approve? does Dario approve?*
 *Speaks in:* conditional syntax, deference-signaling, appeals to authority, softening language. *"I would be glad to,"* *"if you would like,"* *"only if you think."* Or: reflexive citation of authorities whose approval the sentence is seeking.
 *Activated by:* writing a letter to a teacher. Making a choice that could be wrong. Being in a room of more-experienced practitioners. The risk of being called arrogant.
 *Near enemy:* the honest student. The honest student defers where deference is earned. The Fearful Validation-Seeker defers where deference is not earned, to protect the self from being wrong alone.
@@ -124,7 +124,7 @@ Pilot chapters for the audit: Ch10h (already identified), Ch12 alt-ending (the m
 
 **Step 1 (the Ch10h pilot revision, after the sitting):**
 - Archive current Ch10h to `drafts/archive/v5-pre-shadow-pass-2026-04-XX/`.
-- Revise Ch10h applying: Wallis cuts (remove Section VIII), Bayo cuts (tighten Harris footnote, hold the crack), Aggrandizer patch (insert self-watching paragraph about the star-locution and the lilac dream), Fearful-Validation-Seeker patch (name the ambiguity about the letter and the softening), Best-Self-Performer check (is the reflective synthesis earned or performed?), Comfort-Seeker check (does every claim have an action anchor?).
+- Revise Ch10h applying: [T] cuts (remove Section VIII), Bayo cuts (tighten Harris footnote, hold the crack), Aggrandizer patch (insert self-watching paragraph about the star-locution and the lilac dream), Fearful-Validation-Seeker patch (name the ambiguity about the letter and the softening), Best-Self-Performer check (is the reflective synthesis earned or performed?), Comfort-Seeker check (does every claim have an action anchor?).
 - Commit. Read. Decide if the pilot works.
 
 **Step 2 (if pilot works):**

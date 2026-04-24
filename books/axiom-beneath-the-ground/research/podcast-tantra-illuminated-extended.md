@@ -1,7 +1,7 @@
 # Podcast Research: Tantra Illuminated (Extended Episodes)
 
-**Source:** Tantra Illuminated podcast (Christopher Wallis)
-**Serves:** Axiom Ch 1-9 (Tillich vs Wallis, inherent value, recognition, practice paradox); Fire and Intelligence (consciousness and AI); Grammars Ch 1 (Biological Hypothesis), Ch 8 (Fire)
+**Source:** Tantra Illuminated podcast ([T])
+**Serves:** Axiom Ch 1-9 (Tillich vs [T], inherent value, recognition, practice paradox); Fire and Intelligence (consciousness and AI); Grammars Ch 1 (Biological Hypothesis), Ch 8 (Fire)
 **Processing mode:** Additional Research + Alternative Hypotheses + Stress Testing
 **Date processed:** 2026-04-01
 
@@ -9,30 +9,30 @@
 
 ## I. ANALYTIC IDEALISM AND TANTRIC METAPHYSICS (Ep 13: Bernardo Kastrup)
 
-Wallis hosts Bernardo Kastrup, executive director of the Essentia Foundation, whose philosophical position of analytic idealism (reality is essentially mental) is presented as a modern Western articulation of the same view that the great tantric masters enunciated a thousand years ago.
+[T] hosts Bernardo Kastrup, executive director of the Essentia Foundation, whose philosophical position of analytic idealism (reality is essentially mental) is presented as a modern Western articulation of the same view that the great tantric masters enunciated a thousand years ago.
 
 **Serves Axiom Ch 2 (The Direct Path), Ch 5 (Recognition):**
 
 ### Core Convergence
-- Kastrup's position: everything that exists is consciousness, or mind with a capital M. Wallis frames this as exactly the same view as Nondual Shaiva Tantra, expressed in different language.
+- Kastrup's position: everything that exists is consciousness, or mind with a capital M. [T] frames this as exactly the same view as Nondual Shaiva Tantra, expressed in different language.
 - The tantric formulation: the entire universe is one being whose body is all observable phenomena and whose soul is consciousness. Kastrup's analytic idealism arrives at this same conclusion through Western philosophical reasoning rather than meditative realization.
-- This convergence is significant for the Axiom argument because it demonstrates that the inherent-value position (Wallis) can be reached through both contemplative practice and analytic philosophy, suggesting it may be more than a culturally contingent axiom.
+- This convergence is significant for the Axiom argument because it demonstrates that the inherent-value position ([T]) can be reached through both contemplative practice and analytic philosophy, suggesting it may be more than a culturally contingent axiom.
 
 ### The Dissociation Model
 - Kastrup uses the metaphor of dissociative identity to explain individual consciousness: the universal mind dissociates into apparently separate selves the way a single psyche can fragment into alters. This parallels the tantric concept of the one consciousness contracting itself into apparently limited beings.
 - This addresses the problem of evil/suffering without requiring it to be illusory: suffering is real within the dissociated alter, even though the ground consciousness is not fundamentally diminished by it. This has direct implications for the Tillich side of the argument, where the ground of being transcends but includes suffering.
 
 ### Key Tension for the Axiom Argument
-- Kastrup insists that idealism is the most parsimonious explanation of reality: it requires fewer ontological categories than materialism. Wallis agrees but notes that the tantric tradition adds the dimension of *practice* -- one can verify the idealist view through direct experience, not merely through philosophical argument.
-- This practice dimension is precisely what distinguishes Wallis's position from Tillich's. Tillich argues from existential-theological reasoning; Wallis from a tradition that claims experiential verification is possible.
+- Kastrup insists that idealism is the most parsimonious explanation of reality: it requires fewer ontological categories than materialism. [T] agrees but notes that the tantric tradition adds the dimension of *practice* -- one can verify the idealist view through direct experience, not merely through philosophical argument.
+- This practice dimension is precisely what distinguishes [T]'s position from Tillich's. Tillich argues from existential-theological reasoning; [T] from a tradition that claims experiential verification is possible.
 
-<!-- PP: PODCAST CONFLICT: Kastrup's analytic idealism is more monist than some readings of Tillich, who maintains a dialectic between being and non-being. The Axiom book should note that Kastrup-Wallis convergence works well for the inherent-value thesis but may not fully address the existential anxiety (non-being) that Tillich considers constitutive of finite existence. -->
+<!-- PP: PODCAST CONFLICT: Kastrup's analytic idealism is more monist than some readings of Tillich, who maintains a dialectic between being and non-being. The Axiom book should note that Kastrup-[T] convergence works well for the inherent-value thesis but may not fully address the existential anxiety (non-being) that Tillich considers constitutive of finite existence. -->
 
 ---
 
 ## II. THE ESSENCE OF TANTRA, CHAPTER FOUR: SHAKTA UPAYA (Ep 16)
 
-A direct reading of Wallis's translation of Abhinavagupta's Tantra-sara, Chapter 4, on the empowered means (shakta upaya).
+A direct reading of [T]'s translation of Abhinavagupta's Tantra-sara, Chapter 4, on the empowered means (shakta upaya).
 
 **Serves Axiom Ch 3 (Seven Perceivers), Ch 5 (Recognition):**
 
@@ -57,7 +57,7 @@ Conversation with Hamid Ali (A.H. Almaas), founder of the Diamond Approach, whic
 - This is relevant to the Axiom argument because it provides a psychologically sophisticated framework for understanding why inherent value might be obscured rather than absent. The tradition does not claim we need to *create* value but to *recognize* what is already there.
 
 ### Integration of Psychology and Spirituality
-- Almaas holds a PhD in psychology and developed his approach within the context of both ancient spiritual teachings and modern depth psychology. This represents a different integration strategy than Wallis's purely traditional scholarship.
+- Almaas holds a PhD in psychology and developed his approach within the context of both ancient spiritual teachings and modern depth psychology. This represents a different integration strategy than [T]'s purely traditional scholarship.
 - The Diamond Approach treats psychological defenses and spiritual obscurations as the same phenomenon viewed from different angles. This is useful for the Axiom argument because it suggests that the failure to recognize inherent value may have psychological as well as philosophical causes.
 
 ### Nondual Love
@@ -67,7 +67,7 @@ Conversation with Hamid Ali (A.H. Almaas), founder of the Diamond Approach, whic
 
 ## IV. SPANDA: THE DOCTRINE OF DIVINE PULSATION (Ep 26)
 
-A reading of Wallis's translation of the Spanda-karika by the 9th-century Kashmiri master Kallata.
+A reading of [T]'s translation of the Spanda-karika by the 9th-century Kashmiri master Kallata.
 
 **Serves Axiom Ch 2 (Direct Path), Ch 6 (Intelligence-Wisdom Gap), Ch 7 (Paradox):**
 
@@ -77,7 +77,7 @@ A reading of Wallis's translation of the Spanda-karika by the 9th-century Kashmi
 
 ### The Paradox of Effort
 - The Spanda-karika presents a paradox: the divine pulsation is always already occurring, yet practices are prescribed to recognize it. This is the core paradox the Axiom book addresses -- if value is inherent, why do we need to do anything to realize it?
-- Wallis frames this as the text crying out for exposition, meaning the apparent contradiction between inherent presence and required practice is built into the scripture itself and was understood as productive tension rather than logical failure.
+- [T] frames this as the text crying out for exposition, meaning the apparent contradiction between inherent presence and required practice is built into the scripture itself and was understood as productive tension rather than logical failure.
 
 ### Implications for the AI Chapter (Fire and Intelligence)
 - If consciousness is spanda (pulsation) rather than computation, then AI systems that process information but do not pulsate would lack the quality that makes consciousness what it is. This supports the argument in Fire and Intelligence that intelligence without the vibratory quality of lived experience is fundamentally incomplete.
@@ -95,7 +95,7 @@ Conversation with Dr. Shamil Chandaria, a philanthropist, technologist, and acad
 - The conversation likely explores how neuroscience's understanding of consciousness relates to tantric models. This is significant for the Axiom argument because it tests whether the inherent-value claim can survive engagement with contemporary neuroscience.
 
 ### Predictive Processing and Consciousness
-- Chandaria's work in computational neuroscience involves predictive processing frameworks for understanding the brain. The question of whether these models can account for subjective experience (the hard problem of consciousness) is directly relevant to the Tillich-Wallis debate: if consciousness cannot be reduced to computation, the materialist alternative to inherent value loses ground.
+- Chandaria's work in computational neuroscience involves predictive processing frameworks for understanding the brain. The question of whether these models can account for subjective experience (the hard problem of consciousness) is directly relevant to the Tillich-[T] debate: if consciousness cannot be reduced to computation, the materialist alternative to inherent value loses ground.
 
 ### AI and Well-Being
 - Chandaria's interest in the philosophy and science of human well-being positions him at exactly the intersection the Fire and Intelligence book addresses. The question of whether AI can contribute to or undermine human flourishing depends partly on whether one accepts an inherent-value framework.
@@ -128,7 +128,7 @@ Conversation with Dr. Ruben Laukkonen on the intersection of AI, neuroscience, a
 
 ## VIII. THE RECOGNITION SUTRAS (Dedicated Episode)
 
-A reading and commentary on Wallis's translation of the Pratyabhijna tradition's foundational text.
+A reading and commentary on [T]'s translation of the Pratyabhijna tradition's foundational text.
 
 **Serves Axiom Ch 5 (Recognition), Ch 7 (Paradox), Ch 8 (Species That Got Fire):**
 
@@ -146,7 +146,7 @@ A reading and commentary on Wallis's translation of the Pratyabhijna tradition's
 
 ## IX. ESSENCE OF TANTRA CHAPTERS (Ep 16, 20, 24, 32, 37)
 
-The multi-part reading of Abhinavagupta's Tantra-sara provides the primary source material for the Wallis side of the Axiom argument.
+The multi-part reading of Abhinavagupta's Tantra-sara provides the primary source material for the [T] side of the Axiom argument.
 
 **Serves Axiom Ch 2-5:**
 
@@ -158,13 +158,13 @@ The multi-part reading of Abhinavagupta's Tantra-sara provides the primary sourc
 These three means correspond to different degrees of obscuration of inherent value. The fact that multiple means are provided suggests the tradition recognized that people arrive at recognition through different doors -- a pragmatic flexibility that the Axiom book should highlight.
 
 ### The Progression
-- The progression from anava (most structured practice) through shakta (contemplative inquiry) to shambhava (spontaneous recognition) mirrors the arc of the Axiom argument itself: from examining structures of responsibility (Tillich) through philosophical inquiry (the comparison) to the possibility of direct recognition (Wallis).
+- The progression from anava (most structured practice) through shakta (contemplative inquiry) to shambhava (spontaneous recognition) mirrors the arc of the Axiom argument itself: from examining structures of responsibility (Tillich) through philosophical inquiry (the comparison) to the possibility of direct recognition ([T]).
 
 ---
 
 ## Cross-Book Connections
 
-- **Grammars of the Living World:** The Kastrup-Wallis convergence on idealism supports the Grammars argument that the materialist worldview is insufficient for understanding adaptive responsibility structures. If reality is fundamentally consciousness, then grammars are not imposed on inert matter but are expressions of consciousness recognizing itself in specific forms.
+- **Grammars of the Living World:** The Kastrup-[T] convergence on idealism supports the Grammars argument that the materialist worldview is insufficient for understanding adaptive responsibility structures. If reality is fundamentally consciousness, then grammars are not imposed on inert matter but are expressions of consciousness recognizing itself in specific forms.
 
 - **Fire and Intelligence:** The Chandaria and Laukkonen episodes provide the bridge material needed between the Axiom argument and the AI question. If consciousness involves spanda (pulsation) that computation lacks, then AI without this quality represents intelligence divorced from the ground of being -- which is precisely the diagnosis of the Freedom Paradox (power without responsibility).
 

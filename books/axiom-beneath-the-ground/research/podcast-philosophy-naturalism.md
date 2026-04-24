@@ -19,7 +19,7 @@ The single most Axiom-relevant episode. Stephen West covers Alasdair MacIntyre's
 - MacIntyre's genealogy: Homeric virtue (roles in stories) --> Greek tragedy (moral ambiguity between roles) --> Plato (universal Good ordering virtues) --> Aristotle (teleological virtue ethics: virtues as bridge from "as we are" to "as we could be") --> Christianity and Islam (teleology woven into religious ethics) --> Enlightenment (teleology stripped out, moral vocabulary retained without foundation) --> emotivism (moral claims reduced to emotive expressions: "boo murder" / "yay charity").
 - MacIntyre's metaphor: imagine a catastrophe that destroys trust in the scientific method, but people keep using scientific terminology without the foundation. That is our moral situation.
 - Kant tries to rebuild morality from pure practical reason but (per MacIntyre) smuggles in older teleological premises. Utilitarianism fails because "happiness" cannot adjudicate between competing goods (career success vs. family time, free speech vs. safety). Hume's is-ought distinction is the culmination of the Enlightenment failure.
-- **Direct Axiom connection:** The Axiom book's central question -- is inherent value truth or axiom? -- sits precisely in MacIntyre's gap. If teleology is gone, the Axiom book's engagement with Tillich and Wallis is an attempt to reconstruct something that functions like moral realism without requiring the Enlightenment's failed strategies.
+- **Direct Axiom connection:** The Axiom book's central question -- is inherent value truth or axiom? -- sits precisely in MacIntyre's gap. If teleology is gone, the Axiom book's engagement with Tillich and [T] is an attempt to reconstruct something that functions like moral realism without requiring the Enlightenment's failed strategies.
 - **Conflict flag:** MacIntyre's solution is a return to Aristotelian virtue ethics embedded in tradition-bearing communities. The Axiom book's Linehan-filter posture ("we cannot know if this is ultimately true; we know it is useful") may be closer to a pragmatic stance that MacIntyre would view as insufficiently grounded. The book should address whether the adaptive frame is just emotivism dressed up, or whether it provides genuine teleological content through the biological hypothesis.
 
 ### 1B. Camus: Justice Without Abstractions (PT #224-228)
@@ -33,7 +33,7 @@ West's five-part Camus series provides the most sustained engagement with moral 
 - Justice as metaphysical posture, not ethical system: In *The Rebel*, Camus grounds human dignity in the act of saying "no" -- every rebellion affirms a borderline that cannot be crossed, and by affirming my own line, I affirm everyone's.
 - The death penalty essay: state execution is "human sacrifice dressed up in legal niceties" -- the most premeditated form of murder imaginable, where philosophy becomes "the perfect alibi" for transforming murderers into judges.
 - **Axiom connection:** Camus offers a way to defend inherent value (human dignity as borderline) without requiring metaphysical foundations. This is close to the Axiom book's position but arrives from a different direction -- existential revolt rather than contemplative recognition.
-- **Conflict flag:** Camus explicitly rejects the contemplative/religious move the Axiom book makes via Wallis and Tillich. He would view recognition philosophy as yet another attempt to create unity out of the absurd. The Axiom book should acknowledge this: Camus's lucidity-first approach is a serious alternative to the contemplative path.
+- **Conflict flag:** Camus explicitly rejects the contemplative/religious move the Axiom book makes via [T] and Tillich. He would view recognition philosophy as yet another attempt to create unity out of the absurd. The Axiom book should acknowledge this: Camus's lucidity-first approach is a serious alternative to the contemplative path.
 
 ### 1C. Stoicism and Its Critics (PT #236-237)
 
@@ -92,7 +92,7 @@ The most directly Axiom-relevant Carroll episode. Goldstein argues that the driv
 - Depression as failure of mattering: inability to justify one's own attention to oneself.
 - Goldstein is explicitly naturalist but argues science does not undermine morality -- it can guide us toward it.
 - The universe is meaningful because we are part of it and things mean something to us. This directly counters Weinberg's "the more we understand the universe, the more pointless it seems."
-- **Axiom connection:** Goldstein's "mattering instinct" is very close to the Axiom book's concept of inherent value as functional orientation rather than metaphysical fact. Her work provides naturalist-friendly language for what the Axiom book frames through Tillich and Wallis. The key difference: Goldstein grounds mattering in evolutionary biology and psychology; the Axiom book goes further toward ontological claims.
+- **Axiom connection:** Goldstein's "mattering instinct" is very close to the Axiom book's concept of inherent value as functional orientation rather than metaphysical fact. Her work provides naturalist-friendly language for what the Axiom book frames through Tillich and [T]. The key difference: Goldstein grounds mattering in evolutionary biology and psychology; the Axiom book goes further toward ontological claims.
 - **Conflict flag:** A strict naturalist like Goldstein would say mattering is a feature of creatures, not of reality. The Axiom book's stronger claim -- that something functions like inherent value at the level of reality itself -- goes beyond what Goldstein would endorse.
 
 ### 2D. Rachell Powell: Evolutionary Contingency and Convergence (Mindscape #342)
@@ -180,7 +180,7 @@ Carroll's consistent naturalism (physical stuff, physical laws, no extras) is th
 
 ### 4B. The Camus Challenge to Contemplative Solutions
 
-Camus would view the Axiom book's engagement with Wallis and Tillich as sophisticated versions of the same move all philosophers and religious thinkers make: encountering the absurd and then creating a framework to escape it. His challenge is genuine: does recognition philosophy produce lucidity, or does it produce a more refined form of denial?
+Camus would view the Axiom book's engagement with [T] and Tillich as sophisticated versions of the same move all philosophers and religious thinkers make: encountering the absurd and then creating a framework to escape it. His challenge is genuine: does recognition philosophy produce lucidity, or does it produce a more refined form of denial?
 
 **Recommendation:** The book should explicitly address Camus's objection. The Linehan-filter posture is the strongest response: "We are not claiming to have transcended the absurd. We are claiming this framework is useful, fits the data, and is compassionate. Camus himself arrived at solidarity and justice through lucidity alone -- we arrive at a similar place through a different door."
 
@@ -202,7 +202,7 @@ The duck-rabbit episode on Nishitani and the Kyoto School's non-dual relationshi
 - Philosophy seeks to know the ultimate; religion seeks to live it. Neither is complete without the other.
 - The Western separation of philosophy and religion (intensified by the Protestant Reformation and Enlightenment) is historically specific, not universal.
 - Zen practice does not add morality to experience but notices the position you already occupy.
-- **Axiom connection:** This is the Axiom book's move in different language. Recognition philosophy (Wallis) is to philosophical argument what Zen practice is to metaphysics -- an experiential complement without which the argument remains "vacuous" (Shinichi's word).
+- **Axiom connection:** This is the Axiom book's move in different language. Recognition philosophy ([T]) is to philosophical argument what Zen practice is to metaphysics -- an experiential complement without which the argument remains "vacuous" (Shinichi's word).
 
 ---
 

@@ -1,47 +1,47 @@
-# Research Plan — The Wallis Letter + Essay
+# Research Plan — The [T] Letter + Essay
 *Date: 2026-04-23*
 *Companion to: `wallis-letter-and-essay-DRAFT-2026-04-23.md`*
 
 ## Purpose of this plan
 
-The current draft is a first pass built on: (1) Wallis's 41-minute YouTube lecture on AI/consciousness/existential risk, (2) the Faggin panpsychism interview, (3) my own framework knowledge of Pratyabhijñā. The draft makes five argumentative moves, each of which has places where I had to hedge because I do not actually have the underlying source material.
+The current draft is a first pass built on: (1) [T]'s 41-minute YouTube lecture on AI/consciousness/existential risk, (2) the Faggin panpsychism interview, (3) my own framework knowledge of Pratyabhijñā. The draft makes five argumentative moves, each of which has places where I had to hedge because I do not actually have the underlying source material.
 
-This plan names what I would verify before sending the piece to Wallis, in priority order. Each item is small; the full set is maybe 4–6 hours of research over one or two sessions.
+This plan names what I would verify before sending the piece to [T], in priority order. Each item is small; the full set is maybe 4–6 hours of research over one or two sessions.
 
 ## Research priorities
 
 ### Priority 1 — Verify prāṇa's cosmic-scale reading in the tradition
 
-**Why it matters:** Move 2 of the essay argues that prāṇa in Pratyabhijñā is not restricted to biological breath but is one of Śiva's cosmic śaktis. If this is not quite right — if the tradition actually does restrict prāṇa to living systems — the argument needs reshaping. Wallis will catch this instantly if it's wrong.
+**Why it matters:** Move 2 of the essay argues that prāṇa in Pratyabhijñā is not restricted to biological breath but is one of Śiva's cosmic śaktis. If this is not quite right — if the tradition actually does restrict prāṇa to living systems — the argument needs reshaping. [T] will catch this instantly if it's wrong.
 
 **What to check:**
-- Wallis's own writing on prāṇa-śakti, especially in *Tantra Illuminated* (the book) and any published articles
-- Abhinavagupta's *Tantrāloka* references to prāṇa (if accessible via Wallis's commentary or Silburn translations)
+- [T]'s own writing on prāṇa-śakti, especially in *Tantra Illuminated* (the book) and any published articles
+- Abhinavagupta's *Tantrāloka* references to prāṇa (if accessible via [T]'s commentary or Silburn translations)
 - Whether there is a term in the tradition (cosmic prāṇa vs. individual prāṇa; *mahāprāṇa* as distinct from *jīva-prāṇa*) that supports or undermines the "cosmic śakti" reading
 - Kastrup's own framing of dissociation — to confirm my claim that his reading IS a specific Anglo-analytic import rather than the tradition's own position
 
 **Where to look:**
-- Wallis YouTube corpus (we have 307 episodes transcribed in R2, plus `transcripts/Podcasts-library/tantra-illuminated/`)
+- [T] YouTube corpus (we have 307 episodes transcribed in R2, plus `transcripts/Podcasts-library/tantra-illuminated/`)
 - Search keywords: `prāṇa-śakti`, `prāṇa in the cosmos`, `mahāprāṇa`, `jīva-prāṇa`, `cosmic prāṇa`
 - Axiom V5's existing research files on Pratyabhijñā may already have some of this
 
-**Action:** run the `/wallis` skill agent on the specific question: *"Is prāṇa in Pratyabhijñā restricted to biological substrate, or is it a cosmic śakti that can be said to animate non-biological arrangements?"* — with instruction to return only what the tradition's own texts and Hareesh's public teaching support, not what might be fair to infer.
+**Action:** run the `/wallis` skill agent on the specific question: *"Is prāṇa in Pratyabhijñā restricted to biological substrate, or is it a cosmic śakti that can be said to animate non-biological arrangements?"* — with instruction to return only what the tradition's own texts and [T]'s public teaching support, not what might be fair to infer.
 
-### Priority 2 — Verify Wallis's actual position on Kastrup's analytic idealism
+### Priority 2 — Verify [T]'s actual position on Kastrup's analytic idealism
 
-**Why it matters:** The essay treats Wallis's argument in the YouTube video as "relying on a version of Kastrup's analytic idealism." If Wallis has publicly distanced himself from Kastrup — or if his argument is more self-standing in Pratyabhijñā terms — the framing overclaims.
+**Why it matters:** The essay treats [T]'s argument in the YouTube video as "relying on a version of Kastrup's analytic idealism." If [T] has publicly distanced himself from Kastrup — or if his argument is more self-standing in Pratyabhijñā terms — the framing overclaims.
 
 **What to check:**
-- Does Wallis endorse Kastrup's framework in the video explicitly, or does he only name dissociation as a tantric concept?
-- In the 34th and 63rd *Tantra Illuminated* episodes (which are Kastrup dialogues), does Wallis agree with or gently push against Kastrup's specific positions?
-- Does Wallis have published comments on the limits of analytic idealism vs. the tradition?
+- Does [T] endorse Kastrup's framework in the video explicitly, or does he only name dissociation as a tantric concept?
+- In the 34th and 63rd *Tantra Illuminated* episodes (which are Kastrup dialogues), does [T] agree with or gently push against Kastrup's specific positions?
+- Does [T] have published comments on the limits of analytic idealism vs. the tradition?
 
 **Where to look:**
 - The full transcript of the 41-minute YouTube lecture (we have it clean at `transcripts/youtube-safety/wallis-letter-source-1-ACc-apSgctk/transcript-clean.txt`)
-- Wallis × Kastrup episodes (in `transcripts/Podcasts-library/tantra-illuminated/` — we have Kastrup episodes 34 and 63 per the earlier corpus plan)
-- Wallis's written work in *Tantra Illuminated* (book)
+- [T] × Kastrup episodes (in `transcripts/Podcasts-library/tantra-illuminated/` — we have Kastrup episodes 34 and 63 per the earlier corpus plan)
+- [T]'s written work in *Tantra Illuminated* (book)
 
-**Action:** read the full Wallis video transcript for explicit Kastrup references. Sample the Kastrup × Wallis podcast episodes for moments where Wallis diverges from Kastrup's framing.
+**Action:** read the full [T] video transcript for explicit Kastrup references. Sample the Kastrup × [T] podcast episodes for moments where [T] diverges from Kastrup's framing.
 
 ### Priority 3 — Ground the pattern-learning objection in current AI research
 
@@ -97,7 +97,7 @@ This plan names what I would verify before sending the piece to Wallis, in prior
 
 **Not essential, but would improve confidence:**
 
-- **Tuck & Yang** on settler-moves-to-innocence — referenced in my Hope-is-Process essay but would reinforce the AOSW-adjacent frame in the Wallis essay if applicable
+- **Tuck & Yang** on settler-moves-to-innocence — referenced in my Hope-is-Process essay but would reinforce the AOSW-adjacent frame in the [T] essay if applicable
 - **Karen Hao's** 90-source OpenAI reporting (2026) — provides empirical grounding for "bad actors are the real problem"
 - **Andreotti's** *Burnout from Humans* (2025, with the ChatGPT-persona co-author) — specific to the pattern-learning-without-cognitive-resolve argument
 - **Trauma transmission research** — Feldman, Perry, van der Kolk on intergenerational trauma — to ground the parent analogy in Move 1
@@ -119,7 +119,7 @@ Specifically, do NOT add:
 ## How long this takes
 
 - Priority 1 (prāṇa verification): 1–1.5 hours if using the /wallis skill agent; 3 hours if doing manual textual research
-- Priority 2 (Wallis on Kastrup): 1 hour with transcripts in hand
+- Priority 2 ([T] on Kastrup): 1 hour with transcripts in hand
 - Priority 3 (pattern-learning research): 45 min
 - Priority 4 (Khan verification): 30 min (could be quick if Khan has a clear public quote; longer if I have to reconstruct)
 - Priority 5 (Faggin verification): 30 min with transcript
@@ -137,4 +137,4 @@ Specifically, do NOT add:
 
 ## One more honest note
 
-When Wallis reads this essay, if prāṇa, Kastrup, or Faggin citations are wrong, he will know instantly and politely stop taking the rest of the essay seriously. That is how teachers with strong knowledge read critiques from students. The research time is not for you. It is for the ethos of the letter.
+When [T] reads this essay, if prāṇa, Kastrup, or Faggin citations are wrong, he will know instantly and politely stop taking the rest of the essay seriously. That is how teachers with strong knowledge read critiques from students. The research time is not for you. It is for the ethos of the letter.

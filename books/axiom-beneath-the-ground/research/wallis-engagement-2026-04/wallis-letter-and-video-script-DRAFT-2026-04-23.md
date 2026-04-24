@@ -1,4 +1,4 @@
-# Private Letter + Proposed Video Script — for Christopher Wallis (Hareesh)
+# Private Letter + Proposed Video Script — for [T]
 *Status: first draft. Private. Not for publication. An application to collaborate.*
 *Author: PlayfulProcess · Date: 2026-04-23*
 
@@ -8,7 +8,7 @@
 
 *≈450 words. Tone: respectful, student-to-teacher, professionally direct.*
 
-Dear Hareesh,
+Dear [T],
 
 I have been sitting with your April 2023 video *"Artificial Intelligence (AI), Consciousness, and Existential Risk: the Tantric View"* for almost a year. I came back to it often while I wrote a book of my own on the alignment question. I am writing now with gratitude, with a specific proposal, and with an offer.
 
@@ -125,7 +125,7 @@ May all beings benefit.
 
 *(≈250 words, optional attachment to the letter)*
 
-I am PlayfulProcess. I have been building independently for the last three years after leaving a career in equity research at Goldman Sachs. I am currently finishing an MSW and writing a book called *The Axiom Beneath the Ground: The Alignment Void*, engaging the AI question through a frame that draws, in places, on your translation of the Pratyabhijñā and Wallis-taught Śaiva metaphysics.
+I am PlayfulProcess. I have been building independently for the last three years after leaving a career in equity research at Goldman Sachs. I am currently finishing an MSW and writing a book called *The Axiom Beneath the Ground: The Alignment Void*, engaging the AI question through a frame that draws, in places, on your translation of the Pratyabhijñā and [T]-taught Śaiva metaphysics.
 
 Alongside the book, I have built **recursive.eco** — a journaling platform that lets practitioners build their own symbolic grammars (tarot, I Ching, story-frameworks, custom systems). It is dark-themed, purple-accented, non-algorithmic, not engagement-optimized. A small number of people use it daily. I would not call it successful yet. I would call it *tended.*
 
@@ -149,7 +149,7 @@ Whatever you decide, thank you for the work. The pages that follow are yours to 
 
 3. **The one-pager attachment.** I wrote 250 words — Goldman background, MSW, book-in-progress, recursive.eco. Everything in it is true per what you've told me. Is there anything you'd cut, add, or reframe? The goal is "I am serious and have a track record" without overclaiming. Don't want it to read as résumé; does it?
 
-4. **The script's register.** I wrote it trying to match Wallis's teaching register — measured, tradition-anchored, precise Sanskrit, warm. Does it sound like him? You know his voice better than I do. Flag anything that sounds off.
+4. **The script's register.** I wrote it trying to match [T]'s teaching register — measured, tradition-anchored, precise Sanskrit, warm. Does it sound like him? You know his voice better than I do. Flag anything that sounds off.
 
 5. **The non-corporeal-beings argument.** I put it in Section 2 as the core move that unseats the biological-substrate restriction. It's load-bearing for the whole script. Is the argument sound on the tradition's terms? Any refinement needed?
 

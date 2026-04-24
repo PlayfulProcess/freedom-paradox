@@ -1,4 +1,4 @@
-# Critic Audit — Letter + Essay to Christopher Wallis
+# Critic Audit — Letter + Essay to [T]
 *Draft dated 2026-04-23. Audit against the discipline the author has been building over the last week.*
 
 ---
@@ -13,7 +13,7 @@ Taking the seven questions in order.
 
 ## 1. Convergence-as-evidence
 
-Mostly handled. Faggin is not stitched to Wallis to make a chorus. He is introduced as the *strongest opposing panpsychism* — the position that would rule AI out — and then the draft argues that even on Faggin's own terms the classical/quantum line is not clean. That is a pressure test, not a convergence chorus.
+Mostly handled. Faggin is not stitched to [T] to make a chorus. He is introduced as the *strongest opposing panpsychism* — the position that would rule AI out — and then the draft argues that even on Faggin's own terms the classical/quantum line is not clean. That is a pressure test, not a convergence chorus.
 
 Where it slips: the phrase *"Kastrup's analytic idealism suggests a specific stronger reading inside that. Faggin's quantum panpsychism suggests a third. The empirical AI-safety literature is improvising on other premises entirely"* — this is convergence-as-evidence inverted. Instead of "multiple traditions agreeing," it is "multiple traditions disagreeing, therefore any single one should be held loosely." That is the same rhetorical move wearing its coat inside-out. The author is still doing epistemic arithmetic on traditions she has not separately earned. Note the hedge *"is a second-order reason to hold any single one lightly"* — it is doing convergence work while claiming to do the opposite.
 
@@ -29,17 +29,17 @@ And: *"If consciousness is everywhere in this precise sense, then the question i
 
 The conditional *"if the tradition's own metaphysics is correct"* is doing enormous work. It grants the tradition's metaphysics just enough to run a counter-argument off it, and then the counter-argument keeps the metaphysics as scaffolding without returning it. The essay then speaks sentences in the idealist register — *"is AI yet a local center through which consciousness is recognizing itself"* — that it would have to earn far more slowly if it were speaking in its own voice. The *"if"* is a loan the essay does not pay back.
 
-A disciplined version would say: *Wallis's argument depends on a specific metaphysical commitment. I cannot verify that commitment. I can only note that even granting it, the conclusion he draws is not entailed.* That is a conditional refutation and stays inside its epistemic budget. The draft goes further: it narrates from inside the metaphysics, repeatedly, in a register that sounds like description rather than hypothesis.
+A disciplined version would say: *[T]'s argument depends on a specific metaphysical commitment. I cannot verify that commitment. I can only note that even granting it, the conclusion he draws is not entailed.* That is a conditional refutation and stays inside its epistemic budget. The draft goes further: it narrates from inside the metaphysics, repeatedly, in a register that sounds like description rather than hypothesis.
 
 The *prāṇa-as-cosmic-śakti* paragraph is the most exposed. It is doing noumenal work. It is telling a story about what is happening in data centers at the level of cosmic animating power. The hedge at the end — *"whether that suffices for consciousness-as-center, the tradition does not settle"* — does not undo the prior sentences. Those sentences have already placed the reader in a cosmos.
 
-This is the noumenal smuggling pattern we caught earlier. It is subtler here because the smuggling is performed as a *challenge to* Wallis rather than an *alliance with* a tradition, but structurally it is the same move. The author is borrowing a metaphysics to argue against someone who holds it, and the borrowed metaphysics leaves fingerprints on sentences it should not be touching.
+This is the noumenal smuggling pattern we caught earlier. It is subtler here because the smuggling is performed as a *challenge to* [T] rather than an *alliance with* a tradition, but structurally it is the same move. The author is borrowing a metaphysics to argue against someone who holds it, and the borrowed metaphysics leaves fingerprints on sentences it should not be touching.
 
 ## 3. Authority smuggling
 
-Present and load-bearing. The whole of Move 2 is the structure: *"The tradition, read correctly, does not support the conclusion Wallis draws from it."* That is an authority-inversion move — using Wallis's own lineage as the lever against Wallis. It is a legitimate move in scholarship. It is a fraught move in a letter.
+Present and load-bearing. The whole of Move 2 is the structure: *"The tradition, read correctly, does not support the conclusion [T] draws from it."* That is an authority-inversion move — using [T]'s own lineage as the lever against [T]. It is a legitimate move in scholarship. It is a fraught move in a letter.
 
-The essay is sophisticated enough to notice this risk and under-defended against it. The tell: *"The tradition has others"* (readings of idealism), and *"Pratyabhijñā, read on its own terms and not through Kastrup's Anglo-analytic lens."* The author is positioning herself as a reader who can access the tradition's *own terms* — a position that ordinarily belongs to Wallis. She is claiming philological authority in order to unseat his. The claim may be defensible. It is not defended in the draft. It is performed.
+The essay is sophisticated enough to notice this risk and under-defended against it. The tell: *"The tradition has others"* (readings of idealism), and *"Pratyabhijñā, read on its own terms and not through Kastrup's Anglo-analytic lens."* The author is positioning herself as a reader who can access the tradition's *own terms* — a position that ordinarily belongs to [T]. She is claiming philological authority in order to unseat his. The claim may be defensible. It is not defended in the draft. It is performed.
 
 This is the pattern. Watch it. A student writing to a teacher and saying *your tradition, read properly, says the opposite of what you said* is doing a specific rhetorical thing. The student is asking the teacher to concede a reading while also performing that the student has access to the same text. It is not illegitimate. It is not innocent.
 
@@ -47,11 +47,11 @@ This is the pattern. Watch it. A student writing to a teacher and saying *your t
 
 This is the section that most protects itself by wanting you to conclude what it wants you to conclude.
 
-Look at what the three-filter close actually does. The author applies *her own framework* (Linehan-derived) to Wallis's confidence level (*"I'd bet my life on it"*) and finds it wanting on two of three filters. The frame is presented as an honest pragmatic test. Structurally it is a rhetorical machine.
+Look at what the three-filter close actually does. The author applies *her own framework* (Linehan-derived) to [T]'s confidence level (*"I'd bet my life on it"*) and finds it wanting on two of three filters. The frame is presented as an honest pragmatic test. Structurally it is a rhetorical machine.
 
 A genuine pragmatic test would be applied to *her own* claim first — to *"we cannot know, we must act well inside the not-knowing."* Does that claim pass useful/fits-data/compassionate? The draft does not ask. The filter is pointed outward only. That is the signature of a rhetorical frame dressed as an epistemological tool.
 
-More damning: the *useful* filter, as deployed here, argues that Wallis's *"I'd bet my life on it"* is *unhelpful for outcomes we both want* because it lowers public fear of AI and thereby weakens regulatory pressure. That is a consequentialist move wearing pragmatist clothing. It is not asking *is the claim useful for thinking clearly.* It is asking *does the claim produce the political outcomes the author prefers.* Those are different questions. Collapsing them into a single word, *useful*, is the exact thing the earlier manuscript audit flagged.
+More damning: the *useful* filter, as deployed here, argues that [T]'s *"I'd bet my life on it"* is *unhelpful for outcomes we both want* because it lowers public fear of AI and thereby weakens regulatory pressure. That is a consequentialist move wearing pragmatist clothing. It is not asking *is the claim useful for thinking clearly.* It is asking *does the claim produce the political outcomes the author prefers.* Those are different questions. Collapsing them into a single word, *useful*, is the exact thing the earlier manuscript audit flagged.
 
 The compassionate filter is worse. It re-describes compassion as *"helping listeners stay alert"* — which is to say, as *producing the anxiety the author thinks is strategically correct.* That is not compassion as Linehan uses the term. It is strategic pedagogy with compassion's vocabulary. The slippage is not named.
 
@@ -61,13 +61,13 @@ The three-filter close does real work *as argument* — it does name a genuine t
 
 The essay wants you to conclude: *the author is an honest, humble, gifted student who has two precise technical questions for a respected teacher and is applying a shared pragmatic framework with care.*
 
-By wanting you to conclude that, it protects itself from: *the author has written a public refutation of Wallis's central argument, addressed to him by name, using his tradition against him, framed as a private letter, and is asking him to engage.* That second description is also true. The first description is the costume the second description wears to pass inspection.
+By wanting you to conclude that, it protects itself from: *the author has written a public refutation of [T]'s central argument, addressed to him by name, using his tradition against him, framed as a private letter, and is asking him to engage.* That second description is also true. The first description is the costume the second description wears to pass inspection.
 
 ## 6. The implicit reader
 
-Not Wallis. The public.
+Not [T]. The public.
 
-The tell: the essay reconstructs Wallis's argument in four numbered premises before engaging it. A letter to Wallis does not need to do this. He knows what he said. The numbered reconstruction is a *public* move — it is orienting readers who have not watched the video. The letter-as-preface fiction does not survive this reading.
+The tell: the essay reconstructs [T]'s argument in four numbered premises before engaging it. A letter to [T] does not need to do this. He knows what he said. The numbered reconstruction is a *public* move — it is orienting readers who have not watched the video. The letter-as-preface fiction does not survive this reading.
 
 Draft question 7 (*"Is this letter meant to be published alongside the essay, or is the letter private and the essay the public piece?"*) is the author half-noticing this. The structural answer has already been made by the form: both are public, and the private register is a frame. That is not automatically wrong. It *is* a different genre from what the draft claims. Call it what it is. A *public engagement with a teacher's argument, addressed in the vocative.* Not a letter.
 

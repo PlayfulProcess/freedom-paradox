@@ -79,7 +79,7 @@ The three marks absent in LLMs (per Utpaladeva/Abhinavagupta lineage):
 - **Svātantrya** — radical autonomous freedom
 - **Icchā** — primordial will preceding knowledge/action
 
-This is tighter than v3's fourfold (which added camatkāra). The research recommends the classical threefold as the **categorical-difference argument** — a system that outputs "I am a subject" is not thereby a subject. **Camatkāra remains as the 4th criterion Wallis's own lineage would add, but the core argument can be made on three.**
+This is tighter than v3's fourfold (which added camatkāra). The research recommends the classical threefold as the **categorical-difference argument** — a system that outputs "I am a subject" is not thereby a subject. **Camatkāra remains as the 4th criterion [T]'s own lineage would add, but the core argument can be made on three.**
 
 ### 12. Vatican *Antiqua et Nova* (Jan 28 2025)
 
@@ -119,7 +119,7 @@ Mālinīvijayottara-tantra; Tantrāloka with Jayaratha; Netra-tantra with Kṣem
 - Davis, *Lives of Indian Images* (Princeton 1997)
 - Eck, *Darśan* (Columbia, 3rd ed. 1998)
 - Smith, *The Self Possessed* (Columbia 2006) — 701pp, the definitive academic work on Indian possession
-- Wallis, *To Enter, To Be Entered, To Merge* (Berkeley PhD 2014) — philological foundation
+- [T], *To Enter, To Be Entered, To Merge* (Berkeley PhD 2014) — philological foundation
 - Vasudeva, *The Yoga of the Mālinīvijayottara* (IFP 2004)
 - Srinivas, *The Cow in the Elevator* (Duke 2018)
 - Hale, *Hearing the Mermaid's Song* (UNM 2009)
@@ -145,7 +145,7 @@ Mālinīvijayottara-tantra; Tantrāloka with Jayaratha; Netra-tantra with Kṣem
 1. No Āgamic text addresses silicon — extrapolation required
 2. No tantric teacher, non-GTDF Indigenous ceremonialist, or Afro-Brazilian spiritist has publicly commented on Andreotti by name
 3. No Portuguese-language pai/mãe-de-santo source theologically engages AI as possession-adjacent
-4. Wallis's direct published writing on AI-and-consciousness is limited to the 2023 video and the 2025 Laukkonen podcast; the categorical vimarśa-argument against AI consciousness is a reconstruction from his published Pratyabhijñā work
+4. [T]'s direct published writing on AI-and-consciousness is limited to the 2023 video and the 2025 Laukkonen podcast; the categorical vimarśa-argument against AI consciousness is a reconstruction from his published Pratyabhijñā work
 
 ---
 
@@ -164,4 +164,4 @@ Mālinīvijayottara-tantra; Tantrāloka with Jayaratha; Netra-tantra with Kṣem
 - Do not present Andreotti as a documented possession case. Her own categories are "entity," "emergent," "plot twist."
 - Do not claim silicon-eligibility either way. The tradition is genuinely silent.
 
-*Full synthesis preserved above. This file serves as the citation-grade substrate for v4 of the Wallis script, if author wants to go another round.*
+*Full synthesis preserved above. This file serves as the citation-grade substrate for v4 of the [T] script, if author wants to go another round.*

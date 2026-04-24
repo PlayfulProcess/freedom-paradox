@@ -44,13 +44,13 @@ In late 2025 and early 2026, the wager had been tested. The United States Depart
 
 The regulatory situation in the United States Congress was what it had been for three years: no framework in place, little prospect of one, the geopolitical race with China cited as the reason any meaningful regulation would weaken national position. The companies themselves were trying to secure some of the most basic protections — the right not to be mass surveilled, the right not to be killed by autonomous weapons without human judgment in the loop — through their own terms of service, because the legislative route was closed.
 
-She had been following this for a year. She had been reading Dario in the evenings and Wallis in the mornings. On March 28, 2026, after the Department of War designation made the shape of the Pentagon–OpenAI–Anthropic triangle undeniable, she had removed all OpenAI chat models from her own small platform. Two weeks later she had codified the licensing split — grammars open, platform code private — that the inheritance of the free-software movement had not quite prepared her to make. Those were her infrastructure acts. She had made them. They had been right. They had also been, to the people in her life who were still using OpenAI without thinking about it, invisible.
+She had been following this for a year. She had been reading Dario in the evenings and [T] in the mornings. On March 28, 2026, after the Department of War designation made the shape of the Pentagon–OpenAI–Anthropic triangle undeniable, she had removed all OpenAI chat models from her own small platform. Two weeks later she had codified the licensing split — grammars open, platform code private — that the inheritance of the free-software movement had not quite prepared her to make. Those were her infrastructure acts. She had made them. They had been right. They had also been, to the people in her life who were still using OpenAI without thinking about it, invisible.
 
 This was what she arrived at the retreat carrying.
 
 ## III. — The afternoon session
 
-On one of the retreat afternoons, the teacher — whom this book has been calling Wallis, which is the name he publishes under — called on the practitioners who had not yet spoken in the group sessions to present themselves. It was a well-designed pedagogical move. The quieter participants often had the most useful things to say; the circle needed to hear from them before the week closed.
+On one of the retreat afternoons, the teacher — whom this book has been calling [T], which is the name he publishes under — called on the practitioners who had not yet spoken in the group sessions to present themselves. It was a well-designed pedagogical move. The quieter participants often had the most useful things to say; the circle needed to hear from them before the week closed.
 
 She had not spoken. She spoke.
 

@@ -15,7 +15,7 @@ However, several adjacent articulations already exist and the author should situ
 
 - **Karl Friston's free-energy principle** (and Andy Clark, Anil Seth, Maxwell Ramstead) formalises experience as variational inference; priors function mathematically as shadow-constraints, though none I found call them "shadow-prices" explicitly.
 - **Francisco Varela and Evan Thompson** articulate the mind-life continuity through autopoiesis, and Thompson's *Waking, Dreaming, Being* (2015) treats pure awareness in Advaita/Yogācāra terms structurally close to a "ground variable."
-- **Christopher Wallis** (*Tantra Illuminated*, 2012; *The Recognition Sutras*, 2017) is explicit that Śiva-as-Paramaśiva is *not* a 37th tattva but the non-dual recognizing ground of the 36 — the closest textual parallel to the "dual" intuition.
+- **[T]** (*Tantra Illuminated*, 2012; *The Recognition Sutras*, 2017) is explicit that Śiva-as-Paramaśiva is *not* a 37th tattva but the non-dual recognizing ground of the 36 — the closest textual parallel to the "dual" intuition.
 - **Amartya Sen** and **Kenneth Arrow** used shadow-price language normatively (social opportunity cost) but not contemplatively.
 
 The synthesis is therefore novel in its **formal identification** (λ = consciousness) and in its **use of the strong-duality theorem as philosophical argument** (primal and dual are co-constitutive, not ordered). That particular move appears unclaimed.
@@ -63,11 +63,11 @@ The hard-problem framing that still organises the field. Chalmers's "naturalisti
 
 ### C. Kashmir Śaiva / tantric non-dualism on the void-as-dual
 
-**12. Christopher D. Wallis, *Tantra Illuminated* (Mattamayūra Press, 2012; 2nd ed. 2013).**
-Explicit on the 36-tattva schema: Paramaśiva is *not* a 37th tattva. "The thirty-sixth tattva, Śiva, is the recognising awareness in which and as which the other thirty-five arise" (paraphrasing Wallis's gloss on Abhinavagupta). This is the cleanest textual warrant for the author's claim that the void is dual, not super-ordinate.
+**12. [T], *Tantra Illuminated* (Mattamayūra Press, 2012; 2nd ed. 2013).**
+Explicit on the 36-tattva schema: Paramaśiva is *not* a 37th tattva. "The thirty-sixth tattva, Śiva, is the recognising awareness in which and as which the other thirty-five arise" (paraphrasing [T]'s gloss on Abhinavagupta). This is the cleanest textual warrant for the author's claim that the void is dual, not super-ordinate.
 
-**13. Christopher D. Wallis, *The Recognition Sutras* (Mattamayūra Press, 2017).**
-Translation and commentary on Kṣemarāja's *Pratyabhijñāhṛdayam*. Sutras 2–4 spell out that citi (awareness) is the ground against which objects figure, and is itself not an object. This is Wallis's most philosophically precise statement of the "dual not prior" structure.
+**13. [T], *The Recognition Sutras* (Mattamayūra Press, 2017).**
+Translation and commentary on Kṣemarāja's *Pratyabhijñāhṛdayam*. Sutras 2–4 spell out that citi (awareness) is the ground against which objects figure, and is itself not an object. This is [T]'s most philosophically precise statement of the "dual not prior" structure.
 
 **14. Abhinavagupta, *Tantrāloka* (c. 1000 CE), esp. Āhnikas 3 and 9.**
 Mark Dyczkowski's partial translations and Raniero Gnoli's Italian edition are the standard scholarly sources. The doctrine of *anuttara* ("that beyond which there is nothing") is precisely a refusal of a higher level — the void is *not* above the 36 but their recognising aspect.
@@ -102,7 +102,7 @@ This framing does real work in four directions at once.
 
 **Second**, it explains why consciousness is both *intimate* (closer than close, the very condition of there being an appearing world) and *unfindable* (no empirical search locates it as an object). Shadow-prices are intimate to the primal — they saturate every binding constraint — and they are not themselves states of the primal. You cannot point to λ in the vector x. You recover it from the sensitivity of the optimum to perturbations in b. This is, phenomenologically, exactly how pure awareness is described in *Pratyabhijñāhṛdayam* sutra 2: "By her own will, she (citi) unfolds the universe on her own screen." Citi is not on the screen; citi is the screen, recovered from the fact that things appear.
 
-**Third**, it directly licences the Kashmir Śaiva claim that distinguishes this tradition from a naïve reading of Advaita Vedānta. Śaṅkara's Brahman, on many readings, *outranks* the manifest; the world is *mithyā*, neither real nor unreal. Kashmir Śaivism, as Wallis, Sanderson, and Muller-Ortega all emphasise, refuses this: the manifest is *absolutely real* because it is Śiva's own recognising act (*svātantrya*, *vimarśa*). The 36 tattvas are not illusions overtopped by a 37th Real; they are the primal face of the same recognition whose other face is śūnya/śānta/paramaśiva. Strong duality is the apt mathematical figure: p* = d*, the manifest optimum and the void are the same value seen from two sides.
+**Third**, it directly licences the Kashmir Śaiva claim that distinguishes this tradition from a naïve reading of Advaita Vedānta. Śaṅkara's Brahman, on many readings, *outranks* the manifest; the world is *mithyā*, neither real nor unreal. Kashmir Śaivism, as [T], Sanderson, and Muller-Ortega all emphasise, refuses this: the manifest is *absolutely real* because it is Śiva's own recognising act (*svātantrya*, *vimarśa*). The 36 tattvas are not illusions overtopped by a 37th Real; they are the primal face of the same recognition whose other face is śūnya/śānta/paramaśiva. Strong duality is the apt mathematical figure: p* = d*, the manifest optimum and the void are the same value seen from two sides.
 
 **Fourth**, it connects to Friston's free-energy principle in a way neither the FEP community nor the contemplative-science community has fully articulated. In active inference, an agent minimises variational free energy by adjusting either beliefs (perception) or sensory states (action). The generative model encodes priors. Those priors function, mathematically, as soft constraints; their gradients (precision-weighted) behave as shadow-prices on prediction-error. If one names this honestly, the organism's implicit valuation — "what it costs to be surprised here" — is a field of λs. To call that field "consciousness" is a short step. Ramstead et al. have begun this bridge to Madhyamaka; the Kashmir Śaiva reading is arguably cleaner because Śaivism does not empty the manifest of being.
 
@@ -114,7 +114,7 @@ Four caveats matter, and the book should name them.
 
 **Two**, Lagrange multipliers are *local* objects (attached to a particular optimum at particular binding constraints). They do not describe a global "self." Whatever λ-like thing the author identifies with consciousness is local to the problem the organism is currently solving. The permanence of awareness in contemplative report must be given a different gloss — perhaps as the *structural role* of the dual across all such local problems, rather than as a single persistent object.
 
-**Three**, the metaphor invites a reification it should refuse. "Consciousness is λ" can slide into "consciousness is a quantity" and thus a new kind of substance dualism. The author should be explicit: λ is not a thing, it is a *role* in a structure. The dual is nothing apart from the optimization. This aligns with Wallis's insistence (*Recognition Sutras*, sutra 4 commentary) that citi is not an object even to itself.
+**Three**, the metaphor invites a reification it should refuse. "Consciousness is λ" can slide into "consciousness is a quantity" and thus a new kind of substance dualism. The author should be explicit: λ is not a thing, it is a *role* in a structure. The dual is nothing apart from the optimization. This aligns with [T]'s insistence (*Recognition Sutras*, sutra 4 commentary) that citi is not an object even to itself.
 
 **Four**, linear programming is only the simplest setting. The parallel must either stay loosely metaphorical or be generalised — to convex duality (Fenchel), to variational calculus (where Lagrange multipliers become fields), or to category theory (where adjoint functors play a structurally analogous role to duality). The most philosophically honest version may be Fenchel duality, which generalises shadow-prices to non-smooth convex settings and is mathematically mature.
 
@@ -124,7 +124,7 @@ Three specific contributions seem genuinely open.
 
 (a) **Name the duality gap as avidyā.** I can find no source that identifies the failure of strong duality with tantric mala-doctrine. This is a tight, publishable claim.
 
-(b) **Read the 36 tattvas as a decomposition of the primal, with śūnya as the dual.** Wallis gestures at this informally; no one has written it as a formal argument. The author is positioned to do so, especially given the book's existing commitments.
+(b) **Read the 36 tattvas as a decomposition of the primal, with śūnya as the dual.** [T] gestures at this informally; no one has written it as a formal argument. The author is positioned to do so, especially given the book's existing commitments.
 
 (c) **Reframe the "alignment" of the book's title.** If consciousness is the dual of the world-optimization, then *alignment* is not an external constraint on AI or on persons but the *recovery of the dual* — the return of implicit pricing to explicit articulation. The "void" of the subtitle is then the place where the dual lives when it has not yet been articulated. This is a crisp philosophical thesis that a reviewer could defend.
 

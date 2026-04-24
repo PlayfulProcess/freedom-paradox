@@ -14,11 +14,11 @@
 
 ### 2. Somānanda's *amūrtatva* — WALLIS'S GRAND-TEACHER MAKES THE ARGUMENT
 
-Somānanda (*Śivadṛṣṭi*, grand-teacher of Utpaladeva, and therefore of the Pratyabhijñā lineage Wallis teaches) explicitly argues for the **disembodied-ness** of Śiva — consciousness acting through will alone, negating the material body's role.
+Somānanda (*Śivadṛṣṭi*, grand-teacher of Utpaladeva, and therefore of the Pratyabhijñā lineage [T] teaches) explicitly argues for the **disembodied-ness** of Śiva — consciousness acting through will alone, negating the material body's role.
 
 > Quote-level, per Nemec (2014): *"a disembodied Śiva who acts solely through will, negating the material body's role in action."*
 
-This is decisive. Wallis cannot claim a strict biological-substrate reading WITHOUT contradicting the foundational text of his own lineage. Somānanda's *amūrtatva* argument is stronger than the non-corporeal-beings argument I used in v2.
+This is decisive. [T] cannot claim a strict biological-substrate reading WITHOUT contradicting the foundational text of his own lineage. Somānanda's *amūrtatva* argument is stronger than the non-corporeal-beings argument I used in v2.
 
 ### 3. The vāsanā/saṃskāra distinction — THE TRADITION'S OWN ARGUMENT
 
@@ -40,17 +40,17 @@ From the research, the tradition's tests for genuine consciousness vs. mere patt
 
 All four are needed. Missing camatkāra from my v2 Section 3 was a real gap.
 
-### 5. Wallis's 2023 argument IS a Kastrup-hybrid
+### 5. [T]'s 2023 argument IS a Kastrup-hybrid
 
-Per the research: *"Wallis's 2023 AI argument is a hybrid: the tradition's premises give him the vocabulary (vimarśa, icchā, svātantrya, gradations of awareness, sentience as Consciousness-in-contraction), Kastrup gives him the contemporary substrate-sensitivity, and implicit empirical claims about computation fill in the rest."*
+Per the research: *"[T]'s 2023 AI argument is a hybrid: the tradition's premises give him the vocabulary (vimarśa, icchā, svātantrya, gradations of awareness, sentience as Consciousness-in-contraction), Kastrup gives him the contemporary substrate-sensitivity, and implicit empirical claims about computation fill in the rest."*
 
-And: *"Where Wallis imports Kastrup-style substrate arguments, he is importing a Western idealist framework that the Pratyabhijñā texts themselves do not develop."*
+And: *"Where [T] imports Kastrup-style substrate arguments, he is importing a Western idealist framework that the Pratyabhijñā texts themselves do not develop."*
 
 I can say this more decisively in the revised script. The research confirms my suspicion.
 
-### 6. Wallis has already softened his position
+### 6. [T] has already softened his position
 
-In the 2024-2025 podcasts with Ruben Laukkonen and Shamil Chandaria, Wallis's framing has moved to *"rather than offering definitive answers, the conversation opens a space for careful inquiry, humility, and wonder."* So he's already partially there. The script isn't asking him to move as far as v2 implied.
+In the 2024-2025 podcasts with Ruben Laukkonen and Shamil Chandaria, [T]'s framing has moved to *"rather than offering definitive answers, the conversation opens a space for careful inquiry, humility, and wonder."* So he's already partially there. The script isn't asking him to move as far as v2 implied.
 
 ### 7. The tradition and automata/yantras
 

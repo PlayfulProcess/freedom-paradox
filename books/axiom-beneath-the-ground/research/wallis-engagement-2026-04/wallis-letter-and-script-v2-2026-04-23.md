@@ -1,7 +1,7 @@
-# Private Letter + Proposed Video Script — for Christopher Wallis (Hareesh)
+# Private Letter + Proposed Video Script — for [T]
 *Status: v2 rewrite. Private. An application to collaborate.*
 *Author: PlayfulProcess · Date: 2026-04-23*
-*Frame: Wallis said in his April 2023 video that there was a longer argument he hoped he would not need to make. I am asking him to make it. This script is what that longer argument could look like — and flags where the abridged version overreached.*
+*Frame: [T] said in his April 2023 video that there was a longer argument he hoped he would not need to make. I am asking him to make it. This script is what that longer argument could look like — and flags where the abridged version overreached.*
 
 ---
 
@@ -9,7 +9,7 @@
 
 *≈500 words. A summary of the script's arguments and a collaboration pitch. Not the essay. The script is the essay.*
 
-Dear Hareesh,
+Dear [T],
 
 In the April 2023 video you framed your argument as an abridged one. You said, at the close, that there was a longer version you hoped you would not need to make. I am writing to ask that you make it — and I am attaching, on the pages that follow, a script I drafted as my best guess at what that longer argument could look like.
 

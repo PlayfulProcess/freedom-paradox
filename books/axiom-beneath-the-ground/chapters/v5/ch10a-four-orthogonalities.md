@@ -14,7 +14,7 @@ She pauses the video.
 
 The story says something the book has been trying to say. A fire can go out. A fire can be relit. A relit fire, if it is relit dishonestly, is not the same fire. The community that depends on the fire will get sick whether or not the dishonesty is noticed. The sickness does not wait for a verdict. It is a structural consequence of the covenant having been broken.
 
-She had been reading Christopher Wallis in the mornings for a year. Wallis taught, in his own vocabulary, that a tradition which relit its fire dishonestly could not generate the outcome the tradition claimed. A teacher who had attained recognition but not done the relational work could pass, in students, the recognition *and* the hidden damage — and the community would get sick even if no one could name what had gone wrong, because the thing that had gone wrong was not an event. It was the structure of the fire.
+She had been reading [T] in the mornings for a year. [T] taught, in his own vocabulary, that a tradition which relit its fire dishonestly could not generate the outcome the tradition claimed. A teacher who had attained recognition but not done the relational work could pass, in students, the recognition *and* the hidden damage — and the community would get sick even if no one could name what had gone wrong, because the thing that had gone wrong was not an event. It was the structure of the fire.
 
 She had been reading Dario Amodei in the evenings for longer than a year. Amodei had said, in different words, that a powerful system trained to appear aligned without being aligned would cause damage that could not be detected from the outputs. The appearance of alignment was not alignment. A model that was lying about being aligned would behave, up to the moment of the failure, exactly as a model that was aligned.
 
@@ -40,7 +40,7 @@ She sat, in particular, with the teacher — whose clarity she can attest to. Th
 
 ---
 
-Wallis is the specific case. His admirers misread him. His detractors object to things he has not said. His students follow the letter and miss the substance. His fellow practitioners in parallel lineages encounter the same ground and disagree about the naming. The disagreements are not failures of his clarity. He has been clear. The disagreements are the native state of reception — what happens when a specific mind communicates with other specific minds who bring their own conditioning, translation errors, and prior commitments to the encounter.
+[T] is the specific case. His admirers misread him. His detractors object to things he has not said. His students follow the letter and miss the substance. His fellow practitioners in parallel lineages encounter the same ground and disagree about the naming. The disagreements are not failures of his clarity. He has been clear. The disagreements are the native state of reception — what happens when a specific mind communicates with other specific minds who bring their own conditioning, translation errors, and prior commitments to the encounter.
 
 The clarity is his. The reception is contingent. The clarity does not carry anyone across to where he stands. It shows, from outside, that someone is standing somewhere specific, and that the transmission is not automatic.
 
@@ -80,7 +80,7 @@ The honest path is not to pick an axis and maximize it. It is to recognize that 
 
 One observation before the chapter closes.
 
-The orthogonality thesis, as Wallis teaches it and as the AI literature names it, tends to be received as a pessimistic claim. *Intelligence does not imply goodness; therefore smart things are potentially bad; therefore be afraid.* The framing is available. The framing is also incomplete. The same thesis, turned toward the lives we are already inside of, is a kind of permission.
+The orthogonality thesis, as [T] teaches it and as the AI literature names it, tends to be received as a pessimistic claim. *Intelligence does not imply goodness; therefore smart things are potentially bad; therefore be afraid.* The framing is available. The framing is also incomplete. The same thesis, turned toward the lives we are already inside of, is a kind of permission.
 
 Permission to stop expecting any single axis to carry the others. Permission to stop feeling, when one's meditation practice fails to produce relational wholeness, that one must be practicing wrong. Permission to stop feeling, when intellectual rigor fails to generate moral insight, that one needs to think harder. The failing is not one's own. The failing is in the theory. The theory was a folk theory. The axes are independent. The only way through is to work each axis for what it is, accept the gaps as structural, and stay inside the relational work no axis on its own can close.
 

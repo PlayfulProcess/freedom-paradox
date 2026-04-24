@@ -24,8 +24,8 @@
 ### Claim 4: Relational attunement does not produce intellectual rigor or structural engagement.
 **Anchor:** 🔶 MSW training + the specific observation about therapists. Could be strengthened by naming a specific decision the author made to *not* stop at relational competence (e.g., continuing to write structural critique despite the therapeutic frame often counseling against it).
 
-### Claim 5: Wallis makes the orthogonality claim cleanly inside the tradition.
-**Anchor:** ✅ Citations — AMA on Corrupt Gurus, *Awakening vs. Liberation*, *Near Enemies of the Truth*. Book does cite these. Wallis audit (2026-04-21) confirmed the portrayal is accurate.
+### Claim 5: [T] makes the orthogonality claim cleanly inside the tradition.
+**Anchor:** ✅ Citations — AMA on Corrupt Gurus, *Awakening vs. Liberation*, *Near Enemies of the Truth*. Book does cite these. [T] audit (2026-04-21) confirmed the portrayal is accurate.
 
 ### Claim 6: The folk theory of convergence is always the folk theory of the axis one is strongest on.
 **Anchor:** ✅ The author's own specific error (believed enlightenment would do it; retreat took it). This is the strongest personal anchor in the chapter.
@@ -43,7 +43,7 @@
 ### Claim 9: The AI labs' most honest practitioners admit alignment is unsolved.
 **Anchor:** ✅ Public Anthropic / DeepMind / OpenAI statements. Reader can verify.
 
-### Claim 10: Wallis and the AI labs are structurally parallel honest teachers, both leaving the constructive half to the practitioner.
+### Claim 10: [T] and the AI labs are structurally parallel honest teachers, both leaving the constructive half to the practitioner.
 **Anchor:** 🔶 The parallel is the author's argument. The *action* anchoring it is her response to both admissions — the recursive.eco platform design, the license split. Those are Ch10d receipts; they anchor this claim too. **Consider:** one sentence in Ch10b forward-referencing the Ch10d receipts so the parallel does not float.
 
 ### Claim 11: The race-to-top frame is a participant's self-justification.
@@ -93,7 +93,7 @@
 **Anchor:** ✅ Commit `1e2a08ec` (2026-03-28), cited. Follow-up commit `5e1021d0` closed the BYO-key door. Strong.
 
 ### Claim 22: The tantric tradition's silence on morality was a deliberate historical posture.
-**Anchor:** ✅ Wallis corpus cited. Audit (2026-04-21) confirmed this premise is accurate.
+**Anchor:** ✅ [T] corpus cited. Audit (2026-04-21) confirmed this premise is accurate.
 
 ### Claim 23: The platform exists as an open table; mostly no one has come.
 **Anchor:** ✅ The platform's visible user count / engagement metrics. This is a painful anchor but it is an anchor. The confession is the action of admitting it.

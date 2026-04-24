@@ -1,6 +1,6 @@
 # Axiom — Multi-Narrator Plan v2 (Pedagogical Frame)
 *Date: 2026-04-24*
-*Status: Plan only. Supersedes v1 (`axiom-multi-narrator-bus-passengers-plan-2026-04-24.md`), which remains on disk for version continuity. Integrates the Wallis agent audit, the Bayo agent audit, and the author's own self-aggrandizement audit of Ch10h.*
+*Status: Plan only. Supersedes v1 (`axiom-multi-narrator-bus-passengers-plan-2026-04-24.md`), which remains on disk for version continuity. Integrates the [T] agent audit, the Bayo agent audit, and the author's own self-aggrandizement audit of Ch10h.*
 
 ---
 
@@ -112,7 +112,7 @@ Each passenger is described with four facts: register markers, what this passeng
 
 ## V. How passengers disagree — honest vs performed multiplicity
 
-The Wallis-audit test: *passengers must be allowed to contradict each other and not be resolved.*
+The [T]-audit test: *passengers must be allowed to contradict each other and not be resolved.*
 
 If every voice in the book smooths into authorial consensus, the multiplicity is decoration. The multiplicity is only honest when at least some of the disagreements *stand* — the reader is not told who won, the chapter does not close with synthesis, the book does not resolve the tension.
 
@@ -146,7 +146,7 @@ A companion appendix or website may host a short exercise — *Map your own bus*
 
 ## VII. Integration of the audits
 
-### Wallis agent
+### [T] agent
 
 1. **Test for honest vs performed multiplicity** (Section V above, operationalized as four committed-to disagreements).
 2. **Ch10h revisions:** remove the Section VIII theorization; let the event stand as event. The chapter is stronger without *the fourth political action* being declared in its own title-case category by the author.
@@ -189,7 +189,7 @@ All other chapters: the v1 mapping holds as starting hypothesis. Subject to revi
 **Session 0 (today, if there is time and credits):**
 - Commit this plan v2 alongside v1.
 - Archive the current Ch10h to `drafts/archive/v5-pre-pilot-revision-2026-04-24/`.
-- Revise Ch10h per the Wallis + Bayo + self-aggrandizement audits: cut Section VIII, tighten the Harris footnote to observation only, insert a self-watching paragraph about the star-locution and the lilac dream. Commit.
+- Revise Ch10h per the [T] + Bayo + self-aggrandizement audits: cut Section VIII, tighten the Harris footnote to observation only, insert a self-watching paragraph about the star-locution and the lilac dream. Commit.
 - Do not touch any other chapter today.
 
 **Session 1 (after Tatiana and after rereading Ch10h in its revised form):**

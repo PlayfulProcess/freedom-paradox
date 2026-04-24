@@ -1,4 +1,4 @@
-# Research 01: Wallis's Seven Perceivers — Deep Research Session
+# Research 01: [T]'s Seven Perceivers — Deep Research Session
 
 **Source:** Deep research compiled by PlayfulProcess via Chrome, March 31 2026
 **Serves:** The Axiom Beneath the Ground, Ch 3, 4, 5, 6, 9
@@ -13,7 +13,7 @@ The seven perceivers framework places the void precisely:
 - **Pralayākala** (level 2): nothingness without awareness — the nihilistic dead-end
 - **Vijñānākala** (level 3): conscious void, passive witness — "stuck in the transcendent"
 
-Wallis: "To some people, it feels like terrifying nothingness, and they pull back immediately; to others, it feels like blessed peace, and they love immersing in it, even to the point of escapism."
+[T]: "To some people, it feels like terrifying nothingness, and they pull back immediately; to others, it feels like blessed peace, and they love immersing in it, even to the point of escapism."
 
 **This IS the existential crisis the letter describes.** The tradition recognizes it, maps it, and treats it as a stage to be traversed — not a destination.
 
@@ -31,7 +31,7 @@ The tradition is saying: the axiom matters. Choose the right one.
 
 Not groundlessness but luminous ground. Kṣemarāja: "absolutely full, absolutely empty, both, and neither vibrating in absolute simultaneity."
 
-Wallis: "You experience this radical void... absolutely empty of all qualities. But then you're supposed to go beyond that, to the ultimate realization, which is that same void, but now realized as pregnant with infinite possibility."
+[T]: "You experience this radical void... absolutely empty of all qualities. But then you're supposed to go beyond that, to the ultimate realization, which is that same void, but now realized as pregnant with infinite possibility."
 
 ### 4. The complete practitioner ascends AND descends
 

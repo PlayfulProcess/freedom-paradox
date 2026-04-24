@@ -52,7 +52,7 @@ The *Groundwork* (Ak. 4:421): *act only according to that maxim whereby you can 
 
 *Groundwork* Ak. 4:429: *humanity, whether in your own person or in that of another, never merely as a means, always at the same time as an end.* The operative phrase is *at the same time.* Both-and, not either-or.
 
-- **The teacher (Wallis / Hareesh).** Treated as means to the book's argument, clearly. Treated at the same time as an end? Mostly yes — the book quotes sparingly, paraphrases, seeks permission, honors the specific refusals. The retrieval tool is the place the *at the same time* is failing. §3 applies.
+- **The teacher ([T] / [T]).** Treated as means to the book's argument, clearly. Treated at the same time as an end? Mostly yes — the book quotes sparingly, paraphrases, seeks permission, honors the specific refusals. The retrieval tool is the place the *at the same time* is failing. §3 applies.
 - **The teacher (Schrei).** Treated as means to an illustration of a pattern (charisma-without-lineage). The plan's reframe softens this, but the Ch11 passage as currently written still performs a verdict the plan disavows. Execute the plan.
 - **The husband.** Largely invisible in the manuscript. This is, by Kantian lights, a problem of a different kind: a person can be instrumentalized by narrative absence as easily as by narrative use. Consider at least one passage in which he is an end, not a backdrop.
 - **The daughter.** Treated as end throughout. Good.

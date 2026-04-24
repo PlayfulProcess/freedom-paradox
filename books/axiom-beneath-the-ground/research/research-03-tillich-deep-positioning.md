@@ -1,7 +1,7 @@
 # Research 03: Tillich's Position Within Existentialism and Theology
 
 **Source:** Deep research compiled by PlayfulProcess
-**Serves:** The Axiom Beneath the Ground, Ch 2 (Tillich's Courage), Ch 6 (Tillich-Wallis Dialogue)
+**Serves:** The Axiom Beneath the Ground, Ch 2 (Tillich's Courage), Ch 6 (Tillich-[T] Dialogue)
 
 ---
 
@@ -71,9 +71,9 @@ His grandson: "the existential question of our ultimate concern and the existent
 
 **Tillich IS the axiom position.** He names the ground as chosen, not given. He says "absolute faith" is "without the safety of words and concepts, without a name, a church, a cult, a theology." He refuses to make faith comfortable. He insists that doubt is built into faith, not eliminated by it.
 
-**The Protestant Principle IS a grammar of responsibility.** It says: you may have fire, but you must never worship the flame. Every concrete form must be continuously negated — including the form of the negation. This is the structural equivalent of Wallis's "all models dissolve."
+**The Protestant Principle IS a grammar of responsibility.** It says: you may have fire, but you must never worship the flame. Every concrete form must be continuously negated — including the form of the negation. This is the structural equivalent of [T]'s "all models dissolve."
 
-**The convergence:** Both Tillich and Wallis arrive at "all constructs must be transcended." The divergence: Tillich says you transcend into the void with courage. Wallis says you transcend into the full void with recognition.
+**The convergence:** Both Tillich and [T] arrive at "all constructs must be transcended." The divergence: Tillich says you transcend into the void with courage. [T] says you transcend into the full void with recognition.
 
 ---
 

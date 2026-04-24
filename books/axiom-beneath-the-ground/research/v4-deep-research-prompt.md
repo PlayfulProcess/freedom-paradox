@@ -20,12 +20,12 @@ Produce six research files in `books/axiom-beneath-the-ground/research/`, follow
 
 ### research-21-ti-cit-transcendent-immanent.md
 
-Target passage: the *Tantra Illuminated* (Wallis, 2nd ed., 2013, Mattamayura Press) passage describing Cit / samvit as "absolute nondual nonlocal Consciousness, beyond all other layers yet pervading them," and as "simultaneously transcendent and immanent."
+Target passage: the *Tantra Illuminated* ([T], 2nd ed., 2013, Mattamayura Press) passage describing Cit / samvit as "absolute nondual nonlocal Consciousness, beyond all other layers yet pervading them," and as "simultaneously transcendent and immanent."
 
 Find and record:
 - Chapter and approximate page range where this passage appears
 - Surrounding context (what topic the chapter is on, what comes before and after)
-- Wallis's precise framing of the transcendent/immanent simultaneity
+- [T]'s precise framing of the transcendent/immanent simultaneity
 - Any related passages on the layered self (Vastu, Deha, Citta, Prāṇa, Shunya, Cit)
 - Cross-references to the diagram of concentric layers (which figure number, caption)
 
@@ -33,14 +33,14 @@ Find and record:
 
 ### research-22-ti-svatantrya-freedom.md
 
-Target concept: *svātantrya* (autonomy, freedom) as a central attribute of Consciousness in nondual Shaiva Tantra, as Wallis presents it in *Tantra Illuminated* (particularly around p. 105 where he speaks of consciousness operating its five powers "as an expression of its innate freedom and total autonomy").
+Target concept: *svātantrya* (autonomy, freedom) as a central attribute of Consciousness in nondual Shaiva Tantra, as [T] presents it in *Tantra Illuminated* (particularly around p. 105 where he speaks of consciousness operating its five powers "as an expression of its innate freedom and total autonomy").
 
 Find and record:
 - Every place in *Tantra Illuminated* where svātantrya is defined or discussed
-- Wallis's distinction between freedom-of-the-whole and freedom-of-the-part
+- [T]'s distinction between freedom-of-the-whole and freedom-of-the-part
 - The relationship between svātantrya and the five powers (cit/ānanda/icchā/jñāna/kriyā)
 - Cross-references to the Sutras of Recognition (*Pratyabhijñā-hrdayam*) on the same theme
-- Any passages where Wallis explicitly distinguishes this tradition's freedom from Western notions of personal free will
+- Any passages where [T] explicitly distinguishes this tradition's freedom from Western notions of personal free will
 
 Format: summary + citation map, no long verbatim extracts.
 

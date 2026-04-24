@@ -8,11 +8,11 @@
 
 ## Core Finding
 
-The VBT's closing section (vv. 142c-162) neither resolves the practice/beyond-practice paradox nor simply preserves it. It performs a progressive dissolution of the subject-object structure required for practice, conducted through the language of practice itself. Five major scholars (Singh, Silburn, Baumer, Dyczkowski, Wallis) agree: the closing COMPLETES the arc rather than contradicting it. No separate textual layer.
+The VBT's closing section (vv. 142c-162) neither resolves the practice/beyond-practice paradox nor simply preserves it. It performs a progressive dissolution of the subject-object structure required for practice, conducted through the language of practice itself. Five major scholars (Singh, Silburn, Baumer, Dyczkowski, [T]) agree: the closing COMPLETES the arc rather than contradicting it. No separate textual layer.
 
 ## The Architecture: 23 + 112 + 23
 
-Wallis's structural observation: the 112 practices are framed by exactly 23 opening and 23 closing verses — deliberate symmetry. Verse 154 (breath) echoes verse 24 (foundational practice), creating a full circle. The text enacts what it teaches.
+[T]'s structural observation: the 112 practices are framed by exactly 23 opening and 23 closing verses — deliberate symmetry. Verse 154 (breath) echoes verse 24 (foundational practice), creating a full circle. The text enacts what it teaches.
 
 ## The Goddess's Question (vv. 142c-144a)
 
@@ -43,7 +43,7 @@ AFTER dissolving the subject-object structure, Bhairava quietly reinstates pract
 - **Silburn:** Culmination of pedagogical arc from effort → effortless recognition. Key concept: kramamudrā.
 - **Baumer:** "Everything can be used for attaining God consciousness." Interiorization, not negation.
 - **Dyczkowski:** V. 153 is the key summary. Spanda doctrine: consciousness is intrinsically dynamic — practice reveals the vibration already occurring.
-- **Wallis:** "Only God can worship God." Practices are "radically re-interpreted in a nondual mode," not thrown out.
+- **[T]:** "Only God can worship God." Practices are "radically re-interpreted in a nondual mode," not thrown out.
 
 ## Bhāvanā: The Bridge Concept
 

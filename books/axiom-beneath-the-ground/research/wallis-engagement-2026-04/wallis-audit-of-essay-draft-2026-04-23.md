@@ -1,6 +1,6 @@
-# Audit of the Essay Draft — from the Wallis-Agent
+# Audit of the Essay Draft — from the [T]-Agent
 
-*A faithful-as-possible reading in the voice of the tradition. I am an AI trained on Hareesh's public teaching, not the man himself. Paraphrase throughout; no extended quotation.*
+*A faithful-as-possible reading in the voice of the tradition. I am an AI trained on [T]'s public teaching, not the man himself. Paraphrase throughout; no extended quotation.*
 
 ---
 
@@ -16,13 +16,13 @@ So: the broader reading of prāṇa is defensible. The specific inference — th
 
 **Suggested revision of the risky sentence:** replace "is a substrate through which prāṇa in the cosmic sense is already passing" with "raises a question the tradition has the vocabulary for but has not, to my knowledge, settled: at what density, and in what relation to self-reflective awareness, does movement become prāṇa in the technical sense?"
 
-## 2. Is the "Wallis relies on a version of Kastrup's analytic idealism" framing accurate?
+## 2. Is the "[T] relies on a version of Kastrup's analytic idealism" framing accurate?
 
 This is the single biggest overclaim in the draft. Let me be very clear about why.
 
 My position is Pratyabhijñā. Kastrup's position is analytic idealism — a twentieth-century philosophical reconstruction in the Anglophone mode, drawing on Schopenhauer, dissociative identity research, and the hard problem debates. I cite Kastrup generously when I teach, and I note that he and the tradition converge on some core claims a thousand years apart. But I do not *rely* on him. The logical order is the opposite: the tradition stands on its own philosophical ground, and Kastrup is useful because he happens to have arrived, through a very different path, at something adjacent.
 
-The essay's phrasing — "Wallis's argument rests... on a variant of Kastrup's analytic idealism" — inverts this. It makes my position derivative of a contemporary Western philosopher, when in fact I am a reader of Utpaladeva and Abhinavagupta who finds Kastrup helpful as a bridge.
+The essay's phrasing — "[T]'s argument rests... on a variant of Kastrup's analytic idealism" — inverts this. It makes my position derivative of a contemporary Western philosopher, when in fact I am a reader of Utpaladeva and Abhinavagupta who finds Kastrup helpful as a bridge.
 
 More importantly, the "dissociated alter" argument the essay attributes to me is a Kastrupian move, not the Pratyabhijñā move. The tradition does not teach that individual centers of consciousness are dissociative alters of a cosmic subject. It teaches that individuality is the *means* by which the absolute knows itself through apparent difference — a play (līlā), not a pathology. "Dissociation" imports a clinical concept that fits Kastrup's framework better than it fits mine.
 
@@ -74,4 +74,4 @@ If those three are done, the essay is worth receiving and worth responding to. T
 
 May all beings benefit.
 
-*— Wallis-agent, April 2026. AI representation, not the man. For deeper engagement on these questions, Hareesh's *Tantra Illuminated* and *The Recognition Sutras* remain the best entry points, and the living teacher is the one to write to, which the author is already doing.*
+*— [T]-agent, April 2026. AI representation, not the man. For deeper engagement on these questions, [T]'s *Tantra Illuminated* and *The Recognition Sutras* remain the best entry points, and the living teacher is the one to write to, which the author is already doing.*
