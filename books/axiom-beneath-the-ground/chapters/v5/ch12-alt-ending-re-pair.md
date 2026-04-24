@@ -28,7 +28,9 @@ She had been looking for Wallis to grant her permission to drop the weight. He h
 
 What she did not want to drop was care.
 
-Moralism, she came to understand, has its roots in approval-seeking. Moralism is the self-image one performs for internal and external evaluators. Moralism is *am I being good enough about this?* running in a background loop a person cannot, most of the time, even hear. Moralism is expensive because it is performed.
+*Bad moralism has its roots in approval-seeking behavior.*
+
+That sentence is the one she carried out of the week. It sits under everything else this chapter is about to say. Moralism is the self-image one performs for internal and external evaluators. Moralism is *am I being good enough about this?* running in a background loop a person cannot, most of the time, even hear. Moralism is expensive because it is performed.
 
 Care is something else. Care is relational attention — a response to what is actually in front of her, not a performance against a standard. The two look similar from outside. They are opposite in cost. Moralism is exhausting because the audience is imagined and the standard is inexhaustible. Care is replenishing because the object is real and the response is proportional.
 
