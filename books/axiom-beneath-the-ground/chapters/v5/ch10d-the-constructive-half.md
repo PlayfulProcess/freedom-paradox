@@ -82,6 +82,8 @@ On April 11, 2026, she codified the platform's licensing stance. Grammars — th
 
 She does not offer these as virtue. She offers them as receipts. The reader can check the commits, disagree with the decisions, close the book. The reader cannot fairly say the book is pure talk.
 
+She has noticed, writing the previous paragraph, that the moralist who needs to be seen as a doer-and-not-a-talker has been speaking. The receipts are real. The voice telling you they are not virtue is also real. Both are on the bus. The verification of the receipts does not depend on which voice is reporting them. The moralist will not be argued out of her need to clarify her status; the noticing of her speaking is the only response available, and the noticing is what the chapter is doing now. The chapter continues anyway.
+
 ---
 
 She built recursive.eco so other people could come do the constructive ethical work with her. Not a place where they would receive her ethic. A place where they would *build* with her. Each person arriving with whatever lineages and practices they had been formed by, contributing their piece. The platform was not the ethic. The platform was the outer circle, in the jongo sense. The ethic — the measure, the actual dance — would emerge from whoever stepped into the center.
