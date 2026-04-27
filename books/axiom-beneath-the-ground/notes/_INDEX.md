@@ -15,7 +15,9 @@
 
 🟢 **`dwarkesh-prize-DRAFT-B-buy-time-2026-04-26.md`** — claude-code session, author's preferred frame, ~990 words. Buy-time, race-down dynamics, Dario as right model, references unpublished 2025 Substack draft, co-signs Tristan Harris (#469) + Fukuyama (#471) + Akomolafe.
 
-🟢 **`dwarkesh-prize-DRAFT-claudeai-three-essays-2026-04-26.md`** — separate claude.ai session, three drafts in one file: (A) Stop the race ($40B PBC veto + Pause Endowment), (B) Mission-locked governance / absorption thesis [BEST DWARKESH-SHAPED], (C) Sovereignty from the stack / decolonial. Includes verification flags from originating session.
+🟢 **`dwarkesh-prize-DRAFT-claudeai-three-essays-2026-04-26.md`** — claude.ai session #1, three drafts in one file: (A) Stop the race ($40B PBC veto + Pause Endowment), (B) Mission-locked governance / absorption thesis [originating session: BEST DWARKESH-SHAPED], (C) Sovereignty from the stack / decolonial. Includes verification flags.
+
+🟢 **`dwarkesh-prize-DRAFT-claudeai-four-drafts-2026-04-26.md`** — claude.ai session #2, four drafts: (1) Epistemic infrastructure / pluralism, (2) Sovereign absorption / Global South capacity, (3) Distributed co-creation / long tail, (4) Institutional pluralism / split the foundation [originating session: TOP CHOICE]. Includes ranking and opinion.
 
 ### Dwarkesh Prize Q2 — captive R&D thesis (separate question, may pivot)
 
