@@ -1,0 +1,43 @@
+# Chapter 8: The Hospicing
+
+The narrator does not want to land this book on a register of alarm. The register of alarm has been thoroughly explored in the artificial-intelligence-safety discourse for a decade, and it has produced — by one fair reading — a great deal of vivid prose and very little institutional change. The register the book wants to land in is one her teachers have given her vocabulary for. It is a register of attention without alarm. The Brazilian-Portuguese phrase she carries is *sem alarmismo, com atenção*. Without alarmism, with attention. Vanessa Andreotti has made the related argument under the title of *Hospicing Modernity*. Bayo Akomolafe has made it under the framing that *the way we respond to the crisis is part of how the crisis continues.*
+
+She wants, in this final chapter, to honor both of those framings while saying something the reader can hold without being made afraid by it.
+
+The political and economic argument of the previous chapters has a longer historical horizon than the book has so far named.
+
+The wealth effect that depends on artificial-intelligence valuations is not an aberration. It is the latest expression of a fragility that has been growing for a longer span than any current administration. Quantitative easing, deployed in 2008 and 2009 as an emergency response to a financial crisis that the economic profession had largely failed to predict, was supposed to be temporary. It was not. The federal reserve's balance sheet did not return to its pre-crisis size. The European Central Bank's did not. The Bank of Japan's did not. The COVID-19 crisis added a further surge of fiscal expansion that did not, in the years since, retreat. The aggregate sovereign debt of the major economies, denominated in their own currencies and measured against their own GDPs, is at the highest sustained level in their post-Bretton-Woods histories. The political class has been managing the appearance of growth on top of an underlying fragility that the artificial-intelligence narrative has, conveniently, helped to obscure.
+
+The historical fact she keeps thinking about is that state systems have not, in the long arc, lasted forever. The Roman Empire did not. The European feudal order that succeeded it did not. The Westphalian state system has lasted a little under four centuries. The modern administrative state — the form within which the wealth-effect chapter's argument is set — has lasted, depending on how one counts, between seventy and one hundred fifty years. **The narrator is not predicting the state form will not hold. She is observing that nothing in the historical record requires it to.**
+
+This is the observation that gives the book its closing register. The narrator is not asking the reader to accept that the state will fail, that an autocratic turn is inevitable, or that the wealth effect will collapse. She does not know any of these things, and she is suspicious of anyone who claims to. What she is asking the reader to consider is something narrower. **The possibility of these dynamics, perceived by the actors who would otherwise be making the decisions, is itself shaping the decisions being made.** A political class that perceives even a low probability of the wealth effect unwinding, or of the state form proving more fragile than its post-Cold-War reputation suggests, is a political class that responds, at the margins, by consolidating. By framing constraint as threat. By treating the artificial-intelligence buildout as too important to be slowed. The political response to artificial intelligence in the United States since the 2024 election is consistent with this dynamic, whether or not the underlying possibilities are realized. The renaming of the United States AI Safety Institute to the Center for AI Standards and Innovation, the defanging of its mandate, the refusal to sign even the non-binding Paris communiqué, the retaliation against Anthropic for its Pentagon refusal — these are not random decisions. They are what fragile administrative states do when they perceive that the only growth narrative available to them is at risk.
+
+This is where the book has to be careful. There is a register in which all of this is delivered as alarm — *the state is failing, autocracy is rising, the technology will accelerate the collapse* — and that register, faithful as it is to the underlying argument, produces in the reader the affective state in which adaptive response becomes harder, not easier. Akomolafe's caution about how we respond to the crisis applies here directly. Sounding the alarm louder is part of the loop the alarm is responding to.
+
+The hospicing register names the same fact in a different register. It says: modernity is in transition. The state form is one way of holding human collective action; it is not the only way; it has been other things in the past; it will be other things in the future. The artificial-intelligence question is going to be resolved within whatever institutional form is available to resolve it. **The question of this book is not whether the state form will hold. The question is what is built, while the state form holds, that survives whatever comes after it.** The verification body is one of those things. It is durable across institutional transitions in ways that no single administration's regulatory action is. The OPCW has functioned through three decades of geopolitical realignment. The IAEA has functioned through six decades. The institutional form of the multilateral verification body, with its endowment and its independent inspectorate, is the form that has demonstrated, in recorded history, the highest probability of surviving the political turbulence the next several decades will produce.
+
+The Foundation, in this register, is being asked to do something unfashionably structural. It is being asked to build an institution that survives the institution that funded it. It is being asked to do, with one hundred eighty billion dollars, what Cyrus Eaton tried to do with several million during the Cold War, scaled for the kind of fire we are now learning to tend. It is being asked to act as if the political class that currently surrounds it will not be the one that will eventually need the body it has funded.
+
+This is the kind of move the species has, in fact, made before. The first hominid to keep the fire alive overnight at Wonderwerk Cave did not know what would come of it. She did not know that the fire she was tending would, over a million years, change the shape of the species' digestive tract, the structure of its social organization, the depth of its cooperative behavior, and the form of every institution it has built since. She tended the fire because the alternative was the dark and the predators and the cold, and because she was responsible for the children who slept in the firelight. She did not know what the responsibility would mean.
+
+Building the verification body before the treaty exists is the same gesture, scaled for the fire we have now. It is the act of tending without yet knowing what the tending will produce. It is the kind of move that does not look like progress in the framings the current political class can recognize. It is the kind of move that the framings of the next political form may, plausibly, recognize as the only thing that mattered.
+
+The narrator wants this last chapter to say something the reader of the foreword can return to, on a quieter day, and find it still standing. So she will say it as plainly as she can.
+
+We have been given the fire. We have not been given the time we would have liked to figure out how to hold it. The hands available to us are the ones we have. The institution available to us is the one whose capital was made available by the very racing the book has spent eight chapters arguing against. There is no other actor with the freedom to fund what is missing.
+
+If the species got fire before responsibility every other time and survived, this book asks the OpenAI Foundation to be the gesture by which, this once, the responsibility is built ahead of the fire.
+
+That is the wager. That is what one hundred eighty billion dollars should buy.
+
+---
+
+*The cracks are not waiting to be closed. They are waiting to be entered. — Bayo Akomolafe*
+
+*Read against itself.*
+
+*— PlayfulProcess, recursive.eco*
+
+---
+
+*~1,300 words. Source: Andreotti's Hospicing Modernity framing, Akomolafe's post-activist register, the historical macro frame from author's tonight message, with the Wonderwerk Cave Fire-Before-Responsibility close that began the foreword.*
