@@ -34,6 +34,8 @@ This is a conviction the tradition I have been studying would recognize; Vanessa
 
 Readers who want the verifiable layer will find, across the book, specific actions named with dates and (where they exist) public commit references. The actions are not offered as virtue. They are offered as receipts. The reader can check. The reader can disagree. What the reader cannot fairly say is that the book is pure talk. I tried, while writing it, not to write pure talk.
 
+One commitment belongs at the front. The platform I run uses AI in some of its features. It is small, and I have chosen to keep it small while I figure out what the responsibility is. If the cumulative weight of cases reaching bellwether stage in the next eighteen months establishes that AI companies can be held liable for mental-health harms produced by their tools, I will turn the AI features off the day that ruling lands. The argument the book is making does not depend on this commitment, but the commitment is the receipt the book has chosen to leave at its threshold.
+
 The book engages living traditions and living teachers. It quotes sparingly and attributes directly. Any passage of substantial length from a copyrighted source is cited under fair-use principles for commentary, and can be removed or paraphrased on request. Economic thinkers whose specific contributions the book draws on are named in footnotes where the contribution is used.
 
 ---
