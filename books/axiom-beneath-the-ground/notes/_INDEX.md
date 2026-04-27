@@ -19,6 +19,10 @@
 
 🟢 **`dwarkesh-prize-DRAFT-claudeai-four-drafts-2026-04-26.md`** — claude.ai session #2, four drafts: (1) Epistemic infrastructure / pluralism, (2) Sovereign absorption / Global South capacity, (3) Distributed co-creation / long tail, (4) Institutional pluralism / split the foundation [originating session: TOP CHOICE]. Includes ranking and opinion.
 
+🟢 **`dwarkesh-prize-COMPARATIVE-MAP-2026-04-26.md`** — navigable map across all 9 angles gathered + pattern recognition + 3 possible synthesis moves + verification flags + tomorrow's decision tree. **Start here tomorrow morning.**
+
+🟢 **`dwarkesh-prize-ANGLE-smokescreen-verification-2026-04-26.md`** — author's tenth angle: (a) regulate-AI-like-social-media is a smokescreen; (b) prescription is Foundation-funded verification substrate (OPCW model, not IAEA) so a treaty becomes politically achievable. Weaves Q2 captive-R&D + Hassabis/Amodei race-down admissions + nuclear-treaty research. **My recommendation for the strongest essay shape.**
+
 ### Dwarkesh Prize Q2 — captive R&D thesis (separate question, may pivot)
 
 🟢 **`dwarkesh-prize-Q2-captive-RnD-thesis-2026-04-26.md`** — claude.ai session, ~900 words. Thesis: foundation model companies are captive R&D divisions of hyperscaler-lab combined entities. Falsifiable bet on FY2028 Microsoft Intelligent Cloud margin.
