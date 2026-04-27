@@ -51,8 +51,9 @@ If `build-single-epub.sh` doesn't recognize the new slug, you may need to add it
 | 4. The Wealth Effect | Bubble argument — political class can't slow because economy depends on AI valuations | Web research tonight on Mag-7, Schiller CAPE, Altman/Pichai/Dimon admissions |
 | 5. Verification Before Treaty | OPCW model not IAEA; CWC vs BWC lesson; hardware-attestation feasibility | `nuclear-treaty-analogs-for-ai` |
 | 6. What $180B Should Buy | Five allocations + five refusals | `ANGLE-smokescreen-verification` + Q3 drafts |
-| 7. A Builder's Receipt | recursive.eco platform position; OpenAI removal; K.G.M. trigger | Axiom Ch10d, Author's Note, Somya letter |
-| 8. The Hospicing | Roman/feudal historical parallel; Andreotti/Akomolafe close; Wonderwerk callback | Author's tonight messages on QE/COVID/state fragility |
+| 7. The Imperial Method | Why "save the Global South with AI" reproduces the colonial method; how to refuse without abandoning | Hao *Empire of AI*, Mhlambi, Hui, Lewis-Kite-Arista, Aneja, Q4 research file |
+| 8. A Builder's Receipt | recursive.eco platform position; OpenAI removal; K.G.M. trigger | Axiom Ch10d, Author's Note, Somya letter |
+| 9. The Hospicing | Roman/feudal historical parallel; Andreotti/Akomolafe close; Wonderwerk callback | Author's tonight messages on QE/COVID/state fragility |
 
 ## Open verification flags before submitting
 

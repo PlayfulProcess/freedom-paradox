@@ -32,7 +32,7 @@ Fifth, AI-safety summits with no operational outputs. The Bletchley-Park-to-Seou
 
 These five refusals are part of the proposal. The clarity of the refusal is what makes the allocation defensible against the absorption critique that destroys most large-philanthropic deployments. The Foundation that knows what it will not fund will not have its capital absorbed by the institutional form that produced the gap.
 
-The next chapter is the receipt the narrator is offering on her own scale, so the proposal is not pure talk.
+The second of the refusals — the one against AI-for-the-Global-South deployments authored from outside it — is the one the narrator wants to defend at length, because it is the one she is least sure of, and because the strongest counter-argument to the book's prescription lives there. The next chapter is that defense. The chapter after is the receipt the narrator is offering on her own scale, so the proposal is not pure talk.
 
 ---
 
