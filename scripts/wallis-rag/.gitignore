@@ -1,0 +1,10 @@
+# Wallis RAG — local-only files
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Output that should not be committed
+*.log
+output/
