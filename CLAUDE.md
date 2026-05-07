@@ -4,6 +4,71 @@ a)search for the merald episode on fire and see if it can help us weave this sto
 b) Check direct quotes from Gottman's new research file
 3) Organizw all researhc into one folder and old book files into one folder called Old and whatever else you think might be clearner
 
+## Pending: transcripts/ folder reorganization
+
+The `transcripts/` folder has reached chaos threshold (May 2026). Existing
+top-level dirs: amodei-corpus, amodei-essays, andreotti-corpus, anthropic-
+glasswing, dbt, deepseek-corpus, MFT, Podcasts-library, Welwood-library,
+wallis-corpus, youtube-safety, literary-corpus, personal-writtings,
+feedback, plus a few _-prefixed metadata files.
+
+**Approved reorg structure** (do this when there's a quiet moment, NOT in
+the middle of other work — the move script is ready in
+`book-repo/scripts/reorg-transcripts.sh` if it doesn't exist yet, write it
+when executing):
+
+```
+transcripts/
+  authors/                  # author-focused corpora
+    amodei/                 (← amodei-corpus + amodei-essays merged)
+    andreotti/              (← andreotti-corpus)
+    deepseek/               (← deepseek-corpus)
+    wallis/                 (← wallis-corpus)
+    welwood/                (← Welwood-library)
+  podcasts/
+    Podcasts-library/       (existing internal structure preserved)
+  projects/                 # project-focused research
+    anthropic-glasswing/
+    dbt/
+    mft/                    (← MFT)
+    youtube-safety/
+  literary/                 (← literary-corpus)
+  personal/                 (← personal-writtings, fixing typo)
+  feedback/
+  _meta/
+    CORPUS-INDEX.md         (← _CORPUS-INDEX.md)
+    plan.md                 (← _plan.md)
+    metadata-injection-summary.json
+```
+
+Use `git mv` so history follows. One atomic commit. Cross-reference any
+research/raw/podcast-*.md files in `books/*/research/` that may reference
+the old paths — search-and-replace is needed for those.
+
+## Going forward: how Claude should save new transcripts
+
+Effective immediately (May 2026), when ingesting new transcripts for
+research:
+
+- **Author corpora** (single author across blogs/podcasts/talks): goes in
+  `transcripts/authors/<slug>/<source-type>/` where source-type is `blog`,
+  `podcasts`, `youtube`, `papers`, or `synthesis`. Each author corpus has
+  a README at the root explaining what's in scope, license status, and
+  ethical guardrails.
+- **Podcast-focused** (one podcast across many authors): goes in
+  `transcripts/podcasts/<podcast-slug>/`.
+- **Project-focused** (research for a specific book or platform feature):
+  goes in `transcripts/projects/<project-slug>/`.
+- **Synthesis files** (paraphrased notes in PlayfulProcess's voice): goes
+  in `<corpus-dir>/synthesis/`. These are the files that should ever feed
+  AI prompts; raw transcripts never do.
+- **All raw transcripts** are gitignored at the `transcripts/` root level
+  and never committed (existing rule, just re-stating).
+
+This structure assumes the reorg is done. If you encounter the old flat
+layout, follow the existing pattern (don't make it worse), and add a TODO
+comment pointing at this section.
+
 # CLAUDE.md — Instructions for Claude Code
 
 ## PRIVACY — CRITICAL RULE
