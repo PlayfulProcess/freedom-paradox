@@ -108,6 +108,8 @@
 - [The Glasses and the Grief](axiom-v3/ch08-the-glasses-and-the-grief.md)
 - [The Unowned Dimension](axiom-v3/ch09-the-unowned-dimension.md)
 - [The Daughter's Itch](axiom-v3/ch10-the-daughters-itch.md)
+- [The Morning She Could Not Rise](axiom-v3/ch11-the-morning-she-could-not-rise.md)
+- [The Practice She Did Not Enter](axiom-v3/ch12-the-practice-she-did-not-enter.md)
 - [The Ceremony](axiom-v3/the-ceremony.md)
 
 ---
