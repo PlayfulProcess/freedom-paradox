@@ -132,6 +132,7 @@
 - [The Practice She Did Not Enter](axiom-v5/ch12a-the-practice-she-did-not-enter.md)
 - [The Right Size](axiom-v5/ch13-the-right-size.md)
 - [Appendix A: The Dying of Rabbi Zusya](axiom-v5/appendix-a-zusya.md)
+- [Appendix B: The Offering](axiom-v5/appendix-b-the-offering.md)
 
 ---
 

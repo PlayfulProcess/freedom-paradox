@@ -54,6 +54,7 @@ jobs:
           # The Axiom Beneath the Ground v5 — latest (14 chapters including interludes)
           mkdir -p src/axiom-v5
           cp books/axiom-beneath-the-ground/chapters/v5/ch*.md src/axiom-v5/
+          cp books/axiom-beneath-the-ground/chapters/v5/appendix-*.md src/axiom-v5/
 
           # Standalone books
           mkdir -p src/freedom-paradox src/working-architecture src/fire-and-intelligence
