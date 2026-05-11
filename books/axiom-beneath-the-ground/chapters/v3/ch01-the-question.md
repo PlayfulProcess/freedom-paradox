@@ -2,7 +2,7 @@
 
 ---
 
-A woman sits on the floor of her apartment at ten in the evening, back against the wall, knees drawn up. The child is finally asleep. The dishes are done. The apartment is quiet. And the question arrives, as it does most nights, without invitation: *Why does any of this matter?*
+A woman sits on the floor of her apartment at eleven in the evening, back against the wall, knees drawn up. The child is finally asleep. The dishes are done. The apartment is quiet. And the question arrives, as it does most nights, without invitation: *Why does any of this matter?*
 
 She is not depressed. She has been depressed before and knows the difference. Depression has a weight, a color, a texture in the body --- a gravitational pull toward the bed, toward cancellation, toward the slow erosion of will. This is not that. This is lighter and worse. This is the experience of having examined the question of her own value --- of her child's value, of the whole human project's value --- and found no answer that holds.
 
@@ -14,7 +14,7 @@ This is where she lives. Not in faith, not in atheism, but in the void between t
 
 ---
 
-The apartment is small enough that she can hear the child breathing from where she sits. Two rooms and a kitchen that doubles as the living room. Books stacked on the floor beside the bed because the shelf filled months ago. A laptop on the table, screen dark, beside a cup of tea gone cold. She made the tea at nine, when the bedtime story ended and the child's breathing finally slowed, and then she sat down to work, and then the question arrived, and the tea went cold.
+The apartment is small enough that she can hear the child breathing from where she sits. Two rooms and a kitchen that doubles as the living room. Books stacked on the floor beside the bed because the shelf filled months ago. A laptop on the table, screen dark, beside a cup of tea gone cold. She made the tea at ten, when the bedtime story had been over for two hours and the child's breathing had finally slowed all the way down, and then she sat down to work, and then the question arrived, and the tea went cold.
 
 She has a job. She has friends. She has a body that functions, a mind that works, a child who is growing well. By every metric the world uses to measure whether a life is going adequately, hers is going adequately. Adequate to whom? By human metrics. If the earth could answer, if the species she shares the planet with could speak, if the rivers and the soil and the creatures whose habitats are measured in the same units as her rent could weigh in, the question of adequacy would sound different. But she is not there yet. Tonight the question is narrower and more personal. The question is not about adequacy. The question is about what the adequacy *rests on* --- whether there is anything beneath the functioning, beneath the showing up, beneath the dishes and the bedtime stories, that makes the functioning mean something rather than nothing.
 
@@ -49,7 +49,7 @@ She closed the notebook.
 
 ---
 
-A candle on a table. Ten at night again, or close to it. But this time she is not against the wall. She is sitting upright, in a chair, with a notebook open. She has been reading --- Tillich, and a therapist named Linehan she discovered through a friend --- and she has a question. Not a philosophical question. She is done with those for tonight. A practical one. She writes it at the top of a blank page:
+A candle on a table. Eleven at night again, or close to it. But this time she is not against the wall. She is sitting upright, in a chair, with a notebook open. She has been reading --- Tillich, and a therapist named Linehan she discovered through a friend --- and she has a question. Not a philosophical question. She is done with those for tonight. A practical one. She writes it at the top of a blank page:
 
 *Can I apply the filter to the void itself?*
 

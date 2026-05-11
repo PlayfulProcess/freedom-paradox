@@ -77,6 +77,7 @@ comment pointing at this section.
 
 This is a safety and identity boundary. Do not ask about it or reference it further.
 
+<<<<<<< HEAD
 ## COPYRIGHT — CRITICAL RULE
 
 **The author does not want to infringe anyone's copyright at any point in this project.** This applies to books, articles, podcasts, YouTube transcripts, song lyrics, scripture translations, and any other third-party source.
@@ -91,6 +92,30 @@ Rules:
 7. **Never fabricate quotes, page numbers, or citations** to fill a gap. Use `[QUOTE NEEDED]` or `[VERIFY: citation]` flags instead.
 
 If a task seems to require violating any of the above, pause and ask the author.
+=======
+## NAMING OTHER PEOPLE — POLICY
+
+**Public figures cited in the books are named under their real names.** This includes deceased thinkers (Tillich, Linehan when referring to her published clinical work, Becker, Gottman, etc.) and living teachers whose public teachings are cited. Pseudonyms are not used to evade attribution.
+
+**Non-public figures (private individuals) are NEVER named by their real names.** This is a hard rule. It applies in particular to:
+- Other retreat participants (fellow students at the Cali Retreat 26 or any other retreat — e.g. people the transcripts identify as "Barry," "Beth," "Sherry," "Turtle Woman," roommates, etc. are *not* to appear under those names in any book chapter or committed file)
+- Family members other than the author
+- Friends, colleagues, students, clients, classmates
+- Any individual who has not voluntarily entered public discourse on the topic being discussed
+
+The author has the right to render her own experience of being in a room with these people, but the renderings must not identify them. Use generic descriptors instead: *a friend*, *the roommate*, *a participant*, *another student*, *the woman who had been on the cushion for thirty years*, etc. If a distinguishing detail is needed for the scene to work, change one or two specifics so the person cannot be picked out. This is true whether or not the source text (transcripts, journals, audio) uses their name. The retreat transcripts in `transcripts/personal-writtings/` contain real names; the book does not carry them through.
+
+**For Christopher Wallis specifically (Book 6, *Better Versions of the Truth*):**
+- Use "Christopher Wallis" for scholarly citations in footnotes and apparatus
+- Use "Hareesh" — his dharma name, which he uses publicly — in narrative scenes that depict him as a teacher in conversation
+- This dual-naming mirrors his own practice; both names are on the public record (he publishes under both)
+- The author has informed Hareesh of the persona-agent / corpus project via WhatsApp (see `transcripts/wallis-corpus/README.md` for the ethical guardrails)
+- **The author intends to send the manuscript of *Better Versions of the Truth* to Hareesh before sharing it broadly.** This is a courtesy — his public teachings are citable under standard fair-use — but a chance for him to flag any rendering that would read wrong to him, particularly in the narrative scenes where he appears as a character. Apply the same principle to any other living named teacher whose private speech or non-published views are rendered in narrative.
+
+**For fair-use quoting from publicly available materials (YouTube, blog posts):**
+- Standard fair-use applies (~10% of any single source, with attribution)
+- See `transcripts/wallis-corpus/README.md` for the detailed quoting policy (revised 2026-05-11)
+>>>>>>> origin/claude/lucid-fermat-88230a
 
 ## Working With the Author
 
@@ -173,10 +198,11 @@ Five-minute bedtime stories for ages 3–7, built from cross-cultural story arcs
 ### How the Books Connect
 **The Freedom Paradox** is the diagnosis (power without responsibility). **Grammars of the Living World** is the framework (what responsibility structures are). **The Species That Tells Stories** is the narrative heart (how stories carry adaptive wisdom). **Working Architecture** is the practical manual (how to build containers Monday morning). **The Campfire Stories** is the proof of concept (stories built using the three-filter test, for actual children, in actual bedtimes). Each works alone; together they form the full architecture.
 
-### Book 6: The Axiom Beneath the Ground
-**Status: Complete** · 9 chapters · ~13K words
-Tillich vs Christopher Wallis on whether inherent value is truth or axiom. The philosophical engine.
-- Path: `books/axiom-beneath-the-ground/`
+### Book 6: Better Versions of the Truth (formerly *The Axiom Beneath the Ground*)
+**Status: v3 in progress** · 9 narrative + philosophical chapters + The Ceremony · ~20K words
+Tillich vs Christopher Wallis (Hareesh) on whether inherent value is truth or axiom — and the discipline of building "better versions of the truth" when the numinous has at least one dimension that conceptual language cannot hold. The philosophical engine.
+- Path: `books/axiom-beneath-the-ground/` (directory rename to `better-versions-of-the-truth/` pending)
+- Current chapter file: v3/ — ch00 author's note, ch01 The Question, ch02 The Void and the Filter, ch03 The Retreat, ch04 Two Teachers One Ground, ch05 The Evening of Grace, ch06 The Grammar You Build by Practicing It, ch07 The Practitioner Sits, ch08 The Glasses and the Grief, ch09 The Unowned Dimension, ch10 The Daughter's Itch, plus The Ceremony
 
 ### Book 7: Fire Before Responsibility (formerly Fire and Intelligence)
 **Status: Restructured to skeleton v3** · 9 chapters · ~18K words (target ~45-55K)

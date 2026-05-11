@@ -95,6 +95,7 @@
 
 ---
 
+<<<<<<< HEAD
 # The Axiom Beneath the Ground: The Alignment Void (v5 — latest)
 
 - [Author's Note](axiom-v5/ch00-authors-note.md)
@@ -129,15 +130,23 @@
 ---
 
 # The Axiom Beneath the Ground (v3 — archived)
+=======
+# Better Versions of the Truth
+>>>>>>> origin/claude/lucid-fermat-88230a
 
 - [Author's Note](axiom-v3/ch00-authors-note.md)
-- [The Question](axiom-v3/ch01-two-in-the-morning.md)
+- [The Question](axiom-v3/ch01-the-question.md)
 - [The Void and the Filter](axiom-v3/ch02-the-void-and-the-filter.md)
 - [The Retreat](axiom-v3/ch03-the-retreat.md)
 - [Two Teachers, One Ground](axiom-v3/ch04-two-teachers-one-ground.md)
 - [The Evening of Grace](axiom-v3/ch05-the-evening-of-grace.md)
 - [The Grammar You Build by Practicing It](axiom-v3/ch06-the-grammar-you-build-by-practicing-it.md)
 - [The Practitioner Sits](axiom-v3/ch07-the-practitioner-sits.md)
+- [The Glasses and the Grief](axiom-v3/ch08-the-glasses-and-the-grief.md)
+- [The Unowned Dimension](axiom-v3/ch09-the-unowned-dimension.md)
+- [The Daughter's Itch](axiom-v3/ch10-the-daughters-itch.md)
+- [The Morning She Could Not Rise](axiom-v3/ch11-the-morning-she-could-not-rise.md)
+- [The Practice She Did Not Enter](axiom-v3/ch12-the-practice-she-did-not-enter.md)
 - [The Ceremony](axiom-v3/the-ceremony.md)
 
 ---
