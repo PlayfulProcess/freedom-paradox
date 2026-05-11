@@ -108,6 +108,38 @@ The tantric move is to hold the poison in the throat. To say: the boundary betwe
 
 ---
 
+## The Choice of Which Lab
+
+The choice of which AI is the choice of which lab. There is no neutral position here.
+
+The protagonist understood this clearly enough to attempt, in the middle of a contemplative retreat, to convert the room. She had prepared a two-minute speech in her notebook. She had drafted it twice across four handwritten pages. She had refined the framing for delivery. And she had bargained: she would give up her right to ask any further question of the teacher for the rest of the retreat, in exchange for two minutes of political speech --- a fourth political act she could perform for what she believed to be beneficial to all in the room.
+
+She stood. She thanked the *kula*. She said that even though she was not committed to this lineage, the *kula* made her feel true love --- love as secure attachment, the safety of a room in which she did not need to perform either modesty or arrogance to be received. And then she made the case.
+
+Her truth, she said, was that she had a choice on how to spend her share of voice and her dollars. And she was choosing to shift all that she could from one lab to another --- from OpenAI to Anthropic, from ChatGPT to Claude --- because one of those labs, in her reading of the public record, had stood up for her rights: the right not to be mass surveilled, the right not to be killed by remotely operated intelligent weapons. The other, she said, had taken a different position on those questions. The compounding risk of the difference, she argued, was not symmetric. If a particular political actor obtained the powers of mass surveillance and remote intelligent weapons, every other right she might lose would look like a candle compared to the sun. She asked the room to call their congressional representatives and ask for AI regulation. She closed by saying that the worst death was not standing up for what was alive inside, and that what was alive for her was the sense that there was much more they could all do when they felt safe. She felt safe in the room. She wanted as many people to feel safe as she possibly could.
+
+The teacher listened until she was done.
+
+Then he thanked her. He acknowledged the underlying point --- that the people behind a tool mattered, that values were not separable from the artifacts they made, that responsibility for what one consumed did not stop at the question of whether the consumption was efficient. But during retreat, in the middle of the container, he preferred not to endorse specific political or commercial positions. The container, he said, thinned when it was asked to hold the world's specific debates. If anyone in the room wanted more information, please find her after the session. She had gathered it. She had the plan.
+
+He did not say her position was wrong.
+
+He did not say it was right.
+
+He said: not here. Not in this register. Not in the middle of the container.
+
+She sat with the redirection for the rest of the morning, and what arrived was not embarrassment --- though there was some of that --- but the recognition that the *content* of her argument was being held separately from the *form* of its delivery. The argument was sound. The container was sound. They were not the same evaluation.
+
+This is the structural condition the chapter has been pointing toward, expressed at the level of a single morning of retreat. The choice of lab matters; the container also matters; both can be defended; neither dissolves the other.
+
+For any user, the choice is not a luxury. The assistant in daily use is shaping the user --- through its training data, through the constitutional principles its makers chose, through the policy decisions made by the small number of people inside the small number of labs that can afford to train it. To use one is to be shaped by it. To use it heavily is to be shaped heavily. To use it without considering the lab is to be shaped without choosing the direction of the shaping. The choice was always being made. The question was whether the user was awake while it was being made.
+
+The retreat had received the argument. The retreat had also redirected it. Both responses were correct. The book absorbs both --- keeping the philosophical claim that lab values shape downstream behavior, and keeping the formal humility that the *kula* at retreat is not the place for the case to be argued.
+
+The throat turns blue, again. Because the user reading this chapter is reading it on a device that connects through services trained by labs whose values they have not yet examined. And the device is fine. And the unexamined remains the unexamined. And the grammar does not relieve the user of the obligation to look.
+
+---
+
 ## The Container Paradox
 
 There is a deeper paradox here, and it deserves direct examination rather than evasion.
