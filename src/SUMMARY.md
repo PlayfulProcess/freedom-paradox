@@ -95,24 +95,27 @@
 
 ---
 
-<<<<<<< HEAD
-# The Axiom Beneath the Ground: The Alignment Void (v5 — latest)
+# Better Versions of the Truth (v5 — latest)
 
 - [Author's Note](axiom-v5/ch00-authors-note.md)
 - [Prelude: The First Encounter](axiom-v5/ch00a-prelude-first-encounter.md)
 - [Prelude: The Lilac Dance](axiom-v5/ch00b-prelude-lilac-dance.md)
 - [Playground](axiom-v5/ch01-playground.md)
 - [Interlude: The Cracks](axiom-v5/ch01a-interlude-the-cracks.md)
+- [The Glasses and the Grief](axiom-v5/ch01b-the-glasses-and-the-grief.md)
 - [Deha](axiom-v5/ch02-deha.md)
 - [Citta](axiom-v5/ch03-citta.md)
 - [Prāṇa](axiom-v5/ch04-prana.md)
 - [The Threshold](axiom-v5/ch04a-the-threshold.md)
+- [The Daughter's Itch](axiom-v5/ch04b-the-daughters-itch.md)
 - [Śūnya](axiom-v5/ch05-shunya.md)
+- [The Unowned Dimension](axiom-v5/ch05a-the-unowned-dimension.md)
 - [Walking Out](axiom-v5/ch06-walking-out.md)
 - [Where the Maps Crack](axiom-v5/ch06a-where-the-maps-crack.md)
 - [Prāṇa Returning](axiom-v5/ch07-prana-returning.md)
 - [Citta Returning](axiom-v5/ch08-citta-returning.md)
 - [Deha Returning](axiom-v5/ch09-deha-returning.md)
+- [The Morning She Could Not Rise](axiom-v5/ch09a-the-morning-she-could-not-rise.md)
 - [Vāstu Returning](axiom-v5/ch10-vastu-returning.md)
 - [The Sacred Fire, the Four Orthogonalities](axiom-v5/ch10a-four-orthogonalities.md)
 - [The AI Mirror](axiom-v5/ch10b-the-ai-mirror.md)
@@ -124,15 +127,13 @@
 - [Love Brings Accountability](axiom-v5/ch10g-love-brings-accountability.md)
 - [Writing Desk](axiom-v5/ch11-writing-desk.md)
 - [Composting](axiom-v5/ch12-composting.md)
+- [The Practice She Did Not Enter](axiom-v5/ch12a-the-practice-she-did-not-enter.md)
 - [The Right Size](axiom-v5/ch13-the-right-size.md)
 - [Appendix A: The Dying of Rabbi Zusya](axiom-v5/appendix-a-zusya.md)
 
 ---
 
-# The Axiom Beneath the Ground (v3 — archived)
-=======
-# Better Versions of the Truth
->>>>>>> origin/claude/lucid-fermat-88230a
+# Better Versions of the Truth (v3 — archived)
 
 - [Author's Note](axiom-v3/ch00-authors-note.md)
 - [The Question](axiom-v3/ch01-the-question.md)

@@ -77,22 +77,6 @@ comment pointing at this section.
 
 This is a safety and identity boundary. Do not ask about it or reference it further.
 
-<<<<<<< HEAD
-## COPYRIGHT — CRITICAL RULE
-
-**The author does not want to infringe anyone's copyright at any point in this project.** This applies to books, articles, podcasts, YouTube transcripts, song lyrics, scripture translations, and any other third-party source.
-
-Rules:
-1. **No substantial verbatim passages from copyrighted works in any committed file.** This includes chapter drafts, research notes, outlines, plans, changelogs, and prompts. "Substantial" means anything longer than ~30 words, and any shorter passage that captures the heart of a work's expression.
-2. **Brief fair-use quotations (≤30 words)** are permitted inside finished chapter files when they are directly engaged for commentary, criticism, or citation, and attributed with full source information.
-3. **In research files, outlines, and plans:** paraphrase rather than quote. Record *what a passage says*, *where it appears* (page, chapter, timestamp), and *how it fits the argument* — not the passage itself.
-4. **Podcast transcripts, YouTube transcripts, and similar materials** remain local-only per the existing "Podcast Transcript Research — LOCAL ONLY" rule below. Never commit transcript content, index files naming episodes, or queue files to the repository.
-5. **When drafting a chapter:** prefer paraphrase over quotation wherever possible. Quote only when the exact wording is argumentatively necessary.
-6. **On request or dispute:** any quoted passage can be replaced with paraphrase at any time without argument.
-7. **Never fabricate quotes, page numbers, or citations** to fill a gap. Use `[QUOTE NEEDED]` or `[VERIFY: citation]` flags instead.
-
-If a task seems to require violating any of the above, pause and ask the author.
-=======
 ## NAMING OTHER PEOPLE — POLICY
 
 **Public figures cited in the books are named under their real names.** This includes deceased thinkers (Tillich, Linehan when referring to her published clinical work, Becker, Gottman, etc.) and living teachers whose public teachings are cited. Pseudonyms are not used to evade attribution.
@@ -115,7 +99,21 @@ The author has the right to render her own experience of being in a room with th
 **For fair-use quoting from publicly available materials (YouTube, blog posts):**
 - Standard fair-use applies (~10% of any single source, with attribution)
 - See `transcripts/wallis-corpus/README.md` for the detailed quoting policy (revised 2026-05-11)
->>>>>>> origin/claude/lucid-fermat-88230a
+
+## COPYRIGHT — CRITICAL RULE
+
+**The author does not want to infringe anyone's copyright at any point in this project.** This applies to books, articles, podcasts, YouTube transcripts, song lyrics, scripture translations, and any other third-party source.
+
+Rules:
+1. **No substantial verbatim passages from copyrighted works in any committed file.** This includes chapter drafts, research notes, outlines, plans, changelogs, and prompts. "Substantial" means anything longer than ~30 words, and any shorter passage that captures the heart of a work's expression.
+2. **Brief fair-use quotations (≤30 words)** are permitted inside finished chapter files when they are directly engaged for commentary, criticism, or citation, and attributed with full source information.
+3. **In research files, outlines, and plans:** paraphrase rather than quote. Record *what a passage says*, *where it appears* (page, chapter, timestamp), and *how it fits the argument* — not the passage itself.
+4. **Podcast transcripts, YouTube transcripts, and similar materials** remain local-only per the existing "Podcast Transcript Research — LOCAL ONLY" rule below. Never commit transcript content, index files naming episodes, or queue files to the repository.
+5. **When drafting a chapter:** prefer paraphrase over quotation wherever possible. Quote only when the exact wording is argumentatively necessary.
+6. **On request or dispute:** any quoted passage can be replaced with paraphrase at any time without argument.
+7. **Never fabricate quotes, page numbers, or citations** to fill a gap. Use `[QUOTE NEEDED]` or `[VERIFY: citation]` flags instead.
+
+If a task seems to require violating any of the above, pause and ask the author.
 
 ## Working With the Author
 
